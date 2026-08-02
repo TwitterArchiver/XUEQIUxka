@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066836033619234816"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2066554422428086435",
+    "created_at": "2026-06-16T10:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066836042767110381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998918078193926144",
+          "start": 0,
+          "username": "liy1822598"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ua71zt45l4",
+          "end": 59,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2066836042767110381/photo/1",
+          "media_key": "3_2066836033619234816",
+          "start": 36,
+          "url": "https://t.co/ua71zt45l4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066836042767110381",
+    "in_reply_to_user_id": "1998918078193926144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066554422428086435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liy1822598 不嘻嘻，我开的年费premium+花了1172 https://t.co/ua71zt45l4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066836033619234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7gbAjaEAAZgOb.jpg",
+        "width": 960
+      },
+      {
+        "height": 1176,
+        "media_key": "3_2066554141351014400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3gCuBW8AAv3Ln.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066554141350952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3gCuBWAAA1k3g.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066836033619234816"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2066554422428086435",
+        "created_at": "2026-06-16T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066836042767110381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998918078193926144",
+              "start": 0,
+              "username": "liy1822598"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ua71zt45l4",
+              "end": 59,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2066836042767110381/photo/1",
+              "media_key": "3_2066836033619234816",
+              "start": 36,
+              "url": "https://t.co/ua71zt45l4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836042767110381",
+        "in_reply_to_user_id": "1998918078193926144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066554422428086435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liy1822598 不嘻嘻，我开的年费premium+花了1172 https://t.co/ua71zt45l4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066554141351014400",
+            "3_2066554141350952960"
+          ]
+        },
+        "author_id": "1998918078193926144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066554422428086435",
+        "created_at": "2026-06-15T16:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:11:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066554163073359950",
+          "2066554422428086435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4e6Zm997e",
+              "end": 164,
+              "expanded_url": "https://x.com/liy1822598/status/2066554422428086435/photo/1",
+              "media_key": "3_2066554141351014400",
+              "start": 141,
+              "url": "https://t.co/V4e6Zm997e"
+            },
+            {
+              "display_url": "pic.x.com/V4e6Zm997e",
+              "end": 164,
+              "expanded_url": "https://x.com/liy1822598/status/2066554422428086435/photo/1",
+              "media_key": "3_2066554141350952960",
+              "start": 141,
+              "url": "https://t.co/V4e6Zm997e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066554422428086435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 175,
+                "start": 170,
+                "tag": "蓝v互关"
+              }
+            ]
+          },
+          "text": "我大概是X上开premium最便宜的吧，只用了5508日元，换算成人民币也就是233.46元。\n\n一开始我只知道日区这个价格很便宜，但是没有对应的卡去支付，然后我就刷到了一个帖子是用工行的visa卡开了。恰巧我也有一张然后就去尝试支付了一下，没想到竟然可以支付！真是要谢谢这位朋友\n\n刚订阅premium，有没有朋友要来互关的呢，一起进步\n#蓝v互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4507,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概是X上开premium最便宜的吧，只用了5508日元，换算成人民币也就是233.46元。\n\n一开始我只知道日区这个价格很便宜，但是没有对应的卡去支付，然后我就刷到了一个帖子是用工行的visa卡开了。恰巧我也有一张然后就去尝试支付了一下，没想到竟然可以支付！真是要谢谢这位朋友 https://t.co/V4e6Zm997e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9225,
+          "following_count": 2402,
+          "like_count": 32226,
+          "listed_count": 26,
+          "media_count": 2006,
+          "tweet_count": 6144
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T00:50:01.000Z",
+        "description": "",
+        "id": "1998918078193926144",
+        "name": "Lyra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998918159852777472/5XX6PNw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 90,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "liy1822598",
+        "verified": true
+      }
+    ]
+  }
+}

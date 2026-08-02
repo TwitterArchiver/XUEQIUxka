@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033154680465809560",
+    "created_at": "2026-03-15T12:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033155434169741563"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033155434169741563",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033154680465809560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请留意私信，没有中奖的也有概率获得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033154676149907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc3Z-VW8AArmuy.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033154680465809560",
+        "created_at": "2026-03-15T12:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033155434169741563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033155434169741563",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033154680465809560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请留意私信，没有中奖的也有概率获得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033154676149907456"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033154680465809560",
+        "created_at": "2026-03-15T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033154680465809560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1971431726837833728",
+              "start": 30,
+              "username": "SUQBAI9"
+            },
+            {
+              "end": 48,
+              "id": "1867817537821716481",
+              "start": 40,
+              "username": "XYingy_"
+            },
+            {
+              "end": 106,
+              "id": "1960198897827282944",
+              "start": 93,
+              "username": "Neko_nya2026"
+            },
+            {
+              "end": 158,
+              "id": "1897085677688532992",
+              "start": 151,
+              "username": "clyy32"
+            },
+            {
+              "end": 184,
+              "id": "1714277863489519616",
+              "start": 168,
+              "username": "SuyaoDaCongMing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZKDdZSQvP",
+              "end": 208,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2033154680465809560/photo/1",
+              "media_key": "3_2033154676149907456",
+              "start": 185,
+              "url": "https://t.co/3ZKDdZSQvP"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 232,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2031250098735427611",
+              "start": 209,
+              "url": "https://t.co/bSzdpUOSBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033154680465809560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "1971431726837833728",
+                "start": 30,
+                "username": "SUQBAI9"
+              },
+              {
+                "end": 48,
+                "id": "1867817537821716481",
+                "start": 40,
+                "username": "XYingy_"
+              },
+              {
+                "end": 106,
+                "id": "1960198897827282944",
+                "start": 93,
+                "username": "Neko_nya2026"
+              },
+              {
+                "end": 158,
+                "id": "1897085677688532992",
+                "start": 151,
+                "username": "clyy32"
+              },
+              {
+                "end": 184,
+                "id": "1714277863489519616",
+                "start": 168,
+                "username": "SuyaoDaCongMing"
+              },
+              {
+                "end": 197,
+                "id": "1720665183188922368",
+                "start": 192,
+                "username": "grok"
+              }
+            ]
+          },
+          "text": "完整中奖名单（最终确认版，待第58位微调）评论抽奖（2位）：@SUQBAI9和 @XYingy_\n点赞抽奖（2位）：第21位：@kunkunyuzai（困困鱼仔） → 已确认，第58位：@Neko_nya2026\n（nya） → 基于末尾截图备选；如果你确认是别的用户名，替换即可\n\r转发抽奖（2位）：@clyy32\n （幽幽月） 和 @SuyaoDaCongMing\n （杏）\n由 @grok 抽出，奖品于发出中奖地址后7个工作日内寄出"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031250098735427611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完整中奖名单（最终确认版，待第58位微调）评论抽奖（2位）：@SUQBAI9和 @XYingy_\n点赞抽奖（2位）：第21位：@kunkunyuzai（困困鱼仔） → 已确认，第58位：@Neko_nya2026\n（nya） → 基于末尾截图备选；如果你确认是别的用户名，替换即可\n\r转发抽奖（2位）：@clyy32\n （幽幽月） 和 @SuyaoDaCongMing https://t.co/3ZKDdZSQvP https://t.co/bSzdpUOSBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 1548,
+          "like_count": 20944,
+          "listed_count": 26,
+          "media_count": 351,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

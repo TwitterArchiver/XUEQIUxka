@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036785509012509024",
+    "created_at": "2026-03-25T15:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036822369172668754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938963008",
+          "start": 0,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036822369172668754",
+    "in_reply_to_user_id": "1938963008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036785509012509024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HotmailfromSH 这几天好多都是因为心脏的问题\n看来得备点药了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2036785506638512128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQdoH7aQAAGK8U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036785509012509024",
+        "created_at": "2026-03-25T15:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036822369172668754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938963008",
+              "start": 0,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036822369172668754",
+        "in_reply_to_user_id": "1938963008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036785509012509024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HotmailfromSH 这几天好多都是因为心脏的问题\n看来得备点药了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036785506638512128"
+          ]
+        },
+        "author_id": "1938963008",
+        "conversation_id": "2036785509012509024",
+        "created_at": "2026-03-25T12:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036785509012509024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kr5BW2wCOI",
+              "end": 36,
+              "expanded_url": "https://x.com/HotmailfromSH/status/2036785509012509024/photo/1",
+              "media_key": "3_2036785506638512128",
+              "start": 13,
+              "url": "https://t.co/kr5BW2wCOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036785509012509024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 42730,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "生命如此脆弱...... https://t.co/kr5BW2wCOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6383,
+          "following_count": 1867,
+          "like_count": 22060,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "医学科普\n专注原研药与处方药\n提供真实用药解决方案",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "2017921212920545531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161240,
+          "following_count": 939,
+          "like_count": 177388,
+          "listed_count": 866,
+          "media_count": 5885,
+          "tweet_count": 61295
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

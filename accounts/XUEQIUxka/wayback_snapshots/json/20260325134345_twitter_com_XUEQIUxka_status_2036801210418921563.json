@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036704105675268436",
+    "created_at": "2026-03-25T13:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036801210418921563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1305718816413020160",
+          "start": 0,
+          "username": "nvjishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036801210418921563",
+    "in_reply_to_user_id": "1305718816413020160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036704105675268436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvjishi 有点吓人又有点难过\n好像她只是想被记住、被认真对待一下，\n最后那句“换个口味”，反而让人更心软了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036704105675268436",
+        "created_at": "2026-03-25T13:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036801210418921563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1305718816413020160",
+              "start": 0,
+              "username": "nvjishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036801210418921563",
+        "in_reply_to_user_id": "1305718816413020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036704105675268436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvjishi 有点吓人又有点难过\n好像她只是想被记住、被认真对待一下，\n最后那句“换个口味”，反而让人更心软了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305718816413020160",
+        "conversation_id": "2036704105675268436",
+        "created_at": "2026-03-25T07:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036704105675268436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036704105675268436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "23年的时候因为没钱，租了一个凶宅200块钱一个月\n\n两室一厅。也是逢年过节上香，一直没发生什么事情。\n\n直到有一段时间天天梦到一个看不清脸白头发女生，\n\n告诉我12号那天一定不要睡那么早。结果到了12号那天因为前几天加班实在困的不行，也忘了之前做梦这回事。\n\n晚上七点多就睡着了，梦到那个女生掐我脖子说：“醒过来啊!醒过来!”\n\n当时就被吓醒，听到外面很吵，才知道我们这栋楼起火了。\n\n后面就再也没梦到过她。要搬走的时候，又梦到她一次，\n\n她对我说：“都要搬走了，明天给我换换口味吧，别给我吃苹果和香蕉了。给我买俩火龙果，红心的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 159260,
+          "like_count": 608,
+          "quote_count": 3,
+          "reply_count": 139,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "23年的时候因为没钱，租了一个凶宅200块钱一个月\n\n两室一厅。也是逢年过节上香，一直没发生什么事情。\n\n直到有一段时间天天梦到一个看不清脸白头发女生，\n\n告诉我12号那天一定不要睡那么早。结果到了12号那天因为前几天加班实在困的不行，也忘了之前做梦这回事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6377,
+          "following_count": 1864,
+          "like_count": 22053,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-15T04:03:29.000Z",
+        "description": "👉番号搜索工具：https://t.co/cFxYQXGojZ\n\n📩TG： https://t.co/5bvjtB7Jco\n\n吃喝男模都是亏，唯有web3有来回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 31,
+                "expanded_url": "https://t.me/jisou?start=a_1384383866",
+                "start": 8,
+                "url": "https://t.co/cFxYQXGojZ"
+              },
+              {
+                "display_url": "t.me/shisan198",
+                "end": 61,
+                "expanded_url": "https://t.me/shisan198",
+                "start": 38,
+                "url": "https://t.co/5bvjtB7Jco"
+              }
+            ]
+          }
+        },
+        "id": "1305718816413020160",
+        "name": "女技师",
+        "pinned_tweet_id": "1698221614960460281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665701944495833088/pAi0XCij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55255,
+          "following_count": 11568,
+          "like_count": 20852,
+          "listed_count": 68,
+          "media_count": 724,
+          "tweet_count": 22021
+        },
+        "username": "nvjishi",
+        "verified": true
+      }
+    ]
+  }
+}

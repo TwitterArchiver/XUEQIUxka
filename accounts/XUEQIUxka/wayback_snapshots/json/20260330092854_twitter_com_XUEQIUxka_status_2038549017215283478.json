@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038384005620637947",
+    "created_at": "2026-03-30T09:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038549017215283478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1603337446183546880",
+          "start": 0,
+          "username": "jye1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038549017215283478",
+    "in_reply_to_user_id": "1603337446183546880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038384005620637947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jye1968 要是开在广州，我还真会去吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84008,
+        "height": 1280,
+        "media_key": "13_2038383878659043328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038383878659043328/img/v3NX7XbeN8zRKK8r.jpg",
+        "public_metrics": {
+          "view_count": 1930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038383878659043328/vid/avc1/320x568/3KZUflifrnPPYMTH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038383878659043328/vid/avc1/480x852/Vz5QphQpfLJZwkD-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038383878659043328/vid/avc1/720x1280/uiWZLmYdO87qRmAX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038383878659043328/pl/bEYgj9LjuM42Hwto.m3u8?v=daa"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038384005620637947",
+        "created_at": "2026-03-30T09:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038549017215283478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1603337446183546880",
+              "start": 0,
+              "username": "jye1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038549017215283478",
+        "in_reply_to_user_id": "1603337446183546880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038384005620637947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jye1968 要是开在广州，我还真会去吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038383878659043328"
+          ]
+        },
+        "author_id": "1603337446183546880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2038384005620637947",
+        "created_at": "2026-03-29T22:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038384005620637947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 131,
+              "tag": "CharmOfJiangxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNWbMscXRS",
+              "end": 170,
+              "expanded_url": "https://x.com/jye1968/status/2038384005620637947/video/1",
+              "media_key": "13_2038383878659043328",
+              "start": 147,
+              "url": "https://t.co/sNWbMscXRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038384005620637947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821237,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "In Yuehu District of Yingtan City, Jiangxi Province, the market was bustling with people and filled with a strong aroma of cooking.#CharmOfJiangxi https://t.co/sNWbMscXRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 2001,
+          "like_count": 23025,
+          "listed_count": 27,
+          "media_count": 482,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T10:35:40.000Z",
+        "description": "Share the latest news from China.",
+        "id": "1603337446183546880",
+        "name": "新新",
+        "pinned_tweet_id": "2027158874600681895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763085380453326848/6gLHRO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24354,
+          "following_count": 10195,
+          "like_count": 106300,
+          "listed_count": 65,
+          "media_count": 4359,
+          "tweet_count": 46862
+        },
+        "username": "jye1968",
+        "verified": false
+      }
+    ]
+  }
+}

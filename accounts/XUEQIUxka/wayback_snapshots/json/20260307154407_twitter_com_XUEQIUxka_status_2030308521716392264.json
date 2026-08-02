@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2030305074384384190",
+    "created_at": "2026-03-07T15:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030308521716392264"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030308521716392264",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030305074384384190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本文不代表我的任何观点，仅微传播搞笑，请不要上升到个人，我只是转发的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 365482,
+        "height": 960,
+        "media_key": "13_2030303727534702592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030303727534702592/img/S9S8rtXfcipizO4z.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030303727534702592/vid/avc1/960x720/CuTFudi-ZpJlE0WM.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030303727534702592/vid/avc1/360x270/exojDZqiZEg9RkV8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030303727534702592/vid/avc1/480x360/LYtNwPVWww6nbBhd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030303727534702592/pl/tl1xVvRY1KeYkWZI.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030303727534702592/vid/avc1/1280x960/JALKuu2i9d66XLbc.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2030305074384384190",
+        "created_at": "2026-03-07T15:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030308521716392264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030308521716392264",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030305074384384190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本文不代表我的任何观点，仅微传播搞笑，请不要上升到个人，我只是转发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030303727534702592"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2030305074384384190",
+        "created_at": "2026-03-07T15:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030305074384384190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAOdl2TVQy",
+              "end": 164,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2030305074384384190/video/1",
+              "media_key": "13_2030303727534702592",
+              "start": 141,
+              "url": "https://t.co/rAOdl2TVQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030305074384384190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[倚天药娘记]\n本作品由人工智能技术生成，仅为创意展示与非商业娱乐使用。视频内容、人物、情节均为虚构，不代表真实事件与观点。如有雷同，纯属巧合。\n我方不对内容的真实性、准确性、合法性作出保证，不承担任何相关法律责任。请勿用于违法、侵权、商业用途。\n「已授权搬运，请不要骂我，谢谢」 https://t.co/rAOdl2TVQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 1532,
+          "like_count": 20518,
+          "listed_count": 25,
+          "media_count": 328,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

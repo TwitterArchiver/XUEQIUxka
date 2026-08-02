@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036251478202130733",
+    "created_at": "2026-03-24T04:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036294249164234816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222182756400037889",
+          "start": 0,
+          "username": "sunyuchentron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036294249164234816",
+    "in_reply_to_user_id": "1222182756400037889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036251478202130733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyuchentron 听着有点心安\n原来未来已经发生，只是我们还没看见\n那我就先好好活着，好好呼吸，好好感受现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036251478202130733",
+        "created_at": "2026-03-24T04:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036294249164234816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222182756400037889",
+              "start": 0,
+              "username": "sunyuchentron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036294249164234816",
+        "in_reply_to_user_id": "1222182756400037889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036251478202130733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyuchentron 听着有点心安\n原来未来已经发生，只是我们还没看见\n那我就先好好活着，好好呼吸，好好感受现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222182756400037889",
+        "conversation_id": "2036251478202130733",
+        "created_at": "2026-03-24T01:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036251478202130733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036251478202130733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我知道你对未来有很多不确定\n其实不是\n未来已经发生了\n只是你尚未察觉\n未来10年\n人类的寿命会达到150岁\n是真的\n未来10年\n人人都将获得足够的财富与自由\n是真的\n未来10年\n人类的生活将会比之前任何时代都幸福\n是真的\n再给AI一些时间，一些耐心，一些包容\n现在你唯一需要做的就是\n好好活着\nDo nothing\nDon't die."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 42599,
+          "like_count": 377,
+          "quote_count": 24,
+          "reply_count": 167,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我知道你对未来有很多不确定\n其实不是\n未来已经发生了\n只是你尚未察觉\n未来10年\n人类的寿命会达到150岁\n是真的\n未来10年\n人人都将获得足够的财富与自由\n是真的\n未来10年\n人类的生活将会比之前任何时代都幸福\n是真的\n再给AI一些时间，一些耐心，一些包容\n现在你唯一需要做的就是\n好好活着\nDo nothing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1820,
+          "like_count": 21707,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-28T15:41:01.000Z",
+        "description": "👨‍💻 企业家 | 🤵‍♂️ 外交官 | 👨‍🚀 宇航员 #712 | 🍌 艺术收藏家 | 创始人 @trondaoCN | 顾问 @BitTorrent & @htx_global | 英文@justinsuntron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "trondaoCN"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "BitTorrent"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "htx_global"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "justinsuntron"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunpump.meme",
+                "end": 23,
+                "expanded_url": "https://sunpump.meme",
+                "start": 0,
+                "url": "https://t.co/taPoSJSTqy"
+              }
+            ]
+          }
+        },
+        "id": "1222182756400037889",
+        "location": "Singapore",
+        "name": "孙宇晨（去过太空版）🧑‍🚀",
+        "pinned_tweet_id": "2031554951571550548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955272811448340480/M9982AS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306080,
+          "following_count": 281,
+          "like_count": 83,
+          "listed_count": 1010,
+          "media_count": 3009,
+          "tweet_count": 8956
+        },
+        "url": "https://t.co/taPoSJSTqy",
+        "username": "sunyuchentron",
+        "verified": true
+      }
+    ]
+  }
+}

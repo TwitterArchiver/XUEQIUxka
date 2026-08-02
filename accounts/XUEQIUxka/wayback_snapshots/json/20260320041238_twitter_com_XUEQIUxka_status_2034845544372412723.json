@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034845206064013313",
+        "3_2034845409072619521"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2034845544372412723",
+    "created_at": "2026-03-20T04:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:11:19.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034845215052505506",
+      "2034845544372412723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EsQBzhiX3B",
+          "end": 116,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2034845544372412723/photo/1",
+          "media_key": "3_2034845206064013313",
+          "start": 93,
+          "url": "https://t.co/EsQBzhiX3B"
+        },
+        {
+          "display_url": "pic.x.com/EsQBzhiX3B",
+          "end": 116,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2034845544372412723/photo/1",
+          "media_key": "3_2034845409072619521",
+          "start": 93,
+          "url": "https://t.co/EsQBzhiX3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034845544372412723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去复诊了，说流血是因为摩擦太多导致的，看起来应该是涩涩多了，让我减少一下频次(\n然后批有点凹是因为之前噶蛋的问题，之后在做个自体脂肪填充就好了(\n这件事情告诉我们，不要自切，会影响手术 https://t.co/EsQBzhiX3B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034845215052505506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034845215052505506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034845215052505506"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034845544372412723].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034845544372412723",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034845544372412723"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2034845206064013313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD047xBaIAEihsv.jpg",
+        "width": 1628
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034845409072619521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD05HlSboAE2XPl.jpg",
+        "width": 908
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6243,
+          "following_count": 1754,
+          "like_count": 21373,
+          "listed_count": 26,
+          "media_count": 384,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

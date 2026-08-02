@@ -1,0 +1,250 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1787158416726909054",
+    "created_at": "2024-05-05T17:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-05T18:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787168212511268968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596823873894420480",
+          "start": 0,
+          "username": "hanzheng_street"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787168212511268968",
+    "in_reply_to_user_id": "1596823873894420480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787160255929213075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanzheng_street 现在事实还重要吗，jose死了，鱼喵也死了，这件事情还有意义吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1787158416726909054",
+        "created_at": "2024-05-05T17:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-05T18:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787168212511268968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596823873894420480",
+              "start": 0,
+              "username": "hanzheng_street"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787168212511268968",
+        "in_reply_to_user_id": "1596823873894420480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787160255929213075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanzheng_street 现在事实还重要吗，jose死了，鱼喵也死了，这件事情还有意义吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596823873894420480",
+        "conversation_id": "1787158416726909054",
+        "created_at": "2024-05-05T16:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-05T17:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787160255929213075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787160255929213075",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787158416726909054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 所以你们能否进一步提供相关信息以佐证你们所坚持的事实，即鱼喵已死亡，与jose不是同一人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱🏳️‍⚧️",
+        "pinned_tweet_id": "1636747797381939200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 1516,
+          "like_count": 19114,
+          "listed_count": 17,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T11:11:08.000Z",
+        "description": "ネクストステーションが、漢正街駅だ。ドアはレフトにオペンする。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vdse.bdstatic.com//192d9a98d782d…",
+                "end": 23,
+                "expanded_url": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4",
+                "start": 0,
+                "url": "https://t.co/IC0IB1UPog"
+              }
+            ]
+          }
+        },
+        "id": "1596823873894420480",
+        "location": "Wuhan",
+        "name": "永遠に漢正街駅が好きでいる",
+        "pinned_tweet_id": "1753558733626724746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775720630681509888/PeXQr5Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 174,
+          "like_count": 27949,
+          "listed_count": 2,
+          "tweet_count": 4573
+        },
+        "url": "https://t.co/IC0IB1UPog",
+        "username": "hanzheng_street",
+        "verified": false
+      }
+    ]
+  }
+}

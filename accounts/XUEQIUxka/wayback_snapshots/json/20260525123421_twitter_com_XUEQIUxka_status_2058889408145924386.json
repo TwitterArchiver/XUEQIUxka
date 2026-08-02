@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2058874469557338474",
+    "created_at": "2026-05-25T12:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058889408145924386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "833244372938264576",
+          "start": 0,
+          "username": "ncohnz"
+        },
+        {
+          "end": 13,
+          "id": "1720665183188922368",
+          "start": 8,
+          "username": "grok"
+        },
+        {
+          "end": 19,
+          "id": "1909390269533011968",
+          "start": 14,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058889408145924386",
+    "in_reply_to_user_id": "833244372938264576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058889040452366739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ncohnz @grok @gork 来回答"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2058874469557338474",
+        "created_at": "2026-05-25T12:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058889408145924386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "833244372938264576",
+              "start": 0,
+              "username": "ncohnz"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1909390269533011968",
+              "start": 14,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058889408145924386",
+        "in_reply_to_user_id": "833244372938264576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058889040452366739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ncohnz @grok @gork 来回答"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "833244372938264576",
+        "conversation_id": "2058874469557338474",
+        "created_at": "2026-05-25T12:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058889040452366739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058889040452366739",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058874469557338474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka What is this?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "2058235456702030064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8833,
+          "following_count": 2376,
+          "like_count": 31118,
+          "listed_count": 26,
+          "media_count": 1671,
+          "tweet_count": 5610
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-19T09:18:34.000Z",
+        "description": "Cyber Natives",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakr.xyz",
+                "end": 23,
+                "expanded_url": "https://www.hakr.xyz/",
+                "start": 0,
+                "url": "https://t.co/EOdJswnoTN"
+              }
+            ]
+          }
+        },
+        "id": "833244372938264576",
+        "location": "Local",
+        "name": "John Chronos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741000270159872/MxsepFYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1394,
+          "like_count": 3797,
+          "listed_count": 5,
+          "media_count": 739,
+          "tweet_count": 5754
+        },
+        "url": "https://t.co/EOdJswnoTN",
+        "username": "ncohnz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8769621,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6904,
+          "media_count": 8971985,
+          "tweet_count": 127004128
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429136,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 413,
+          "media_count": 46079,
+          "tweet_count": 2401880
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

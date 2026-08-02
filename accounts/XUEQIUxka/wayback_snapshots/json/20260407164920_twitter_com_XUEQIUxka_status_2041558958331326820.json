@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040148593869541380",
+    "created_at": "2026-04-07T16:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041558958331326820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957544663275028481",
+          "start": 0,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2041558958331326820",
+    "in_reply_to_user_id": "957544663275028481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040148593869541380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuBanXia1120 这就是我("
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040148593869541380",
+        "created_at": "2026-04-07T16:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041558958331326820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2041558958331326820",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040148593869541380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 这就是我("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "2040148593869541380",
+        "created_at": "2026-04-03T19:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040148593869541380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2039950528646382050",
+              "start": 64,
+              "url": "https://t.co/oAZU06dwxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040148593869541380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13009,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039950528646382050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实直到手术那天我还在纠结自己到底是不是女性\n术后：摆烂中…问就是mtf再问就是变性人再问就是身份证女的，再问我就是人妖。。。 https://t.co/oAZU06dwxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6768,
+          "following_count": 2029,
+          "like_count": 24379,
+          "listed_count": 27,
+          "media_count": 568,
+          "tweet_count": 3095
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”纯绿🚪50丨幻想频道：https://t.co/AGPNZuMped丨SRS手术分享https://t.co/HLSHXOmVj6要是我们能永远留在夏天里，就好了。姐妹@QingZi811",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "QingZi811"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 60,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 37,
+                "url": "https://t.co/AGPNZuMped"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 91,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 68,
+                "url": "https://t.co/HLSHXOmVj6"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17871,
+          "following_count": 881,
+          "like_count": 6047,
+          "listed_count": 54,
+          "media_count": 712,
+          "tweet_count": 4583
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

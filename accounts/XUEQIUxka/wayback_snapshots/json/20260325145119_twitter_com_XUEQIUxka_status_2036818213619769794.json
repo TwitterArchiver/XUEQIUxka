@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036711848809308218",
+    "created_at": "2026-03-25T14:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036818213619769794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504295723277631489",
+          "start": 0,
+          "username": "dongxiaojie99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036818213619769794",
+    "in_reply_to_user_id": "1504295723277631489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036711848809308218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongxiaojie99 哎，希望她下辈子会被温柔以待"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10380,
+        "height": 1280,
+        "media_key": "7_2036711817331036161",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036711817331036161/pu/img/yRJ9TigJ7zdP7J_9.jpg",
+        "public_metrics": {
+          "view_count": 473114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036711817331036161/pu/vid/avc1/320x568/CPgL0xB6pgchJnZ8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036711817331036161/pu/vid/avc1/480x852/J1CZMpkgtesHcDca.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036711817331036161/pu/vid/avc1/720x1280/G5UMpD6MRvAI5fdr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036711817331036161/pu/pl/ZUr8V-fCBkDSgZNK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1724,
+        "media_key": "3_2036711818920677376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPam7ybUAA-plZ.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2036711819348451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPam9YaoAAzg-2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036711848809308218",
+        "created_at": "2026-03-25T14:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036818213619769794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504295723277631489",
+              "start": 0,
+              "username": "dongxiaojie99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036818213619769794",
+        "in_reply_to_user_id": "1504295723277631489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036711848809308218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongxiaojie99 哎，希望她下辈子会被温柔以待"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036711817331036161",
+            "3_2036711818920677376",
+            "3_2036711819348451328"
+          ]
+        },
+        "author_id": "1504295723277631489",
+        "conversation_id": "2036711848809308218",
+        "created_at": "2026-03-25T07:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036711848809308218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7jKrVq4SE",
+              "end": 42,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2036711848809308218/video/1",
+              "media_key": "7_2036711817331036161",
+              "start": 19,
+              "url": "https://t.co/M7jKrVq4SE"
+            },
+            {
+              "display_url": "pic.x.com/M7jKrVq4SE",
+              "end": 42,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2036711848809308218/video/1",
+              "media_key": "3_2036711818920677376",
+              "start": 19,
+              "url": "https://t.co/M7jKrVq4SE"
+            },
+            {
+              "display_url": "pic.x.com/M7jKrVq4SE",
+              "end": 42,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2036711848809308218/video/1",
+              "media_key": "3_2036711819348451328",
+              "start": 19,
+              "url": "https://t.co/M7jKrVq4SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036711848809308218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 1084470,
+          "like_count": 1185,
+          "quote_count": 17,
+          "reply_count": 382,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "今天南京这瓜🍉可不小啊，你们吃了吗？ https://t.co/M7jKrVq4SE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 1864,
+          "like_count": 22058,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T03:17:55.000Z",
+        "description": "杭州人\n\n小号 @dongfupo773\n\n广告真假自辩哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "dongfupo773"
+              }
+            ]
+          }
+        },
+        "id": "1504295723277631489",
+        "name": "董小姐的日常",
+        "pinned_tweet_id": "2036678368259965358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504297795658072067/U_UpJL-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227687,
+          "following_count": 34,
+          "like_count": 11683,
+          "listed_count": 291,
+          "media_count": 2422,
+          "tweet_count": 12263
+        },
+        "username": "dongxiaojie99",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

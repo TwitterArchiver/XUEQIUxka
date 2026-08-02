@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035274741628772779",
+    "created_at": "2026-03-21T10:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035308898136227919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620328547847110656",
+          "start": 0,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035308898136227919",
+    "in_reply_to_user_id": "1620328547847110656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035274741628772779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NPC888666 有时候，真正的温暖不在豪言壮语，而在每天一个小小的习惯、一句关心\n她孤独离开，但她在你心里的那份细微关怀，会一直留着\n人生就像那场雪，看似一切如常，却有一些静默的美，永远不会消失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035274741628772779",
+        "created_at": "2026-03-21T10:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035308898136227919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620328547847110656",
+              "start": 0,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035308898136227919",
+        "in_reply_to_user_id": "1620328547847110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035274741628772779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPC888666 有时候，真正的温暖不在豪言壮语，而在每天一个小小的习惯、一句关心\n她孤独离开，但她在你心里的那份细微关怀，会一直留着\n人生就像那场雪，看似一切如常，却有一些静默的美，永远不会消失"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620328547847110656",
+        "conversation_id": "2035274741628772779",
+        "created_at": "2026-03-21T08:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035274741628772779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035274741628772779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "多年前我在上海租房，房东老太太突然说：我今年80多了，从今天起你不用再交房租了，我只有一个小小的心愿。\n\n我以为天上掉馅饼了，赶紧说：您说，我能做到一定答应。\n\n她说：你每天出门时敲敲我的门，听到我敲盆你就放心走，听不到，就给我儿子女儿打个电话。\n\n我原本对这个老太太没啥好印象——谈租金时斤斤计较，收房租时分秒不差。但那天我们第一次聊了很久。\n\n她说她和老伴都是北方人，跟着儿子来了上海，后来儿子出了国，女儿嫁到了国外，老家的房子也卖了。去年老伴走了，就剩她一个人。\n\n后来我出差一周，回来敲门没人应。物业报了警，门打开时，她静静躺在床上，屋里干干净净，衣服叠得整齐，床头柜上摊着本老相册。法医说是两天前走的，心肌梗塞。\n\n出差前她还给我送过一瓶辣酱，说是女儿爱吃的，又烙了几张大饼，说是儿子小时候的最爱。说完回了屋，那一转身，竟是永别。\n\n她子女回来办后事，脸上看不太出悲伤，跟我商量房子的事。那几天我心里堵得慌，好像除了我，没有人知道，有一个老人孤独地离开了这个世界。\n\n可很快我就醒悟了，走出小区，外面一切如常，热闹依旧。我忽然明白，连她自己的孩子都不在乎，又能指望谁在乎呢。\n\n后来上海下了场大雪，白茫茫铺了一地，干干净净的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 73184,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 109,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "多年前我在上海租房，房东老太太突然说：我今年80多了，从今天起你不用再交房租了，我只有一个小小的心愿。\n\n我以为天上掉馅饼了，赶紧说：您说，我能做到一定答应。\n\n她说：你每天出门时敲敲我的门，听到我敲盆你就放心走，听不到，就给我儿子女儿打个电话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 1801,
+          "like_count": 21534,
+          "listed_count": 26,
+          "media_count": 409,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40178,
+          "following_count": 1320,
+          "like_count": 7244,
+          "listed_count": 241,
+          "media_count": 781,
+          "tweet_count": 7167
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

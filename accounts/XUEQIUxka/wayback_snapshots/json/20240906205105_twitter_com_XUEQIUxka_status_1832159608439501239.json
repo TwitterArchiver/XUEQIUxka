@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1832159608439501239",
+    "created_at": "2024-09-06T20:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T21:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832159608439501239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1382339434872463371",
+          "start": 3,
+          "username": "QianYue_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832159608439501239",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832159520828899554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianYue_XQ: 事情的结局 \n她已经离开了 \n所做的一切都没有意义了\n如果还有下一世，愿她可以成为一个好看且开心又健康的女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1832159608439501239",
+        "created_at": "2024-09-06T20:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T21:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832159608439501239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1382339434872463371",
+              "start": 3,
+              "username": "QianYue_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832159608439501239",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832159520828899554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianYue_XQ: 事情的结局 \n她已经离开了 \n所做的一切都没有意义了\n如果还有下一世，愿她可以成为一个好看且开心又健康的女孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382339434872463371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1832159520828899554",
+        "created_at": "2024-09-06T20:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T21:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832159520828899554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianYue_XQ/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1806874387746013507",
+              "start": 56,
+              "url": "https://t.co/8minlw7dLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832159520828899554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806874387746013507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事情的结局 \n她已经离开了 \n所做的一切都没有意义了\n如果还有下一世，愿她可以成为一个好看且开心又健康的女孩子 https://t.co/8minlw7dLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 1457,
+          "like_count": 17865,
+          "listed_count": 19,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T14:26:34.000Z",
+        "description": "(･｀ｪ´･)つ简介什么的 应该无所谓吧…\n对象：@XUEQIUxka @JoseToYuToMiao\n（无涩图 几乎不发推 有事联系找雪球（可惜找不到了捏）/jose @JoseToYuToMiao ，可惜再也没有球球陪我了）愿球球&鱼喵在另一个世界被温柔以待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "JoseToYuToMiao"
+              }
+            ]
+          }
+        },
+        "id": "1382339434872463371",
+        "name": "Yue.纪念雪球版",
+        "pinned_tweet_id": "1790806099047612894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544426381668667392/XB2mUu-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 329,
+          "like_count": 147,
+          "listed_count": 3,
+          "tweet_count": 187
+        },
+        "username": "QianYue_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1787646511192645996",
+    "created_at": "2024-05-07T06:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-07T07:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787730549790105903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547247978565423105",
+          "start": 0,
+          "username": "yomoda_yuhaori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787730549790105903",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787646511192645996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yomoda_yuhaori 雪球：祝你俩父母今天开开心心的\n咬牙切齿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1787646511192645996",
+        "created_at": "2024-05-07T06:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T07:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787730549790105903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yuhaori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787730549790105903",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787646511192645996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yuhaori 雪球：祝你俩父母今天开开心心的\n咬牙切齿"
+      },
+      {
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1787646511192645996",
+        "created_at": "2024-05-07T00:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T01:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787646511192645996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1787646511192645996",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚、雪秋打来电话：\n“我睡不着你知道吗帕夏？”\n我和帕夏狂笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱🏳️‍⚧️",
+        "pinned_tweet_id": "1636747797381939200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 1519,
+          "like_count": 19110,
+          "listed_count": 17,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "Love and hope are murderous utopias.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_awbOq3qRSwyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_awbOq3qRSwyNTE1",
+                "start": 0,
+                "url": "https://t.co/aagpCUjdQN"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國    🏳️‍⚧️",
+        "name": "憂芷居然還活著",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731576715686883328/np5vVWdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 2299,
+          "like_count": 23727,
+          "listed_count": 7,
+          "tweet_count": 16876
+        },
+        "url": "https://t.co/aagpCUjdQN",
+        "username": "yomoda_yuhaori",
+        "verified": false
+      }
+    ]
+  }
+}

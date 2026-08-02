@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035945942168576132",
+    "created_at": "2026-03-23T09:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036013140409028960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "759926746955157505",
+          "start": 0,
+          "username": "Cesare5231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036013140409028960",
+    "in_reply_to_user_id": "759926746955157505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035945942168576132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cesare5231 有时候感情是不能用金钱来衡量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035945942168576132",
+        "created_at": "2026-03-23T09:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036013140409028960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "759926746955157505",
+              "start": 0,
+              "username": "Cesare5231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036013140409028960",
+        "in_reply_to_user_id": "759926746955157505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035945942168576132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cesare5231 有时候感情是不能用金钱来衡量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759926746955157505",
+        "conversation_id": "2035945942168576132",
+        "created_at": "2026-03-23T05:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035945942168576132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035945942168576132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "同事养的蓝猫死了，养了12年。她请假三天，去宠物殡葬馆办\"后事\"。\n\n火化费800，骨灰盒1200，树葬位置3000，还有念经超度500。总共5500。她全办了。\n\n我问她：\"值得吗？\"她哭着说：\"它陪了我12年，从大学到现在，搬了5次家，换了3份工作，它都在。男朋友分了两个，它还在。\"\n\n殡葬馆的人给她看骨灰盒，她选了最贵的，说：\"它值得最好的。\"\n\n回来后她发朋友圈：\"谢谢你陪我走了这么远。\"底下一堆人点赞安慰。\n\n只有她妈妈打电话骂她：\"一只猫死了花5000多？你脑子坏了？\"\n\n她没回嘴，只是看着骨灰盒发呆。后来她跟我说：\"我妈永远不会懂，有些感情不是用钱能衡量的。\"\n\n我想说什么，但看她的样子，算了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 142657,
+          "like_count": 406,
+          "quote_count": 14,
+          "reply_count": 231,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "同事养的蓝猫死了，养了12年。她请假三天，去宠物殡葬馆办\"后事\"。\n\n火化费800，骨灰盒1200，树葬位置3000，还有念经超度500。总共5500。她全办了。\n\n我问她：\"值得吗？\"她哭着说：\"它陪了我12年，从大学到现在，搬了5次家，换了3份工作，它都在。男朋友分了两个，它还在。\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 1817,
+          "like_count": 21674,
+          "listed_count": 27,
+          "media_count": 424,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-01T01:40:30.000Z",
+        "description": "长期主义|复利|自律",
+        "id": "759926746955157505",
+        "location": "Earith, England",
+        "name": "TonyStark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007448608514400256/jKIRKzSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5717,
+          "following_count": 3381,
+          "like_count": 907,
+          "listed_count": 13,
+          "media_count": 533,
+          "tweet_count": 5011
+        },
+        "username": "Cesare5231",
+        "verified": true
+      }
+    ]
+  }
+}

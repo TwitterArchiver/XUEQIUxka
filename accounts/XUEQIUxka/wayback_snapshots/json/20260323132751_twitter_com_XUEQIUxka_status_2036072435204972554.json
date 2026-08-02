@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035956049560408181",
+    "created_at": "2026-03-23T13:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036072435204972554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "260125652",
+          "start": 0,
+          "username": "Tina_coin001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036072435204972554",
+    "in_reply_to_user_id": "260125652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035956049560408181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_coin001 这真的太让人心疼又温暖了\n有人愿意陪你拼尽全力，就算机会渺茫，\n那种坚定和勇气，比结果本身还珍贵\n虽然可能本来没有安好心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035956049560408181",
+        "created_at": "2026-03-23T13:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036072435204972554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "260125652",
+              "start": 0,
+              "username": "Tina_coin001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036072435204972554",
+        "in_reply_to_user_id": "260125652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035956049560408181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_coin001 这真的太让人心疼又温暖了\n有人愿意陪你拼尽全力，就算机会渺茫，\n那种坚定和勇气，比结果本身还珍贵\n虽然可能本来没有安好心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260125652",
+        "conversation_id": "2035956049560408181",
+        "created_at": "2026-03-23T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035956049560408181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035956049560408181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一哥们的妻子身体一直不好，检查出来后。\n\n妻子红着眼说：“我不想拖累你了，咱们离婚吧。”\n哥们语气坚定：“你把我当什么人了？就算倾家荡产，我也一定要救你！大夫怎么说？”\n妻子轻声道：“保守治疗，还能活五十年。”\n哥们追问：“那手术呢？”\n妻子：“手术成功率只有0.1%。”\n哥们眼神决绝：“搏一把吧。”\n妻子：……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 205943,
+          "like_count": 276,
+          "quote_count": 2,
+          "reply_count": 112,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一哥们的妻子身体一直不好，检查出来后。\n\n妻子红着眼说：“我不想拖累你了，咱们离婚吧。”\n哥们语气坚定：“你把我当什么人了？就算倾家荡产，我也一定要救你！大夫怎么说？”\n妻子轻声道：“保守治疗，还能活五十年。”\n哥们追问：“那手术呢？”\n妻子：“手术成功率只有0.1%。”\n哥们眼神决绝：“搏一把吧。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6324,
+          "following_count": 1817,
+          "like_count": 21692,
+          "listed_count": 27,
+          "media_count": 424,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-03T07:22:19.000Z",
+        "description": "无关政治 || 爱家爱国 || 爱交朋友 || 币圈老韭菜 || 汉族龙传人",
+        "id": "260125652",
+        "name": "橙子🍊Tina",
+        "pinned_tweet_id": "2032820468479062301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891428156608513/YfaquKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 2799,
+          "like_count": 15082,
+          "listed_count": 13,
+          "media_count": 593,
+          "tweet_count": 12908
+        },
+        "username": "Tina_coin001",
+        "verified": true
+      }
+    ]
+  }
+}

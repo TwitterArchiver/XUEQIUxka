@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2068392186438357473",
+    "created_at": "2026-06-20T17:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068392186438357473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xyliaxka/statu…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/xyliaxka/status/2068391454863688016",
+          "start": 43,
+          "url": "https://t.co/eyowVVja6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068392186438357473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068391454863688016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家可以去评论，会随机掉落雪球周边一份，本条帖子同样参与，额外增加5份\n总计10份捏 https://t.co/eyowVVja6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068391447569846272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRnEBDbUAAmK34.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068392186438357473",
+        "created_at": "2026-06-20T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068392186438357473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xyliaxka/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/xyliaxka/status/2068391454863688016",
+              "start": 43,
+              "url": "https://t.co/eyowVVja6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068392186438357473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068391454863688016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家可以去评论，会随机掉落雪球周边一份，本条帖子同样参与，额外增加5份\n总计10份捏 https://t.co/eyowVVja6W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068391447569846272"
+          ]
+        },
+        "author_id": "2033504930707996672",
+        "conversation_id": "2068391454863688016",
+        "created_at": "2026-06-20T17:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068391454863688016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEZk5oJUOX",
+              "end": 91,
+              "expanded_url": "https://x.com/Xyliaxka/status/2068391454863688016/photo/1",
+              "media_key": "3_2068391447569846272",
+              "start": 68,
+              "url": "https://t.co/iEZk5oJUOX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068391454863688016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝大号 @XUEQIUxka 浏览量1年破1亿，谢谢大家喜欢捏\n狠狠得吃喵\n（转发没有抽奖，不过评论会随机掉落雪球周边一份，限5份） https://t.co/iEZk5oJUOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9395,
+          "following_count": 2406,
+          "like_count": 33037,
+          "listed_count": 26,
+          "media_count": 2116,
+          "tweet_count": 6365
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的日常\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka\n雪球的号：@XUEQIUsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2053339750212223087",
+    "created_at": "2026-05-11T16:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053876702175227994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1787360294186196992",
+          "start": 0,
+          "username": "magee0828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053876702175227994",
+    "in_reply_to_user_id": "1787360294186196992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053471258218787176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magee0828 这你别管，你就说是不是回了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2053339750212223087",
+        "created_at": "2026-05-11T16:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053876702175227994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1787360294186196992",
+              "start": 0,
+              "username": "magee0828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053876702175227994",
+        "in_reply_to_user_id": "1787360294186196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053471258218787176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magee0828 这你别管，你就说是不是回了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787360294186196992",
+        "conversation_id": "2053339750212223087",
+        "created_at": "2026-05-10T13:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053471258218787176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053471258218787176",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3727,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053339750212223087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 用AI写论文被抓，再用AI写道歉信——诚意也外包了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8368,
+          "following_count": 2192,
+          "like_count": 29470,
+          "listed_count": 26,
+          "media_count": 1300,
+          "tweet_count": 4964
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T05:54:46.000Z",
+        "description": "前腾讯 10 年程序员 → AI 独立开发者\n专注 0 成本注册 ChatGPT / Claude / Gemini\n数字牧民｜eSIM｜虚拟卡｜避坑教程\n每周更新实战案例 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ai.martinbill.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://ai.martinbill.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/jfQXQUy5s8"
+              }
+            ]
+          }
+        },
+        "id": "1787360294186196992",
+        "location": "Shenzhen city",
+        "name": "尧哥(Martin)",
+        "pinned_tweet_id": "2052555849453957268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787360694939381760/kPZwk57v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 532,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/jfQXQUy5s8",
+        "username": "magee0828",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038111100496187824",
+    "created_at": "2026-03-29T04:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038111100496187824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jsbsjCV/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/jsbsjCV/status/2038109385386594547",
+          "start": 8,
+          "url": "https://t.co/V8fjzDrhQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038111100496187824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038109385386594547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收到开心就好喵 https://t.co/V8fjzDrhQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038109381888491520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjRrzjawAATCT_.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038111100496187824",
+        "created_at": "2026-03-29T04:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038111100496187824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jsbsjCV/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jsbsjCV/status/2038109385386594547",
+              "start": 8,
+              "url": "https://t.co/V8fjzDrhQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038111100496187824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038109385386594547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到开心就好喵 https://t.co/V8fjzDrhQt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038109381888491520"
+          ]
+        },
+        "author_id": "1874351728264630272",
+        "conversation_id": "2038109385386594547",
+        "created_at": "2026-03-29T04:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038109385386594547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1368897611672018953",
+              "start": 2,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPWTzrss6C",
+              "end": 62,
+              "expanded_url": "https://x.com/jsbsjCV/status/2038109385386594547/photo/1",
+              "media_key": "3_2038109381888491520",
+              "start": 39,
+              "url": "https://t.co/PPWTzrss6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038109385386594547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@XUEQIUxka\n感谢雪秋姐\n我没想到居然发来这么多 \n太感动了喵🥺 https://t.co/PPWTzrss6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6533,
+          "following_count": 1991,
+          "like_count": 22736,
+          "listed_count": 27,
+          "media_count": 474,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T07:07:39.000Z",
+        "description": "互fo😛\n爱你们所有人😊 最爱的人@daaashuaiguo喜欢打篮球🏀 暗区突围😗\n10后小南梁 hrt 2025.7.20 🏳‍⚧(准备停了？)\n不想搞黄(以前发的算了）不线下\n不定期更新\n理科生 现就读于国家重点高中 （省一级示范校）努力考大学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "daaashuaiguo"
+              }
+            ]
+          }
+        },
+        "id": "1874351728264630272",
+        "location": "Wong Tai Sin District",
+        "name": "明矾不磕糖 🍥 🏳‍⚧",
+        "pinned_tweet_id": "2026888844268990693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007317292921827330/omNCpaoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 355,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 393
+        },
+        "username": "jsbsjCV",
+        "verified": false
+      }
+    ]
+  }
+}

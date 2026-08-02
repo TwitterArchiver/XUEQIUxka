@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037490734966677840",
+    "created_at": "2026-03-28T15:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037908296796127483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "36659991",
+          "start": 0,
+          "username": "kenw_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037908296796127483",
+    "in_reply_to_user_id": "36659991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037490734966677840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenw_2 不听老人言，快活一整年"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2037490731150176257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEafBl9bcAEMM5y.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037490734966677840",
+        "created_at": "2026-03-28T15:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037908296796127483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "36659991",
+              "start": 0,
+              "username": "kenw_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037908296796127483",
+        "in_reply_to_user_id": "36659991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037490734966677840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenw_2 不听老人言，快活一整年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037490731150176257"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2037490734966677840",
+        "created_at": "2026-03-27T11:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037490734966677840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUAKfqel0X",
+              "end": 47,
+              "expanded_url": "https://x.com/kenw_2/status/2037490734966677840/photo/1",
+              "media_key": "3_2037490731150176257",
+              "start": 24,
+              "url": "https://t.co/qUAKfqel0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037490734966677840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 165464,
+          "like_count": 1308,
+          "quote_count": 8,
+          "reply_count": 61,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "“余华老师，人生路上到底要不要听长辈的建议？” https://t.co/qUAKfqel0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6504,
+          "following_count": 1978,
+          "like_count": 22592,
+          "listed_count": 27,
+          "media_count": 468,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170376,
+          "following_count": 466,
+          "like_count": 2531,
+          "listed_count": 567,
+          "media_count": 1786,
+          "tweet_count": 6557
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

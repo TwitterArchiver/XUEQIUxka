@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029604456170672194",
+    "created_at": "2026-03-05T17:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T18:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029604456170672194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PnKoZCN/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/PnKoZCN/status/2029534951197274589",
+          "start": 17,
+          "url": "https://t.co/h96435DcIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029604456170672194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029534951197274589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁买老唐的药被抓了，我第一个开笑 https://t.co/h96435DcIx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2029604456170672194",
+        "created_at": "2026-03-05T17:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029604456170672194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2029534951197274589",
+              "start": 17,
+              "url": "https://t.co/h96435DcIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029604456170672194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029534951197274589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁买老唐的药被抓了，我第一个开笑 https://t.co/h96435DcIx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889695481938448384",
+        "conversation_id": "2029534951197274589",
+        "created_at": "2026-03-05T12:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029534951197274589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "2027031128738275328",
+              "start": 60,
+              "username": "NomtfYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029534951197274589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 23553,
+          "like_count": 110,
+          "quote_count": 13,
+          "reply_count": 34,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "目前情况:小圆是吃国家饭了，买了糖的钱打水漂了，日水目前避风头中，等几个月应该会重新有糖商，目前我知道的糖商只有唐毓文了@NomtfYuwen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5902,
+          "following_count": 1531,
+          "like_count": 20435,
+          "listed_count": 25,
+          "media_count": 323,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2028774606740553931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 394,
+          "like_count": 4,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 572
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035199921410752824",
+    "created_at": "2026-03-21T05:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035234587396514282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "846606219229958144",
+          "start": 0,
+          "username": "Evansantahp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035234587396514282",
+    "in_reply_to_user_id": "846606219229958144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035199921410752824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evansantahp 很多时候，不是你不值钱，\n而是你待错了地方\n在被低估、被忽视的环境里待久了，\n人会开始怀疑自己\n后来才明白，比起拼命证明，\n更重要的是离开\n去一个不需要你解释，\n也会认真看见你的地方\n被好好对待，从来不是奖励，\n而是本该如此"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2035198412501786627",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD56LFiboAMHf0E.png",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035199921410752824",
+        "created_at": "2026-03-21T05:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035234587396514282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "846606219229958144",
+              "start": 0,
+              "username": "Evansantahp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035234587396514282",
+        "in_reply_to_user_id": "846606219229958144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035199921410752824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evansantahp 很多时候，不是你不值钱，\n而是你待错了地方\n在被低估、被忽视的环境里待久了，\n人会开始怀疑自己\n后来才明白，比起拼命证明，\n更重要的是离开\n去一个不需要你解释，\n也会认真看见你的地方\n被好好对待，从来不是奖励，\n而是本该如此"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035198412501786627"
+          ]
+        },
+        "author_id": "846606219229958144",
+        "conversation_id": "2035199921410752824",
+        "created_at": "2026-03-21T03:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035199921410752824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tstUVt1pK5",
+              "end": 165,
+              "expanded_url": "https://x.com/Evansantahp/status/2035199921410752824/photo/1",
+              "media_key": "3_2035198412501786627",
+              "start": 142,
+              "url": "https://t.co/tstUVt1pK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035199921410752824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🔥英文区爆款帖——\n一位父亲对女儿说：“祝贺你毕业，我前段时间给你买了一辆车，现在我想把它给你。”\n\n在我把它给你之前，先把它开到城里的汽车经销商那里卖掉，看看他们出多少钱。\n\n女孩回来说：“他们出价 1 万美元买下它，因为它看起来很旧。”\n\n父亲说：“好了，现在把它拿到当铺去。”\n\n女孩回来说：“当铺只愿意出价 1000 美元，因为这辆车很旧了，而且做了很多维修。”\n\n父亲让她加入一个有鉴定专家的汽车爱好者俱乐部，向他们展示这辆车。\n\n女孩开车去了那个充满激情的汽车俱乐部……\n\n几个小时后，她回来告诉他：“俱乐部里有人出价 10 万美元给我，因为这辆车很稀有，而且车况很好。”\n\n父亲接着说：\n\n“我是想告诉你，如果你不在合适的地方，你就一文不值。如果你不被赏识，不要生气，那说明你待错了地方。不要待在一个没人看到你价值的地方。”\n\n这个故事的寓意是🥳\n\n要懂得自身的价值，也要明白自己在哪些地方受到重视，钻石在洞穴深处是不会发光的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 44115,
+          "like_count": 187,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "🔥英文区爆款帖——\n一位父亲对女儿说：“祝贺你毕业，我前段时间给你买了一辆车，现在我想把它给你。”\n\n在我把它给你之前，先把它开到城里的汽车经销商那里卖掉，看看他们出多少钱。\n\n女孩回来说：“他们出价 1 万美元买下它，因为它看起来很旧。”\n\n父亲说：“好了，现在把它拿到当铺去。” https://t.co/tstUVt1pK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6274,
+          "following_count": 1785,
+          "like_count": 21477,
+          "listed_count": 26,
+          "media_count": 408,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-28T06:13:46.000Z",
+        "description": "✍️ 独立撰稿人 | 时事深度评述\n📜 聚焦历史规律，追踪全球热点\n🎨 透视文化艺术，记录社会肌理\n🌊 望海潮起落，写时代变迁",
+        "id": "846606219229958144",
+        "name": "望海潮 Evan🇺🇸",
+        "pinned_tweet_id": "2034713949988385120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007849411326394370/myD64jou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28672,
+          "following_count": 9079,
+          "like_count": 46057,
+          "listed_count": 61,
+          "media_count": 3273,
+          "tweet_count": 55208
+        },
+        "username": "Evansantahp",
+        "verified": true
+      }
+    ]
+  }
+}

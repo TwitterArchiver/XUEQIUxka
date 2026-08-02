@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038841473425158240",
+    "created_at": "2026-03-31T10:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038920835465990469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028766249002696705",
+          "start": 0,
+          "username": "T9XJFKjDbd61141"
+        },
+        {
+          "end": 30,
+          "id": "1781308864438345728",
+          "start": 17,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20388…",
+          "end": 59,
+          "expanded_url": "https://x.com/i/status/2038887919415328955",
+          "start": 36,
+          "url": "https://t.co/a23J9qiEIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038920835465990469",
+    "in_reply_to_user_id": "2028766249002696705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038887919415328955",
+        "type": "quoted"
+      },
+      {
+        "id": "2038920406162411984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T9XJFKjDbd61141 @FoxRed695449 所以我說\nhttps://t.co/a23J9qiEIp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038841473425158240",
+        "created_at": "2026-03-31T10:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038920835465990469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028766249002696705",
+              "start": 0,
+              "username": "T9XJFKjDbd61141"
+            },
+            {
+              "end": 30,
+              "id": "1781308864438345728",
+              "start": 17,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20388…",
+              "end": 59,
+              "expanded_url": "https://x.com/i/status/2038887919415328955",
+              "start": 36,
+              "url": "https://t.co/a23J9qiEIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038920835465990469",
+        "in_reply_to_user_id": "2028766249002696705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038887919415328955",
+            "type": "quoted"
+          },
+          {
+            "id": "2038920406162411984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T9XJFKjDbd61141 @FoxRed695449 所以我說\nhttps://t.co/a23J9qiEIp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038841473425158240",
+        "created_at": "2026-03-31T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038887919415328955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038887919415328955",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038884348611694793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 不知全貌，不予置评"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028766249002696705",
+        "conversation_id": "2038841473425158240",
+        "created_at": "2026-03-31T10:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038920406162411984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 24,
+              "id": "1781308864438345728",
+              "start": 11,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038920406162411984",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038919674960793859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @FoxRed695449 经典又是这套逻辑，你跟他们救助团队一开始的心态一模一样，自动把自己放在一个被牺牲的伟大者身份上，然后用高傲的态度面对一切指责和批评，合理化自己的一切言行。别的不说这次温柔的视频那个男孩被修改成那个孩子有没有我的一份出力？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6619,
+          "following_count": 2007,
+          "like_count": 23271,
+          "listed_count": 27,
+          "media_count": 494,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T09:36:47.000Z",
+        "description": "目田/mtf小药娘/平板锁/锅盖锁/鉴证型人格/擦边/媚黑♠️/抽烟/喝酒/infj/m属性大爆发/分享自己h纯满足自己/\n建制品客还有毛左不许用我的照片打手冲，因为你毛爷爷和习大大正在失望的看着你",
+        "id": "2028766249002696705",
+        "name": "🍑味水果🍬8964🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029100175596359680/mDR6vYKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 91,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 282
+        },
+        "username": "T9XJFKjDbd61141",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 815,
+          "like_count": 7231,
+          "listed_count": 7,
+          "media_count": 951,
+          "tweet_count": 3043
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

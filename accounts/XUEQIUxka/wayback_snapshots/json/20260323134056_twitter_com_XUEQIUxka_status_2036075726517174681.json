@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036050986729357313",
+    "created_at": "2026-03-23T13:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036075726517174681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3316376038",
+          "start": 0,
+          "username": "KobeissiLetter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036075726517174681",
+    "in_reply_to_user_id": "3316376038",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036050986729357313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KobeissiLetter Productive conversations” sounds like saying you’re dating someone who never texted you back.  \nOne side’s buying time, the other’s selling denial.  \nDiplomacy as imaginary as crypto profits."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036050986729357313",
+        "created_at": "2026-03-23T13:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036075726517174681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3316376038",
+              "start": 0,
+              "username": "KobeissiLetter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036075726517174681",
+        "in_reply_to_user_id": "3316376038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036050986729357313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KobeissiLetter Productive conversations” sounds like saying you’re dating someone who never texted you back.  \nOne side’s buying time, the other’s selling denial.  \nDiplomacy as imaginary as crypto profits."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3316376038",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2036050986729357313",
+        "created_at": "2026-03-23T12:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036050986729357313"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Iran",
+              "probability": 0.8813,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Trump",
+              "probability": 0.9112,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "US",
+              "probability": 0.9455,
+              "start": 83,
+              "type": "Place"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Iran",
+              "probability": 0.8917,
+              "start": 90,
+              "type": "Place"
+            },
+            {
+              "end": 149,
+              "normalized_text": "Iran War",
+              "probability": 0.6491,
+              "start": 142,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "Iran",
+              "probability": 0.8413,
+              "start": 153,
+              "type": "Place"
+            },
+            {
+              "end": 233,
+              "normalized_text": "Trump",
+              "probability": 0.845,
+              "start": 229,
+              "type": "Person"
+            },
+            {
+              "end": 254,
+              "normalized_text": "Trump",
+              "probability": 0.8908,
+              "start": 250,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036050986729357313",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING: Iran issues a statement DENYING President Trump's post which claimed the US and Iran have had \"productive conversations\" to end the Iran War:\n\nIran says:\n\n1. \"There has been no indirect or direct contact with President Trump\"\n\n2. President Trump is trying to \"buy time\" in the Iran War\n\n3. President Trump \"withdrew\" from power plant strikes after Iran's \"firm warning\"\n\n4. President Trump's comments are \"psychological warfare\"\n\n5. \"Hormuz will not return to pre-war conditions as long as psychological warfare continues\"\n\nIran has entirely denied all of President Trump's claims."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 984,
+          "impression_count": 1052735,
+          "like_count": 11708,
+          "quote_count": 603,
+          "reply_count": 582,
+          "retweet_count": 2541
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Iran issues a statement DENYING President Trump's post which claimed the US and Iran have had \"productive conversations\" to end the Iran War:\n\nIran says:\n\n1. \"There has been no indirect or direct contact with President Trump\"\n\n2. President Trump is trying to \"buy time\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 1817,
+          "like_count": 21693,
+          "listed_count": 27,
+          "media_count": 425,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-10T00:34:15.000Z",
+        "description": "Official X account for The Kobeissi Letter, an industry leading commentary on the global capital markets. Email us: support@thekobeissiletter.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thekobeissiletter.com/subscribe",
+                "end": 23,
+                "expanded_url": "http://thekobeissiletter.com/subscribe",
+                "start": 0,
+                "url": "https://t.co/iG9KyPL13u"
+              }
+            ]
+          }
+        },
+        "id": "3316376038",
+        "location": "United States",
+        "name": "The Kobeissi Letter",
+        "pinned_tweet_id": "2010041448486580639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566881,
+          "following_count": 608,
+          "like_count": 23919,
+          "listed_count": 16432,
+          "media_count": 12882,
+          "tweet_count": 30187
+        },
+        "url": "https://t.co/iG9KyPL13u",
+        "username": "KobeissiLetter",
+        "verified": true
+      }
+    ]
+  }
+}

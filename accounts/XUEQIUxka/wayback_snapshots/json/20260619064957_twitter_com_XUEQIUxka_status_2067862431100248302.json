@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2067673944132403460",
+    "created_at": "2026-06-19T06:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067862431100248302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1127651548585242624",
+          "start": 0,
+          "username": "p15lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067862431100248302",
+    "in_reply_to_user_id": "1127651548585242624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067673944132403460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p15lin 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2067673944132403460",
+        "created_at": "2026-06-19T06:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067862431100248302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1127651548585242624",
+              "start": 0,
+              "username": "p15lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067862431100248302",
+        "in_reply_to_user_id": "1127651548585242624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067673944132403460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p15lin 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127651548585242624",
+        "conversation_id": "2067673944132403460",
+        "created_at": "2026-06-18T18:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067673944132403460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2067613050119799122",
+              "start": 11,
+              "url": "https://t.co/3mTppPMhdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067673944132403460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067613050119799122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提前祝大家端午牛逼😇 https://t.co/3mTppPMhdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9339,
+          "following_count": 2404,
+          "like_count": 32831,
+          "listed_count": 27,
+          "media_count": 2074,
+          "tweet_count": 6286
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-12T19:07:34.000Z",
+        "description": "he战士。\\奈费勒推/\\292，左右不忌，其余非恋爱关系也吃口/\\奈水仙也🉑/（整肃only）",
+        "id": "1127651548585242624",
+        "name": "幽燐船",
+        "pinned_tweet_id": "2066688184080019742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051874471695245317/kfl5gFYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 8919,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "p15lin",
+        "verified": false
+      }
+    ]
+  }
+}

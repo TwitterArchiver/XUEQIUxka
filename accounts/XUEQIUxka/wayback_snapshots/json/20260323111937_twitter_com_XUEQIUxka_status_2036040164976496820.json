@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035959840498139475",
+    "created_at": "2026-03-23T11:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036040164976496820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "20700332",
+          "start": 0,
+          "username": "pingzhang632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036040164976496820",
+    "in_reply_to_user_id": "20700332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035959840498139475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingzhang632 被做空的挣麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035959840498139475",
+        "created_at": "2026-03-23T11:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036040164976496820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "20700332",
+              "start": 0,
+              "username": "pingzhang632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036040164976496820",
+        "in_reply_to_user_id": "20700332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035959840498139475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingzhang632 被做空的挣麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20700332",
+        "conversation_id": "2035959840498139475",
+        "created_at": "2026-03-23T06:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035959840498139475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035959840498139475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 214621,
+          "like_count": 291,
+          "quote_count": 7,
+          "reply_count": 198,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "股市跌，黄金跌，比特币也跌，钱都去哪儿了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6322,
+          "following_count": 1817,
+          "like_count": 21679,
+          "listed_count": 27,
+          "media_count": 424,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-12T18:24:25.000Z",
+        "description": "以色列生活，犹太思维，犹太经典，中东历史、政治，等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangping.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://zhangping.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/y1ZCfyVEue"
+              }
+            ]
+          }
+        },
+        "id": "20700332",
+        "location": "Tel Aviv",
+        "name": "张平",
+        "pinned_tweet_id": "1720181025643327879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/938859173797908480/rYEzmQ_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115659,
+          "following_count": 588,
+          "like_count": 3071,
+          "listed_count": 481,
+          "media_count": 1739,
+          "tweet_count": 12367
+        },
+        "url": "https://t.co/y1ZCfyVEue",
+        "username": "pingzhang632",
+        "verified": true
+      }
+    ]
+  }
+}

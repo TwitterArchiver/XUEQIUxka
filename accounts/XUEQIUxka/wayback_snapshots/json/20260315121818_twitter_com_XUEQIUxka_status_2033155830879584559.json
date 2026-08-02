@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2032801579959812405",
+    "created_at": "2026-03-15T12:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033155830879584559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1184096289283133440",
+          "start": 0,
+          "username": "cheuk_baby"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033155830879584559",
+    "in_reply_to_user_id": "1184096289283133440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033153866221637773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheuk_baby @grok 来互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032801579959812405",
+        "created_at": "2026-03-15T12:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033155830879584559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1184096289283133440",
+              "start": 0,
+              "username": "cheuk_baby"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033155830879584559",
+        "in_reply_to_user_id": "1184096289283133440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033153866221637773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheuk_baby @grok 来互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184096289283133440",
+        "conversation_id": "2032801579959812405",
+        "created_at": "2026-03-15T12:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033153866221637773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033153866221637773",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032801579959812405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @grok 这奖品选择挺意外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 1549,
+          "like_count": 20945,
+          "listed_count": 26,
+          "media_count": 351,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-15T13:19:03.000Z",
+        "description": "Web3 软件工程师 💻 | 链上玩家 | @SaharaLabsAI MOD | @arbitrum & @MorphLayer Ambassador | @Gaianet_AI Science Officer | #BNB $BTC Hodler | #Binance | 📩合作私信",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "BNB"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "SaharaLabsAI"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "arbitrum"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "MorphLayer"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Gaianet_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/DqpSsv9jbZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/DqpSsv9jbZ",
+                "start": 0,
+                "url": "https://t.co/Zm8hkWdAzp"
+              }
+            ]
+          }
+        },
+        "id": "1184096289283133440",
+        "location": "Hong Kong",
+        "name": "Jason傑森 🇭🇰 | 🛠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823163949283409921/g-_gGccQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14165,
+          "following_count": 4669,
+          "like_count": 152760,
+          "listed_count": 175,
+          "media_count": 927,
+          "tweet_count": 304872
+        },
+        "url": "https://t.co/Zm8hkWdAzp",
+        "username": "cheuk_baby",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8417470,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6521,
+          "media_count": 8645783,
+          "tweet_count": 117507835
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

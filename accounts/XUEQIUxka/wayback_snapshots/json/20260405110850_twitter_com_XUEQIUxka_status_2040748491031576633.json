@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040729976841130210",
+    "created_at": "2026-04-05T11:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040748491031576633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "766530325652484097",
+          "start": 0,
+          "username": "austinit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040748491031576633",
+    "in_reply_to_user_id": "766530325652484097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040729976841130210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@austinit 有担当，是个好人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2040729530055434241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIgsgGaoAESE4I.jpg",
+        "width": 772
+      },
+      {
+        "height": 477,
+        "media_key": "3_2040729830350856192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIg9-ybIAAhO6S.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040729976841130210",
+        "created_at": "2026-04-05T11:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040748491031576633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "766530325652484097",
+              "start": 0,
+              "username": "austinit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040748491031576633",
+        "in_reply_to_user_id": "766530325652484097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040729976841130210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@austinit 有担当，是个好人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040729530055434241",
+            "3_2040729830350856192"
+          ]
+        },
+        "author_id": "766530325652484097",
+        "conversation_id": "2040729976841130210",
+        "created_at": "2026-04-05T09:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040729976841130210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TF2i0JY90r",
+              "end": 101,
+              "expanded_url": "https://x.com/austinit/status/2040729976841130210/photo/1",
+              "media_key": "3_2040729530055434241",
+              "start": 78,
+              "url": "https://t.co/TF2i0JY90r"
+            },
+            {
+              "display_url": "pic.x.com/TF2i0JY90r",
+              "end": 101,
+              "expanded_url": "https://x.com/austinit/status/2040729976841130210/photo/1",
+              "media_key": "3_2040729830350856192",
+              "start": 78,
+              "url": "https://t.co/TF2i0JY90r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040729976841130210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15143,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "反转了，陈光标真把劳斯莱斯变现1000万，然后捐给嫣然了。\n\n姜还是老的辣，前几天都在嘲笑他，结果现在凸显张雪和李亚鹏格局小了。😂\n\n后续还会继续反转吗？ https://t.co/TF2i0JY90r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6732,
+          "following_count": 2024,
+          "like_count": 24079,
+          "listed_count": 27,
+          "media_count": 552,
+          "tweet_count": 2978
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-19T07:00:45.000Z",
+        "description": "一个程序员，通过开发产品和投资赚钱，但不卖课。",
+        "id": "766530325652484097",
+        "location": "China",
+        "name": "Austin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743780321097850880/1_9vacsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34057,
+          "following_count": 319,
+          "like_count": 2715,
+          "listed_count": 311,
+          "media_count": 414,
+          "tweet_count": 2009
+        },
+        "username": "austinit",
+        "verified": true
+      }
+    ]
+  }
+}

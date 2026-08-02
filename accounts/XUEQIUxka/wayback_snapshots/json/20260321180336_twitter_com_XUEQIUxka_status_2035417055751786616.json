@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035357339805757504",
+    "created_at": "2026-03-21T18:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035417055751786616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "260125652",
+          "start": 0,
+          "username": "Tina_coin001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035417055751786616",
+    "in_reply_to_user_id": "260125652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035357339805757504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_coin001 至少是好人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035357339805757504",
+        "created_at": "2026-03-21T18:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035417055751786616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "260125652",
+              "start": 0,
+              "username": "Tina_coin001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035417055751786616",
+        "in_reply_to_user_id": "260125652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035357339805757504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_coin001 至少是好人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260125652",
+        "conversation_id": "2035357339805757504",
+        "created_at": "2026-03-21T14:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035357339805757504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035357339805757504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16111,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐公交车上\n上来个老爷爷，我刚想着让座，突然有个花臂的大哥站起来就把座位让给老爷爷了。\n我心想纹身的也不一定都是坏人啊。\n老爷爷笑着说：谢谢你啊年轻人。\n纹身大哥非常豪爽的说：你他妈就这点逼事你还跟我客气你妈个鸡毛啊。\n老爷爷：……\n我：……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 1802,
+          "like_count": 21574,
+          "listed_count": 26,
+          "media_count": 410,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-03T07:22:19.000Z",
+        "description": "无关政治 || 爱家爱国 || 爱交朋友 || 币圈老韭菜 || 汉族龙传人",
+        "id": "260125652",
+        "name": "橙子🍊Tina",
+        "pinned_tweet_id": "2032820468479062301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891428156608513/YfaquKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5217,
+          "following_count": 2775,
+          "like_count": 13729,
+          "listed_count": 12,
+          "media_count": 592,
+          "tweet_count": 11787
+        },
+        "username": "Tina_coin001",
+        "verified": true
+      }
+    ]
+  }
+}

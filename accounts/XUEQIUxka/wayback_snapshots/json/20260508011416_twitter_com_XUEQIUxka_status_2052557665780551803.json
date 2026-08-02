@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2051931351159648564",
+    "created_at": "2026-05-08T01:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052557665780551803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1559214053024677890",
+          "start": 0,
+          "username": "SuMing5210"
+        },
+        {
+          "end": 21,
+          "id": "2033504930707996672",
+          "start": 12,
+          "username": "Xyliaxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052557665780551803",
+    "in_reply_to_user_id": "1559214053024677890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052557141568061596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SuMing5210 @Xyliaxka 嗯，不过青岛没有门店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2051931351159648564",
+        "created_at": "2026-05-08T01:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052557665780551803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1559214053024677890",
+              "start": 0,
+              "username": "SuMing5210"
+            },
+            {
+              "end": 21,
+              "id": "2033504930707996672",
+              "start": 12,
+              "username": "Xyliaxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052557665780551803",
+        "in_reply_to_user_id": "1559214053024677890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052557141568061596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SuMing5210 @Xyliaxka 嗯，不过青岛没有门店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559214053024677890",
+        "conversation_id": "2051931351159648564",
+        "created_at": "2026-05-08T01:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052557141568061596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 20,
+              "id": "2033504930707996672",
+              "start": 11,
+              "username": "Xyliaxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052557141568061596",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051931351159648564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XUEQIUxka @Xyliaxka 门店给刻的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8228,
+          "following_count": 2186,
+          "like_count": 28965,
+          "listed_count": 26,
+          "media_count": 1195,
+          "tweet_count": 4811
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T16:23:18.000Z",
+        "description": "现居青岛\n奔三的自由职业者（尝试创业中）\n ESFJ / 米游重度依赖（以前）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SuMing_Fate?di…",
+                "end": 23,
+                "expanded_url": "http://t.me/SuMing_Fate?direct",
+                "start": 0,
+                "url": "https://t.co/PKPVD9LksT"
+              }
+            ]
+          }
+        },
+        "id": "1559214053024677890",
+        "location": "衡水某不知名地界",
+        "name": "宿命",
+        "pinned_tweet_id": "2038503313843634177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559214159404732416/_ZtBmfIH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 477,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/PKPVD9LksT",
+        "username": "SuMing5210",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的内容\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": false
+      }
+    ]
+  }
+}

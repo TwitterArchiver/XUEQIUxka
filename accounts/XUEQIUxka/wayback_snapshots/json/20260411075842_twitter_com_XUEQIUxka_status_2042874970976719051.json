@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042867835593195869",
+    "created_at": "2026-04-11T07:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042874970976719051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstraSpark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042874970976719051",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042867835593195869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstraSpark 其实电动车可以租，所以不一定需要留3100，留1000足够"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042867835593195869",
+        "created_at": "2026-04-11T07:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042874970976719051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstraSpark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042874970976719051",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042867835593195869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstraSpark 其实电动车可以租，所以不一定需要留3100，留1000足够"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042867835593195869",
+        "created_at": "2026-04-11T07:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042867835593195869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042867835593195869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "币圈人一定要保留3100元现金。\n\n千万不要赚了一点小钱就飘飘然了。\n\n永远记住，不管你现在多相信牛市，不管你现在仓位多重，身边最少要有3100元。100块办健康证，3000块买电瓶车，其他的梦想你可以有，山顶豪宅也可以想，但不要动这3100元。\n\n留这3100元并不是说要证明什么，也不是要炫耀什么，而是你留给自己最后的退路。有了这笔钱，你至少还能办个健康证，整一辆电瓶车，必要的时候可以立刻去送外卖。你终于不用在爆仓之后连饭都吃不上，也不用在行情归零的时候还嘴硬自己在长期主义了。\n\n记住，一定一定要随时兜里准备着这3100元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "币圈人一定要保留3100元现金。\n\n千万不要赚了一点小钱就飘飘然了。\n\n永远记住，不管你现在多相信牛市，不管你现在仓位多重，身边最少要有3100元。100块办健康证，3000块买电瓶车，其他的梦想你可以有，山顶豪宅也可以想，但不要动这3100元。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6798,
+          "following_count": 2043,
+          "like_count": 25030,
+          "listed_count": 27,
+          "media_count": 630,
+          "tweet_count": 3427
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "📖ANU|💪Serial Founder|⚡️Believer in crypto efficiency|💻Keep Building!|🏗️ Cooking @GMwalletApp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "GMwalletApp"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 463,
+          "like_count": 24060,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 4194
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      }
+    ]
+  }
+}

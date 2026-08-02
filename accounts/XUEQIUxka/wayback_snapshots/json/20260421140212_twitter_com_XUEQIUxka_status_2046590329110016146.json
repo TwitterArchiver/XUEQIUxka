@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046589393356668928"
+      ],
+      "media_source_tweet_id": [
+        "2046589404358349007"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2046590329110016146",
+    "created_at": "2026-04-21T14:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046590329110016146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908086926391033856",
+          "start": 3,
+          "username": "yqua_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Fm82oiRiU",
+          "end": 97,
+          "expanded_url": "https://x.com/yqua_/status/2046589404358349007/photo/1",
+          "media_key": "3_2046589393356668928",
+          "start": 74,
+          "url": "https://t.co/6Fm82oiRiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046590329110016146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046589404358349007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yqua_: 挂一个奇奇怪怪的小东西\n是这样的\n因为一些事情导致于我不得不考虑把这玩意儿做做回本\n\n当然 也不求回本 实际上也只有转运成本 https://t.co/6Fm82oiRiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_2046589393356668928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbyNcAbQAAQpFB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046589393356668928"
+          ],
+          "media_source_tweet_id": [
+            "2046589404358349007"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2046590329110016146",
+        "created_at": "2026-04-21T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046590329110016146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908086926391033856",
+              "start": 3,
+              "username": "yqua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Fm82oiRiU",
+              "end": 97,
+              "expanded_url": "https://x.com/yqua_/status/2046589404358349007/photo/1",
+              "media_key": "3_2046589393356668928",
+              "start": 74,
+              "url": "https://t.co/6Fm82oiRiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046590329110016146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046589404358349007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yqua_: 挂一个奇奇怪怪的小东西\n是这样的\n因为一些事情导致于我不得不考虑把这玩意儿做做回本\n\n当然 也不求回本 实际上也只有转运成本 https://t.co/6Fm82oiRiU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046589393356668928"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "2046589404358349007",
+        "created_at": "2026-04-21T13:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046589404358349007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Fm82oiRiU",
+              "end": 86,
+              "expanded_url": "https://x.com/yqua_/status/2046589404358349007/photo/1",
+              "media_key": "3_2046589393356668928",
+              "start": 63,
+              "url": "https://t.co/6Fm82oiRiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589404358349007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "挂一个奇奇怪怪的小东西\n是这样的\n因为一些事情导致于我不得不考虑把这玩意儿做做回本\n\n当然 也不求回本 实际上也只有转运成本 https://t.co/6Fm82oiRiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7182,
+          "following_count": 2138,
+          "like_count": 26816,
+          "listed_count": 27,
+          "media_count": 822,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "终有一天 月亮会觉得 你才是月亮",
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 758,
+          "like_count": 10934,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 485
+        },
+        "username": "yqua_",
+        "verified": false
+      }
+    ]
+  }
+}

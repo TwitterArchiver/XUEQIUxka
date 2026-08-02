@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033159105804677120"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033144987609919534",
+    "created_at": "2026-03-15T12:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033159109113958888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCFjpmmiGt",
+          "end": 90,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2033159109113958888/photo/1",
+          "media_key": "3_2033159105804677120",
+          "start": 67,
+          "url": "https://t.co/PCFjpmmiGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033159109113958888",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033144987609919534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 最破防的是早期用户，之前的金葵花的万事达不能人民币结算，还需要先换汇，过的都是什么苦日子(\n然后现在居然还有返现 https://t.co/PCFjpmmiGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033159105804677120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc7b0FWsAA3dpq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 512,
+        "media_key": "3_2033144981851148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDculsQbEAA3uAJ.jpg",
+        "width": 668
+      },
+      {
+        "height": 260,
+        "media_key": "3_2033144982027247616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDculs6aIAAEQ-Z.jpg",
+        "width": 456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033159105804677120"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033144987609919534",
+        "created_at": "2026-03-15T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033159109113958888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCFjpmmiGt",
+              "end": 90,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2033159109113958888/photo/1",
+              "media_key": "3_2033159105804677120",
+              "start": 67,
+              "url": "https://t.co/PCFjpmmiGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033159109113958888",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033144987609919534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 最破防的是早期用户，之前的金葵花的万事达不能人民币结算，还需要先换汇，过的都是什么苦日子(\n然后现在居然还有返现 https://t.co/PCFjpmmiGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033144981851148288",
+            "3_2033144982027247616"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2033144987609919534",
+        "created_at": "2026-03-15T11:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033144987609919534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WojnyvRIL1",
+              "end": 39,
+              "expanded_url": "https://x.com/AcboxLiu/status/2033144987609919534/photo/1",
+              "media_key": "3_2033144981851148288",
+              "start": 16,
+              "url": "https://t.co/WojnyvRIL1"
+            },
+            {
+              "display_url": "pic.x.com/WojnyvRIL1",
+              "end": 39,
+              "expanded_url": "https://x.com/AcboxLiu/status/2033144987609919534/photo/1",
+              "media_key": "3_2033144982027247616",
+              "start": 16,
+              "url": "https://t.co/WojnyvRIL1"
+            },
+            {
+              "display_url": "x.com/realnyarime/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/realnyarime/status/2033127907262869532",
+              "start": 40,
+              "url": "https://t.co/S61UtC9mMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033144987609919534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2402,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033127907262869532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在等一个招商金葵花debit https://t.co/WojnyvRIL1 https://t.co/S61UtC9mMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 1550,
+          "like_count": 20950,
+          "listed_count": 26,
+          "media_count": 353,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/building @memoh_ai /🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11321,
+          "following_count": 3032,
+          "like_count": 3205,
+          "listed_count": 50,
+          "media_count": 1291,
+          "tweet_count": 6669
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

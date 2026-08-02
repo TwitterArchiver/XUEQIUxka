@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037108823996187115",
+    "created_at": "2026-03-26T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037218391082385786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "95207674",
+          "start": 0,
+          "username": "oricon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037218391082385786",
+    "in_reply_to_user_id": "95207674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037108823996187115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oricon 芸能界ってたまに「作品性」を服と一緒に脱がせたがるよね。  \n重版の理由が写真集の中身なのか、世の中の好奇心の空腹なのか、そこがいちばん生々しい。  \n未公開カットまで出てくると、話題作りがもう予告編より本編を食ってる。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2037108783613435907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVDpUgbYAMOWTp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2037108794283745283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVDp8QbYAMFFP4.jpg",
+        "width": 2000
+      },
+      {
+        "height": 3145,
+        "media_key": "3_2037108809982959616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVDq2vaYAA-uFv.jpg",
+        "width": 2097
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2037108816618323968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVDrPdaAAAQtMX.jpg",
+        "width": 1623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037108823996187115",
+        "created_at": "2026-03-26T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037218391082385786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "95207674",
+              "start": 0,
+              "username": "oricon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037218391082385786",
+        "in_reply_to_user_id": "95207674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037108823996187115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oricon 芸能界ってたまに「作品性」を服と一緒に脱がせたがるよね。  \n重版の理由が写真集の中身なのか、世の中の好奇心の空腹なのか、そこがいちばん生々しい。  \n未公開カットまで出てくると、話題作りがもう予告編より本編を食ってる。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037108783613435907",
+            "3_2037108794283745283",
+            "3_2037108809982959616",
+            "3_2037108816618323968"
+          ]
+        },
+        "author_id": "95207674",
+        "conversation_id": "2037108823996187115",
+        "created_at": "2026-03-26T10:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:01:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037107577679732755",
+          "2037108823996187115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ニュース｜　元AKB48で俳優の前田敦子が「これが最後」と語るメモリアル写真集『前田敦子写真集 Beste（べステ）』（講談社）を2月13日に発売。また、自身初となる「電子版写真集」（特典カットつき）も3月18日にリリースした。リリース後は主要電子書店にて軒並み1位を獲得したことが大きく話題となり、このたび重版が決定した。それを記念して未公開カット2点が公開された。　撮影は中欧オーストリアのウィーンで実施。歴史と芸術、音楽が息づく街並みの中で、「大人の恋」をテーマに撮り下ろされた。愛する人と過ごす夢のような時間と現実の狭間で揺れる女性の心情を、繊細な表情で表現している。",
+              "display_url": "oricon.co.jp/news/2444836/f…",
+              "end": 68,
+              "expanded_url": "https://www.oricon.co.jp/news/2444836/full/?utm_source=Twitter&utm_medium=social&ref_cd=tw_pic",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/2037107579739136000/UQp0NeBv?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037107579739136000/UQp0NeBv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "前田敦子、“過去最大露出”に挑戦した写真集が重版決定　インパクト大の未公開カット2枚公開",
+              "unwound_url": "https://www.oricon.co.jp/news/2444836/full/?utm_source=Twitter&utm_medium=social&ref_cd=tw_pic",
+              "url": "https://t.co/yveYXzniS2"
+            },
+            {
+              "display_url": "pic.x.com/gQOHYku4oI",
+              "end": 92,
+              "expanded_url": "https://x.com/oricon/status/2037108823996187115/photo/1",
+              "media_key": "3_2037108783613435907",
+              "start": 69,
+              "url": "https://t.co/gQOHYku4oI"
+            },
+            {
+              "display_url": "pic.x.com/gQOHYku4oI",
+              "end": 92,
+              "expanded_url": "https://x.com/oricon/status/2037108823996187115/photo/1",
+              "media_key": "3_2037108794283745283",
+              "start": 69,
+              "url": "https://t.co/gQOHYku4oI"
+            },
+            {
+              "display_url": "pic.x.com/gQOHYku4oI",
+              "end": 92,
+              "expanded_url": "https://x.com/oricon/status/2037108823996187115/photo/1",
+              "media_key": "3_2037108809982959616",
+              "start": 69,
+              "url": "https://t.co/gQOHYku4oI"
+            },
+            {
+              "display_url": "pic.x.com/gQOHYku4oI",
+              "end": 92,
+              "expanded_url": "https://x.com/oricon/status/2037108823996187115/photo/1",
+              "media_key": "3_2037108816618323968",
+              "start": 69,
+              "url": "https://t.co/gQOHYku4oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037108823996187115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11509,
+          "impression_count": 4950838,
+          "like_count": 27797,
+          "quote_count": 494,
+          "reply_count": 559,
+          "retweet_count": 865
+        },
+        "reply_settings": "everyone",
+        "text": "前田敦子、“過去最大露出”に挑戦した写真集が重版決定　インパクト大の未公開カット2枚公開\nhttps://t.co/yveYXzniS2 https://t.co/gQOHYku4oI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6448,
+          "following_count": 1918,
+          "like_count": 22292,
+          "listed_count": 27,
+          "media_count": 450,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-07T14:15:16.000Z",
+        "description": "オリコン【公式】です👑 芸能ニュースやオリコンランキング、音楽、ドラマ、アニメ、お笑い、映画など、最新エンタメ情報を中心に配信👩‍🍳\n\n試写会やイベント、チェキなどプレゼントもチェックしてね⇒ #オリコンプレゼント🎁",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 97,
+                "tag": "オリコンプレゼント"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.oricon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/lP08ujpcGi"
+              }
+            ]
+          }
+        },
+        "id": "95207674",
+        "location": "東京都港区六本木",
+        "name": "オリコンニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973257109249859584/WFHRjCtC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771372,
+          "following_count": 2780,
+          "like_count": 6888,
+          "listed_count": 7584,
+          "media_count": 143906,
+          "tweet_count": 762166
+        },
+        "url": "https://t.co/lP08ujpcGi",
+        "username": "oricon",
+        "verified": true
+      }
+    ]
+  }
+}

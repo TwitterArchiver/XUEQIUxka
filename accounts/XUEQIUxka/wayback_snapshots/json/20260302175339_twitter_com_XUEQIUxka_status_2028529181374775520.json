@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2028529181374775520",
+    "created_at": "2026-03-02T17:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028529181374775520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2028360290879045640",
+          "start": 10,
+          "url": "https://t.co/yuQOPI44Ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028529181374775520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028360290879045640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牢唐活了 散了散了 https://t.co/yuQOPI44Ku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028360288182095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYu73WaUAASAJl.jpg",
+        "width": 352
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028360287758561281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYu71xbsAEb_K8.jpg",
+        "width": 513
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028360287511040000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYu702a0AAV_tc.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2028529181374775520",
+        "created_at": "2026-03-02T17:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028529181374775520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2028360290879045640",
+              "start": 10,
+              "url": "https://t.co/yuQOPI44Ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028529181374775520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028360290879045640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢唐活了 散了散了 https://t.co/yuQOPI44Ku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028360288182095872",
+            "3_2028360287758561281",
+            "3_2028360287511040000"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028360290879045640",
+        "created_at": "2026-03-02T06:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028360290879045640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqrifBAxrg",
+              "end": 45,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028360290879045640/photo/1",
+              "media_key": "3_2028360288182095872",
+              "start": 22,
+              "url": "https://t.co/aqrifBAxrg"
+            },
+            {
+              "display_url": "pic.x.com/aqrifBAxrg",
+              "end": 45,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028360290879045640/photo/1",
+              "media_key": "3_2028360287758561281",
+              "start": 22,
+              "url": "https://t.co/aqrifBAxrg"
+            },
+            {
+              "display_url": "pic.x.com/aqrifBAxrg",
+              "end": 45,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028360290879045640/photo/1",
+              "media_key": "3_2028360287511040000",
+              "start": 22,
+              "url": "https://t.co/aqrifBAxrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028360290879045640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2918,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的评价是老唐包死不掉的\n让我们来，看复活 https://t.co/aqrifBAxrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5906,
+          "following_count": 1523,
+          "like_count": 20340,
+          "listed_count": 25,
+          "media_count": 322,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

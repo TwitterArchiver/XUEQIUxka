@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2044873678912127293",
+    "created_at": "2026-04-17T02:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044972131986092466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1946204672748085248",
+          "start": 0,
+          "username": "46f___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044972131986092466",
+    "in_reply_to_user_id": "1946204672748085248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044873678912127293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@46f___ 好喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2044873678912127293",
+        "created_at": "2026-04-17T02:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044972131986092466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1946204672748085248",
+              "start": 0,
+              "username": "46f___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044972131986092466",
+        "in_reply_to_user_id": "1946204672748085248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044873678912127293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@46f___ 好喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946204672748085248",
+        "conversation_id": "2044873678912127293",
+        "created_at": "2026-04-16T20:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T21:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044873678912127293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2044506047377776952",
+              "start": 30,
+              "url": "https://t.co/3SL84d4CGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044873678912127293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044506047377776952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活着的意义我已经找到了。那就是和对象抱抱亲亲蹭蹭贴贴摸摸。 https://t.co/3SL84d4CGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6991,
+          "following_count": 2106,
+          "like_count": 26131,
+          "listed_count": 27,
+          "media_count": 712,
+          "tweet_count": 3770
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T13:46:02.000Z",
+        "description": "谢谢你喜欢我的画。我的精神状态一直不太好，所以这个账号大多时候是用来发泄情绪的。请务必谨慎关注。我不想影响你的心情或者伤害到你。真的对不起。老婆@aen9kec",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "aen9kec"
+              }
+            ]
+          }
+        },
+        "id": "1946204672748085248",
+        "name": "……",
+        "pinned_tweet_id": "1983947431583879604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032968331310096384/AATkjhUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 211,
+          "like_count": 4861,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 3384
+        },
+        "username": "46f___",
+        "verified": false
+      }
+    ]
+  }
+}

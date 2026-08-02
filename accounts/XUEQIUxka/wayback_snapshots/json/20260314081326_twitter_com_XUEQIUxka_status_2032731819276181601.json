@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032731816449159168"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2032731819276181601",
+    "created_at": "2026-03-14T08:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032731819276181601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a1Sk52ci3y",
+          "end": 110,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2032731819276181601/photo/1",
+          "media_key": "3_2032731816449159168",
+          "start": 87,
+          "url": "https://t.co/a1Sk52ci3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032731819276181601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "人生会经历三次死亡\n​第一次是生物学意义上的死亡： 当你的心脏停止跳动，呼吸消散，医生宣告你离开了这个世界。这是我们肉体与这个喧嚣尘世的终结\n​第二次是社会学意义上的死亡： 当你被下葬，在葬礼上，所有的亲朋好友聚在一起。那一天，你在社会关系网络中的位置被注销了，人们开始在心中为你保留一个位置，你从现实的互动中退场\n​第三次是终极的消失： 这是最寂静、也最令人心碎的告别。当世界上最后一个记得你、念着你名字的人也离开了，或者当最后一段关于你的记忆从这世上彻底抹去时，你才真正意义上地、彻彻底底地消失了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人生会经历三次死亡\n​第一次是生物学意义上的死亡： 当你的心脏停止跳动，呼吸消散，医生宣告你离开了这个世界。这是我们肉体与这个喧嚣尘世的终结\n​第二次是社会学意义上的死亡： https://t.co/a1Sk52ci3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2032731816449159168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW20TMWMAACgOH.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032731816449159168"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2032731819276181601",
+        "created_at": "2026-03-14T08:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032731819276181601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1Sk52ci3y",
+              "end": 110,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2032731819276181601/photo/1",
+              "media_key": "3_2032731816449159168",
+              "start": 87,
+              "url": "https://t.co/a1Sk52ci3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032731819276181601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人生会经历三次死亡\n​第一次是生物学意义上的死亡： 当你的心脏停止跳动，呼吸消散，医生宣告你离开了这个世界。这是我们肉体与这个喧嚣尘世的终结\n​第二次是社会学意义上的死亡： 当你被下葬，在葬礼上，所有的亲朋好友聚在一起。那一天，你在社会关系网络中的位置被注销了，人们开始在心中为你保留一个位置，你从现实的互动中退场\n​第三次是终极的消失： 这是最寂静、也最令人心碎的告别。当世界上最后一个记得你、念着你名字的人也离开了，或者当最后一段关于你的记忆从这世上彻底抹去时，你才真正意义上地、彻彻底底地消失了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生会经历三次死亡\n​第一次是生物学意义上的死亡： 当你的心脏停止跳动，呼吸消散，医生宣告你离开了这个世界。这是我们肉体与这个喧嚣尘世的终结\n​第二次是社会学意义上的死亡： https://t.co/a1Sk52ci3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5986,
+          "following_count": 1543,
+          "like_count": 20829,
+          "listed_count": 26,
+          "media_count": 348,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

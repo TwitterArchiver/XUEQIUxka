@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036442381436985786",
+    "created_at": "2026-03-24T14:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036443893194170785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574516663935901696",
+          "start": 0,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036443893194170785",
+    "in_reply_to_user_id": "1574516663935901696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036442381436985786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjupaian 虽然人风评不好，但是还是 R.I.P."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2036442375598514178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELljRMaIAI9tq8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036442381436985786",
+        "created_at": "2026-03-24T14:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036443893194170785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036443893194170785",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036442381436985786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 虽然人风评不好，但是还是 R.I.P."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036442375598514178"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2036442381436985786",
+        "created_at": "2026-03-24T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036442381436985786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1m2Yn9Mgq",
+              "end": 51,
+              "expanded_url": "https://x.com/wangjupaian/status/2036442381436985786/photo/1",
+              "media_key": "3_2036442375598514178",
+              "start": 28,
+              "url": "https://t.co/G1m2Yn9Mgq"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2036415651594867099",
+              "start": 52,
+              "url": "https://t.co/SU9eXGgzea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036442381436985786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1272,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036415651594867099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张雪峰讣告：\n2026年3月24日15:50在苏州逝世 https://t.co/G1m2Yn9Mgq https://t.co/SU9eXGgzea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 1837,
+          "like_count": 21789,
+          "listed_count": 27,
+          "media_count": 432,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2036243153184039163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121578,
+          "following_count": 284,
+          "like_count": 197,
+          "listed_count": 346,
+          "media_count": 5050,
+          "tweet_count": 5663
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

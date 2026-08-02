@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2034942239521308758",
+    "created_at": "2026-03-20T11:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034956210517225889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021168484949032963",
+          "start": 0,
+          "username": "oestrogel2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034956210517225889",
+    "in_reply_to_user_id": "2021168484949032963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034942239521308758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oestrogel2233 好看喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034942236295929859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2RLqzboAMOkd3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 922,
+        "media_key": "3_2034942235599675394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2RLoNboAIzZ-M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2034942239521308758",
+        "created_at": "2026-03-20T11:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034956210517225889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021168484949032963",
+              "start": 0,
+              "username": "oestrogel2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034956210517225889",
+        "in_reply_to_user_id": "2021168484949032963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034942239521308758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oestrogel2233 好看喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034942236295929859",
+            "3_2034942235599675394"
+          ]
+        },
+        "author_id": "2021168484949032963",
+        "conversation_id": "2034942239521308758",
+        "created_at": "2026-03-20T10:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034942239521308758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMXu2rjyTV",
+              "end": 42,
+              "expanded_url": "https://x.com/oestrogel2233/status/2034942239521308758/photo/1",
+              "media_key": "3_2034942236295929859",
+              "start": 19,
+              "url": "https://t.co/LMXu2rjyTV"
+            },
+            {
+              "display_url": "pic.x.com/LMXu2rjyTV",
+              "end": 42,
+              "expanded_url": "https://x.com/oestrogel2233/status/2034942239521308758/photo/1",
+              "media_key": "3_2034942235599675394",
+              "start": 19,
+              "url": "https://t.co/LMXu2rjyTV"
+            },
+            {
+              "display_url": "x.com/oestrogel2233/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/oestrogel2233/status/2034611927020872135",
+              "start": 43,
+              "url": "https://t.co/akDcIotXFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034942239521308758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 760,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034611927020872135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那，穿穿（？）同学为什么会买这个啊😰 https://t.co/LMXu2rjyTV https://t.co/akDcIotXFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6263,
+          "following_count": 1778,
+          "like_count": 21418,
+          "listed_count": 26,
+          "media_count": 387,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T10:25:07.000Z",
+        "description": "哈基远二代目（大悲）\n生日0301，扩列贴贴，现居成都）\n前文明：@dizoclipine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "dizoclipine"
+              }
+            ]
+          }
+        },
+        "id": "2021168484949032963",
+        "location": "床上",
+        "name": "小蠢猫猫🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021171816509943808/c93wySm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 53,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 56
+        },
+        "username": "oestrogel2233",
+        "verified": false
+      }
+    ]
+  }
+}

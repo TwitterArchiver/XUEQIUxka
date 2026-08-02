@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033325878403592296",
+    "created_at": "2026-03-16T06:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033430582278205845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398533770181963776",
+          "start": 0,
+          "username": "borislam18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033430582278205845",
+    "in_reply_to_user_id": "1398533770181963776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033325878403592296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borislam18 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033325878403592296",
+        "created_at": "2026-03-16T06:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033430582278205845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398533770181963776",
+              "start": 0,
+              "username": "borislam18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033430582278205845",
+        "in_reply_to_user_id": "1398533770181963776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033325878403592296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borislam18 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398533770181963776",
+        "conversation_id": "2033325878403592296",
+        "created_at": "2026-03-15T23:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T00:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033325878403592296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033325878403592296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8482,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 182,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宣布一个决定：\n\n所有互关的蓝V，我会全力互动——争取每条都评，每条都赞。\n\n原因很简单：\n\n1. 互关就是战友\n2. 算法需要互动信号\n3. 我懒得挑挑拣拣\n\n评论区留个言，优先。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "家长党"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "MTF"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "HRT"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "Les"
+              },
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "双相"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ADHD"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6062,
+          "following_count": 1581,
+          "like_count": 21059,
+          "listed_count": 26,
+          "media_count": 355,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T06:57:27.000Z",
+        "description": "Crypto world, web 3. Olandbox Community",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oland.info/tesla.o",
+                "end": 23,
+                "expanded_url": "https://oland.info/tesla.o",
+                "start": 0,
+                "url": "https://t.co/V2TNhTNsq6"
+              }
+            ]
+          }
+        },
+        "id": "1398533770181963776",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "Boris ꧁IP꧂",
+        "pinned_tweet_id": "1626153189799243776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716752614707318784/PRAunQy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8360,
+          "following_count": 6467,
+          "like_count": 13657,
+          "listed_count": 12,
+          "media_count": 255,
+          "tweet_count": 8786
+        },
+        "url": "https://t.co/V2TNhTNsq6",
+        "username": "borislam18",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037283807607570433",
+        "3_2037283806986805249"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037283810069696816",
+    "created_at": "2026-03-26T21:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T22:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037283810069696816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459356998097850370",
+          "start": 6,
+          "username": "Aequoia1"
+        },
+        {
+          "end": 32,
+          "id": "1543982488019963905",
+          "start": 16,
+          "username": "XPz7qZexOZH76pb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pv8q4klOpA",
+          "end": 95,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2037283810069696816/photo/1",
+          "media_key": "3_2037283807607570433",
+          "start": 72,
+          "url": "https://t.co/pv8q4klOpA"
+        },
+        {
+          "display_url": "pic.x.com/pv8q4klOpA",
+          "end": 95,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2037283810069696816/photo/1",
+          "media_key": "3_2037283806986805249",
+          "start": 72,
+          "url": "https://t.co/pv8q4klOpA"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2037123082750701733",
+          "start": 96,
+          "url": "https://t.co/b431SdibyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037283810069696816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037123082750701733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜中奖～\n@Aequoia1\n@XPz7qZexOZH76pb\n请私信我领小礼物一份哦～\n奖品于15个工作日内发出，另外原贴评论的会黑幕几个 https://t.co/pv8q4klOpA https://t.co/b431SdibyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037283807607570433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXi1DsawAEpXEZ.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037283806986805249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXi1BYaoAERINO.jpg",
+        "width": 907
+      },
+      {
+        "height": 2883,
+        "media_key": "3_2037123066426519552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVQosIbcAAdyP2.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2037123066577510401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVQossbYAEuazt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037283807607570433",
+            "3_2037283806986805249"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037283810069696816",
+        "created_at": "2026-03-26T21:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037283810069696816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459356998097850370",
+              "start": 6,
+              "username": "Aequoia1"
+            },
+            {
+              "end": 32,
+              "id": "1543982488019963905",
+              "start": 16,
+              "username": "XPz7qZexOZH76pb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pv8q4klOpA",
+              "end": 95,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037283810069696816/photo/1",
+              "media_key": "3_2037283807607570433",
+              "start": 72,
+              "url": "https://t.co/pv8q4klOpA"
+            },
+            {
+              "display_url": "pic.x.com/pv8q4klOpA",
+              "end": 95,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037283810069696816/photo/1",
+              "media_key": "3_2037283806986805249",
+              "start": 72,
+              "url": "https://t.co/pv8q4klOpA"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2037123082750701733",
+              "start": 96,
+              "url": "https://t.co/b431SdibyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037283810069696816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037123082750701733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜中奖～\n@Aequoia1\n@XPz7qZexOZH76pb\n请私信我领小礼物一份哦～\n奖品于15个工作日内发出，另外原贴评论的会黑幕几个 https://t.co/pv8q4klOpA https://t.co/b431SdibyT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037123066426519552",
+            "3_2037123066577510401"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037123082750701733",
+        "created_at": "2026-03-26T11:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037123082750701733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEe2jgZsTX",
+              "end": 61,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037123082750701733/photo/1",
+              "media_key": "3_2037123066426519552",
+              "start": 38,
+              "url": "https://t.co/ZEe2jgZsTX"
+            },
+            {
+              "display_url": "pic.x.com/ZEe2jgZsTX",
+              "end": 61,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037123082750701733/photo/1",
+              "media_key": "3_2037123066577510401",
+              "start": 38,
+              "url": "https://t.co/ZEe2jgZsTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123082750701733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2021,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 5
+        },
+        "reply_settings": "other",
+        "text": "测试推文\n可以回复的都是可爱的真人推油喵\n回复在评论区抽2位获得小礼物一份 https://t.co/ZEe2jgZsTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 1930,
+          "like_count": 22330,
+          "listed_count": 27,
+          "media_count": 453,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "name": "Ich1noseyukI🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 451,
+          "like_count": 5392,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 862
+        },
+        "username": "Aequoia1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:38:41.000Z",
+        "description": "一个普普通通的xyn，也许是xnn，未含糖，mtf/hrt未开始。未来的我想做一个安静的xnn/xyn，最终的梦想是想变成自己内心的另一个她。\n小号@LiFeng88725",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "LiFeng88725"
+              }
+            ]
+          }
+        },
+        "id": "1543982488019963905",
+        "name": "秋风 🍁🍂🫧🍥🏳️‍⚧️🍭🍬一直陪伴在你身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991527620484427783/O5xvpGxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 2225,
+          "like_count": 966,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 620
+        },
+        "username": "XPz7qZexOZH76pb",
+        "verified": false
+      }
+    ]
+  }
+}

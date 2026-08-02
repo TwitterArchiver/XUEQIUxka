@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035541258765271073",
+    "created_at": "2026-03-22T04:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035572811398586840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1729865206501883904",
+          "start": 0,
+          "username": "yan_qing35527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035572811398586840",
+    "in_reply_to_user_id": "1729865206501883904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035541258765271073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_qing35527 其实是好吃的，新疆也并没有很贵，但是一块30+还是吃不起("
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77633,
+        "height": 960,
+        "media_key": "13_2035540545985249280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035540545985249280/img/TxV64brtuHPPmY2F.jpg",
+        "public_metrics": {
+          "view_count": 23611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035540545985249280/vid/avc1/320x426/wPduY81lzKic5gji.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035540545985249280/vid/avc1/480x640/_rW2TW6nRwzEYZ9b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035540545985249280/vid/avc1/720x960/exnuexY3fKZPFrrk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035540545985249280/pl/M6vdzPjkiuHlsesV.m3u8?v=103"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035541258765271073",
+        "created_at": "2026-03-22T04:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035572811398586840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1729865206501883904",
+              "start": 0,
+              "username": "yan_qing35527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035572811398586840",
+        "in_reply_to_user_id": "1729865206501883904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035541258765271073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_qing35527 其实是好吃的，新疆也并没有很贵，但是一块30+还是吃不起("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035540545985249280"
+          ]
+        },
+        "author_id": "1729865206501883904",
+        "conversation_id": "2035541258765271073",
+        "created_at": "2026-03-22T02:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035541258765271073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5947y4uTgP",
+              "end": 43,
+              "expanded_url": "https://x.com/yan_qing35527/status/2035541258765271073/video/1",
+              "media_key": "13_2035540545985249280",
+              "start": 20,
+              "url": "https://t.co/5947y4uTgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035541258765271073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 40003,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "50，一克？！买新疆切糕翻车现场😆😆😆 https://t.co/5947y4uTgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 1802,
+          "like_count": 21574,
+          "listed_count": 26,
+          "media_count": 410,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-29T14:10:25.000Z",
+        "description": "Share the good things with you!🌿🙏",
+        "id": "1729865206501883904",
+        "name": "Yanqing Liu",
+        "pinned_tweet_id": "1921886819542564888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729865646497001473/r9EZ94Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11721,
+          "following_count": 2432,
+          "like_count": 19208,
+          "listed_count": 28,
+          "media_count": 2346,
+          "tweet_count": 9330
+        },
+        "username": "yan_qing35527",
+        "verified": true
+      }
+    ]
+  }
+}

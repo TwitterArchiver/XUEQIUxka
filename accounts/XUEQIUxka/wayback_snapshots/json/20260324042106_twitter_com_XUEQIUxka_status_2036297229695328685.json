@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036237358648246738",
+    "created_at": "2026-03-24T04:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036297229695328685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938803593576067072",
+          "start": 0,
+          "username": "Adam38363368936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036297229695328685",
+    "in_reply_to_user_id": "1938803593576067072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036237358648246738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adam38363368936 有点意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15446,
+        "height": 1280,
+        "media_key": "13_2036234787720142849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036234787720142849/img/A5LsMzqAgZx1tj3z.jpg",
+        "public_metrics": {
+          "view_count": 4712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036234787720142849/vid/avc1/320x702/O1csYLqg7Xe73O4m.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036234787720142849/vid/avc1/480x1054/cppE6IAenjvDSNh1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036234787720142849/vid/avc1/582x1280/zIl6dz2PucdFw5rj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036234787720142849/pl/FbvHHqNRuYP5lfda.m3u8?v=c31"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036234787699171328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEIowEAaIAAuwZg.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036237358648246738",
+        "created_at": "2026-03-24T04:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036297229695328685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938803593576067072",
+              "start": 0,
+              "username": "Adam38363368936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036297229695328685",
+        "in_reply_to_user_id": "1938803593576067072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036237358648246738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adam38363368936 有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036234787720142849",
+            "3_2036234787699171328"
+          ]
+        },
+        "author_id": "1938803593576067072",
+        "conversation_id": "2036237358648246738",
+        "created_at": "2026-03-24T00:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036237358648246738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbvnCiuDFy",
+              "end": 147,
+              "expanded_url": "https://x.com/Adam38363368936/status/2036237358648246738/video/1",
+              "media_key": "13_2036234787720142849",
+              "start": 124,
+              "url": "https://t.co/hbvnCiuDFy"
+            },
+            {
+              "display_url": "pic.x.com/hbvnCiuDFy",
+              "end": 147,
+              "expanded_url": "https://x.com/Adam38363368936/status/2036237358648246738/video/1",
+              "media_key": "3_2036234787699171328",
+              "start": 124,
+              "url": "https://t.co/hbvnCiuDFy"
+            },
+            {
+              "display_url": "x.com/Adam3836336893…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Adam38363368936/status/2036033090502672702",
+              "start": 148,
+              "url": "https://t.co/aFFZujqIdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036237358648246738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天看到了老板做的“AI门窗突击”，今天就又看到复刻版的“AI窗帘挡子弹”，没想到现在抖音也能看到群众演的抗日片小短剧了😂\n\n如今实体行业难做呀，这个老板为了卖出产品使出浑身解数，普通的广告视频加起来的流量都没有这一条自己出镜的AI小短剧流量好😅\n\n拍厂房、拍产品建立信任，拍段子和视频引流，既有情绪价值又有产品价值，这不就省了投流的费用嘛！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 13558,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036033090502672702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天看到了老板做的“AI门窗突击”，今天就又看到复刻版的“AI窗帘挡子弹”，没想到现在抖音也能看到群众演的抗日片小短剧了😂\n\n如今实体行业难做呀，这个老板为了卖出产品使出浑身解数，普通的广告视频加起来的流量都没有这一条自己出镜的AI小短剧流量好😅 https://t.co/hbvnCiuDFy https://t.co/aFFZujqIdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6335,
+          "following_count": 1820,
+          "like_count": 21709,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T03:42:42.000Z",
+        "description": "AI Vision & Business | Discovering beauty and value with AI.\n\n5M+ Views | 靠 AI 实战拿到的流量验证  \nAI Lab | 专注视觉美学、提效应用与 IP 变现\n用 AI 发现美和有趣的事物，顺便探索搞钱方式",
+        "id": "1938803593576067072",
+        "name": "Adam也叫吉米",
+        "pinned_tweet_id": "2032386180235546938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939170082405396480/QvHt62st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9914,
+          "following_count": 1114,
+          "like_count": 3501,
+          "listed_count": 114,
+          "media_count": 587,
+          "tweet_count": 3597
+        },
+        "username": "Adam38363368936",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2053096999969550613",
+    "created_at": "2026-05-09T12:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053096999969550613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cavityuk/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/cavityuk/status/2053096695681192221",
+          "start": 7,
+          "url": "https://t.co/7hyqyVhtc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053096999969550613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053096695681192221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶，很好看 https://t.co/7hyqyVhtc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "雪秋酱！",
+        "height": 2048,
+        "media_key": "3_2053096370312232960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4QRWIawAAtV9f.jpg",
+        "width": 1063
+      },
+      {
+        "alt_text": "uu老婆的自设",
+        "height": 2048,
+        "media_key": "3_2053096315752726528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4QOK4awAAMWRC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2053096999969550613",
+        "created_at": "2026-05-09T12:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053096999969550613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cavityuk/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cavityuk/status/2053096695681192221",
+              "start": 7,
+              "url": "https://t.co/7hyqyVhtc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053096999969550613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053096695681192221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶，很好看 https://t.co/7hyqyVhtc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053096370312232960",
+            "3_2053096315752726528"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2053096695681192221",
+        "created_at": "2026-05-09T12:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053096695681192221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1368897611672018953",
+              "start": 85,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 109,
+              "id": "1943561677762646016",
+              "start": 100,
+              "username": "qusuunmd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVx159Iu3c",
+              "end": 145,
+              "expanded_url": "https://x.com/cavityuk/status/2053096695681192221/photo/1",
+              "media_key": "3_2053096370312232960",
+              "start": 122,
+              "url": "https://t.co/hVx159Iu3c"
+            },
+            {
+              "display_url": "pic.x.com/hVx159Iu3c",
+              "end": 145,
+              "expanded_url": "https://x.com/cavityuk/status/2053096695681192221/photo/1",
+              "media_key": "3_2053096315752726528",
+              "start": 122,
+              "url": "https://t.co/hVx159Iu3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053096695681192221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一放完假回来考了个期中考捏 感觉考砸了捏……(下次一定好好复习……\n\n不过不影响我考试的时候画画（答完卷子啦！）嘻嘻(好吧其实不要学，，大家一定好好检查w！！\n\np1:@XUEQIUxka  p2:@qusuunmd \n\np2姆明 友情出场 https://t.co/hVx159Iu3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8300,
+          "following_count": 2190,
+          "like_count": 29272,
+          "listed_count": 27,
+          "media_count": 1241,
+          "tweet_count": 4878
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也可以是cavityuk～\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi",
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 30,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 156
+        },
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

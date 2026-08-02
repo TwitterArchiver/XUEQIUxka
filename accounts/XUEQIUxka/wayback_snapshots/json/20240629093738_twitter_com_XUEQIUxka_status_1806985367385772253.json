@@ -1,0 +1,269 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1806985367385772253",
+    "created_at": "2024-06-29T09:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T10:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806985367385772253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1698217396849582080",
+          "start": 3,
+          "username": "WZ305_ZTZ69"
+        },
+        {
+          "end": 31,
+          "id": "1368897611672018953",
+          "start": 21,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806985367385772253",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806931710338109522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WZ305_ZTZ69: 问题是 @XUEQIUxka 最近日期的那两条，本来就是在质问那些人，你不是想看热闹吗，你不是想看六子剖腹取粉吗？你们这样才高兴，那么如果我(yue)现在告诉你们雪球复活了，你们是不是就开心了，告诉所有人，这一切都是导演出来的呢？\n事实证明确实…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1806985367385772253",
+        "created_at": "2024-06-29T09:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T10:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806985367385772253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1698217396849582080",
+              "start": 3,
+              "username": "WZ305_ZTZ69"
+            },
+            {
+              "end": 31,
+              "id": "1368897611672018953",
+              "start": 21,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806985367385772253",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806931710338109522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WZ305_ZTZ69: 问题是 @XUEQIUxka 最近日期的那两条，本来就是在质问那些人，你不是想看热闹吗，你不是想看六子剖腹取粉吗？你们这样才高兴，那么如果我(yue)现在告诉你们雪球复活了，你们是不是就开心了，告诉所有人，这一切都是导演出来的呢？\n事实证明确实…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1698217396849582080",
+        "conversation_id": "1806931710338109522",
+        "created_at": "2024-06-29T06:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T07:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806931710338109522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806931710338109522",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问题是 @XUEQIUxka 最近日期的那两条，本来就是在质问那些人，你不是想看热闹吗，你不是想看六子剖腹取粉吗？你们这样才高兴，那么如果我(yue)现在告诉你们雪球复活了，你们是不是就开心了，告诉所有人，这一切都是导演出来的呢？\n事实证明确实如此，绝大多数人甚至根本没明白在说什么就开始狂欢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4590,
+          "following_count": 1475,
+          "like_count": 18543,
+          "listed_count": 19,
+          "tweet_count": 1592
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T06:12:47.000Z",
+        "description": "Sabrin-Ultravisonary Socialist\n#TNO player\n#Communist\n#Warthunder\n#Femboy\n#OGAS/ОГАС\nLGBTQ+friendly\nLive in PRC Guizhou\n她she/他he/祂it",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "TNO"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "tag": "Communist"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "Warthunder"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "tag": "Femboy"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "OGAS"
+              }
+            ]
+          }
+        },
+        "id": "1698217396849582080",
+        "location": "Der welt die Arbeit",
+        "name": "WZ305🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751267461243285504/Ig5Yli27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 102,
+          "like_count": 451,
+          "listed_count": 0,
+          "tweet_count": 414
+        },
+        "username": "WZ305_ZTZ69",
+        "verified": false
+      }
+    ]
+  }
+}

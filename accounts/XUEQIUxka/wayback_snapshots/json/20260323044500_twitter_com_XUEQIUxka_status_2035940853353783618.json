@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035940853353783618",
+    "created_at": "2026-03-23T04:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035940853353783618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiweisama1220…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/weiweisama1220/status/2035900718163623943",
+          "start": 8,
+          "url": "https://t.co/3vv4aSfYL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035940853353783618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035900718163623943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望你天天开心 https://t.co/3vv4aSfYL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2035900702887907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED45xGaEAAvoCG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2035900702850170880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED45w9aQAAK1fB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035940853353783618",
+        "created_at": "2026-03-23T04:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035940853353783618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiweisama1220…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/weiweisama1220/status/2035900718163623943",
+              "start": 8,
+              "url": "https://t.co/3vv4aSfYL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035940853353783618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035900718163623943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望你天天开心 https://t.co/3vv4aSfYL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035900702887907328",
+            "3_2035900702850170880"
+          ]
+        },
+        "author_id": "1890498415974305792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035900718163623943",
+        "created_at": "2026-03-23T02:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035900718163623943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDwj509haI",
+              "end": 72,
+              "expanded_url": "https://x.com/weiweisama1220/status/2035900718163623943/photo/1",
+              "media_key": "3_2035900702887907328",
+              "start": 49,
+              "url": "https://t.co/ZDwj509haI"
+            },
+            {
+              "display_url": "pic.x.com/ZDwj509haI",
+              "end": 72,
+              "expanded_url": "https://x.com/weiweisama1220/status/2035900718163623943/photo/1",
+              "media_key": "3_2035900702850170880",
+              "start": 49,
+              "url": "https://t.co/ZDwj509haI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035900718163623943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢来自@XUEQIUxka 的礼物\n（这个TNT真的非常好看😋😋😋）\n而且还有小零食（好吃🤤） https://t.co/ZDwj509haI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21642,
+          "listed_count": 27,
+          "media_count": 419,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T20:28:49.000Z",
+        "description": "mtf丨生产日期Dec20.2009丨HRT Jan29.2026丨喜欢可爱的东西qwq丨贴贴抱抱重度依赖丨坐标福建泉州丨已炸柜（家长不管）丨大可爱缘缘@Lainyer051230丨最好的姐姐/老婆（确信）@Cc739108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Lainyer051230"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Cc739108"
+              }
+            ]
+          }
+        },
+        "id": "1890498415974305792",
+        "name": "唯唯sama🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031035979742720000/A2FsD6dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 419,
+          "like_count": 5079,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 634
+        },
+        "username": "weiweisama1220",
+        "verified": false
+      }
+    ]
+  }
+}

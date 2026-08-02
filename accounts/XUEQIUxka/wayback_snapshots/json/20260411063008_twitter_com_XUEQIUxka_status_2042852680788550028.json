@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042841670107172920",
+    "created_at": "2026-04-11T06:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042852680788550028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035979603198763008",
+          "start": 0,
+          "username": "longdechen12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042852680788550028",
+    "in_reply_to_user_id": "2035979603198763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042841670107172920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longdechen12 不得不说，现在的ai还是太好用了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042841643473305600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmhpruaAAAYTOG.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042841642030501893",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmhpmWakAUSMVa.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042841670107172920",
+        "created_at": "2026-04-11T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042852680788550028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035979603198763008",
+              "start": 0,
+              "username": "longdechen12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042852680788550028",
+        "in_reply_to_user_id": "2035979603198763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042841670107172920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longdechen12 不得不说，现在的ai还是太好用了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042841643473305600",
+            "3_2042841642030501893"
+          ]
+        },
+        "author_id": "2035979603198763008",
+        "conversation_id": "2042841670107172920",
+        "created_at": "2026-04-11T05:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042841670107172920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQ8v6lJHfy",
+              "end": 95,
+              "expanded_url": "https://x.com/longdechen12/status/2042841670107172920/photo/1",
+              "media_key": "3_2042841643473305600",
+              "start": 72,
+              "url": "https://t.co/HQ8v6lJHfy"
+            },
+            {
+              "display_url": "pic.x.com/HQ8v6lJHfy",
+              "end": 95,
+              "expanded_url": "https://x.com/longdechen12/status/2042841670107172920/photo/1",
+              "media_key": "3_2042841642030501893",
+              "start": 72,
+              "url": "https://t.co/HQ8v6lJHfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042841670107172920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包维权成功，yyds。\n\n平台已代商家赔付全部金额。\n\n没想到如今的商家套路这么深，\n\n大家感兴趣的话，\n\n后面我整理一份维权以及避坑指南。 https://t.co/HQ8v6lJHfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6797,
+          "following_count": 2042,
+          "like_count": 25023,
+          "listed_count": 27,
+          "media_count": 628,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T07:27:55.000Z",
+        "description": "02 年｜INFP｜摩羯座 国家工信部 AI 智能体官方导师  我不教你用 AI，我帮你找到在 AI 时代属于你的位置。",
+        "id": "2035979603198763008",
+        "location": "湖南长沙",
+        "name": "观自",
+        "pinned_tweet_id": "2042583962917523876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035982151884443648/4Y5VVEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4428,
+          "following_count": 75,
+          "like_count": 419,
+          "listed_count": 21,
+          "media_count": 22,
+          "tweet_count": 482
+        },
+        "username": "longdechen12",
+        "verified": true
+      }
+    ]
+  }
+}

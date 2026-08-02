@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038861595720511941",
+    "created_at": "2026-03-31T09:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038917865412202559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724854632152006656",
+          "start": 0,
+          "username": "manguan235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038917865412202559",
+    "in_reply_to_user_id": "1724854632152006656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038861595720511941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manguan235 你永远不知道亲戚会有多不想你上岸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038861595720511941",
+        "created_at": "2026-03-31T09:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038917865412202559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724854632152006656",
+              "start": 0,
+              "username": "manguan235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038917865412202559",
+        "in_reply_to_user_id": "1724854632152006656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038861595720511941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manguan235 你永远不知道亲戚会有多不想你上岸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724854632152006656",
+        "conversation_id": "2038861595720511941",
+        "created_at": "2026-03-31T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038861595720511941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038861595720511941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再给大家讲个真事，我大姨是个狠人。\n她孩子从考公务员到上岸，她一声没吭。直到昨天喊我们聚餐，亲戚们才知道。\n\n她真是太谨慎了，从孩子大学毕业，\n亲戚们问过好多次，是考研还是考公务员。她都含糊其辞，说孩子大了有自己\n的想法她也管不住，随他折腾听说是当\n家教。一节课三百，一个月八九千还行\n\n实际是在考公务员，笔试面试都过了，\n她都没说，嘴特别严。\n\n昨天喊我们聚餐，她随意带了一句，说\n孩子已上岸，在税务局，明天正式上班。话音刚落，众亲戚脸色各异，好在都维\n持了体面，送上真假难辨的祝福。\n\n这顿饭吃得，人人坐立不安。人心就是\n这样，大姨看得很透彻，所以她能稳稳\n成事。\n\n你们身边有这种闷声干大事的狠人吗？\n换作是你，能做到全程不声张吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 33937,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再给大家讲个真事，我大姨是个狠人。\n她孩子从考公务员到上岸，她一声没吭。直到昨天喊我们聚餐，亲戚们才知道。\n\n她真是太谨慎了，从孩子大学毕业，\n亲戚们问过好多次，是考研还是考公务员。她都含糊其辞，说孩子大了有自己\n的想法她也管不住，随他折腾听说是当\n家教。一节课三百，一个月八九千还行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6619,
+          "following_count": 2007,
+          "like_count": 23265,
+          "listed_count": 27,
+          "media_count": 494,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T18:19:40.000Z",
+        "description": "喜欢做Meme投研资源共享/做信息整理分享，拆Meme背后的叙事，数据链/链上情报真实复盘/金融圈野生段子手，分享有趣故事/爱分享，爱交友，爱学习",
+        "id": "1724854632152006656",
+        "name": "大满贯 👑",
+        "pinned_tweet_id": "2035207605849923794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010376122677301248/RKnQY5PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 1429,
+          "like_count": 5525,
+          "listed_count": 11,
+          "media_count": 122,
+          "tweet_count": 2846
+        },
+        "username": "manguan235",
+        "verified": true
+      }
+    ]
+  }
+}

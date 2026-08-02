@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040058989824614843",
+    "created_at": "2026-04-03T17:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040119219870990354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1551155422677323776",
+          "start": 0,
+          "username": "AlanEchoJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040119219870990354",
+    "in_reply_to_user_id": "1551155422677323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040058989824614843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlanEchoJP 永远不要相信你的蘑菇炒熟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040058989824614843",
+        "created_at": "2026-04-03T17:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040119219870990354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1551155422677323776",
+              "start": 0,
+              "username": "AlanEchoJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040119219870990354",
+        "in_reply_to_user_id": "1551155422677323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040058989824614843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanEchoJP 永远不要相信你的蘑菇炒熟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551155422677323776",
+        "conversation_id": "2040058989824614843",
+        "created_at": "2026-04-03T13:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040058989824614843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040058989824614843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人在医院，输完液。\n脑子清了，尊严也没了。\n很多人说会看见小人、太奶招手。\n都太温和了。\n真正的“完了”，不是你看见了什么。\n是你看见离谱的东西——\n却觉得它很合理。\n甚至想给它磕一个。\n\n对我来说，就是——\n我家那只哈士奇，用一口标准伦敦腔点评我的代码：\n“女士，这就是你写的代码？\n这里的梯度下降已经陷入局部最优了。”\n最可怕的不是狗说话。\n是我当时觉得——它说得对。\n我甚至递给它一支红笔，小声问：\n“老师，这里还能收敛吗？”\n\n起因很简单。\n云南朋友寄来见手青。\n说：一定炒熟。\n我没当回事，甚至还上了秒表。\n蒜还是白的。\n我觉得——稳了。\n然后我把它吃完了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5735,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人在医院，输完液。\n脑子清了，尊严也没了。\n很多人说会看见小人、太奶招手。\n都太温和了。\n真正的“完了”，不是你看见了什么。\n是你看见离谱的东西——\n却觉得它很合理。\n甚至想给它磕一个。\n\n对我来说，就是——\n我家那只哈士奇，用一口标准伦敦腔点评我的代码：\n“女士，这就是你写的代码？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6694,
+          "following_count": 2029,
+          "like_count": 23869,
+          "listed_count": 27,
+          "media_count": 538,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-24T10:41:07.000Z",
+        "description": "已婚已育，30+宝妈，脑洞选手，谢谢关注！\n\n轻松搞笑的故事，天马行空的回复，期待你的共鸣！",
+        "id": "1551155422677323776",
+        "location": "日本",
+        "name": "Alan",
+        "pinned_tweet_id": "2039334214093717695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032328634900627456/8-QzL8mm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 1693,
+          "like_count": 3169,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1801
+        },
+        "username": "AlanEchoJP",
+        "verified": true
+      }
+    ]
+  }
+}

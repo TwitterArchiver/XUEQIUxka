@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068332915705118720"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2068110101765148777",
+    "created_at": "2026-06-20T13:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068332923280056803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfzB0yHxoj",
+          "end": 57,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2068332923280056803/photo/1",
+          "media_key": "3_2068332915705118720",
+          "start": 34,
+          "url": "https://t.co/yfzB0yHxoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068332923280056803",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068110101765148777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv 大概率是因为你回复所占比的流量太多，没有多少有效互动 https://t.co/yfzB0yHxoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068332915705118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQx1A3aAAAkNYw.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068110091375755264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNnK7jaQAABwAF.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068110091350663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNnK7dbYAABozd.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068332915705118720"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068110101765148777",
+        "created_at": "2026-06-20T13:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068332923280056803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfzB0yHxoj",
+              "end": 57,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068332923280056803/photo/1",
+              "media_key": "3_2068332915705118720",
+              "start": 34,
+              "url": "https://t.co/yfzB0yHxoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332923280056803",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068110101765148777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv 大概率是因为你回复所占比的流量太多，没有多少有效互动 https://t.co/yfzB0yHxoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068110091375755264",
+            "3_2068110091350663168"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "conversation_id": "2068110101765148777",
+        "created_at": "2026-06-19T23:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068110101765148777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bC9NlUlHj",
+              "end": 38,
+              "expanded_url": "https://x.com/e5ogv/status/2068110101765148777/photo/1",
+              "media_key": "3_2068110091375755264",
+              "start": 15,
+              "url": "https://t.co/6bC9NlUlHj"
+            },
+            {
+              "display_url": "pic.x.com/6bC9NlUlHj",
+              "end": 38,
+              "expanded_url": "https://x.com/e5ogv/status/2068110101765148777/photo/1",
+              "media_key": "3_2068110091350663168",
+              "start": 15,
+              "url": "https://t.co/6bC9NlUlHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068110101765148777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22899,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 152,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我，问题出在哪里…… https://t.co/6bC9NlUlHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9389,
+          "following_count": 2405,
+          "like_count": 33004,
+          "listed_count": 26,
+          "media_count": 2111,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13381,
+          "following_count": 2669,
+          "like_count": 3389,
+          "listed_count": 18,
+          "media_count": 1309,
+          "tweet_count": 22902
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      }
+    ]
+  }
+}

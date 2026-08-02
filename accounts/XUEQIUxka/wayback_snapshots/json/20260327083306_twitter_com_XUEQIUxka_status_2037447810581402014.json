@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037390366249558486",
+    "created_at": "2026-03-27T08:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037447810581402014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789179729695891456",
+          "start": 0,
+          "username": "Thomaskong96638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037447810581402014",
+    "in_reply_to_user_id": "1789179729695891456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037390366249558486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thomaskong96638 若有所思，这不对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037390366249558486",
+        "created_at": "2026-03-27T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037447810581402014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789179729695891456",
+              "start": 0,
+              "username": "Thomaskong96638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037447810581402014",
+        "in_reply_to_user_id": "1789179729695891456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037390366249558486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thomaskong96638 若有所思，这不对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789179729695891456",
+        "conversation_id": "2037390366249558486",
+        "created_at": "2026-03-27T04:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037390366249558486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037390366249558486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "老婆坐月子，看老公憋得一脸难受，就贴心地说：“要不你去找隔壁太太解决一下？她应该会同意的。”\n过了一会儿，老公鼻青脸肿地回来了。\n老婆惊讶地问：“怎么回事？”\n老公委屈巴巴地说：“她是同意了……可她老公不同意，还把我揍了一顿。”\n老婆顿时气炸了：“太过分了！他太太坐月子的时候，我帮了他那么大的忙啊！”\n😂🤦‍♂️😤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 104321,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆坐月子，看老公憋得一脸难受，就贴心地说：“要不你去找隔壁太太解决一下？她应该会同意的。”\n过了一会儿，老公鼻青脸肿地回来了。\n老婆惊讶地问：“怎么回事？”\n老公委屈巴巴地说：“她是同意了……可她老公不同意，还把我揍了一顿。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6452,
+          "following_count": 1939,
+          "like_count": 22373,
+          "listed_count": 27,
+          "media_count": 458,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:24:49.000Z",
+        "description": "观今宜鉴古 无古不成今",
+        "id": "1789179729695891456",
+        "location": "New Zealand",
+        "name": "Thomas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015568670223966208/ombfyiDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7781,
+          "following_count": 1732,
+          "like_count": 7937,
+          "listed_count": 19,
+          "media_count": 405,
+          "tweet_count": 4832
+        },
+        "username": "Thomaskong96638",
+        "verified": true
+      }
+    ]
+  }
+}

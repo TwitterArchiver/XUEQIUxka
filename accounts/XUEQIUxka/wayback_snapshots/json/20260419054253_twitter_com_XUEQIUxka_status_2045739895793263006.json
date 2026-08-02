@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045689087554654577",
+    "created_at": "2026-04-19T05:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045739895793263006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045739895793263006",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045726510602961261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f 你这个不是郊狼！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2045726503875334144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPhaqMXUAARz-O.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045689087554654577",
+        "created_at": "2026-04-19T05:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045739895793263006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045739895793263006",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045726510602961261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f 你这个不是郊狼！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045726503875334144"
+          ]
+        },
+        "author_id": "1449738313540071431",
+        "conversation_id": "2045689087554654577",
+        "created_at": "2026-04-19T04:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045726510602961261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLM9TYfi1P",
+              "end": 53,
+              "expanded_url": "https://x.com/ez4y2f/status/2045726510602961261/photo/1",
+              "media_key": "3_2045726503875334144",
+              "start": 30,
+              "url": "https://t.co/wLM9TYfi1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045726510602961261",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045689087554654577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 我的充电宝里面也有天线（）\n网图侵删 https://t.co/wLM9TYfi1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7125,
+          "following_count": 2123,
+          "like_count": 26462,
+          "listed_count": 27,
+          "media_count": 758,
+          "tweet_count": 3911
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| AuDHD | they/them | 不登校 | 成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂^-^里@hd4y2f❤️@ez4y2f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "hd4y2f"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "ez4y2f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKaKAq"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037204527623888896/z2uuhR7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 127,
+          "like_count": 576,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/X1cdlKaKAq",
+        "username": "ez4y2f",
+        "verified": true
+      }
+    ]
+  }
+}

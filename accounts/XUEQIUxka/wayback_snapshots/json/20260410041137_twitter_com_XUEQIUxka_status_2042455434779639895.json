@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042422023662813489",
+    "created_at": "2026-04-10T04:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042455434779639895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1575767611165798403",
+          "start": 0,
+          "username": "xzzzjpl"
+        },
+        {
+          "end": 14,
+          "id": "1909390269533011968",
+          "start": 9,
+          "username": "gork"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042455434779639895",
+    "in_reply_to_user_id": "1575767611165798403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042422023662813489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzzzjpl @gork @grok 你怎么看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042422023662813489",
+        "created_at": "2026-04-10T04:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042455434779639895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1575767611165798403",
+              "start": 0,
+              "username": "xzzzjpl"
+            },
+            {
+              "end": 14,
+              "id": "1909390269533011968",
+              "start": 9,
+              "username": "gork"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042455434779639895",
+        "in_reply_to_user_id": "1575767611165798403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042422023662813489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzzzjpl @gork @grok 你怎么看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575767611165798403",
+        "conversation_id": "2042422023662813489",
+        "created_at": "2026-04-10T01:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042422023662813489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042422023662813489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 88660,
+          "like_count": 180,
+          "quote_count": 6,
+          "reply_count": 65,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "陈丽华老太太的形象，在墙内外发生了严重的撕裂。墙内普遍认为她是一位成功的企业家，慈善家；墙外完全是另外一种形象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6807,
+          "following_count": 2034,
+          "like_count": 24753,
+          "listed_count": 27,
+          "media_count": 607,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "政经鲁社长，走遍半个地球，最后落地日本。专业的政治评论者。油管频道“政经鲁社长”，油管加会员链接：https://t.co/B9cQ4FiL8f,国内加会员链接：https://t.co/j3uNCxlDKR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl/join",
+                "end": 72,
+                "expanded_url": "https://youtube.com/@zrzjpl/join",
+                "start": 49,
+                "url": "https://t.co/B9cQ4FiL8f"
+              },
+              {
+                "display_url": "patreon.com/zrzjpl",
+                "end": 104,
+                "expanded_url": "http://patreon.com/zrzjpl",
+                "start": 81,
+                "url": "https://t.co/j3uNCxlDKR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@zrzjpl",
+                "start": 0,
+                "url": "https://t.co/lL4MO2ewyi"
+              }
+            ]
+          }
+        },
+        "id": "1575767611165798403",
+        "name": "中日政经评论（鲁社长）",
+        "pinned_tweet_id": "2017494422070694140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032816239811375105/xQkOZmeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652624,
+          "following_count": 408,
+          "like_count": 2745,
+          "listed_count": 2006,
+          "media_count": 3966,
+          "tweet_count": 15508
+        },
+        "url": "https://t.co/lL4MO2ewyi",
+        "username": "xzzzjpl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418608,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 393,
+          "media_count": 44949,
+          "tweet_count": 2343593
+        },
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8513360,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6590,
+          "media_count": 8801266,
+          "tweet_count": 122048636
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

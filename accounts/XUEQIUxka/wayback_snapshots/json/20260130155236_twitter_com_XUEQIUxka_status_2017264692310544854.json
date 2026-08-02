@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017264687596118016",
+        "3_2017264686648221696",
+        "3_2017264687449309185"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2017264692310544854",
+    "created_at": "2026-01-30T15:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017264692310544854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/puKLPeElEs",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+          "media_key": "3_2017264687596118016",
+          "start": 30,
+          "url": "https://t.co/puKLPeElEs"
+        },
+        {
+          "display_url": "pic.x.com/puKLPeElEs",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+          "media_key": "3_2017264686648221696",
+          "start": 30,
+          "url": "https://t.co/puKLPeElEs"
+        },
+        {
+          "display_url": "pic.x.com/puKLPeElEs",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+          "media_key": "3_2017264687449309185",
+          "start": 30,
+          "url": "https://t.co/puKLPeElEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017264692310544854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "彩色浮雕画\nfrom：Bambu A1 &amp; AMS https://t.co/puKLPeElEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2017264687596118016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7Di6IbIAAAVKg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017264686648221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7Di2mbYAAoiSo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017264687449309185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7Di5lbAAE7AYu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017264687596118016",
+            "3_2017264686648221696",
+            "3_2017264687449309185"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2017264692310544854",
+        "created_at": "2026-01-30T15:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017264692310544854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/puKLPeElEs",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+              "media_key": "3_2017264687596118016",
+              "start": 30,
+              "url": "https://t.co/puKLPeElEs"
+            },
+            {
+              "display_url": "pic.x.com/puKLPeElEs",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+              "media_key": "3_2017264686648221696",
+              "start": 30,
+              "url": "https://t.co/puKLPeElEs"
+            },
+            {
+              "display_url": "pic.x.com/puKLPeElEs",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017264692310544854/photo/1",
+              "media_key": "3_2017264687449309185",
+              "start": 30,
+              "url": "https://t.co/puKLPeElEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017264692310544854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彩色浮雕画\nfrom：Bambu A1 &amp; AMS https://t.co/puKLPeElEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "家长党"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "MTF"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "HRT"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Les"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "双相"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ADHD"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 1443,
+          "like_count": 19120,
+          "listed_count": 24,
+          "media_count": 297,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

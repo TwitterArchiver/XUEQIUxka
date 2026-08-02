@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2027676318792376734",
+    "created_at": "2026-03-01T03:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027955378240295119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955256576370999296",
+          "start": 0,
+          "username": "lhz47325415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027955378240295119",
+    "in_reply_to_user_id": "1955256576370999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027853948951081172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhz47325415 最近有点蜕皮？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2027676318792376734",
+        "created_at": "2026-03-01T03:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027955378240295119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955256576370999296",
+              "start": 0,
+              "username": "lhz47325415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027955378240295119",
+        "in_reply_to_user_id": "1955256576370999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027853948951081172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhz47325415 最近有点蜕皮？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955256576370999296",
+        "conversation_id": "2027676318792376734",
+        "created_at": "2026-02-28T21:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027853948951081172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027853948951081172",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027676318792376734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 手咋了！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5892,
+          "following_count": 1518,
+          "like_count": 20242,
+          "listed_count": 25,
+          "media_count": 317,
+          "tweet_count": 1800
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-12T13:14:38.000Z",
+        "description": "卢周彬傻子\n曹鲲棚傻子\n薛溪大傻子\n业余昆傻子\n四副司马了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzszedu.cn",
+                "end": 23,
+                "expanded_url": "https://www.zzszedu.cn/",
+                "start": 0,
+                "url": "https://t.co/4I2vp1kBwj"
+              }
+            ]
+          }
+        },
+        "id": "1955256576370999296",
+        "location": "枫丹白露",
+        "name": "李同",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955256935076282369/quZrkR0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 120,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/4I2vp1kBwj",
+        "username": "lhz47325415",
+        "verified": false
+      }
+    ]
+  }
+}

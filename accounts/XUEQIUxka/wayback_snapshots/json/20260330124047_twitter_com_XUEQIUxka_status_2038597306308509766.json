@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038597284808769536"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038597306308509766",
+    "created_at": "2026-03-30T12:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038597306308509766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033504930707996672",
+          "start": 3,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 23,
+          "id": "1368897611672018953",
+          "start": 13,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 40,
+          "id": "1628831645771120640",
+          "start": 24,
+          "username": "DAIDUODEXIAOSUN"
+        },
+        {
+          "end": 50,
+          "id": "1682445540695609345",
+          "start": 41,
+          "username": "cmyf_qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dc6nXzr5T4",
+          "end": 74,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2038597306308509766/photo/1",
+          "media_key": "3_2038597284808769536",
+          "start": 51,
+          "url": "https://t.co/dc6nXzr5T4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038597306308509766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贴贴\n@Xyliaxka @XUEQIUxka @DAIDUODEXIAOSUN @cmyf_qwq https://t.co/dc6nXzr5T4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038597284808769536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqNbfkaQAA00Gu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038597284808769536"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038597306308509766",
+        "created_at": "2026-03-30T12:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038597306308509766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033504930707996672",
+              "start": 3,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 23,
+              "id": "1368897611672018953",
+              "start": 13,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 40,
+              "id": "1628831645771120640",
+              "start": 24,
+              "username": "DAIDUODEXIAOSUN"
+            },
+            {
+              "end": 50,
+              "id": "1682445540695609345",
+              "start": 41,
+              "username": "cmyf_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dc6nXzr5T4",
+              "end": 74,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2038597306308509766/photo/1",
+              "media_key": "3_2038597284808769536",
+              "start": 51,
+              "url": "https://t.co/dc6nXzr5T4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038597306308509766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴\n@Xyliaxka @XUEQIUxka @DAIDUODEXIAOSUN @cmyf_qwq https://t.co/dc6nXzr5T4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 2004,
+          "like_count": 23135,
+          "listed_count": 27,
+          "media_count": 486,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），欢迎关注：@XUEQIUxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T18:58:33.000Z",
+        "description": "ISFP-T 尼康佬 全栈开发者 技术的技能树快点满了（由爱好驱动 大概是准专业级） 会画点PCB 爱折腾弱电的各种东西 会点玄学东西(可算卦）的17岁小男娘 可称呼为十一 178cm/58kg 属性是S 经常出cos并游逛于东营部分漫展 对象@cmyf_qwq 不知道死活的大号@daiduodexs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "cmyf_qwq"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "daiduodexs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dddxs.xyz",
+                "end": 23,
+                "expanded_url": "https://dddxs.xyz/",
+                "start": 0,
+                "url": "https://t.co/dDN1YCMKuf"
+              }
+            ]
+          }
+        },
+        "id": "1628831645771120640",
+        "location": "山东省 东营市",
+        "name": "怠惰的小孙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629129008251310082/VUHhye9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 3,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/dDN1YCMKuf",
+        "username": "DAIDUODEXIAOSUN",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 165cm45kg |HRT2024.10.2 |已炸柜|性取向泛性恋偏les|梦想是成为可爱的小女孩|不要上来就私信要我联系方式请说明原因|不援交！|我们活着就是对恶意的最大反抗！|老公～@daiduodexiaosun|别眼瞎不约！！！约我死全家|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "daiduodexiaosun"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 433,
+          "like_count": 184,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 755
+        },
+        "username": "cmyf_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

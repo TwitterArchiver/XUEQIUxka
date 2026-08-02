@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041394343806968204",
+    "created_at": "2026-04-07T09:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041453307743662390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "173484971",
+          "start": 0,
+          "username": "yhslgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041453307743662390",
+    "in_reply_to_user_id": "173484971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041394343806968204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhslgg 国内的AI有大数据审查，我很难评"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52616,
+        "height": 1280,
+        "media_key": "13_2041394272721948672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041394272721948672/img/EYa1HQEtt46Sy6Rw.jpg",
+        "public_metrics": {
+          "view_count": 62841
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041394272721948672/vid/avc1/320x710/KkXDLeRJyopvBnX1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041394272721948672/vid/avc1/480x1066/MWvRcemPQuPrpiVC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041394272721948672/vid/avc1/576x1280/ZQc1AHcgy4nk1H2M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041394272721948672/pl/J7Ysx4gi5XdYSInO.m3u8?v=22e"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041394343806968204",
+        "created_at": "2026-04-07T09:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041453307743662390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "173484971",
+              "start": 0,
+              "username": "yhslgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041453307743662390",
+        "in_reply_to_user_id": "173484971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041394343806968204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhslgg 国内的AI有大数据审查，我很难评"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041394272721948672"
+          ]
+        },
+        "author_id": "173484971",
+        "conversation_id": "2041394343806968204",
+        "created_at": "2026-04-07T05:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041394343806968204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmUyujzgFL",
+              "end": 32,
+              "expanded_url": "https://x.com/yhslgg/status/2041394343806968204/video/1",
+              "media_key": "13_2041394272721948672",
+              "start": 9,
+              "url": "https://t.co/VmUyujzgFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041394343806968204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 134834,
+          "like_count": 707,
+          "quote_count": 8,
+          "reply_count": 76,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "最后反转的真牛皮 https://t.co/VmUyujzgFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 2030,
+          "like_count": 24300,
+          "listed_count": 27,
+          "media_count": 564,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-01T16:07:26.000Z",
+        "description": "15年连续创业者,赚过也赔过 | 电商系统 | 智能硬件 | 带货 | 特种车辆；\n现在全力学习AI,vibe coding用嘴写代码,\n分享创业,副业信息差,生活,运动健身|有啥说啥,不藏着.",
+        "id": "173484971",
+        "location": "shenzhen china",
+        "name": "老杨啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004167168632700929/E6cWf4yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11146,
+          "following_count": 1349,
+          "like_count": 1819,
+          "listed_count": 80,
+          "media_count": 403,
+          "tweet_count": 2694
+        },
+        "username": "yhslgg",
+        "verified": true
+      }
+    ]
+  }
+}

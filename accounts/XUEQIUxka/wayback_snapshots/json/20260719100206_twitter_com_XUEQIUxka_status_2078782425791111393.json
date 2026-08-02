@@ -1,0 +1,702 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2077774853650944028",
+    "created_at": "2026-07-19T10:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078782425791111393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "636513296",
+          "start": 0,
+          "username": "nikitabier"
+        },
+        {
+          "end": 20,
+          "id": "1399766153053061121",
+          "start": 12,
+          "username": "premium"
+        },
+        {
+          "end": 23,
+          "id": "783214",
+          "start": 21,
+          "username": "X"
+        },
+        {
+          "end": 33,
+          "id": "44196397",
+          "start": 24,
+          "username": "elonmusk"
+        },
+        {
+          "end": 45,
+          "id": "636513296",
+          "start": 34,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078782425791111393",
+    "in_reply_to_user_id": "636513296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1399766153053061121",
+            "start": 0,
+            "username": "premium"
+          },
+          {
+            "end": 11,
+            "id": "783214",
+            "start": 9,
+            "username": "X"
+          },
+          {
+            "end": 21,
+            "id": "44196397",
+            "start": 12,
+            "username": "elonmusk"
+          },
+          {
+            "end": 33,
+            "id": "636513296",
+            "start": 22,
+            "username": "nikitabier"
+          },
+          {
+            "end": 574,
+            "id": "1368897611672018953",
+            "start": 564,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 1425,
+            "id": "1368897611672018953",
+            "start": 1415,
+            "username": "XUEQIUxka"
+          }
+        ]
+      },
+      "text": "@premium @X @elonmusk @nikitabier\n\nYour system frequently applies \"sensitive\" labels to normal, compliant users like me. This automatically suspends monetization even though no actual violations occurred. The appeal process is ineffective, as repeated appeals are simply denied without meaningful review. This approach does not seem beneficial for the platform's long-term development or for supporting genuine creators.\n\nDear X Premium / Creator Revenue Sharing Team,\n\nI am writing to appeal again regarding the permanent suspension of monetization on my account @XUEQIUxka (Case: CREATOR-188537).\n\nI previously explained that the \"sensitive/adult content\" flag was a system error. The sensitive label has already been removed. I have thoroughly self-audited all my content and confirmed there is no R18, NSFW, explicit, or violating material. My posts are original, positive everyday content with appropriate commentary.\n\nDespite this, the suspension was upheld. Monetization is my only source of income, and this account is very important to me as my fresh start and positive contribution in the Chinese transgender community.\n\nI respectfully request a higher-level manual review to correct this misclassification and restore my privileges. I remain fully committed to X's rules and guidelines.\n\nThank you for your understanding and reconsideration. Your help is greatly appreciated.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077774853650944028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikitabier @premium @X @elonmusk @nikitabier\n\nYour system frequently applies \"sensitive\" labels to normal, compliant users like me. This automatically suspends monetization even though no actual violations occurred. The appeal process is ineffective, as repeated appeals are simply denied"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2077774853650944028",
+        "created_at": "2026-07-19T10:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078782425791111393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "636513296",
+              "start": 0,
+              "username": "nikitabier"
+            },
+            {
+              "end": 20,
+              "id": "1399766153053061121",
+              "start": 12,
+              "username": "premium"
+            },
+            {
+              "end": 23,
+              "id": "783214",
+              "start": 21,
+              "username": "X"
+            },
+            {
+              "end": 33,
+              "id": "44196397",
+              "start": 24,
+              "username": "elonmusk"
+            },
+            {
+              "end": 45,
+              "id": "636513296",
+              "start": 34,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078782425791111393",
+        "in_reply_to_user_id": "636513296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 8,
+                "id": "1399766153053061121",
+                "start": 0,
+                "username": "premium"
+              },
+              {
+                "end": 11,
+                "id": "783214",
+                "start": 9,
+                "username": "X"
+              },
+              {
+                "end": 21,
+                "id": "44196397",
+                "start": 12,
+                "username": "elonmusk"
+              },
+              {
+                "end": 33,
+                "id": "636513296",
+                "start": 22,
+                "username": "nikitabier"
+              },
+              {
+                "end": 574,
+                "id": "1368897611672018953",
+                "start": 564,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 1425,
+                "id": "1368897611672018953",
+                "start": 1415,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "@premium @X @elonmusk @nikitabier\n\nYour system frequently applies \"sensitive\" labels to normal, compliant users like me. This automatically suspends monetization even though no actual violations occurred. The appeal process is ineffective, as repeated appeals are simply denied without meaningful review. This approach does not seem beneficial for the platform's long-term development or for supporting genuine creators.\n\nDear X Premium / Creator Revenue Sharing Team,\n\nI am writing to appeal again regarding the permanent suspension of monetization on my account @XUEQIUxka (Case: CREATOR-188537).\n\nI previously explained that the \"sensitive/adult content\" flag was a system error. The sensitive label has already been removed. I have thoroughly self-audited all my content and confirmed there is no R18, NSFW, explicit, or violating material. My posts are original, positive everyday content with appropriate commentary.\n\nDespite this, the suspension was upheld. Monetization is my only source of income, and this account is very important to me as my fresh start and positive contribution in the Chinese transgender community.\n\nI respectfully request a higher-level manual review to correct this misclassification and restore my privileges. I remain fully committed to X's rules and guidelines.\n\nThank you for your understanding and reconsideration. Your help is greatly appreciated.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077774853650944028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikitabier @premium @X @elonmusk @nikitabier\n\nYour system frequently applies \"sensitive\" labels to normal, compliant users like me. This automatically suspends monetization even though no actual violations occurred. The appeal process is ineffective, as repeated appeals are simply denied"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "636513296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2077774853650944028",
+        "created_at": "2026-07-16T15:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077774853650944028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077774853650944028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Some updates on the creator rev share program:\n\n1. Soliciting engagements (“I’ll follow everyone who replies”) 3 or more times will results in removal from the program and your account will be forwarded to the policy team for suspension. Grok now catches all of these.\n\nNearly 4000 accounts were removed from the program today.\n\n2. Our new model now detects duplicated content at 3x the rate of the previous model. Adding watermarks, intros and other edits will send monetized impressions to the original uploader. This also includes copying viral text posts (most common one: “Twitter is like the smoking section of the internet”).\n\nWe detected 1.5 million posts that were stolen this cycle. Repeated or intentional circumvention will lead to removal from the program.\n\nWith these changes, over $1 million will be given back to original content creators."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4284,
+          "impression_count": 5122828,
+          "like_count": 27158,
+          "quote_count": 5080,
+          "reply_count": 7144,
+          "retweet_count": 4802
+        },
+        "reply_settings": "everyone",
+        "text": "Some updates on the creator rev share program:\n\n1. Soliciting engagements (“I’ll follow everyone who replies”) 3 or more times will results in removal from the program and your account will be forwarded to the policy team for suspension. Grok now catches all of these.\n\nNearly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9779,
+          "following_count": 2363,
+          "like_count": 33514,
+          "listed_count": 26,
+          "media_count": 1632,
+          "tweet_count": 5939
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2077774853650944028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217892,
+          "following_count": 2053,
+          "like_count": 39363,
+          "listed_count": 6007,
+          "media_count": 1604,
+          "tweet_count": 11693
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "name": "Premium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271139,
+          "following_count": 3,
+          "like_count": 666,
+          "listed_count": 1889,
+          "media_count": 66,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "location": "everywhere",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60813950,
+          "following_count": 1,
+          "like_count": 5979,
+          "listed_count": 85281,
+          "media_count": 2489,
+          "tweet_count": 15707
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "Starmind",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com/spacexai/starm…",
+                "end": 23,
+                "expanded_url": "https://www.spacex.com/spacexai/starmind#power-generation",
+                "start": 0,
+                "url": "https://t.co/lvCfXMHUg6"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240929774,
+          "following_count": 1370,
+          "like_count": 239670,
+          "listed_count": 170050,
+          "media_count": 4625,
+          "tweet_count": 105733
+        },
+        "url": "https://t.co/lvCfXMHUg6",
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

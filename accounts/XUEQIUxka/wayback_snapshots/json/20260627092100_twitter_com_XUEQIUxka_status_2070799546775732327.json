@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069665571080392704"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2070799546775732327",
+    "created_at": "2026-06-27T09:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070799546775732327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUVajj9Kgk",
+          "end": 34,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2070799546775732327/photo/1",
+          "media_key": "3_2069665571080392704",
+          "start": 11,
+          "url": "https://t.co/EUVajj9Kgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070799546775732327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了你肯定觉得没意思 https://t.co/EUVajj9Kgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2069665571080392704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjt3xAaUAAvAXE.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069665571080392704"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2070799546775732327",
+        "created_at": "2026-06-27T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070799546775732327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUVajj9Kgk",
+              "end": 34,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2070799546775732327/photo/1",
+              "media_key": "3_2069665571080392704",
+              "start": 11,
+              "url": "https://t.co/EUVajj9Kgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070799546775732327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了你肯定觉得没意思 https://t.co/EUVajj9Kgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，原简介&看日常@Xyliaxka\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9520,
+          "following_count": 2397,
+          "like_count": 33297,
+          "listed_count": 25,
+          "media_count": 1770,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

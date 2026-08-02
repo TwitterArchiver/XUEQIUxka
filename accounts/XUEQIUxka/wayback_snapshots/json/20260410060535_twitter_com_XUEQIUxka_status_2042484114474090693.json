@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042432251909325154",
+    "created_at": "2026-04-10T06:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042484114474090693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042484114474090693",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042432251909325154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ 那很有意思了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042431785230090242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgs4yybQAIiEoW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042431785217495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgs4yvbEAAys4b.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042431785234284546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgs4yzbQAIT6Nx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042432251909325154",
+        "created_at": "2026-04-10T06:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042484114474090693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042484114474090693",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042432251909325154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ 那很有意思了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042431785230090242",
+            "3_2042431785217495040",
+            "3_2042431785234284546"
+          ]
+        },
+        "author_id": "1363090571397451778",
+        "conversation_id": "2042432251909325154",
+        "created_at": "2026-04-10T02:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042432251909325154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar1tZwTwrV",
+              "end": 58,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2042432251909325154/photo/1",
+              "media_key": "3_2042431785230090242",
+              "start": 35,
+              "url": "https://t.co/Ar1tZwTwrV"
+            },
+            {
+              "display_url": "pic.x.com/Ar1tZwTwrV",
+              "end": 58,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2042432251909325154/photo/1",
+              "media_key": "3_2042431785217495040",
+              "start": 35,
+              "url": "https://t.co/Ar1tZwTwrV"
+            },
+            {
+              "display_url": "pic.x.com/Ar1tZwTwrV",
+              "end": 58,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2042432251909325154/photo/1",
+              "media_key": "3_2042431785234284546",
+              "start": 35,
+              "url": "https://t.co/Ar1tZwTwrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042432251909325154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2322,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？我的动车司机钥匙卡住进不去驾驶室然后车长和机械师一起拿刀给窗户翘了 https://t.co/Ar1tZwTwrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 2037,
+          "like_count": 24780,
+          "listed_count": 27,
+          "media_count": 608,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "哪里会有人喜欢孤独，不过是不喜欢失望罢了\n| 04mtx(f) 🏳️‍⚧️|she/her |不约不卖不线下 看黄的不要私信了\n//❤️Love： @BG5CZD @xixue_1 @WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "BG5CZD"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "xixue_1"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "WSGM233"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345508941156352/3B2CrP08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 354,
+          "like_count": 10999,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 1224
+        },
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

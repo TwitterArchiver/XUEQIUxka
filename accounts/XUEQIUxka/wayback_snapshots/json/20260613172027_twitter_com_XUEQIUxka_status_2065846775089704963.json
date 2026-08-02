@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2065789257239970272",
+    "created_at": "2026-06-13T17:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065846775089704963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992255920777392128",
+          "start": 0,
+          "username": "GMWalletHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065846775089704963",
+    "in_reply_to_user_id": "1992255920777392128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065789257239970272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMWalletHK 怎么不拉我，难道我不配吗，呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2065788720838750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsn5YaaMAAV4UL.jpg",
+        "width": 1179
+      },
+      {
+        "height": 272,
+        "media_key": "3_2065788736055681024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsn6RGaIAAsBHg.jpg",
+        "width": 766
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2065788819790761984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsn_JCaEAAJySI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2065789257239970272",
+        "created_at": "2026-06-13T17:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846775089704963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992255920777392128",
+              "start": 0,
+              "username": "GMWalletHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846775089704963",
+        "in_reply_to_user_id": "1992255920777392128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065789257239970272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMWalletHK 怎么不拉我，难道我不配吗，呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065788720838750208",
+            "3_2065788736055681024",
+            "3_2065788819790761984"
+          ]
+        },
+        "author_id": "1992255920777392128",
+        "conversation_id": "2065789257239970272",
+        "created_at": "2026-06-13T13:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:30:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065789009427939666",
+          "2065789257239970272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fyw4WzysOi",
+              "end": 102,
+              "expanded_url": "https://x.com/GMWalletHK/status/2065789257239970272/photo/1",
+              "media_key": "3_2065788720838750208",
+              "start": 79,
+              "url": "https://t.co/Fyw4WzysOi"
+            },
+            {
+              "display_url": "pic.x.com/Fyw4WzysOi",
+              "end": 102,
+              "expanded_url": "https://x.com/GMWalletHK/status/2065789257239970272/photo/1",
+              "media_key": "3_2065788736055681024",
+              "start": 79,
+              "url": "https://t.co/Fyw4WzysOi"
+            },
+            {
+              "display_url": "pic.x.com/Fyw4WzysOi",
+              "end": 102,
+              "expanded_url": "https://x.com/GMWalletHK/status/2065789257239970272/photo/1",
+              "media_key": "3_2065788819790761984",
+              "start": 79,
+              "url": "https://t.co/Fyw4WzysOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065789257239970272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7406,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我日我日月入过万，这是真的各位老公们！一天200，啥也不用干，一个月1w起步，这是真的！不是假的！这什么b群啊？什么撒币群啊？\n\nGM，来了就是什么？？？！ https://t.co/Fyw4WzysOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9131,
+          "following_count": 2387,
+          "like_count": 31969,
+          "listed_count": 26,
+          "media_count": 1940,
+          "tweet_count": 6045
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 全力开发中，GM Pay（EPusdt）开发者。欢迎来到开放，包容的加密世界. Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2060372840600535213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3679,
+          "following_count": 798,
+          "like_count": 11104,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 8118
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMWalletHK",
+        "verified": true
+      }
+    ]
+  }
+}

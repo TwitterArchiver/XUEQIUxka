@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036419503282847857",
+    "created_at": "2026-03-24T16:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036480002305515637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "311603632",
+          "start": 0,
+          "username": "bigu62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036480002305515637",
+    "in_reply_to_user_id": "311603632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036419503282847857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigu62 人生其实就是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036419503282847857",
+        "created_at": "2026-03-24T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036480002305515637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "311603632",
+              "start": 0,
+              "username": "bigu62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036480002305515637",
+        "in_reply_to_user_id": "311603632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036419503282847857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigu62 人生其实就是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "311603632",
+        "conversation_id": "2036419503282847857",
+        "created_at": "2026-03-24T12:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036419503282847857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigu62/status/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/bigu62/status/2036371012753957002",
+              "start": 104,
+              "url": "https://t.co/UeTbyb1hWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036419503282847857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我应该是国内最早看张雪峰的人，\n我还清楚的记得是在一个斗鱼直播平台上有人在放他的视频，做直播内容。他在讲相声。\n\n而且他会把很多东西拆开了跟你说，很扎心，但都是事实，颠覆了我对高考，对大学，对很多事情的看法\n\n 后来听说他去苏州开公司，对自己员工的福利都特别好。一周只上4天班，假期经常一放就是一个月。原来员工的岁月静好，都是他自己负重前行。\n\n如果这篇文章早点写出来，能被他看到，他是不是就会改变自己的工作方式和生活方式？\n\n但是除了张雪峰，我知道我们还有很多人在拼命努力的向前狂奔，如果你也是这样，我希望你能看看这篇文章。\n如果你周围也有这样子的人，我希望你把这篇文章转给他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10526,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036371012753957002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该是国内最早看张雪峰的人，\n我还清楚的记得是在一个斗鱼直播平台上有人在放他的视频，做直播内容。他在讲相声。\n\n而且他会把很多东西拆开了跟你说，很扎心，但都是事实，颠覆了我对高考，对大学，对很多事情的看法 https://t.co/UeTbyb1hWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6344,
+          "following_count": 1839,
+          "like_count": 21848,
+          "listed_count": 27,
+          "media_count": 433,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-05T18:46:04.000Z",
+        "description": "一个人 + 11个AI Agent = 一家公司\nOpenClaw 深度玩家 | 记录踩过的每一坑！省的你重走一遍",
+        "id": "311603632",
+        "name": "Koda一人公司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031524722299785216/Z3fgd4lF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 118,
+          "like_count": 13,
+          "listed_count": 11,
+          "media_count": 19,
+          "tweet_count": 411
+        },
+        "username": "bigu62",
+        "verified": true
+      }
+    ]
+  }
+}

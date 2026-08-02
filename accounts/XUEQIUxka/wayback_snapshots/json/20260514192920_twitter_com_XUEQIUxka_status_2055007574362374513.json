@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055007574362374513",
+    "created_at": "2026-05-14T19:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055007574362374513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033504930707996672",
+          "start": 3,
+          "username": "Xyliaxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055007574362374513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055007034920313339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xyliaxka: 我不知道\n我感觉我的未来好迷茫\n我不知道要不要重新高考\n我不知道要不要接着走下去\n我好像后悔了很多很多事情\n我不应该喝这么多酒的\n或许下一次也不会再喝这么多了\n我只想当一个小孩子，为什么我们要被强加这么多没有意义的事情\n为什么们一定要变成大人，可真正…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055007574362374513",
+        "created_at": "2026-05-14T19:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055007574362374513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033504930707996672",
+              "start": 3,
+              "username": "Xyliaxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055007574362374513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055007034920313339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xyliaxka: 我不知道\n我感觉我的未来好迷茫\n我不知道要不要重新高考\n我不知道要不要接着走下去\n我好像后悔了很多很多事情\n我不应该喝这么多酒的\n或许下一次也不会再喝这么多了\n我只想当一个小孩子，为什么我们要被强加这么多没有意义的事情\n为什么们一定要变成大人，可真正…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033504930707996672",
+        "conversation_id": "2055007034920313339",
+        "created_at": "2026-05-14T19:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055007034920313339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2055006321649598974",
+              "start": 139,
+              "url": "https://t.co/hU5sfnVx5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055007034920313339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055006321649598974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道\n我感觉我的未来好迷茫\n我不知道要不要重新高考\n我不知道要不要接着走下去\n我好像后悔了很多很多事情\n我不应该喝这么多酒的\n或许下一次也不会再喝这么多了\n我只想当一个小孩子，为什么我们要被强加这么多没有意义的事情\n为什么们一定要变成大人，可真正变成了大人还真是我们自己吗 https://t.co/hU5sfnVx5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 2198,
+          "like_count": 29666,
+          "listed_count": 25,
+          "media_count": 1385,
+          "tweet_count": 5105
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的日常\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": false
+      }
+    ]
+  }
+}

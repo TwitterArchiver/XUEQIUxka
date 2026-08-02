@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055688968801538195",
+    "created_at": "2026-05-17T08:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055927996994003129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "mikumiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055927996994003129",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055688968801538195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikumiku3648 不知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2055688952674402304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdGNgDaQAACUqd.jpg",
+        "width": 677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055688968801538195",
+        "created_at": "2026-05-17T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927996994003129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "mikumiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927996994003129",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055688968801538195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumiku3648 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055688952674402304"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "2055688968801538195",
+        "created_at": "2026-05-16T16:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055688968801538195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VrLSd6uT6",
+              "end": 44,
+              "expanded_url": "https://x.com/mikumiku3648/status/2055688968801538195/photo/1",
+              "media_key": "3_2055688952674402304",
+              "start": 21,
+              "url": "https://t.co/9VrLSd6uT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055688968801538195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3399,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "和搬屎的博主搞赛博ai合照是有什么癖好吗 https://t.co/9VrLSd6uT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8507,
+          "following_count": 2204,
+          "like_count": 29910,
+          "listed_count": 26,
+          "media_count": 1450,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」 友達！：@meguruKirara Remi @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Yuuteki",
+                "end": 23,
+                "expanded_url": "https://github.com/Yuuteki",
+                "start": 0,
+                "url": "https://t.co/Wcto2ghIDr"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "2022938243470401923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055371914752008192/buXiE2oc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3988,
+          "following_count": 1350,
+          "like_count": 39102,
+          "listed_count": 18,
+          "media_count": 2821,
+          "tweet_count": 15419
+        },
+        "url": "https://t.co/Wcto2ghIDr",
+        "username": "mikumiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

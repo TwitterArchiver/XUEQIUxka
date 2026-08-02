@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906016247088828417",
+        "3_1906016247105671169",
+        "3_1906016247151800320"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039371962833653865",
+    "created_at": "2026-04-01T15:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039371962833653865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jRVyMuOCCU",
+          "end": 117,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+          "media_key": "3_1906016247088828417",
+          "start": 94,
+          "url": "https://t.co/jRVyMuOCCU"
+        },
+        {
+          "display_url": "pic.x.com/jRVyMuOCCU",
+          "end": 117,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+          "media_key": "3_1906016247105671169",
+          "start": 94,
+          "url": "https://t.co/jRVyMuOCCU"
+        },
+        {
+          "display_url": "pic.x.com/jRVyMuOCCU",
+          "end": 117,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+          "media_key": "3_1906016247151800320",
+          "start": 94,
+          "url": "https://t.co/jRVyMuOCCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039371962833653865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那么大家愚人节快乐！\n（如果这条定时推文被发布了，那么就证明雪球没有熬过这个冬天）\n最后说一个真相：鱼喵和jose自始至终都是一个人，恭喜你们知道了自己想知道的真相\n以下账号都是我在使用 https://t.co/jRVyMuOCCU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1906016247088828417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOHrZ_aUAEGKWA.jpg",
+        "width": 759
+      },
+      {
+        "height": 1009,
+        "media_key": "3_1906016247105671169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOHraDbUAE0KE8.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1906016247151800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOHraObMAAifDe.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906016247088828417",
+            "3_1906016247105671169",
+            "3_1906016247151800320"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039371962833653865",
+        "created_at": "2026-04-01T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039371962833653865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRVyMuOCCU",
+              "end": 117,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+              "media_key": "3_1906016247088828417",
+              "start": 94,
+              "url": "https://t.co/jRVyMuOCCU"
+            },
+            {
+              "display_url": "pic.x.com/jRVyMuOCCU",
+              "end": 117,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+              "media_key": "3_1906016247105671169",
+              "start": 94,
+              "url": "https://t.co/jRVyMuOCCU"
+            },
+            {
+              "display_url": "pic.x.com/jRVyMuOCCU",
+              "end": 117,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039371962833653865/photo/1",
+              "media_key": "3_1906016247151800320",
+              "start": 94,
+              "url": "https://t.co/jRVyMuOCCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039371962833653865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么大家愚人节快乐！\n（如果这条定时推文被发布了，那么就证明雪球没有熬过这个冬天）\n最后说一个真相：鱼喵和jose自始至终都是一个人，恭喜你们知道了自己想知道的真相\n以下账号都是我在使用 https://t.co/jRVyMuOCCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 2021,
+          "like_count": 23506,
+          "listed_count": 27,
+          "media_count": 509,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042562092260024422",
+    "created_at": "2026-04-10T11:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042571479167176798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "sincecoco"
+        },
+        {
+          "end": 20,
+          "id": "2024424705026117634",
+          "start": 11,
+          "username": "cavityuk"
+        },
+        {
+          "end": 30,
+          "id": "1943561677762646016",
+          "start": 21,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042571479167176798",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042562092260024422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sincecoco @cavityuk @qusuunmd 给你们报的网课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042562092260024422",
+        "created_at": "2026-04-10T11:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042571479167176798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "sincecoco"
+            },
+            {
+              "end": 20,
+              "id": "2024424705026117634",
+              "start": 11,
+              "username": "cavityuk"
+            },
+            {
+              "end": 30,
+              "id": "1943561677762646016",
+              "start": 21,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042571479167176798",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042562092260024422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sincecoco @cavityuk @qusuunmd 给你们报的网课"
+      },
+      {
+        "article": {
+          "title": "男妹妹如何精准调整面部比例，打造高级质感女性化妆容。"
+        },
+        "attachments": {},
+        "author_id": "1439465002851725314",
+        "conversation_id": "2042562092260024422",
+        "created_at": "2026-04-10T11:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042562092260024422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2042…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2042192169792929792",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2042192169792929792",
+              "url": "https://t.co/tbLdBddMbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042562092260024422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 355,
+          "like_count": 8,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tbLdBddMbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6805,
+          "following_count": 2038,
+          "like_count": 24861,
+          "listed_count": 27,
+          "media_count": 615,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "4i | 记录日常生活碎片，专业艺术家 美食搜索家 爱逛街 爱吃饭 争取做一个旅游博主｜#日常 | #旅游｜#分享｜#美食 看黄的不要关注我！| This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 44,
+                "tag": "日常"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "旅游"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "分享"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "美食"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "name": "橙子BABY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16399,
+          "following_count": 381,
+          "like_count": 2041,
+          "listed_count": 45,
+          "media_count": 419,
+          "tweet_count": 1565
+        },
+        "username": "sincecoco",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙～\n素散架的高中生……\n2010.8 ♍ ENTP🧩\n🏳️‍🌈友好",
+        "id": "2024424705026117634",
+        "location": "屿塘🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 226,
+          "like_count": 1249,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 510
+        },
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

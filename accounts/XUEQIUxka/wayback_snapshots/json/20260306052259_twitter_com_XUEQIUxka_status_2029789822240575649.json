@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029789822240575649",
+    "created_at": "2026-03-06T05:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029789822240575649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinemu123/s…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/hoshinemu123/status/2029628223613776193",
+          "start": 96,
+          "url": "https://t.co/joNVdcayev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029789822240575649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每个人的人生都有不同的路，HRT，SRS，只是更容易接纳自己的一条路\n但现实是你选择了这条路也不一定会得到非常好的结果，反而还会遇到以前想象不到的问题，没必要说为了手术完就完全抛弃之前的身份\n人生的路很长，从宏观来讲，手术只是一件微不足道事情，以前的你会觉得啊我没有手说就要死了，但往后来看，其实真的很小，活着其实很难，但不能因为难就不活，要学会发现生活中的美好（虽然我暂时没发现x）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029628223613776193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每个人的人生都有不同的路，HRT，SRS，只是更容易接纳自己的一条路\n但现实是你选择了这条路也不一定会得到非常好的结果，反而还会遇到以前想象不到的问题，没必要说为了手术完就完全抛弃之前的身份 https://t.co/joNVdcayev"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2029789822240575649",
+        "created_at": "2026-03-06T05:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029789822240575649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2029628223613776193",
+              "start": 96,
+              "url": "https://t.co/joNVdcayev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029789822240575649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每个人的人生都有不同的路，HRT，SRS，只是更容易接纳自己的一条路\n但现实是你选择了这条路也不一定会得到非常好的结果，反而还会遇到以前想象不到的问题，没必要说为了手术完就完全抛弃之前的身份\n人生的路很长，从宏观来讲，手术只是一件微不足道事情，以前的你会觉得啊我没有手说就要死了，但往后来看，其实真的很小，活着其实很难，但不能因为难就不活，要学会发现生活中的美好（虽然我暂时没发现x）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029628223613776193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人的人生都有不同的路，HRT，SRS，只是更容易接纳自己的一条路\n但现实是你选择了这条路也不一定会得到非常好的结果，反而还会遇到以前想象不到的问题，没必要说为了手术完就完全抛弃之前的身份 https://t.co/joNVdcayev"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2029628223613776193",
+        "created_at": "2026-03-05T18:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T19:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029628223613776193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/noname2095_/status/2029486502594711955",
+              "start": 133,
+              "url": "https://t.co/qlXHvnkOtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029628223613776193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2441,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029486502594711955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我一直都不认可“蝶变”“毕业”“新生”“变成真正的女性”之类的说法。SRS是性别平滑过渡过程中的必要一环，而不是一个转折点。\n现在的你和过去的你是一个完整的整体，过去不应该是需要被舍弃的部分，而是“现在的你”存在的基础。\n接受自己的过去，是我很晚才学会的东西。 https://t.co/qlXHvnkOtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 1531,
+          "like_count": 20437,
+          "listed_count": 25,
+          "media_count": 323,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。星眠的生活号，不定期推音乐/美术作品，爱好古风。汉服复兴运动。北京/长春，欢迎小女孩们来找我玩。\n素素：@ciyou9443 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 3226,
+          "like_count": 3280,
+          "listed_count": 2,
+          "media_count": 835,
+          "tweet_count": 8989
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

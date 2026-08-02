@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040934096004862146",
+    "created_at": "2026-04-06T05:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041019773740630351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511395120628711424",
+          "start": 0,
+          "username": "dliphotos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041019773740630351",
+    "in_reply_to_user_id": "1511395120628711424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040934096004862146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dliphotos 感觉很保护飞行员了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2040928517379272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLVrFpbMAAmH4Y.jpg",
+        "width": 1946
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2040933904622944256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLakqsaAAAwuCH.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040934096004862146",
+        "created_at": "2026-04-06T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041019773740630351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511395120628711424",
+              "start": 0,
+              "username": "dliphotos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041019773740630351",
+        "in_reply_to_user_id": "1511395120628711424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040934096004862146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dliphotos 感觉很保护飞行员了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040928517379272704",
+            "3_2040933904622944256"
+          ]
+        },
+        "author_id": "1511395120628711424",
+        "conversation_id": "2040934096004862146",
+        "created_at": "2026-04-05T23:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040934096004862146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0XXzfMhtQ",
+              "end": 169,
+              "expanded_url": "https://x.com/dliphotos/status/2040934096004862146/photo/1",
+              "media_key": "3_2040928517379272704",
+              "start": 146,
+              "url": "https://t.co/D0XXzfMhtQ"
+            },
+            {
+              "display_url": "pic.x.com/D0XXzfMhtQ",
+              "end": 169,
+              "expanded_url": "https://x.com/dliphotos/status/2040934096004862146/photo/1",
+              "media_key": "3_2040933904622944256",
+              "start": 146,
+              "url": "https://t.co/D0XXzfMhtQ"
+            },
+            {
+              "display_url": "x.com/BoDiplo/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/BoDiplo/status/2040837824081953100",
+              "start": 170,
+              "url": "https://t.co/7O6Dp2iPJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040934096004862146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 578,
+                "start": 574,
+                "tag": "msr"
+              },
+              {
+                "end": 584,
+                "start": 579,
+                "tag": "food"
+              }
+            ]
+          },
+          "text": "没想到，那名被救回的美军飞行员在被困的48小时里，竟然可能还能用牙膏刷牙、涂防晒霜（SunX50）😅\n\n这也侧面说明，美军的补给体系里，不只是生存和作战需求，连最基本的个人护理也被考虑在内。\n\n说说被援救的美军飞行员留下的野战口粮的牛肉条。\n\n图中的牛肉条是美军口粮中的“照烧牛肉条（MSR Teriyaki Beef Stick）”。\n\n美军MRE口粮中的照烧牛肉条（Teriyaki Beef Stick）是一种高蛋白、即食的咸甜味零食。\n\n它采用优质牛肉制作，添加酱油、大蒜、糖和烟熏风味，通常不含反式脂肪。\n\n作为战场补给的一部分，这种包装紧凑的牛肉条为士兵提供快速能量补充，是受喜爱的MRE配菜。\n\n它属于军方定制的口粮组件（contract food），由不同食品供应商代工生产。\n\n包装上通常不会突出品牌，而是标注功能性信息，比如“Teriyaki Beef Stick”、NSN（军用编号）或合同编号，以及“inspection / approved”等质量标识。\n\n而且，同一种“照烧牛肉条”可能来自不同厂家，比如 SOPAKCO、AmeriQual、Wornick 等。\n\n不仅如此，在任何环境下，美军似乎都在尽量让士兵维持基本的身体状态，哪怕是在最极端的处境里，牙齿和皮肤这样的细节，也没有被忽略。\n\n这样的军队你羡慕吗？\n\n#msr #food"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 161636,
+          "like_count": 502,
+          "quote_count": 6,
+          "reply_count": 56,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837824081953100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到，那名被救回的美军飞行员在被困的48小时里，竟然可能还能用牙膏刷牙、涂防晒霜（SunX50）😅\n\n这也侧面说明，美军的补给体系里，不只是生存和作战需求，连最基本的个人护理也被考虑在内。\n\n说说被援救的美军飞行员留下的野战口粮的牛肉条。\n\n图中的牛肉条是美军口粮中的“照烧牛肉条（MSR https://t.co/D0XXzfMhtQ https://t.co/7O6Dp2iPJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6733,
+          "following_count": 2027,
+          "like_count": 24161,
+          "listed_count": 27,
+          "media_count": 558,
+          "tweet_count": 3003
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-05T17:27:38.000Z",
+        "description": "X Premium+ • food • healthy food • arts •  photos • 🇺🇸 USARMY 🚫 DM",
+        "id": "1511395120628711424",
+        "location": "Seattle, WA",
+        "name": "dliphotos 🇺🇸",
+        "pinned_tweet_id": "2040934096004862146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009512414686121984/tuZzHgA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1063,
+          "like_count": 11416,
+          "listed_count": 12,
+          "media_count": 349,
+          "tweet_count": 6943
+        },
+        "username": "dliphotos",
+        "verified": true
+      }
+    ]
+  }
+}

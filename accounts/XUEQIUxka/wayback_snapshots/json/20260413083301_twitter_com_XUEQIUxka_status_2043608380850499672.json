@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2043571611266420921",
+    "created_at": "2026-04-13T08:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043608380850499672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1874661286791045120",
+          "start": 0,
+          "username": "Jucom_ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043608380850499672",
+    "in_reply_to_user_id": "1874661286791045120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043571611266420921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jucom_ZH 不送就直说😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2043571336237449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFw5TZGagAAOT9U.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043571611266420921",
+        "created_at": "2026-04-13T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043608380850499672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1874661286791045120",
+              "start": 0,
+              "username": "Jucom_ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043608380850499672",
+        "in_reply_to_user_id": "1874661286791045120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043571611266420921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jucom_ZH 不送就直说😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043571336237449216"
+          ]
+        },
+        "author_id": "1874661286791045120",
+        "conversation_id": "2043571611266420921",
+        "created_at": "2026-04-13T06:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043571611266420921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFe9Xg6B2A",
+              "end": 37,
+              "expanded_url": "https://x.com/Jucom_ZH/status/2043571611266420921/photo/1",
+              "media_key": "3_2043571336237449216",
+              "start": 14,
+              "url": "https://t.co/PFe9Xg6B2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043571611266420921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11776,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 187,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最后一条评论可以获得这套😎 https://t.co/PFe9Xg6B2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6867,
+          "following_count": 2054,
+          "like_count": 25441,
+          "listed_count": 28,
+          "media_count": 666,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T03:38:12.000Z",
+        "description": "Jucom：一点即触，一键交易  \n立即注册👉https://t.co/wqN42JXjJh \n下载APP👉 https://t.co/3jQe55rvFg\n加入Telegram👉 https://t.co/0BtX62PDZu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3BVxlZ2",
+                "end": 46,
+                "expanded_url": "http://bit.ly/3BVxlZ2",
+                "start": 23,
+                "url": "https://t.co/wqN42JXjJh"
+              },
+              {
+                "display_url": "bit.ly/4pnpCqm",
+                "end": 78,
+                "expanded_url": "https://bit.ly/4pnpCqm",
+                "start": 55,
+                "url": "https://t.co/3jQe55rvFg"
+              },
+              {
+                "display_url": "t.me/Jucom_zh",
+                "end": 114,
+                "expanded_url": "https://t.me/Jucom_zh",
+                "start": 91,
+                "url": "https://t.co/0BtX62PDZu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ju.com",
+                "end": 23,
+                "expanded_url": "https://www.ju.com/",
+                "start": 0,
+                "url": "https://t.co/DT48aKqNTe"
+              }
+            ]
+          }
+        },
+        "id": "1874661286791045120",
+        "name": "Ju.com华语",
+        "pinned_tweet_id": "2043237847847845986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004647399529349120/8r1xMPsp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58751,
+          "following_count": 885,
+          "like_count": 3685,
+          "listed_count": 21,
+          "media_count": 2704,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/DT48aKqNTe",
+        "username": "Jucom_ZH",
+        "verified": true
+      }
+    ]
+  }
+}

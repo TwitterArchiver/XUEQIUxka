@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038622433218027972",
+    "created_at": "2026-03-30T16:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038650924135035364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1037215747225911299",
+          "start": 0,
+          "username": "alucard_907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038650924135035364",
+    "in_reply_to_user_id": "1037215747225911299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038622433218027972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alucard_907 咕咕嘎嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13606,
+        "height": 1280,
+        "media_key": "13_2038614964278370304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038614964278370304/img/npqwFG9m-mBc5EPE.jpg",
+        "public_metrics": {
+          "view_count": 1168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038614964278370304/vid/avc1/320x568/BcUOfgD-P6j0SQxi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038614964278370304/vid/avc1/480x852/UksRteV8m1tzapBA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038614964278370304/vid/avc1/720x1280/xF-r5wWKhhAzs9Hp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038614964278370304/pl/PStC2DF5KHIuO4kq.m3u8?v=f6f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038622433218027972",
+        "created_at": "2026-03-30T16:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038650924135035364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1037215747225911299",
+              "start": 0,
+              "username": "alucard_907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038650924135035364",
+        "in_reply_to_user_id": "1037215747225911299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038622433218027972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alucard_907 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038614964278370304"
+          ]
+        },
+        "author_id": "1037215747225911299",
+        "conversation_id": "2038622433218027972",
+        "created_at": "2026-03-30T14:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038622433218027972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tp8aJsyg9X",
+              "end": 31,
+              "expanded_url": "https://x.com/alucard_907/status/2038622433218027972/video/1",
+              "media_key": "13_2038614964278370304",
+              "start": 8,
+              "url": "https://t.co/Tp8aJsyg9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038622433218027972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5183,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要去咬死他！ https://t.co/Tp8aJsyg9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6596,
+          "following_count": 2006,
+          "like_count": 23191,
+          "listed_count": 27,
+          "media_count": 489,
+          "tweet_count": 2635
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-05T05:47:59.000Z",
+        "description": "\"曾写BUG为生的INTJ决斗者\"\n\"A duelist who once made a living off buggy code\"\n\"かつてバグコードで食ってたデュエリスト\"\n\n\"ACT/ARPG/FTG/Soul Like\"\n\"technology/meme/news/delicious\"\n欢迎互动🥰",
+        "id": "1037215747225911299",
+        "location": "Star City",
+        "name": "逆风狂撒花椒粉",
+        "pinned_tweet_id": "2037736178116669712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008218379728060416/P9SFJkRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 804,
+          "like_count": 4123,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 4681
+        },
+        "username": "alucard_907",
+        "verified": true
+      }
+    ]
+  }
+}

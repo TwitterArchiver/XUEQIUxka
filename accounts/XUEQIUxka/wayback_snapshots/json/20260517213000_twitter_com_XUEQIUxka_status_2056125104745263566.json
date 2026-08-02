@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055882520651337728",
+        "3_2055882529136373760"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2056125104745263566",
+    "created_at": "2026-05-17T21:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T22:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056125104745263566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mpMm4Hrkak",
+          "end": 31,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2056125104745263566/photo/1",
+          "media_key": "3_2055882520651337728",
+          "start": 8,
+          "url": "https://t.co/mpMm4Hrkak"
+        },
+        {
+          "display_url": "pic.x.com/mpMm4Hrkak",
+          "end": 31,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2056125104745263566/photo/1",
+          "media_key": "3_2055882529136373760",
+          "start": 8,
+          "url": "https://t.co/mpMm4Hrkak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056125104745263566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "米游交通大学～ https://t.co/mpMm4Hrkak"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2770,
+        "media_key": "3_2055882520651337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2Qo9bkAANx1g.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055882529136373760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2RIka8AAa3gA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055882520651337728",
+            "3_2055882529136373760"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2056125104745263566",
+        "created_at": "2026-05-17T21:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056125104745263566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpMm4Hrkak",
+              "end": 31,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2056125104745263566/photo/1",
+              "media_key": "3_2055882520651337728",
+              "start": 8,
+              "url": "https://t.co/mpMm4Hrkak"
+            },
+            {
+              "display_url": "pic.x.com/mpMm4Hrkak",
+              "end": 31,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2056125104745263566/photo/1",
+              "media_key": "3_2055882529136373760",
+              "start": 8,
+              "url": "https://t.co/mpMm4Hrkak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056125104745263566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米游交通大学～ https://t.co/mpMm4Hrkak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8521,
+          "following_count": 2215,
+          "like_count": 29946,
+          "listed_count": 26,
+          "media_count": 1470,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

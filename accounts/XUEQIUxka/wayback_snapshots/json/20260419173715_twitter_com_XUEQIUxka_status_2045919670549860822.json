@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045919667366273024"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045806019100692791",
+    "created_at": "2026-04-19T17:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045919670549860822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583434403875024898",
+          "start": 0,
+          "username": "ShirokuGchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uz38rA7K0R",
+          "end": 48,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2045919670549860822/photo/1",
+          "media_key": "3_2045919667366273024",
+          "start": 25,
+          "url": "https://t.co/uz38rA7K0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045919670549860822",
+    "in_reply_to_user_id": "1583434403875024898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045806019100692791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShirokuGchan 不嘻嘻，我还真的都有 https://t.co/uz38rA7K0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3850,
+        "media_key": "3_2045919667366273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSRGQRaIAAgg13.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045806011274133504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQpumVagAAmMpq.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045919667366273024"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045806019100692791",
+        "created_at": "2026-04-19T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045919670549860822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583434403875024898",
+              "start": 0,
+              "username": "ShirokuGchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz38rA7K0R",
+              "end": 48,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045919670549860822/photo/1",
+              "media_key": "3_2045919667366273024",
+              "start": 25,
+              "url": "https://t.co/uz38rA7K0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045919670549860822",
+        "in_reply_to_user_id": "1583434403875024898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045806019100692791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShirokuGchan 不嘻嘻，我还真的都有 https://t.co/uz38rA7K0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045806011274133504"
+          ]
+        },
+        "author_id": "1583434403875024898",
+        "conversation_id": "2045806019100692791",
+        "created_at": "2026-04-19T10:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045806019100692791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWyi9feJSu",
+              "end": 66,
+              "expanded_url": "https://x.com/ShirokuGchan/status/2045806019100692791/photo/1",
+              "media_key": "3_2045806011274133504",
+              "start": 43,
+              "url": "https://t.co/wWyi9feJSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045806019100692791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14548,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉招行皮卡丘已经是每个txl钱包里面的标配了🤔紧随其后的是招行万事网联普卡或金葵花 https://t.co/wWyi9feJSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 2138,
+          "like_count": 26563,
+          "listed_count": 27,
+          "media_count": 775,
+          "tweet_count": 3961
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-21T12:26:03.000Z",
+        "description": "换我做你的太阳｜Base@HKG｜Trilingual 国 粤 EN｜🚂 🚄 🚇 ✈️ 🎾｜兼职鞋袜博主｜hello@shirokuchan.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gchanht",
+                "end": 23,
+                "expanded_url": "http://t.me/gchanht",
+                "start": 0,
+                "url": "https://t.co/AqHyGkVtLS"
+              }
+            ]
+          }
+        },
+        "id": "1583434403875024898",
+        "location": "Hong Kong / Zhejiang China",
+        "name": "Shiroku小柴",
+        "pinned_tweet_id": "1994625573084332444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909420608099958785/rhcal6tF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3230,
+          "following_count": 817,
+          "like_count": 16141,
+          "listed_count": 7,
+          "media_count": 430,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/AqHyGkVtLS",
+        "username": "ShirokuGchan",
+        "verified": false
+      }
+    ]
+  }
+}

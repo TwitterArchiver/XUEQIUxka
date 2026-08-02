@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2062946364871623163",
+    "created_at": "2026-06-05T18:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062962487390257539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2062962487390257539",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062946364871623163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 这个凑企鹅的卡到现在也不给我通过，一直说审核，审核2个月都没有下来\n凑企鹅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2062946361105125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOyRRbEAAczaP.jpg",
+        "width": 1553
+      },
+      {
+        "height": 540,
+        "media_key": "3_2062946356659142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOyAtawAADiLr.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "North Korea",
+        "country_code": "KP",
+        "full_name": "North Korea",
+        "geo": {
+          "bbox": [
+            124.18079,
+            37.6036389,
+            130.6980295,
+            43.0115891
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c999e6a453e9ef72",
+        "name": "North Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2062946364871623163",
+        "created_at": "2026-06-05T18:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062962487390257539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2062962487390257539",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062946364871623163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 这个凑企鹅的卡到现在也不给我通过，一直说审核，审核2个月都没有下来\n凑企鹅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062946361105125376",
+            "3_2062946356659142656"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "2062946364871623163",
+        "created_at": "2026-06-05T17:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062946364871623163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1z9iSYqooY",
+              "end": 197,
+              "expanded_url": "https://x.com/suishoucrystal/status/2062946364871623163/photo/1",
+              "media_key": "3_2062946361105125376",
+              "start": 174,
+              "url": "https://t.co/1z9iSYqooY"
+            },
+            {
+              "display_url": "pic.x.com/1z9iSYqooY",
+              "end": 197,
+              "expanded_url": "https://x.com/suishoucrystal/status/2062946364871623163/photo/1",
+              "media_key": "3_2062946356659142656",
+              "start": 174,
+              "url": "https://t.co/1z9iSYqooY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062946364871623163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "办法总比困难多！💳以Bitget Wallet Card和Safepal Card大陆用户无法再注册为契机，盘点一下现在大陆人还能注册的U卡💳\n\n1. Roogoo Card【身份证可过KYC】\n0开卡费，需预充10U或以上，可以开美国🇺🇸香港🇭🇰新加坡🇸🇬三个地区的Visa卡，每种卡的适用场景不同（有实体卡，可邮寄大陆）\n\n2.PokePay Card【身份证可过KYC】\n5U开卡费，可申请香港🇭🇰地区Visa卡（有实体卡，可邮寄大陆）\n\n3. Bybit Card【仅支持护照过KYC】\n0开卡费，需预充10U，卡段根据账号地区来决定🌏（目前欧区和澳区需要技巧才能规避地址证明，哈萨克斯坦区和格鲁吉亚区通过假地址可验证通过）为万事达卡（有实体卡，无法直邮大陆）\n\n4.BiyaPay Crad【身份证可过KYC】\n0开卡费，需预充5U，可开美国🇺🇸地区Visa或万事达卡（无实体卡）\n\n5. Kast Card【仅支持护照过KYC】\n0开卡费，0预充费，可开美属波多黎各地区🇺🇸Visa卡（无实体卡）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 398,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "办法总比困难多！💳以Bitget Wallet Card和Safepal Card大陆用户无法再注册为契机，盘点一下现在大陆人还能注册的U卡💳\n\n1. Roogoo Card【身份证可过KYC】\n0开卡费，需预充10U或以上，可以开美国🇺🇸香港🇭🇰新加坡🇸🇬三个地区的Visa卡，每种卡的适用场景不同（有实体卡，可邮寄大陆）\n\n2.PokePay https://t.co/1z9iSYqooY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8909,
+          "following_count": 2372,
+          "like_count": 31418,
+          "listed_count": 25,
+          "media_count": 1766,
+          "tweet_count": 5768
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+ビッグデータ専攻 JPOP夢中 @AORINGOHUZIN ファン🍏📰中国速報🌗友跨🍥中推圈锐评家🌗钻研 社会/跨境，稳定币保本理财 跨境引路人:@bailyLU 出色的老乡:@realNyarime 挚友：@aoim33 @YongQuan @CyberKanjousen @Fuugetsu_808",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "AORINGOHUZIN"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "bailyLU"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "realNyarime"
+              },
+              {
+                "end": 115,
+                "start": 108,
+                "username": "aoim33"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "YongQuan"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "Fuugetsu_808"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1383,
+          "like_count": 1696,
+          "listed_count": 5,
+          "media_count": 336,
+          "tweet_count": 4028
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

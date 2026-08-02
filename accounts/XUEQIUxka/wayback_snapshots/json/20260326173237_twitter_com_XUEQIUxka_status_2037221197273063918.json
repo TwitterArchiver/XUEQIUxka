@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037183266428772677",
+    "created_at": "2026-03-26T17:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037221197273063918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "759926746955157505",
+          "start": 0,
+          "username": "Cesare5231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037221197273063918",
+    "in_reply_to_user_id": "759926746955157505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037183266428772677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cesare5231 折叠屏可能是趋势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037183266428772677",
+        "created_at": "2026-03-26T17:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037221197273063918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "759926746955157505",
+              "start": 0,
+              "username": "Cesare5231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037221197273063918",
+        "in_reply_to_user_id": "759926746955157505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037183266428772677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cesare5231 折叠屏可能是趋势"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759926746955157505",
+        "conversation_id": "2037183266428772677",
+        "created_at": "2026-03-26T15:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037183266428772677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037183266428772677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21609,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Oppo find 6，9999元起\n\n7天卖了1万台，破首销记录\n\n以后苹果不会真成屌丝手机了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6448,
+          "following_count": 1918,
+          "like_count": 22295,
+          "listed_count": 27,
+          "media_count": 450,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-01T01:40:30.000Z",
+        "description": "长期主义|复利|自律",
+        "id": "759926746955157505",
+        "location": "Earith, England",
+        "name": "TonyStark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007448608514400256/jKIRKzSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6136,
+          "following_count": 3374,
+          "like_count": 1013,
+          "listed_count": 15,
+          "media_count": 554,
+          "tweet_count": 5410
+        },
+        "username": "Cesare5231",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2056616206745178115",
+    "created_at": "2026-05-19T07:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056644455286161758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992255920777392128",
+          "start": 0,
+          "username": "GMwalletHK"
+        },
+        {
+          "end": 25,
+          "id": "1775079210484436992",
+          "start": 12,
+          "username": "0xAstraSpark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056644455286161758",
+    "in_reply_to_user_id": "1992255920777392128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056616206745178115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMwalletHK @0xAstraSpark 建议黑幕我，并请我吃饭\n0xb40934d54f4d1bd33e0a5449a69d147a0bb00ea1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2056616111966396416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqRdRkaIAAUYuD.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2056616206745178115",
+        "created_at": "2026-05-19T07:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056644455286161758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992255920777392128",
+              "start": 0,
+              "username": "GMwalletHK"
+            },
+            {
+              "end": 25,
+              "id": "1775079210484436992",
+              "start": 12,
+              "username": "0xAstraSpark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056644455286161758",
+        "in_reply_to_user_id": "1992255920777392128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056616206745178115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMwalletHK @0xAstraSpark 建议黑幕我，并请我吃饭\n0xb40934d54f4d1bd33e0a5449a69d147a0bb00ea1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056616111966396416"
+          ]
+        },
+        "author_id": "1992255920777392128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056616206745178115",
+        "created_at": "2026-05-19T06:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056616206745178115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1775079210484436992",
+              "start": 19,
+              "username": "0xAstraSpark"
+            },
+            {
+              "end": 98,
+              "id": "1992255920777392128",
+              "start": 87,
+              "username": "GMwalletHK"
+            },
+            {
+              "end": 114,
+              "id": "1775079210484436992",
+              "start": 101,
+              "username": "0xAstraSpark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajhlib0Ssq",
+              "end": 162,
+              "expanded_url": "https://x.com/GMwalletHK/status/2056616206745178115/photo/1",
+              "media_key": "3_2056616111966396416",
+              "start": 139,
+              "url": "https://t.co/ajhlib0Ssq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056616206745178115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 32,
+                "id": "1775079210484436992",
+                "start": 19,
+                "username": "0xAstraSpark"
+              },
+              {
+                "end": 98,
+                "id": "1992255920777392128",
+                "start": 87,
+                "username": "GMwalletHK"
+              },
+              {
+                "end": 114,
+                "id": "1775079210484436992",
+                "start": 101,
+                "username": "0xAstraSpark"
+              },
+              {
+                "end": 206,
+                "id": "1775079210484436992",
+                "start": 193,
+                "username": "0xAstraSpark"
+              }
+            ]
+          },
+          "text": "各位老公们下午好鸭🥰\n\n由于我有一个 @0xAstraSpark 卖都卖不明白的老板，GM目前还没有属于自己的披萨，但是我可以把他的工资拿出来给老公们分一分！点赞本帖，关注 @GMwalletHK 和 @0xAstraSpark  评论区留下Bsc地址，统一时间爆出随机金币！\n\n老公们你能答应我今晚不要跟其他南生或者女生在一张床吗？我真的会吃醋的，因为我现实没有老公呜呜呜🥹\n\n我和 @0xAstraSpark以及团队成员再努努力争取明年的披萨节可以给各位老公送披萨！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1960,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "各位老公们下午好鸭🥰\n\n由于我有一个 @0xAstraSpark 卖都卖不明白的老板，GM目前还没有属于自己的披萨，但是我可以把他的工资拿出来给老公们分一分！点赞本帖，关注 @GMwalletHK 和 @0xAstraSpark  评论区留下Bsc地址，统一时间爆出随机金币！ https://t.co/ajhlib0Ssq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8554,
+          "following_count": 2212,
+          "like_count": 30136,
+          "listed_count": 24,
+          "media_count": 1505,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 开发者，EPusdt 开发者。我们正在构建全新的无摩擦的资产语意层钱包，Keep building！Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2055252246737379359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 624,
+          "like_count": 4066,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMwalletHK",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) 加密交易用币安：https://t.co/gCvs8cb1ga\nbitget 最高返佣 https://t.co/4z83vmfHQH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 69,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 46,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "partner.bitget.com/bg/yjqvqjyv",
+                "end": 105,
+                "expanded_url": "https://partner.bitget.com/bg/yjqvqjyv",
+                "start": 82,
+                "url": "https://t.co/4z83vmfHQH"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6635,
+          "following_count": 884,
+          "like_count": 40055,
+          "listed_count": 31,
+          "media_count": 306,
+          "tweet_count": 7605
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      }
+    ]
+  }
+}

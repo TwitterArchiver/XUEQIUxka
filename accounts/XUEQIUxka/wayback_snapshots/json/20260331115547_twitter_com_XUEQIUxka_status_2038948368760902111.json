@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038845447461319033",
+    "created_at": "2026-03-31T11:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038948368760902111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1585834324573753344",
+          "start": 0,
+          "username": "fuying8988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038948368760902111",
+    "in_reply_to_user_id": "1585834324573753344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038845447461319033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuying8988 彩礼感觉跟卖女儿似的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038845447461319033",
+        "created_at": "2026-03-31T11:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038948368760902111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1585834324573753344",
+              "start": 0,
+              "username": "fuying8988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038948368760902111",
+        "in_reply_to_user_id": "1585834324573753344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038845447461319033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuying8988 彩礼感觉跟卖女儿似的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585834324573753344",
+        "conversation_id": "2038845447461319033",
+        "created_at": "2026-03-31T05:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038845447461319033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038845447461319033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我江西赣州的，他广东湛江的。\n三年异地，高铁票攒了一整盒。\n我以为最难熬的是距离，没想\n到最难的是最后这一关。\n我家那边，彩礼二十八万八起步。\n我妈说：“不是爸妈贪钱，\n是你表姐去年三十二万，你要少了，\n亲戚背后怎么议论？”\n他那边，最高给八万八。\n他爸在电话里说：“广东没有卖女儿的\n习惯，八万八已经是体面。”\n我夹在中间，像个传话筒。\n这边传”二十八万八一分不能少\n那边传“八万八多一分都没有”。\n最后一通电话，他说了句让我心凉的话：“你们那边到底嫁女还是做生意？”\n我握着手机，张了张嘴，什么都说不出来。\n挂了电话，我翻出那一整盒车票，\n一张一张看。南昌到湛江2331\n湛江到南昌，七个小时的绿皮火车，\n我坐了三年。然后我把盒子盖上了。\n他没再打来，我也没再打过去。\n后来朋友问我，怎么就散了。\n我说，可能就是我们谁都不愿章\n先低头吧。他觉得他没错，\n我觉得我也没错。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21119,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 85,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我江西赣州的，他广东湛江的。\n三年异地，高铁票攒了一整盒。\n我以为最难熬的是距离，没想\n到最难的是最后这一关。\n我家那边，彩礼二十八万八起步。\n我妈说：“不是爸妈贪钱，\n是你表姐去年三十二万，你要少了，\n亲戚背后怎么议论？”\n他那边，最高给八万八。\n他爸在电话里说：“广东没有卖女儿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6627,
+          "following_count": 2007,
+          "like_count": 23289,
+          "listed_count": 27,
+          "media_count": 497,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T03:22:31.000Z",
+        "description": "「2018入圈老韭菜|链上数据&叙事轮动观察者，每天只做三件事：拆逻辑、避坑、陪你熬熊等牛市赚筹码，熊市赚认知，欢迎理性同路人🤗",
+        "id": "1585834324573753344",
+        "location": "Hong Kong",
+        "name": "颜汐💕",
+        "pinned_tweet_id": "2019753088630898942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018688961934499841/2OfnAnd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8943,
+          "following_count": 1200,
+          "like_count": 12404,
+          "listed_count": 31,
+          "media_count": 352,
+          "tweet_count": 5207
+        },
+        "username": "fuying8988",
+        "verified": true
+      }
+    ]
+  }
+}

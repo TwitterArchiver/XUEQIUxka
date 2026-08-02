@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035586244928032768",
+    "created_at": "2026-03-22T16:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035752388016128303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905089334778400768",
+          "start": 0,
+          "username": "zuichunyan123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035752388016128303",
+    "in_reply_to_user_id": "1905089334778400768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035586244928032768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuichunyan123 突然也好想找这样的工作，感觉还可以全世界旅游"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2035586199117795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_a3PQakAAQ0OJ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035586244928032768",
+        "created_at": "2026-03-22T16:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035752388016128303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905089334778400768",
+              "start": 0,
+              "username": "zuichunyan123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035752388016128303",
+        "in_reply_to_user_id": "1905089334778400768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035586244928032768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuichunyan123 突然也好想找这样的工作，感觉还可以全世界旅游"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035586199117795328"
+          ]
+        },
+        "author_id": "1905089334778400768",
+        "conversation_id": "2035586244928032768",
+        "created_at": "2026-03-22T05:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035586244928032768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/206zVtuqEx",
+              "end": 34,
+              "expanded_url": "https://x.com/zuichunyan123/status/2035586244928032768/photo/1",
+              "media_key": "3_2035586199117795328",
+              "start": 11,
+              "url": "https://t.co/206zVtuqEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035586244928032768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 699547,
+          "like_count": 613,
+          "quote_count": 3,
+          "reply_count": 467,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "为啥这么快就通过了？ https://t.co/206zVtuqEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6308,
+          "following_count": 1806,
+          "like_count": 21621,
+          "listed_count": 26,
+          "media_count": 417,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T02:48:02.000Z",
+        "description": "每天超上头的人生选择题｜真实小感悟｜分享有趣\n欢迎评论你的答案～💖",
+        "id": "1905089334778400768",
+        "name": "醉春烟💗",
+        "pinned_tweet_id": "2035353351458804173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905089456098672640/J6R3W2_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9786,
+          "following_count": 4503,
+          "like_count": 39159,
+          "listed_count": 17,
+          "media_count": 711,
+          "tweet_count": 27441
+        },
+        "username": "zuichunyan123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039124250737676560",
+    "created_at": "2026-04-01T15:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039362985542713634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939242814547914752",
+          "start": 0,
+          "username": "Shenxiao123971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039362985542713634",
+    "in_reply_to_user_id": "1939242814547914752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039124250737676560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenxiao123971 防窥屏立大功"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38833,
+        "height": 1280,
+        "media_key": "13_2039124149713747968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039124149713747968/img/gsyOZHyzlzR4QgOP.jpg",
+        "public_metrics": {
+          "view_count": 764681
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039124149713747968/vid/avc1/320x568/rsXs1jMw5agTXxe7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039124149713747968/vid/avc1/480x852/YFH0r3_o7MYnZdWJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039124149713747968/vid/avc1/720x1280/DULMktPgEhjUXsxr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039124149713747968/pl/ILn4-igpal7oGrRD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039124250737676560",
+        "created_at": "2026-04-01T15:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039362985542713634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939242814547914752",
+              "start": 0,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039362985542713634",
+        "in_reply_to_user_id": "1939242814547914752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039124250737676560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenxiao123971 防窥屏立大功"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039124149713747968"
+          ]
+        },
+        "author_id": "1939242814547914752",
+        "conversation_id": "2039124250737676560",
+        "created_at": "2026-03-31T23:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T00:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039124250737676560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDtOinkv8o",
+              "end": 86,
+              "expanded_url": "https://x.com/Shenxiao123971/status/2039124250737676560/video/1",
+              "media_key": "13_2039124149713747968",
+              "start": 63,
+              "url": "https://t.co/xDtOinkv8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039124250737676560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 1390449,
+          "like_count": 1054,
+          "quote_count": 6,
+          "reply_count": 327,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "杭州某车企发布会现场，某媒体老师在社交软件上“yp”？太牛了，真的😭\n下回干这种事换台三星 S27 Ultra 吧，丢人现眼 https://t.co/xDtOinkv8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6644,
+          "following_count": 2021,
+          "like_count": 23504,
+          "listed_count": 27,
+          "media_count": 508,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "我是Shenxiao本xiao",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2036086738314305732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32131,
+          "following_count": 5485,
+          "like_count": 129205,
+          "listed_count": 123,
+          "media_count": 915,
+          "tweet_count": 30641
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

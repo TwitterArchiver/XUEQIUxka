@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036434109040566606",
+    "created_at": "2026-03-24T13:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036442889392476253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1721381996960845824",
+          "start": 0,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036442889392476253",
+    "in_reply_to_user_id": "1721381996960845824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036434109040566606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozhouhengmei 感觉人应该没了，不过还是 R.I.P."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036434102291931138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELeBsuaIAIsycz.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036434102287736834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELeBstaIAIL0T7.jpg",
+        "width": 943
+      },
+      {
+        "height": 720,
+        "media_key": "3_2036434102279348224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELeBsraIAA8JzL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2036434102262652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELeBsnbYAA8qEj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036434109040566606",
+        "created_at": "2026-03-24T13:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036442889392476253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721381996960845824",
+              "start": 0,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036442889392476253",
+        "in_reply_to_user_id": "1721381996960845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036434109040566606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhouhengmei 感觉人应该没了，不过还是 R.I.P."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036434102291931138",
+            "3_2036434102287736834",
+            "3_2036434102279348224",
+            "3_2036434102262652928"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "conversation_id": "2036434109040566606",
+        "created_at": "2026-03-24T13:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036434109040566606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPFrb1Qkv7",
+              "end": 167,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2036434109040566606/photo/1",
+              "media_key": "3_2036434102291931138",
+              "start": 144,
+              "url": "https://t.co/DPFrb1Qkv7"
+            },
+            {
+              "display_url": "pic.x.com/DPFrb1Qkv7",
+              "end": 167,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2036434109040566606/photo/1",
+              "media_key": "3_2036434102287736834",
+              "start": 144,
+              "url": "https://t.co/DPFrb1Qkv7"
+            },
+            {
+              "display_url": "pic.x.com/DPFrb1Qkv7",
+              "end": 167,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2036434109040566606/photo/1",
+              "media_key": "3_2036434102279348224",
+              "start": 144,
+              "url": "https://t.co/DPFrb1Qkv7"
+            },
+            {
+              "display_url": "pic.x.com/DPFrb1Qkv7",
+              "end": 167,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2036434109040566606/photo/1",
+              "media_key": "3_2036434102262652928",
+              "start": 144,
+              "url": "https://t.co/DPFrb1Qkv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036434109040566606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "张雪峰目前情况有点扑朔迷离。\n\n第一：很多人都在说，他的抖音头像变黑白了。 确实曾经变黑白了，但是现在又变回有颜色了。这是我自己亲自查看的。\n\n第二：网上在传的一份《入院记录》截屏，但我仔细看了姓名那一列，有些截屏里是“张子彪”（张雪峰真名），但有些却是“张九九”。所以我觉得这是假的。\n\n抖音黑白/彩色变化的问题，也许一开始有人觉得应该放黑白，后来被批评放早了于是改回去，这是我个人的推测。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 40588,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰目前情况有点扑朔迷离。\n\n第一：很多人都在说，他的抖音头像变黑白了。 确实曾经变黑白了，但是现在又变回有颜色了。这是我自己亲自查看的。\n\n第二：网上在传的一份《入院记录》截屏，但我仔细看了姓名那一列，有些截屏里是“张子彪”（张雪峰真名），但有些却是“张九九”。所以我觉得这是假的。 https://t.co/DPFrb1Qkv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 1837,
+          "like_count": 21786,
+          "listed_count": 27,
+          "media_count": 432,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129798,
+          "following_count": 130,
+          "like_count": 13011,
+          "listed_count": 522,
+          "media_count": 1276,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

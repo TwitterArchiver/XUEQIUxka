@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036634023611822453",
+    "created_at": "2026-03-25T06:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036690877717029339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494001415030964225",
+          "start": 0,
+          "username": "KillHypocricy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036690877717029339",
+    "in_reply_to_user_id": "1494001415030964225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036634023611822453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillHypocricy 还有笑话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036634023611822453",
+        "created_at": "2026-03-25T06:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036690877717029339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494001415030964225",
+              "start": 0,
+              "username": "KillHypocricy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036690877717029339",
+        "in_reply_to_user_id": "1494001415030964225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036634023611822453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillHypocricy 还有笑话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494001415030964225",
+        "conversation_id": "2036634023611822453",
+        "created_at": "2026-03-25T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036634023611822453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036634023611822453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1334,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "听说张雪峰及时送到医院的话还有救活的希望，但当时他躺在担架上艰难地说“不坐文科生拉的车”，医院只能紧急从其他城市调来一个工科学士救护车司机，这才耽误了最佳抢救时机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6371,
+          "following_count": 1862,
+          "like_count": 21926,
+          "listed_count": 27,
+          "media_count": 441,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T17:31:17.000Z",
+        "description": "免费相逼相奶相面／爱人tv",
+        "id": "1494001415030964225",
+        "location": "银湖",
+        "name": "珀忒頭",
+        "pinned_tweet_id": "1982457271176364189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032798871135604736/aqthy1Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 148,
+          "like_count": 13603,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1513
+        },
+        "username": "KillHypocricy",
+        "verified": false
+      }
+    ]
+  }
+}

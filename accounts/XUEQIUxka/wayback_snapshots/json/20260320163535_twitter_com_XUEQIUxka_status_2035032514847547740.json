@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035032509789175808",
+        "3_2035032511961866243",
+        "3_2035031082006196224"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035032514847547740",
+    "created_at": "2026-03-20T16:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:29:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035031084967268515",
+      "2035032514847547740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kQYRLr61hF",
+          "end": 116,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+          "media_key": "3_2035032509789175808",
+          "start": 93,
+          "url": "https://t.co/kQYRLr61hF"
+        },
+        {
+          "display_url": "pic.x.com/kQYRLr61hF",
+          "end": 116,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+          "media_key": "3_2035032511961866243",
+          "start": 93,
+          "url": "https://t.co/kQYRLr61hF"
+        },
+        {
+          "display_url": "pic.x.com/kQYRLr61hF",
+          "end": 116,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+          "media_key": "3_2035031082006196224",
+          "start": 93,
+          "url": "https://t.co/kQYRLr61hF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035032514847547740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打了一些中间透明的鱼板🍥\n线下见面&amp;后期抽奖掉落\n谢谢大家的关注和喜欢~\n使用的是\n拓竹的PETG Translucent &amp; PETG HF\n在这条推文评论会随机掉落 https://t.co/kQYRLr61hF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035032509789175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3jSRxbAAAHASn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1922,
+        "media_key": "3_2035032511961866243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3jSZ3boAM5nvg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1569,
+        "media_key": "3_2035031082006196224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3h_K3bsAA78lF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035031081527971840",
+            "3_2035031082807255040",
+            "3_2035031082006196224"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035031084967268515",
+        "created_at": "2026-03-20T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:29:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035031084967268515",
+          "2035032514847547740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VsllKd6Gt",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035031084967268515/photo/1",
+              "media_key": "3_2035031081527971840",
+              "start": 93,
+              "url": "https://t.co/2VsllKd6Gt"
+            },
+            {
+              "display_url": "pic.x.com/2VsllKd6Gt",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035031084967268515/photo/1",
+              "media_key": "3_2035031082807255040",
+              "start": 93,
+              "url": "https://t.co/2VsllKd6Gt"
+            },
+            {
+              "display_url": "pic.x.com/2VsllKd6Gt",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035031084967268515/photo/1",
+              "media_key": "3_2035031082006196224",
+              "start": 93,
+              "url": "https://t.co/2VsllKd6Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035031084967268515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了一些中间透明的鱼板🍥\n线下见面&amp;后期抽奖掉落\n谢谢大家的关注和喜欢~\n使用的是\n拓竹的PETG Translucent &amp; PETG HF\n在这条推文评论会随机掉落 https://t.co/2VsllKd6Gt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035032509789175808",
+            "3_2035032511961866243",
+            "3_2035031082006196224"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035032514847547740",
+        "created_at": "2026-03-20T16:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:29:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035031084967268515",
+          "2035032514847547740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQYRLr61hF",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+              "media_key": "3_2035032509789175808",
+              "start": 93,
+              "url": "https://t.co/kQYRLr61hF"
+            },
+            {
+              "display_url": "pic.x.com/kQYRLr61hF",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+              "media_key": "3_2035032511961866243",
+              "start": 93,
+              "url": "https://t.co/kQYRLr61hF"
+            },
+            {
+              "display_url": "pic.x.com/kQYRLr61hF",
+              "end": 116,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2035032514847547740/photo/1",
+              "media_key": "3_2035031082006196224",
+              "start": 93,
+              "url": "https://t.co/kQYRLr61hF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035032514847547740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了一些中间透明的鱼板🍥\n线下见面&amp;后期抽奖掉落\n谢谢大家的关注和喜欢~\n使用的是\n拓竹的PETG Translucent &amp; PETG HF\n在这条推文评论会随机掉落 https://t.co/kQYRLr61hF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6275,
+          "following_count": 1783,
+          "like_count": 21440,
+          "listed_count": 26,
+          "media_count": 399,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

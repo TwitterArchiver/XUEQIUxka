@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2043388063003574288",
+    "created_at": "2026-04-12T18:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043389919809450005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstraSpark"
+        },
+        {
+          "end": 23,
+          "id": "1516941936971554817",
+          "start": 14,
+          "username": "wolfyxbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043389919809450005",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043388063003574288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstraSpark @wolfyxbt 我订阅了应该会有回关的对吧？("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043388063003574288",
+        "created_at": "2026-04-12T18:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043389919809450005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstraSpark"
+            },
+            {
+              "end": 23,
+              "id": "1516941936971554817",
+              "start": 14,
+              "username": "wolfyxbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043389919809450005",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043388063003574288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstraSpark @wolfyxbt 我订阅了应该会有回关的对吧？("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2043388063003574288",
+        "created_at": "2026-04-12T17:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043388063003574288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1516941936971554817",
+              "start": 36,
+              "username": "wolfyxbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043388063003574288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近只要订阅 杀破狼，基本都能拿到回关，想要增加排名的可以花1美元订阅\n@wolfyxbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6860,
+          "following_count": 2056,
+          "like_count": 25401,
+          "listed_count": 28,
+          "media_count": 661,
+          "tweet_count": 3544
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "📖ANU|💪Serial Founder|⚡️Believer in crypto efficiency|💻Keep Building!|🏗️ Cooking @GMwalletApp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "GMwalletApp"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 470,
+          "like_count": 24467,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 4279
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "1980990613739970728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833777,
+          "following_count": 7145,
+          "like_count": 52475,
+          "listed_count": 3657,
+          "media_count": 2783,
+          "tweet_count": 21368
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      }
+    ]
+  }
+}

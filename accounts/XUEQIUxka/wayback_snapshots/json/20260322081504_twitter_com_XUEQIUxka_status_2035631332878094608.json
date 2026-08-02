@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035576469322359182",
+    "created_at": "2026-03-22T08:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035631332878094608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910811254509494274",
+          "start": 0,
+          "username": "corndogjpn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035631332878094608",
+    "in_reply_to_user_id": "1910811254509494274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035576469322359182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@corndogjpn2 最近不是还有马拉松冲线被裁判拦\n我只能说，很难评"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035576469322359182",
+        "created_at": "2026-03-22T08:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035631332878094608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910811254509494274",
+              "start": 0,
+              "username": "corndogjpn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035631332878094608",
+        "in_reply_to_user_id": "1910811254509494274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035576469322359182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@corndogjpn2 最近不是还有马拉松冲线被裁判拦\n我只能说，很难评"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910811254509494274",
+        "conversation_id": "2035576469322359182",
+        "created_at": "2026-03-22T04:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035576469322359182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035576469322359182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13321,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个城市的傻逼程度，与这个城市每年搞马拉松的数量，成正比。\n\n一个国家的傻逼程度，与这个国家每年搞马拉松的总和，成正比。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6304,
+          "following_count": 1804,
+          "like_count": 21604,
+          "listed_count": 26,
+          "media_count": 414,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-11T21:44:57.000Z",
+        "description": "シャンハイHDD・千葉県民・都内社畜",
+        "id": "1910811254509494274",
+        "location": "Tokyo",
+        "name": "リョウ・老梁玉米",
+        "pinned_tweet_id": "1992806940934889950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980870937298743296/Pf7hz9-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 103,
+          "like_count": 1138,
+          "listed_count": 20,
+          "media_count": 371,
+          "tweet_count": 2767
+        },
+        "username": "corndogjpn2",
+        "verified": false
+      }
+    ]
+  }
+}

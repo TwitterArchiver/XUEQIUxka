@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038945429782450266",
+    "created_at": "2026-03-31T14:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038988107757007284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939242814547914752",
+          "start": 0,
+          "username": "Shenxiao123971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038988107757007284",
+    "in_reply_to_user_id": "1939242814547914752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038945429782450266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenxiao123971 但是黄磊最近不也被说做饭很难吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2038945420739850241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvKDq-bsAEq9vr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038945429782450266",
+        "created_at": "2026-03-31T14:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038988107757007284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939242814547914752",
+              "start": 0,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038988107757007284",
+        "in_reply_to_user_id": "1939242814547914752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038945429782450266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenxiao123971 但是黄磊最近不也被说做饭很难吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038945420739850241"
+          ]
+        },
+        "author_id": "1939242814547914752",
+        "conversation_id": "2038945429782450266",
+        "created_at": "2026-03-31T11:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038945429782450266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gBbuGopLyX",
+              "end": 134,
+              "expanded_url": "https://x.com/Shenxiao123971/status/2038945429782450266/photo/1",
+              "media_key": "3_2038945420739850241",
+              "start": 111,
+              "url": "https://t.co/gBbuGopLyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038945429782450266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "黄磊深夜破防！全英文声明救不了女儿，这次输在哪？\n\n黄磊这两天怕是彻底感受到了“跨洋无力感”，女儿在纽约被传出所谓“三通一达”谣言，国内热搜一夜爆炸。律师声明也顶不住节奏，短视频循环街拍图、B站剪辑混剪，\n#黄多多纽约#\n一路飙到热榜前三。而他只能隔着十二小时时差在微博发个全英文澄清。本想靠气势压楼，结果评论区直接被“特权是原罪”刷屏，体面不在现场却全线失守。为何多方回应难平风波，这场持续多年的舆论困境，问题究竟出在哪？黄多多的大众认知起点，始于2014年那档亲子综艺《爸爸去哪儿第二季》。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 417597,
+          "like_count": 146,
+          "quote_count": 8,
+          "reply_count": 121,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "黄磊深夜破防！全英文声明救不了女儿，这次输在哪？\n\n黄磊这两天怕是彻底感受到了“跨洋无力感”，女儿在纽约被传出所谓“三通一达”谣言，国内热搜一夜爆炸。律师声明也顶不住节奏，短视频循环街拍图、B站剪辑混剪，\n#黄多多纽约# https://t.co/gBbuGopLyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6632,
+          "following_count": 2015,
+          "like_count": 23344,
+          "listed_count": 27,
+          "media_count": 498,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "我是Shenxiao本xiao",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2036086738314305732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31954,
+          "following_count": 5482,
+          "like_count": 128964,
+          "listed_count": 122,
+          "media_count": 901,
+          "tweet_count": 30605
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

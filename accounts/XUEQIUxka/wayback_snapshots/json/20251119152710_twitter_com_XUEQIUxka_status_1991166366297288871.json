@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1991166366297288871",
+    "created_at": "2025-11-19T15:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991166366297288871"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991166366297288871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "内容警告：涉及成人\n\n蛙趣，看涩图，没牛牛硬了，幻肢痛，然后有种久违的被锁的感觉？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1991166366297288871",
+        "created_at": "2025-11-19T15:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991166366297288871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991166366297288871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内容警告：涉及成人\n\n蛙趣，看涩图，没牛牛硬了，幻肢痛，然后有种久违的被锁的感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 110,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "MTF"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "HRT"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 1443,
+          "like_count": 18457,
+          "listed_count": 22,
+          "media_count": 300,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

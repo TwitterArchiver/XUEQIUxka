@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2081790015995248960",
+    "created_at": "2026-07-28T01:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081912329126752378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "636513296",
+          "start": 0,
+          "username": "nikitabier"
+        },
+        {
+          "end": 169,
+          "id": "1368897611672018953",
+          "start": 159,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081912329126752378",
+    "in_reply_to_user_id": "636513296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 157,
+            "id": "1368897611672018953",
+            "start": 147,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 955,
+            "id": "1368897611672018953",
+            "start": 945,
+            "username": "XUEQIUxka"
+          }
+        ]
+      },
+      "text": "Dear X Creator Revenue Sharing / Premium Support Team,\n\nI am writing to respectfully appeal the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe previous “sensitive” label was a system error and has already been successfully removed. My account is not R18 or adult content. I have thoroughly self-reviewed all posts and confirmed with followers that there is no NSFW, explicit, or policy-violating material — only original, positive everyday content with appropriate commentary.\n\nMonetization is my only source of income. This account is my fresh start as a positive figure in the Chinese transgender community, and I am fully committed to creating uplifting content while strictly following all X rules.\n\nI kindly request a manual review to correct this misclassification and restore my monetization privileges. Your help would mean a great deal to me.\n\nThank you for your time and understanding.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081790015995248960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikitabier Dear X Creator Revenue Sharing / Premium Support Team,\n\nI am writing to respectfully appeal the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe previous “sensitive” label was a system error and has already been successfully removed. My account is not R18 or"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2081790015995248960",
+        "created_at": "2026-07-28T01:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081912329126752378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "636513296",
+              "start": 0,
+              "username": "nikitabier"
+            },
+            {
+              "end": 169,
+              "id": "1368897611672018953",
+              "start": 159,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081912329126752378",
+        "in_reply_to_user_id": "636513296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 157,
+                "id": "1368897611672018953",
+                "start": 147,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 955,
+                "id": "1368897611672018953",
+                "start": 945,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "Dear X Creator Revenue Sharing / Premium Support Team,\n\nI am writing to respectfully appeal the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe previous “sensitive” label was a system error and has already been successfully removed. My account is not R18 or adult content. I have thoroughly self-reviewed all posts and confirmed with followers that there is no NSFW, explicit, or policy-violating material — only original, positive everyday content with appropriate commentary.\n\nMonetization is my only source of income. This account is my fresh start as a positive figure in the Chinese transgender community, and I am fully committed to creating uplifting content while strictly following all X rules.\n\nI kindly request a manual review to correct this misclassification and restore my monetization privileges. Your help would mean a great deal to me.\n\nThank you for your time and understanding.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081790015995248960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikitabier Dear X Creator Revenue Sharing / Premium Support Team,\n\nI am writing to respectfully appeal the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe previous “sensitive” label was a system error and has already been successfully removed. My account is not R18 or"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "636513296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mark Zuckerberg",
+              "id": "982336316460290049",
+              "name": "Mark Zuckerberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026514072",
+              "name": "Denny's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "American Cuisine",
+              "id": "860133974043049985",
+              "name": "American cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mark Zuckerberg",
+              "id": "982336316460290049",
+              "name": "Mark Zuckerberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026514072",
+              "name": "Denny's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026514072",
+              "name": "Denny's"
+            }
+          }
+        ],
+        "conversation_id": "2081790015995248960",
+        "created_at": "2026-07-27T17:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081790015995248960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081790015995248960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 814,
+          "impression_count": 874491,
+          "like_count": 28784,
+          "quote_count": 388,
+          "reply_count": 2702,
+          "retweet_count": 1797
+        },
+        "reply_settings": "everyone",
+        "text": "In the last couple weeks, X has been joined by:\n\nMark Zuckerberg\nJensen Huang\nDenny’s\nBernard Arnault\n\nWelcome to the global town square."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9773,
+          "following_count": 2365,
+          "like_count": 33589,
+          "listed_count": 26,
+          "media_count": 1662,
+          "tweet_count": 5984
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248043,
+          "following_count": 2052,
+          "like_count": 39488,
+          "listed_count": 6064,
+          "media_count": 1614,
+          "tweet_count": 11750
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

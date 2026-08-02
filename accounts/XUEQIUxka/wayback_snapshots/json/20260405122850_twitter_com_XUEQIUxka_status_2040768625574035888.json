@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040767001426280553",
+    "created_at": "2026-04-05T12:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040768625574035888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2010625193467867136",
+          "start": 0,
+          "username": "nutsh33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040768625574035888",
+    "in_reply_to_user_id": "2010625193467867136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040767001426280553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nutsh33 我觉得睡起来很舒服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040766735981391872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJCiK-asAAsYYK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040767001426280553",
+        "created_at": "2026-04-05T12:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040768625574035888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2010625193467867136",
+              "start": 0,
+              "username": "nutsh33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040768625574035888",
+        "in_reply_to_user_id": "2010625193467867136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040767001426280553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nutsh33 我觉得睡起来很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040766735981391872"
+          ]
+        },
+        "author_id": "2010625193467867136",
+        "conversation_id": "2040767001426280553",
+        "created_at": "2026-04-05T12:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040767001426280553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z06uSbHANp",
+              "end": 31,
+              "expanded_url": "https://x.com/nutsh33/status/2040767001426280553/photo/1",
+              "media_key": "3_2040766735981391872",
+              "start": 8,
+              "url": "https://t.co/z06uSbHANp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040767001426280553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问可以睡觉嘛 https://t.co/z06uSbHANp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6735,
+          "following_count": 2026,
+          "like_count": 24092,
+          "listed_count": 27,
+          "media_count": 555,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "日向 夏 Himukai Natsu ‖ 数码圈 ‖ 健身圈 ‖\n可爱、有趣的、日常 ‖ @UNIQLO_JP Staff ‖ 小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "UNIQLO_JP"
+              },
+              {
+                "end": 75,
+                "start": 68,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "Natsu H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037968637076844544/_IfjcZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 786,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 794
+        },
+        "username": "nutsh33",
+        "verified": true
+      }
+    ]
+  }
+}

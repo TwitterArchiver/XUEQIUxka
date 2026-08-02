@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042236398443659264"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042236402122084652",
+    "created_at": "2026-04-09T13:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042236402122084652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1970857021588262912",
+          "start": 17,
+          "username": "RainEngine_2024"
+        },
+        {
+          "end": 79,
+          "id": "1857802986837172224",
+          "start": 65,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 129,
+          "id": "1445253418742792197",
+          "start": 119,
+          "username": "Neko_Deer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pyCr2biYfK",
+          "end": 189,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2042236402122084652/photo/1",
+          "media_key": "3_2042236398443659264",
+          "start": 166,
+          "url": "https://t.co/pyCr2biYfK"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 213,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2041451778299089360",
+          "start": 190,
+          "url": "https://t.co/0CHScAkrOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042236402122084652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041451778299089360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽奖结果（各一位）：转发抽一位：\n@RainEngine_2024\n（Unk~）—— 她发了“蹲蹲”，参与感满满！\n点赞抽一位：\n@LingJiaXin233\n（凌嘉欣）—— 她发了“喵喵喵”，还被你可爱回复了，活跃度高～\n评论抽一位：\n@Neko_Deer\n（神楽坂 千梓）—— 发了“(・ω&lt; )★”，超级萌的参与方式！ https://t.co/pyCr2biYfK https://t.co/0CHScAkrOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042236398443659264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd7LySbgAAbLsR.jpg",
+        "width": 993
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041451761802833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj7BacAAEeLl.jpg",
+        "width": 1104
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2041451760548761600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj2Wa0AARM4r.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041451761735770112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj6xbIAA79-U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041451761714810880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj6sbUAA8-5R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042236398443659264"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042236402122084652",
+        "created_at": "2026-04-09T13:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042236402122084652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1970857021588262912",
+              "start": 17,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 79,
+              "id": "1857802986837172224",
+              "start": 65,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 129,
+              "id": "1445253418742792197",
+              "start": 119,
+              "username": "Neko_Deer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyCr2biYfK",
+              "end": 189,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2042236402122084652/photo/1",
+              "media_key": "3_2042236398443659264",
+              "start": 166,
+              "url": "https://t.co/pyCr2biYfK"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2041451778299089360",
+              "start": 190,
+              "url": "https://t.co/0CHScAkrOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042236402122084652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041451778299089360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结果（各一位）：转发抽一位：\n@RainEngine_2024\n（Unk~）—— 她发了“蹲蹲”，参与感满满！\n点赞抽一位：\n@LingJiaXin233\n（凌嘉欣）—— 她发了“喵喵喵”，还被你可爱回复了，活跃度高～\n评论抽一位：\n@Neko_Deer\n（神楽坂 千梓）—— 发了“(・ω&lt; )★”，超级萌的参与方式！ https://t.co/pyCr2biYfK https://t.co/0CHScAkrOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041451761802833920",
+            "3_2041451760548761600",
+            "3_2041451761735770112",
+            "3_2041451761714810880"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041451778299089360",
+        "created_at": "2026-04-07T09:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041451778299089360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1368897611672018953",
+              "start": 82,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761802833920",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451760548761600",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761735770112",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761714810880",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041451778299089360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4171,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第六弹！\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月8日（UTC+8）22:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/RDpaWvR8tH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6790,
+          "following_count": 2031,
+          "like_count": 24659,
+          "listed_count": 27,
+          "media_count": 596,
+          "tweet_count": 3236
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨|探索中? 或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长反对党，炸柜:03.12|od💊pr|11.13.2011🎂出厂|161cm52kg75A41码|INFP-T|重度社恐|初二牲，成绩倒数，想要休学😭|同类互fo喵～|TG:https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 150,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 127,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "𝑼𝒏𝒌~🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 1298,
+          "like_count": 13925,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 761,
+          "like_count": 12614,
+          "listed_count": 8,
+          "media_count": 559,
+          "tweet_count": 3243
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T05:04:11.000Z",
+        "description": "这里是千梓! | 北京文化传播者 | 不知名个人势Vtuber | 计算机应用技术专业大三在读 | MtF🏳️‍⚧️ | HRT:自2026.4.20起(预计) | 164cm/49kg | INFJ-T | ♒️水瓶座 | 贴贴姐姐@liozhuyng1 | 广交朋友、友善待人 | 欢迎互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "liozhuyng1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/S9XBKvU",
+                "end": 23,
+                "expanded_url": "https://b23.tv/S9XBKvU",
+                "start": 0,
+                "url": "https://t.co/4eOiwLffda"
+              }
+            ]
+          }
+        },
+        "id": "1445253418742792197",
+        "location": "中华人民共和国 北京市 东城区 前门街道 南晓顺胡同 9号",
+        "name": "神楽坂 千梓🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029731994977079632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038824495126089728/GYXLmOwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 6067,
+          "like_count": 15987,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/4eOiwLffda",
+        "username": "Neko_Deer",
+        "verified": false
+      }
+    ]
+  }
+}

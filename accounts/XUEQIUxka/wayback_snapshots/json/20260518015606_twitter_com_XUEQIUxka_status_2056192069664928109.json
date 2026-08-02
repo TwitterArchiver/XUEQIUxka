@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055910438773096885",
+    "created_at": "2026-05-18T01:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056192069664928109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1456894621473247237",
+          "start": 0,
+          "username": "Xiayin8484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056192069664928109",
+    "in_reply_to_user_id": "1456894621473247237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056183003018387530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiayin8484 确实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056182992738119680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkHiata8AASL0P.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055910438773096885",
+        "created_at": "2026-05-18T01:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056192069664928109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456894621473247237",
+              "start": 0,
+              "username": "Xiayin8484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056192069664928109",
+        "in_reply_to_user_id": "1456894621473247237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056183003018387530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiayin8484 确实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056182992738119680"
+          ]
+        },
+        "author_id": "1456894621473247237",
+        "conversation_id": "2055910438773096885",
+        "created_at": "2026-05-18T01:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056183003018387530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8Y5Lxl780",
+              "end": 43,
+              "expanded_url": "https://x.com/Xiayin8484/status/2056183003018387530/photo/1",
+              "media_key": "3_2056182992738119680",
+              "start": 20,
+              "url": "https://t.co/y8Y5Lxl780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056183003018387530",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055910438773096885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 那么话又说回来了 https://t.co/y8Y5Lxl780"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8523,
+          "following_count": 2215,
+          "like_count": 29967,
+          "listed_count": 24,
+          "media_count": 1474,
+          "tweet_count": 5249
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-06T08:02:18.000Z",
+        "description": "Student👨‍🎓Vibe Coder👨‍💻 Photographer📷\nHe/Him/他\nNow try to make sth for Agents.\nWant to find a job like vibe coding or game editing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/chaobo8484",
+                "end": 23,
+                "expanded_url": "https://github.com/chaobo8484",
+                "start": 0,
+                "url": "https://t.co/GmnGnBnWzS"
+              }
+            ]
+          }
+        },
+        "id": "1456894621473247237",
+        "location": "Sichuan,China",
+        "name": "10^12kb Pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031392447503413250/ALQ4FCqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 705,
+          "like_count": 7787,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/GmnGnBnWzS",
+        "username": "Xiayin8484",
+        "verified": true
+      }
+    ]
+  }
+}

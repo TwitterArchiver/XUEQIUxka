@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038051694920003734",
+    "created_at": "2026-03-29T14:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038256155521102324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938294039255912448",
+          "start": 0,
+          "username": "dangnightdrift"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038256155521102324",
+    "in_reply_to_user_id": "1938294039255912448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038051694920003734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangnightdrift 太羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2038043112938045440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEiVaceagAAza2D.jpg",
+        "width": 579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038051694920003734",
+        "created_at": "2026-03-29T14:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038256155521102324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938294039255912448",
+              "start": 0,
+              "username": "dangnightdrift"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038256155521102324",
+        "in_reply_to_user_id": "1938294039255912448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038051694920003734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangnightdrift 太羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038043112938045440"
+          ]
+        },
+        "author_id": "1938294039255912448",
+        "conversation_id": "2038051694920003734",
+        "created_at": "2026-03-29T00:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038051694920003734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Y2jZg7ZKS",
+              "end": 167,
+              "expanded_url": "https://x.com/dangnightdrift/status/2038051694920003734/photo/1",
+              "media_key": "3_2038043112938045440",
+              "start": 144,
+              "url": "https://t.co/6Y2jZg7ZKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038051694920003734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "又是开心的一天。\n昨天流量1.6M。 喜又惊。\n喜的是马老板宠幸。 惊的是——明天还会来吗？\n别人晒收益，我晒流量。 作为创作者，这种恩宠我当鼓励。\n也想说说自己的小经验。 不收599，只收小爱心。\n\n1 坚持发帖，别断。\n2 做自己真正喜欢的赛道。我选了情感，因为我自己也在经历。\n3 段子要二创，不要直接复制。参考我的爆贴，不是抄我的爆贴。\n4 有料的回复我基本都回。蓝V互动优先。\n\n5 固定好IP和设备。别用大家都在跑的公共节点，家宽最稳。不懂的进我首页x社区\n6 运气。爱点赞的人，流量都不会太差。\n最后\n愿马老板明天继续宠幸你我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3320,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是开心的一天。\n昨天流量1.6M。 喜又惊。\n喜的是马老板宠幸。 惊的是——明天还会来吗？\n别人晒收益，我晒流量。 作为创作者，这种恩宠我当鼓励。\n也想说说自己的小经验。 不收599，只收小爱心。\n\n1 坚持发帖，别断。\n2 做自己真正喜欢的赛道。我选了情感，因为我自己也在经历。\n3 https://t.co/6Y2jZg7ZKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 1997,
+          "like_count": 22914,
+          "listed_count": 27,
+          "media_count": 478,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T17:51:44.000Z",
+        "description": "见过很多人，仍旧很天真。与你畅谈人世间，加入我的 X Community，一起聊聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/2027442240021225825",
+                "start": 0,
+                "url": "https://t.co/AeP5wcPnOB"
+              }
+            ]
+          }
+        },
+        "id": "1938294039255912448",
+        "location": "United States",
+        "name": "dangの夜漂",
+        "pinned_tweet_id": "2036304133276201199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026734467809726464/Of9iTVOP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 3884,
+          "like_count": 1023,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/AeP5wcPnOB",
+        "username": "dangnightdrift",
+        "verified": true
+      }
+    ]
+  }
+}

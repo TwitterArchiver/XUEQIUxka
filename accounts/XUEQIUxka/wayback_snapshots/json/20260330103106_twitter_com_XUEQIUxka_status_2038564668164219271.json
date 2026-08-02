@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038226060404195516",
+    "created_at": "2026-03-30T10:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038564668164219271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1355034977570701316",
+          "start": 0,
+          "username": "JCMarkEvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038564668164219271",
+    "in_reply_to_user_id": "1355034977570701316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038226060404195516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCMarkEvo 我只能说外包（临时工）还在发力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038226060404195516",
+        "created_at": "2026-03-30T10:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038564668164219271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1355034977570701316",
+              "start": 0,
+              "username": "JCMarkEvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038564668164219271",
+        "in_reply_to_user_id": "1355034977570701316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038226060404195516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCMarkEvo 我只能说外包（临时工）还在发力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355034977570701316",
+        "conversation_id": "2038226060404195516",
+        "created_at": "2026-03-29T12:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038226060404195516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038226060404195516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 587202,
+          "like_count": 822,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "人家外宣辛辛苦苦刷了一年好感度\n几天就让你给败光了\n真有水平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 2001,
+          "like_count": 23067,
+          "listed_count": 27,
+          "media_count": 483,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-29T06:08:18.000Z",
+        "description": "你好哦~？ 咳咳，这里是Mark，没什么好介绍的，痛苦上学壬，偶尔会掉落一两张手绘，现居苏格兰🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "id": "1355034977570701316",
+        "location": "Port 443",
+        "name": "𝓙.𝓒.𝓜𝓪𝓻𝓴🍀",
+        "pinned_tweet_id": "1897213562684367065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033163253245792256/yeSNFeuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 878,
+          "like_count": 34977,
+          "listed_count": 19,
+          "media_count": 1425,
+          "tweet_count": 5907
+        },
+        "username": "JCMarkEvo",
+        "verified": false
+      }
+    ]
+  }
+}

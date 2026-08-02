@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040254044992676042",
+    "created_at": "2026-04-04T07:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040333302834528582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "sincecoco"
+        },
+        {
+          "end": 20,
+          "id": "2024424705026117634",
+          "start": 11,
+          "username": "cavityuk"
+        },
+        {
+          "end": 30,
+          "id": "1943561677762646016",
+          "start": 21,
+          "username": "qusuunmd"
+        },
+        {
+          "end": 38,
+          "id": "1900168705847500800",
+          "start": 31,
+          "username": "wxb_NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040333302834528582",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040254044992676042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sincecoco @cavityuk @qusuunmd @wxb_NB\n给你们报的网课"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2040254032997187586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBwO7hbAAIA8em.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040254044992676042",
+        "created_at": "2026-04-04T07:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040333302834528582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "sincecoco"
+            },
+            {
+              "end": 20,
+              "id": "2024424705026117634",
+              "start": 11,
+              "username": "cavityuk"
+            },
+            {
+              "end": 30,
+              "id": "1943561677762646016",
+              "start": 21,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 38,
+              "id": "1900168705847500800",
+              "start": 31,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040333302834528582",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040254044992676042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sincecoco @cavityuk @qusuunmd @wxb_NB\n给你们报的网课"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040254032997187586"
+          ]
+        },
+        "author_id": "1439465002851725314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040254044992676042",
+        "created_at": "2026-04-04T02:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040254044992676042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pn7PnOX1gw",
+              "end": 97,
+              "expanded_url": "https://x.com/sincecoco/status/2040254044992676042/photo/1",
+              "media_key": "3_2040254032997187586",
+              "start": 74,
+              "url": "https://t.co/pn7PnOX1gw"
+            },
+            {
+              "display_url": "x.com/sincecoco/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/sincecoco/status/2040037452962812046",
+              "start": 98,
+              "url": "https://t.co/PUdTOBwLEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040254044992676042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "接上篇！橙子在上一篇也讲了卸厚底妆必须用卸妆油，那么问题来了：市面上那么多卸妆油，为什么别人用着一点问题也没有，你一用就闷出一脸红肿大痘和闭口呢？\n\n因为作为天生皮脂腺更发达的男孩子，加上我们为了遮盖男性特征画的厚重底妆，所以咱们选卸妆油的门槛，其实比普通女生要高得多！那我们应该怎么选择卸妆油呢？\n\n首先橙子带大家了解一下卸妆油的成分，认清三大油基，看懂成分表一定不吃亏：\n\n卸妆油好不好，全看基底油用的是什么。买之前记得翻过来看看背面的成分表前三名！一般都是按照添加的多少来排名的。\n\n🌿 1. 植物油基底（首选就是这个）\n\n• 代表成分： 霍霍巴油、向日葵籽油、橄榄油、葡萄籽油等。\n\n• 橙子点评： 这种卸妆油亲肤性最好，可以在卸妆的同时滋养皮肤。对于我们经常化大浓妆、饱受摧残的脸来说也是最友好的。虽然肤感可能会稍微有一点点厚，但安全性很高，最不容易闷痘！\n\n🪨 2. 矿物油基底（卸妆猛药）\n\n• 代表成分： 矿油、液体石蜡。\n\n• 橙子点评： 这种成分卸妆力超级牛掰！对付我们脸上的橘色遮瑕和定妆喷雾应该是降维打击，而且肤感很顺滑。但是！ 矿物油对纯度要求极高。提纯不好的廉价矿物油，一定会导致我们长闭口！\n\n🧪 3. 合成酯基底（痘痘肌避雷！）\n\n• 代表成分： 带有“酸XX酯”的字眼，比如肉豆蔻酸异丙酯（IPM）、棕榈酸异丙酯（IPP）。\n\n• 橙子点评： 虽然质地最清爽，水水的流动性很强，洗完脸也滑溜溜的。但是它的分子特别小，如果你乳化不到位，就会很容易带着彩妆残余直接钻进我们的毛孔里，第二天必长又硬又痛的红肿痘。油痘肌男妹妹记得避雷！\n\n💣橙子老师的翻车时间大赏：\n\n雷区一：我因为贪便宜买几十块的超大碗矿物油\n\n别傻了宝子们！好的矿物油提纯成本很高的，几十块钱一大瓶的矿油，里面的杂质能把你本就粗大的毛孔堵得死死的。这种油拿来洗我的美妆蛋我都嫌弃！橙子新手贪便宜踩过坑。\n\n雷区二：质地像拉丝糖浆一样黏稠\n\n如果你挤出来的卸妆油，在脸上干涩得根本推不开，那就快洗掉吧！因为这种太厚重的质地不仅会拉扯出细纹，而且非常难乳化。水冲半天脸还是油膜感重重的，肯定会烂脸。所以一定要买流动性好的！买之前可以上手试一下\n\n雷区三：因为迷信商家宣传的“卸洗合一，免二次清洁”导致皮肤变差\n\n对于只涂防晒的人来说可能行。但对于我们这种厚涂遮瑕➕全遮瑕粉底的男妹妹，卸妆油乳化冲水后，脸上一定还会残留表面活性剂。所以我们要乖乖用温和的氨基酸洗面奶再过一遍，不然还是会长痘痘！反正我已经把坑都踩过一遍了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2371,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040037452962812046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接上篇！橙子在上一篇也讲了卸厚底妆必须用卸妆油，那么问题来了：市面上那么多卸妆油，为什么别人用着一点问题也没有，你一用就闷出一脸红肿大痘和闭口呢？ https://t.co/pn7PnOX1gw https://t.co/PUdTOBwLEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6715,
+          "following_count": 2029,
+          "like_count": 23935,
+          "listed_count": 27,
+          "media_count": 540,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "记录日常生活碎片，专业艺术家 美食搜索家 爱逛街 爱吃饭 争取做一个旅游博主｜#日常 | #旅游｜#分享｜看黄的不要关注我！| This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "日常"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "旅游"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "分享"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lShaS"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere ",
+        "name": "橙子BABY",
+        "pinned_tweet_id": "2039982179678048524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16518,
+          "following_count": 379,
+          "like_count": 1948,
+          "listed_count": 47,
+          "media_count": 403,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/VCsG9lShaS",
+        "username": "sincecoco",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙～\n素散架的高中生……\n2010.8 ♍ ENTP🧩\n🏳️‍🌈友好",
+        "id": "2024424705026117634",
+        "location": "屿塘🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 222,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 483
+        },
+        "username": "qusuunmd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 518,
+          "like_count": 7757,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

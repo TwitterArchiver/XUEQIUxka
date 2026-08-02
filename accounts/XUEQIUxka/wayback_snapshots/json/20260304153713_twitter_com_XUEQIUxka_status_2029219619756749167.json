@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029219619756749167",
+    "created_at": "2026-03-04T15:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029219619756749167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029219619756749167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "提问：大学是否有用？\n\n重读大学，亦或是直接进入职场\n\n大学有用论\n\nPlan A-1：重新高考\n先退学，保留学籍，重新申请考号，处理身份信息问题，最快参加27年春季和夏季的高考\n\nPlan A-2：中职转高考\n这种方式不需要处理原学籍问题，可以直接读，使用新学籍重新高考或者其他\n\n大学无用论\n\nPlan B-1：找工作\n是否能在没有任何学历的情况下找到稳定的工作，（有残联就业保障）\n\nPlan B-2：学一项技能\n学习自己感兴趣的技能，并通过这些技能进入相关行业\n\n目前在面临学籍问题，休学4年+，无法保留我的学籍，只能退学"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提问：大学是否有用？\n\n重读大学，亦或是直接进入职场\n\n大学有用论\n\nPlan A-1：重新高考\n先退学，保留学籍，重新申请考号，处理身份信息问题，最快参加27年春季和夏季的高考\n\nPlan A-2：中职转高考\n这种方式不需要处理原学籍问题，可以直接读，使用新学籍重新高考或者其他\n\n大学无用论\n\nPlan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2029219619756749167",
+        "created_at": "2026-03-04T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029219619756749167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029219619756749167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "提问：大学是否有用？\n\n重读大学，亦或是直接进入职场\n\n大学有用论\n\nPlan A-1：重新高考\n先退学，保留学籍，重新申请考号，处理身份信息问题，最快参加27年春季和夏季的高考\n\nPlan A-2：中职转高考\n这种方式不需要处理原学籍问题，可以直接读，使用新学籍重新高考或者其他\n\n大学无用论\n\nPlan B-1：找工作\n是否能在没有任何学历的情况下找到稳定的工作，（有残联就业保障）\n\nPlan B-2：学一项技能\n学习自己感兴趣的技能，并通过这些技能进入相关行业\n\n目前在面临学籍问题，休学4年+，无法保留我的学籍，只能退学"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提问：大学是否有用？\n\n重读大学，亦或是直接进入职场\n\n大学有用论\n\nPlan A-1：重新高考\n先退学，保留学籍，重新申请考号，处理身份信息问题，最快参加27年春季和夏季的高考\n\nPlan A-2：中职转高考\n这种方式不需要处理原学籍问题，可以直接读，使用新学籍重新高考或者其他\n\n大学无用论\n\nPlan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 1524,
+          "like_count": 20411,
+          "listed_count": 25,
+          "media_count": 323,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

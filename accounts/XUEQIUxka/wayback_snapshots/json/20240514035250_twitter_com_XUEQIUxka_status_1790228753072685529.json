@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1789985354365157573",
+    "created_at": "2024-05-14T03:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T04:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790228753072685529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738437488912617472",
+          "start": 0,
+          "username": "ASUSynoptic777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790228753072685529",
+    "in_reply_to_user_id": "1738437488912617472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790207493605634495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ASUSynoptic777 可不知道还要不要走接下来的路，感觉走不过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1789985354365157573",
+        "created_at": "2024-05-14T03:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T04:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790228753072685529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738437488912617472",
+              "start": 0,
+              "username": "ASUSynoptic777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790228753072685529",
+        "in_reply_to_user_id": "1738437488912617472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790207493605634495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASUSynoptic777 可不知道还要不要走接下来的路，感觉走不过了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1738437488912617472",
+        "conversation_id": "1789985354365157573",
+        "created_at": "2024-05-14T02:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T03:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790207493605634495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790207493605634495",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789985354365157573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 你今年不都要srs了\n怎么打睾酮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1636747797381939200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 1515,
+          "like_count": 19264,
+          "listed_count": 17,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T05:53:01.000Z",
+        "description": "不会化妆/transfemale/友顺跨女/pai srs:2024.7/见习摄影师/电吉他🎸学习中/日语学习中",
+        "id": "1738437488912617472",
+        "name": "不来梅的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781115109240385536/SbS-MZ-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 129,
+          "like_count": 530,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "ASUSynoptic777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1896420095863525485",
+    "created_at": "2025-03-08T07:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T08:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898267753892512123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898267753892512123",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896420095863525485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 那肯定到处复活，毕竟好不容易拿到号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 84,
+        "media_key": "3_1896419946420461568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlFv5MNbYAAoE_g.png",
+        "width": 335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1896420095863525485",
+        "created_at": "2025-03-08T07:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T08:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898267753892512123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898267753892512123",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896420095863525485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 那肯定到处复活，毕竟好不容易拿到号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896419946420461568"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "conversation_id": "1896420095863525485",
+        "created_at": "2025-03-03T04:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T05:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896420095863525485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1368897611672018953",
+              "start": 11,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NukWQdXg45",
+              "end": 45,
+              "expanded_url": "https://x.com/MinaseAyano/status/1896420095863525485/photo/1",
+              "media_key": "3_1896419946420461568",
+              "start": 22,
+              "url": "https://t.co/NukWQdXg45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896420095863525485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你怎么到处复活呢 @XUEQIUxka https://t.co/NukWQdXg45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在减肥，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 107,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "MTF"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "HRT"
+              },
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4572,
+          "following_count": 1438,
+          "like_count": 17188,
+          "listed_count": 21,
+          "media_count": 271,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.12 | 丑逼 炸柜 不键政 OI废物 会骂人 | 坐标山东邹城 | 最爱的姐姐&老婆@Kisaragi_Momoe 可爱闺蜜@Aurora71310 姐姐@mirekintoc🥰 | 里推@Yumo_1314 | 可以私信找我交换明信片哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Aurora71310"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃Ayano𝕏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1287,
+          "like_count": 3434,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

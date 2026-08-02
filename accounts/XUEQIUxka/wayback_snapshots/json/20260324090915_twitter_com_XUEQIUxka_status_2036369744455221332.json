@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036312246087983548",
+    "created_at": "2026-03-24T09:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036369744455221332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881950582744985600",
+          "start": 0,
+          "username": "moon_bgb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036369744455221332",
+    "in_reply_to_user_id": "1881950582744985600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036312246087983548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moon_bgb 那很好了，我浏览量还差100万 拼命互动"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2036309285395898368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJsgZjaIAAiZJJ.png",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036312246087983548",
+        "created_at": "2026-03-24T09:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036369744455221332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881950582744985600",
+              "start": 0,
+              "username": "moon_bgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036369744455221332",
+        "in_reply_to_user_id": "1881950582744985600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036312246087983548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moon_bgb 那很好了，我浏览量还差100万 拼命互动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036309285395898368"
+          ]
+        },
+        "author_id": "1881950582744985600",
+        "conversation_id": "2036312246087983548",
+        "created_at": "2026-03-24T05:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036312246087983548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QptS9Vx65a",
+              "end": 144,
+              "expanded_url": "https://x.com/moon_bgb/status/2036312246087983548/photo/1",
+              "media_key": "3_2036309285395898368",
+              "start": 121,
+              "url": "https://t.co/QptS9Vx65a"
+            },
+            {
+              "display_url": "x.com/moon_bgb/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/moon_bgb/status/2034859345910145357",
+              "start": 145,
+              "url": "https://t.co/Oh9ut0hvY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036312246087983548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "还差20万，这几天平均每天200互动左右，基本每个互动的兄弟我都会点回他主页去互动，浏览量也是很稳定，平均每天九万左右，昨天近12万，离拿老马工资的门槛儿500万来说只差最后21万了，顺利的话也就三两天的事儿了，前后总共也就花了不到40天。\n如果你是纯邪修蹭流量的话会更快，但那种流量不给工资没有意义，我们的目是的为了拿工资为了把帐号做大，不单纯是为了达到500万浏览量拿工资的门槛儿。其实拿老马工资这事儿真的不难，我觉得你粉丝有个500以上每天能做到跟我差不多就行了，想挣点儿外块想在x起号的就去努力吧，加油！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3809,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859345910145357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还差20万，这几天平均每天200互动左右，基本每个互动的兄弟我都会点回他主页去互动，浏览量也是很稳定，平均每天九万左右，昨天近12万，离拿老马工资的门槛儿500万来说只差最后21万了，顺利的话也就三两天的事儿了，前后总共也就花了不到40天。 https://t.co/QptS9Vx65a https://t.co/Oh9ut0hvY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6333,
+          "following_count": 1822,
+          "like_count": 21751,
+          "listed_count": 27,
+          "media_count": 431,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T06:22:49.000Z",
+        "description": "Build Bitget生态丨 #BGB 五年定投进行中(2025-2030)丨长期主义丨强调纪律丨乐天派丨 #Bitget钱包产品体验官 丨 #Morph华语区大使 丨lhDAO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "BGB"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "Bitget钱包产品体验官"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "tag": "Morph华语区大使"
+              }
+            ]
+          }
+        },
+        "id": "1881950582744985600",
+        "name": "MOON丨BGB100+",
+        "pinned_tweet_id": "1906507136299155646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990941352008540160/HY1vqMgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7063,
+          "following_count": 3507,
+          "like_count": 52955,
+          "listed_count": 48,
+          "media_count": 1675,
+          "tweet_count": 26856
+        },
+        "username": "moon_bgb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029865166947668435",
+    "created_at": "2026-03-06T10:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029865166947668435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029865166947668435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029604932412952890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2029604928625553408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqa7eUbsAA443A.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2029865166947668435",
+        "created_at": "2026-03-06T10:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029865166947668435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029865166947668435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029604932412952890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029604928625553408"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "conversation_id": "2029604932412952890",
+        "created_at": "2026-03-05T17:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029604932412952890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMwa6giqMW",
+              "end": 227,
+              "expanded_url": "https://x.com/animalkyat/status/2029604932412952890/photo/1",
+              "media_key": "3_2029604928625553408",
+              "start": 204,
+              "url": "https://t.co/RMwa6giqMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029604932412952890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5668,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/RMwa6giqMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 1530,
+          "like_count": 20451,
+          "listed_count": 25,
+          "media_count": 324,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇投稿の削除依頼やPRや広告拡散等のお仕事はDMまで",
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234056,
+          "following_count": 183,
+          "like_count": 617,
+          "listed_count": 540,
+          "media_count": 4504,
+          "tweet_count": 5183
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

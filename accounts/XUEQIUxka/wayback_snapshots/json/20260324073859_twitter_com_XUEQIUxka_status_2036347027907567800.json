@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036289400749932655",
+    "created_at": "2026-03-24T07:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036347027907567800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022521225424310272",
+          "start": 0,
+          "username": "Danyixia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036347027907567800",
+    "in_reply_to_user_id": "2022521225424310272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036289400749932655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Danyixia 熊大快跑！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21687,
+        "height": 1920,
+        "media_key": "13_2035941950269067264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035941950269067264/img/av_NTfVRjglRx4lg.jpg",
+        "public_metrics": {
+          "view_count": 10461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035941950269067264/vid/avc1/320x568/kn50zcGEG7QyXzL5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035941950269067264/vid/avc1/480x852/hv0N21rJJv7Kc5t7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035941950269067264/vid/avc1/720x1280/QEbjXj2cKM0ayW_3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035941950269067264/pl/ZDOtOmfWUZDYJawz.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036289400749932655",
+        "created_at": "2026-03-24T07:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036347027907567800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022521225424310272",
+              "start": 0,
+              "username": "Danyixia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036347027907567800",
+        "in_reply_to_user_id": "2022521225424310272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036289400749932655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Danyixia 熊大快跑！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035941950269067264"
+          ]
+        },
+        "author_id": "2022521225424310272",
+        "conversation_id": "2036289400749932655",
+        "created_at": "2026-03-24T03:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036289400749932655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqXc5Yob0I",
+              "end": 70,
+              "expanded_url": "https://x.com/Danyixia/status/2036289400749932655/video/1",
+              "media_key": "13_2035941950269067264",
+              "start": 47,
+              "url": "https://t.co/vqXc5Yob0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036289400749932655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19447,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国西藏自治区昌都市，车主在隧道偶遇熊，为了熊的安全，车主开启安全驾驶提醒，护送熊跑出隧道。 https://t.co/vqXc5Yob0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 1821,
+          "like_count": 21749,
+          "listed_count": 27,
+          "media_count": 431,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T04:00:50.000Z",
+        "description": "I'm back,I never though of leaving here!",
+        "id": "2022521225424310272",
+        "name": "夏一旦同学",
+        "pinned_tweet_id": "2035957948003033290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023642892582219777/m0DYXxQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 158,
+          "like_count": 1429,
+          "listed_count": 10,
+          "media_count": 739,
+          "tweet_count": 2176
+        },
+        "username": "Danyixia",
+        "verified": false
+      }
+    ]
+  }
+}

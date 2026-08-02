@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2065119620273721377",
+    "created_at": "2026-06-12T14:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065438299762950225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024109578871537665",
+          "start": 0,
+          "username": "Yuhi759197"
+        },
+        {
+          "end": 26,
+          "id": "1929655659039281152",
+          "start": 12,
+          "username": "haradakashiwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065438299762950225",
+    "in_reply_to_user_id": "2024109578871537665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065351189647282408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuhi759197 @haradakashiwa 有理(就是有理！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2065351056574623744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmZ19-bsAAEzmm.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2065119620273721377",
+        "created_at": "2026-06-12T14:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065438299762950225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024109578871537665",
+              "start": 0,
+              "username": "Yuhi759197"
+            },
+            {
+              "end": 26,
+              "id": "1929655659039281152",
+              "start": 12,
+              "username": "haradakashiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065438299762950225",
+        "in_reply_to_user_id": "2024109578871537665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065351189647282408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuhi759197 @haradakashiwa 有理(就是有理！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065351056574623744"
+          ]
+        },
+        "author_id": "2024109578871537665",
+        "conversation_id": "2065119620273721377",
+        "created_at": "2026-06-12T08:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065351189647282408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 25,
+              "id": "1929655659039281152",
+              "start": 11,
+              "username": "haradakashiwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RbSAUmnEU",
+              "end": 53,
+              "expanded_url": "https://x.com/Yuhi759197/status/2065351189647282408/photo/1",
+              "media_key": "3_2065351056574623744",
+              "start": 30,
+              "url": "https://t.co/8RbSAUmnEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065351189647282408",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065310392692461904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @haradakashiwa 何翻译 https://t.co/8RbSAUmnEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9064,
+          "following_count": 2384,
+          "like_count": 31760,
+          "listed_count": 25,
+          "media_count": 1907,
+          "tweet_count": 5996
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T13:12:33.000Z",
+        "description": "",
+        "id": "2024109578871537665",
+        "name": "Yuhi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "username": "Yuhi759197",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T21:45:39.000Z",
+        "description": "BREAK THE GREAT FIREWALL FREEDOM THE INTERNET\n手把手学习翻墙：https://t.co/Vz0u1ocSTC https://t.co/RoMRR5yYWH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zijianvpn",
+                "end": 77,
+                "expanded_url": "https://t.me/zijianvpn",
+                "start": 54,
+                "url": "https://t.co/Vz0u1ocSTC"
+              },
+              {
+                "display_url": "freegfw.com",
+                "end": 101,
+                "expanded_url": "https://www.freegfw.com",
+                "start": 78,
+                "url": "https://t.co/RoMRR5yYWH"
+              }
+            ]
+          }
+        },
+        "id": "1929655659039281152",
+        "location": "CA",
+        "name": "Kashiwa",
+        "pinned_tweet_id": "2021441756399796731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012140879126528/UIiDfPRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 438,
+          "like_count": 247,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 636
+        },
+        "username": "haradakashiwa",
+        "verified": true
+      }
+    ]
+  }
+}

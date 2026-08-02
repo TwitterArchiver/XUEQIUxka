@@ -1,0 +1,1183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055957385756438869",
+    "created_at": "2026-05-17T14:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056013606245077184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstraSpark"
+        },
+        {
+          "end": 22,
+          "id": "1957426434907254784",
+          "start": 14,
+          "username": "SCY_BTC"
+        },
+        {
+          "end": 35,
+          "id": "11768102",
+          "start": 23,
+          "username": "gmwalletapp"
+        },
+        {
+          "end": 47,
+          "id": "1992255920777392128",
+          "start": 36,
+          "username": "GMwalletHK"
+        },
+        {
+          "end": 57,
+          "id": "944703434992771072",
+          "start": 48,
+          "username": "Showy005"
+        },
+        {
+          "end": 71,
+          "id": "416273603",
+          "start": 58,
+          "username": "web3kangkang"
+        },
+        {
+          "end": 82,
+          "id": "1894548093905084416",
+          "start": 72,
+          "username": "oooodjdjd"
+        },
+        {
+          "end": 96,
+          "id": "1845667529043369984",
+          "start": 83,
+          "username": "solsniper330"
+        },
+        {
+          "end": 111,
+          "id": "1948334637442560001",
+          "start": 97,
+          "username": "LeslieLi92210"
+        },
+        {
+          "end": 123,
+          "id": "1938630796824514560",
+          "start": 112,
+          "username": "Tabgdoueth"
+        },
+        {
+          "end": 138,
+          "id": "1009612511623204864",
+          "start": 124,
+          "username": "Shunyu_Bitget"
+        },
+        {
+          "end": 147,
+          "id": "1358020510672580608",
+          "start": 139,
+          "username": "lin_btc"
+        },
+        {
+          "end": 160,
+          "id": "1957772481370157058",
+          "start": 148,
+          "username": "Mengmengeth"
+        },
+        {
+          "end": 172,
+          "id": "1951957837674070017",
+          "start": 161,
+          "username": "Meimeibtcc"
+        },
+        {
+          "end": 181,
+          "id": "1863563968834637824",
+          "start": 173,
+          "username": "0xJason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056013606245077184",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055957536394862853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstraSpark @SCY_BTC @gmwalletapp @GMwalletHK @Showy005 @web3kangkang @oooodjdjd @solsniper330 @LeslieLi92210 @Tabgdoueth @Shunyu_Bitget @lin_btc @Mengmengeth @Meimeibtcc @0xJason 我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055957385756438869",
+        "created_at": "2026-05-17T14:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056013606245077184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstraSpark"
+            },
+            {
+              "end": 22,
+              "id": "1957426434907254784",
+              "start": 14,
+              "username": "SCY_BTC"
+            },
+            {
+              "end": 35,
+              "id": "11768102",
+              "start": 23,
+              "username": "gmwalletapp"
+            },
+            {
+              "end": 47,
+              "id": "1992255920777392128",
+              "start": 36,
+              "username": "GMwalletHK"
+            },
+            {
+              "end": 57,
+              "id": "944703434992771072",
+              "start": 48,
+              "username": "Showy005"
+            },
+            {
+              "end": 71,
+              "id": "416273603",
+              "start": 58,
+              "username": "web3kangkang"
+            },
+            {
+              "end": 82,
+              "id": "1894548093905084416",
+              "start": 72,
+              "username": "oooodjdjd"
+            },
+            {
+              "end": 96,
+              "id": "1845667529043369984",
+              "start": 83,
+              "username": "solsniper330"
+            },
+            {
+              "end": 111,
+              "id": "1948334637442560001",
+              "start": 97,
+              "username": "LeslieLi92210"
+            },
+            {
+              "end": 123,
+              "id": "1938630796824514560",
+              "start": 112,
+              "username": "Tabgdoueth"
+            },
+            {
+              "end": 138,
+              "id": "1009612511623204864",
+              "start": 124,
+              "username": "Shunyu_Bitget"
+            },
+            {
+              "end": 147,
+              "id": "1358020510672580608",
+              "start": 139,
+              "username": "lin_btc"
+            },
+            {
+              "end": 160,
+              "id": "1957772481370157058",
+              "start": 148,
+              "username": "Mengmengeth"
+            },
+            {
+              "end": 172,
+              "id": "1951957837674070017",
+              "start": 161,
+              "username": "Meimeibtcc"
+            },
+            {
+              "end": 181,
+              "id": "1863563968834637824",
+              "start": 173,
+              "username": "0xJason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056013606245077184",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055957536394862853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstraSpark @SCY_BTC @gmwalletapp @GMwalletHK @Showy005 @web3kangkang @oooodjdjd @solsniper330 @LeslieLi92210 @Tabgdoueth @Shunyu_Bitget @lin_btc @Mengmengeth @Meimeibtcc @0xJason 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2055957385756438869",
+        "created_at": "2026-05-17T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055957536394862853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957426434907254784",
+              "start": 0,
+              "username": "SCY_BTC"
+            },
+            {
+              "end": 21,
+              "id": "11768102",
+              "start": 9,
+              "username": "gmwalletapp"
+            },
+            {
+              "end": 33,
+              "id": "1992255920777392128",
+              "start": 22,
+              "username": "GMwalletHK"
+            },
+            {
+              "end": 43,
+              "id": "944703434992771072",
+              "start": 34,
+              "username": "Showy005"
+            },
+            {
+              "end": 57,
+              "id": "416273603",
+              "start": 44,
+              "username": "web3kangkang"
+            },
+            {
+              "end": 68,
+              "id": "1894548093905084416",
+              "start": 58,
+              "username": "oooodjdjd"
+            },
+            {
+              "end": 82,
+              "id": "1845667529043369984",
+              "start": 69,
+              "username": "solsniper330"
+            },
+            {
+              "end": 97,
+              "id": "1948334637442560001",
+              "start": 83,
+              "username": "LeslieLi92210"
+            },
+            {
+              "end": 109,
+              "id": "1938630796824514560",
+              "start": 98,
+              "username": "Tabgdoueth"
+            },
+            {
+              "end": 124,
+              "id": "1009612511623204864",
+              "start": 110,
+              "username": "Shunyu_Bitget"
+            },
+            {
+              "end": 133,
+              "id": "1358020510672580608",
+              "start": 125,
+              "username": "lin_btc"
+            },
+            {
+              "end": 146,
+              "id": "1957772481370157058",
+              "start": 134,
+              "username": "Mengmengeth"
+            },
+            {
+              "end": 158,
+              "id": "1951957837674070017",
+              "start": 147,
+              "username": "Meimeibtcc"
+            },
+            {
+              "end": 167,
+              "id": "1863563968834637824",
+              "start": 159,
+              "username": "0xJason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055957536394862853",
+        "in_reply_to_user_id": "1957426434907254784",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055957385756438869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SCY_BTC @gmwalletapp @GMwalletHK @Showy005 @web3kangkang @oooodjdjd @solsniper330 @LeslieLi92210 @Tabgdoueth @Shunyu_Bitget @lin_btc @Mengmengeth @Meimeibtcc @0xJason ？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8515,
+          "following_count": 2214,
+          "like_count": 29949,
+          "listed_count": 26,
+          "media_count": 1460,
+          "tweet_count": 5231
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWalletApp ｜GitHub Star全球前十(加密领域) 加密交易用币安：https://t.co/gCvs8cb1ga\nbitget 最高返佣 https://t.co/4z83vmfHQH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "GMWalletApp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 72,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 49,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "partner.bitget.com/bg/yjqvqjyv",
+                "end": 108,
+                "expanded_url": "https://partner.bitget.com/bg/yjqvqjyv",
+                "start": 85,
+                "url": "https://t.co/4z83vmfHQH"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6515,
+          "following_count": 873,
+          "like_count": 39122,
+          "listed_count": 31,
+          "media_count": 295,
+          "tweet_count": 7471
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T12:56:52.000Z",
+        "description": "#BSC高级研究员｜冷静现货交易员\n#Alpha #二级交易｜逻辑驱动收益，研究赢得穿越\nBinance & BNB生态深耕｜合作DM我\nDrive profits with logic, win with research",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "BSC高级研究员"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "Alpha"
+              },
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "二级交易"
+              }
+            ]
+          }
+        },
+        "id": "1957426434907254784",
+        "location": "九龍城, 香港",
+        "name": "苏颖（颖姐聊币圈）",
+        "pinned_tweet_id": "2050935746618610039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051548450786045952/1fu3dAEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8078,
+          "following_count": 3448,
+          "like_count": 10080,
+          "listed_count": 7,
+          "media_count": 438,
+          "tweet_count": 8384
+        },
+        "username": "SCY_BTC",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T19:35:23.000Z",
+        "description": "Official account of GM Wallet.  华语: @GMwalletHK GM Wallet developer, EPusdt developer. GitHub: https://t.co/67LCQ8NevS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "GMwalletHK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/gmwalletapp",
+                "end": 118,
+                "expanded_url": "https://github.com/gmwalletapp",
+                "start": 95,
+                "url": "https://t.co/67LCQ8NevS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "http://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/fh6w9vncQW"
+              }
+            ]
+          }
+        },
+        "id": "11768102",
+        "location": "Global",
+        "name": "GM Wallet",
+        "pinned_tweet_id": "2055269415848194300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055264277880336384/IWVDQmX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 159,
+          "like_count": 2926,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/fh6w9vncQW",
+        "username": "gmwalletapp",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 开发者，EPusdt 开发者。我们正在构建全新的无摩擦的资产语意层钱包，Keep building！Eng: @gmwalletapp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "gmwalletapp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2055252246737379359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 603,
+          "like_count": 3381,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMwalletHK",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-23T22:57:05.000Z",
+        "description": "@Conso_tg Co-founder & COO，TON增长实验室发起人，曾操盘百万社群 & 千万用户级Web3项目，交易我用 @OKX & @Bitget",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Conso_tg"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "username": "OKX"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GeorgeTON8888",
+                "end": 23,
+                "expanded_url": "https://t.me/GeorgeTON8888",
+                "start": 0,
+                "url": "https://t.co/HrRulwSZG2"
+              }
+            ]
+          }
+        },
+        "id": "944703434992771072",
+        "location": "粉丝群👉",
+        "name": "George.TON",
+        "pinned_tweet_id": "2036604889481326807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024846651345829888/B3UBKiNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21485,
+          "following_count": 3082,
+          "like_count": 22530,
+          "listed_count": 101,
+          "media_count": 1157,
+          "tweet_count": 18569
+        },
+        "url": "https://t.co/HrRulwSZG2",
+        "username": "Showy005",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-19T13:19:18.000Z",
+        "description": "06 | 加密小学生一枚～\n一级猎手 \n二级肺雾 \n内容不构成任何投资建议！| tg 频道：https://t.co/JUHmaNiJEm |\n -DYOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+xSxEs2lyi0I2Y…",
+                "end": 69,
+                "expanded_url": "https://t.me/+xSxEs2lyi0I2YmY1",
+                "start": 46,
+                "url": "https://t.co/JUHmaNiJEm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "share.ave.ai/?lang=zh-cn&co…",
+                "end": 23,
+                "expanded_url": "https://share.ave.ai?lang=zh-cn&code=13252378928",
+                "start": 0,
+                "url": "https://t.co/NvuHpCl6og"
+              }
+            ]
+          }
+        },
+        "id": "416273603",
+        "name": "web3 | 康康（唐门）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992822796611989505/l4v7_M1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 1201,
+          "like_count": 5781,
+          "listed_count": 5,
+          "media_count": 250,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/NvuHpCl6og",
+        "username": "web3kangkang",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2053432101819843063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16239,
+          "following_count": 311,
+          "like_count": 6791,
+          "listed_count": 53,
+          "media_count": 729,
+          "tweet_count": 4121
+        },
+        "username": "oooodjdjd",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T03:26:55.000Z",
+        "description": "02在读研究生｜sol链bnb信徒｜无敌💎手｜记录亏钱日常 ｜文物修复｜大漆手作｜ #Bitget 邀请码 : https://t.co/iaAmKLvYIO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "Bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "partner.hdmune.cn/bg/weepcpk2",
+                "end": 79,
+                "expanded_url": "http://partner.hdmune.cn/bg/weepcpk2",
+                "start": 56,
+                "url": "https://t.co/iaAmKLvYIO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SolsniperLaoMo",
+                "end": 23,
+                "expanded_url": "https://t.me/SolsniperLaoMo",
+                "start": 0,
+                "url": "https://t.co/ELpwdI8QYm"
+              }
+            ]
+          }
+        },
+        "id": "1845667529043369984",
+        "location": "合作DM",
+        "name": "币圈老鼠人老墨",
+        "pinned_tweet_id": "2024510104071176299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432513777881088/9HHEJY8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 1391,
+          "like_count": 10315,
+          "listed_count": 17,
+          "media_count": 527,
+          "tweet_count": 3610
+        },
+        "url": "https://t.co/ELpwdI8QYm",
+        "username": "solsniper330",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T10:49:18.000Z",
+        "description": "Bitget BD @BitgetWalletCN｜05年｜咖啡师➡️web3 AI ｜ENTJ｜抛开现象看本质 复杂的话用简单",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "BitgetWalletCN"
+              }
+            ]
+          }
+        },
+        "id": "1948334637442560001",
+        "name": "🐹_Leslie鼠鼠",
+        "pinned_tweet_id": "2034361009616605524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039983093801684992/5XVp8-Q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3266,
+          "following_count": 2002,
+          "like_count": 3074,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 3415
+        },
+        "username": "LeslieLi92210",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T16:09:52.000Z",
+        "description": "15年入圈｜早期项目挖掘｜热衷分享｜全职交易员 #binance #Okx｜资深Holder｜#btc忠实信仰者 #eth #bnb #okb #sol TG：https://t.co/o3AhDpgoMf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "binance"
+              },
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "Okx"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "tag": "btc忠实信仰者"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "eth"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "tag": "bnb"
+              },
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "okb"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Tangdoueth",
+                "end": 103,
+                "expanded_url": "https://t.me/Tangdoueth",
+                "start": 80,
+                "url": "https://t.co/o3AhDpgoMf"
+              }
+            ]
+          }
+        },
+        "id": "1938630796824514560",
+        "name": "Ox糖豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001248120068612096/ZyzvOyFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 4000,
+          "like_count": 4579,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 6391
+        },
+        "username": "Tabgdoueth",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-21T01:42:35.000Z",
+        "description": "00后体育生⚽️ | 15年入圈 #Bitcoin 矿工 | 💫DYOR一切内容 @Bitget_zh官方商务 | Bitget 商务合作请联系TG：@Shunyu_Bitget",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "Bitcoin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Bitget_zh"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Shunyu_Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bitget.com",
+                "end": 23,
+                "expanded_url": "https://www.Bitget.com/",
+                "start": 0,
+                "url": "https://t.co/uAcJaG59VF"
+              }
+            ]
+          }
+        },
+        "id": "1009612511623204864",
+        "location": "On your left",
+        "name": "舜宇｜Bitget",
+        "pinned_tweet_id": "1982061113425752284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729835022155423744/DbxHaiCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 1090,
+          "like_count": 3563,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/uAcJaG59VF",
+        "username": "Shunyu_Bitget",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-06T11:51:47.000Z",
+        "description": "Take profits, not Ls. 不跟任何币谈恋爱之链上波波侠 | 🔸币安钱包手续费打折：https://t.co/jdGNkDh5lE 币安钱包邀请码：BOLUOTOU #OKX 钱包邀请码：BOLUO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=B…",
+                "end": 73,
+                "expanded_url": "https://web3.binance.com/referral?ref=BOLUOTOU",
+                "start": 50,
+                "url": "https://t.co/jdGNkDh5lE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xyaa_crypto",
+                "end": 23,
+                "expanded_url": "https://t.me/xyaa_crypto",
+                "start": 0,
+                "url": "https://t.co/R4hplNRF4Y"
+              }
+            ]
+          }
+        },
+        "id": "1358020510672580608",
+        "location": "合作DM ฅ^•𖥦•^ฅ",
+        "name": "菠萝头🍍",
+        "pinned_tweet_id": "1979788387491168287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712772175781154816/5hspzo4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19669,
+          "following_count": 1432,
+          "like_count": 24015,
+          "listed_count": 313,
+          "media_count": 2321,
+          "tweet_count": 23443
+        },
+        "url": "https://t.co/R4hplNRF4Y",
+        "username": "lin_btc",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T11:51:54.000Z",
+        "description": "Meme/山寨币女猎手🎣加密市场情绪稳定剂💃全能型选手 #BNB #binance 精通长短线交易 合作TG：https://t.co/TJjPSJmygs 顺势而为，精准布局 #okb #sol",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 28,
+                "tag": "BNB"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "binance"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "okb"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Mengmengeth",
+                "end": 78,
+                "expanded_url": "https://t.me/Mengmengeth",
+                "start": 55,
+                "url": "https://t.co/TJjPSJmygs"
+              }
+            ]
+          }
+        },
+        "id": "1957772481370157058",
+        "name": "Crypto Cocoa",
+        "pinned_tweet_id": "2055920018702115222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050197332457820160/vZ9iC6CW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7260,
+          "following_count": 3881,
+          "like_count": 13907,
+          "listed_count": 10,
+          "media_count": 172,
+          "tweet_count": 13044
+        },
+        "username": "Mengmengeth",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T10:46:39.000Z",
+        "description": "币圈资深女玩家｜专注一级二级市场分析丨热衷分享丨理性投资丨#BNB #Sol #OKB 资深Holder Patience and discipline are the ultimate keys.#binance TG：https://t.co/4fyZAWdHAj",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "Sol"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "OKB"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Meimeibtc",
+                "end": 134,
+                "expanded_url": "https://t.me/Meimeibtc",
+                "start": 111,
+                "url": "https://t.co/4fyZAWdHAj"
+              }
+            ]
+          }
+        },
+        "id": "1951957837674070017",
+        "name": "莓莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010291244300402689/zURKwu8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 5072,
+          "like_count": 6376,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 6923
+        },
+        "username": "Meimeibtcc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T12:40:55.000Z",
+        "description": "SAIF FMBA|  🔥2025年度增长黑马丨商务合作DM 丨 ALPHA&打新项目分析| 港股打新| 专业返佣！😎 量化/交易省手续费认准杰哥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XaF7GY6rg09jZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XaF7GY6rg09jZDM1",
+                "start": 0,
+                "url": "https://t.co/3QJwT8f5P1"
+              }
+            ]
+          }
+        },
+        "id": "1863563968834637824",
+        "location": "进Alpha群联系V：chsj0223",
+        "name": "0xJason 杰哥",
+        "pinned_tweet_id": "1883166265310875687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992136934584680448/rhEwBP_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12536,
+          "following_count": 4651,
+          "like_count": 1390,
+          "listed_count": 46,
+          "media_count": 820,
+          "tweet_count": 17430
+        },
+        "url": "https://t.co/3QJwT8f5P1",
+        "username": "0xJason",
+        "verified": true
+      }
+    ]
+  }
+}

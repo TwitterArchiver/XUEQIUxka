@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2027289159220732350",
+    "created_at": "2026-02-27T17:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027434686805643462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413584021460815876",
+          "start": 0,
+          "username": "Fiona02390687"
+        },
+        {
+          "end": 31,
+          "id": "1565981667746914304",
+          "start": 15,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027434686805643462",
+    "in_reply_to_user_id": "1413584021460815876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027289159220732350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiona02390687 @Kagura_Yukikaze 每次看到这种东西就很感慨，好在我也曾经帮助过一些朋友，现在感觉现实中的包容也更多，应该也能更有利于面对现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2027289159220732350",
+        "created_at": "2026-02-27T17:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027434686805643462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413584021460815876",
+              "start": 0,
+              "username": "Fiona02390687"
+            },
+            {
+              "end": 31,
+              "id": "1565981667746914304",
+              "start": 15,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027434686805643462",
+        "in_reply_to_user_id": "1413584021460815876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289159220732350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiona02390687 @Kagura_Yukikaze 每次看到这种东西就很感慨，好在我也曾经帮助过一些朋友，现在感觉现实中的包容也更多，应该也能更有利于面对现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413584021460815876",
+        "conversation_id": "2027289159220732350",
+        "created_at": "2026-02-27T07:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027289159220732350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fiona02390687/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/fiona02390687/status/2027279039673843888",
+              "start": 133,
+              "url": "https://t.co/z0sN8HO8ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027289159220732350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我其实也在抖音、知乎和小红书上认识了很多从未翻过墙的跨性别，给我印象比较深的有这么几个：\n1，广西小县城的，因为高中私下吃药和家里闹掰了，离家出走然后在奶茶店打工养活自己的天赋党（竟然只靠hrt就到了C😭😭）；\n2，杭州某大学cos社的，偷偷hrt两年还没爆柜的；\n3，贵州的，也是高中爆柜然后离家出走，后来反而成了靠她卖pg养活妈妈和弟弟的🙏🙏。\n最让我印象深刻的反而是一位母亲，自己初三的孩子和她爆柜了，孩子私下吃药+闹着一定要srs，家里鸡飞狗跳的，孩子和母亲双双重度抑郁了。不过其实母亲倒不是一定反对孩子变性，只是担心孩子被骗了，还有感觉孩子这么乱吃药严重不妥，但自己又不知道该怎么做才是正确的。和这位母亲详细沟通了一下，给她也科普了各种这方面的知识。后来让我惊奇的是，一年后这位母亲又联系我了，说已经带孩子去医院做过鉴定了，也开始正规hrt了，给孩子办了一年的休学，目前母女二人的精神状态都好多了，准备来年再复学去中考，就是来感谢我下，当时真的听的我全程姨母笑☺️☺️\n说了这么多，其实是想说，至少就我个人体感来看，只待在墙内的跨性别们反而不会像墙外的那么有戾气，虽然每个人都会有自己的一本难念的经，但是却没有哪一个人去憎恨某些群体或者是这个世界。\n我本来觉得这是件很美好的事情，后来我突然惊觉，也许那些不那么“友好”的跨性别，根本不会被允许存在于墙内的媒体上吧，这也是我依旧继续保持墙内外同时存在的原因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 33924,
+          "like_count": 215,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027279039673843888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实也在抖音、知乎和小红书上认识了很多从未翻过墙的跨性别，给我印象比较深的有这么几个：\n1，广西小县城的，因为高中私下吃药和家里闹掰了，离家出走然后在奶茶店打工养活自己的天赋党（竟然只靠hrt就到了C😭😭）；\n2，杭州某大学cos社的，偷偷hrt两年还没爆柜的； https://t.co/z0sN8HO8ew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://x.xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/fIQcIcvgUI"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 1500,
+          "like_count": 20176,
+          "listed_count": 26,
+          "media_count": 315,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/fIQcIcvgUI",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-09T19:41:15.000Z",
+        "description": "大龄MTF（持续改进中），重型坦克，INTP-A，brat，感恩这个世界，但内核其实是个降临派。  来聊天：https://t.co/NjXA4xKBCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Pqpglz2b10w5Z…",
+                "end": 77,
+                "expanded_url": "https://t.me/+Pqpglz2b10w5ZGZl",
+                "start": 54,
+                "url": "https://t.co/NjXA4xKBCK"
+              }
+            ]
+          }
+        },
+        "id": "1413584021460815876",
+        "name": "Qubeley.Fiona（丞静）",
+        "pinned_tweet_id": "1660042739747094529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666344138667700224/sDw57MpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18680,
+          "following_count": 728,
+          "like_count": 25591,
+          "listed_count": 86,
+          "media_count": 1492,
+          "tweet_count": 12964
+        },
+        "username": "Fiona02390687",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 2541,
+          "like_count": 90592,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 10624
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

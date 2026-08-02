@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995194940583014400"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "1994747809569149375",
+    "created_at": "2025-11-30T18:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995194943451828704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358982808832647169",
+          "start": 0,
+          "username": "awaa01161371"
+        },
+        {
+          "end": 29,
+          "id": "1171043978201878528",
+          "start": 14,
+          "username": "Claris73645268"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdjgkYhcKB",
+          "end": 91,
+          "expanded_url": "https://x.com/XUEQIUxka/status/1995194943451828704/photo/1",
+          "media_key": "3_1995194940583014400",
+          "start": 68,
+          "url": "https://t.co/wdjgkYhcKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995194943451828704",
+    "in_reply_to_user_id": "1358982808832647169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995172303077097532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaa01161371 @Claris73645268 对的\n从内蒙古呼伦贝尔海拉尔→内蒙古新巴尔虎右旗\n不用机建燃油，99CNY https://t.co/wdjgkYhcKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995194940583014400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BbOjsbcAALUvl.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995194940583014400"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "1994747809569149375",
+        "created_at": "2025-11-30T18:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995194943451828704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358982808832647169",
+              "start": 0,
+              "username": "awaa01161371"
+            },
+            {
+              "end": 29,
+              "id": "1171043978201878528",
+              "start": 14,
+              "username": "Claris73645268"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdjgkYhcKB",
+              "end": 91,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1995194943451828704/photo/1",
+              "media_key": "3_1995194940583014400",
+              "start": 68,
+              "url": "https://t.co/wdjgkYhcKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995194943451828704",
+        "in_reply_to_user_id": "1358982808832647169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995172303077097532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaa01161371 @Claris73645268 对的\n从内蒙古呼伦贝尔海拉尔→内蒙古新巴尔虎右旗\n不用机建燃油，99CNY https://t.co/wdjgkYhcKB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358982808832647169",
+        "conversation_id": "1994747809569149375",
+        "created_at": "2025-11-30T16:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995172303077097532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 26,
+              "id": "1171043978201878528",
+              "start": 11,
+              "username": "Claris73645268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995172303077097532",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994950967943729500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @Claris73645268 好神奇，这个是省内飞的吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 110,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "MTF"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "HRT"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 1440,
+          "like_count": 18628,
+          "listed_count": 22,
+          "media_count": 306,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T03:35:30.000Z",
+        "description": "感激我所拥有的 并尝试更进一步\nin上海 某大厂社畜26校招提前实习ing\n喜欢东方 舞萌 天依~",
+        "id": "1358982808832647169",
+        "name": "李狗蛋儿awaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992782505678880768/Ne8Edma6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 125,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "awaa01161371",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtx（？）|互fo|是个⑨|手残音游人|🚴🏼‍♀️|电子宅（大概）|欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "某处",
+        "name": "Claris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 221,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1614
+        },
+        "username": "Claris73645268",
+        "verified": false
+      }
+    ]
+  }
+}

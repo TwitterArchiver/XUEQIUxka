@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038666945969684480"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "id": "1509576969758728193",
+          "name": "Transgender Day of Visibility"
+        }
+      }
+    ],
+    "conversation_id": "2038666955637367164",
+    "created_at": "2026-03-30T17:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038666955637367164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/6RNRl2TEg_VW…",
+          "end": 153,
+          "expanded_url": "https://mp.weixin.qq.com/s/6RNRl2TEg_VW0aAbG9QRyA",
+          "start": 130,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HC-wymmjhs8uzavxtz7L9gznY8LpigNku5e9xhei&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6RNRl2TEg_VW0aAbG9QRyA",
+          "url": "https://t.co/WwUb4UsBEA"
+        },
+        {
+          "display_url": "pic.x.com/Odsu2DVDmC",
+          "end": 177,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2038666955637367164/photo/1",
+          "media_key": "3_2038666945969684480",
+          "start": 154,
+          "url": "https://t.co/Odsu2DVDmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038666955637367164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是国际跨性别现身日\n愿每一个跨性别小可爱都能被温柔相待\n注：国际跨性别现身日（英语：International Transgender Day of Visibility）是在3月31日专门为庆祝跨性别者，并培养提高全球关注对跨性别者面临歧视的意识的节日\nhttps://t.co/WwUb4UsBEA https://t.co/Odsu2DVDmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038666945969684480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErMyTnagAAKg3e.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038666945969684480"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1509576969758728193",
+              "name": "Transgender Day of Visibility"
+            }
+          }
+        ],
+        "conversation_id": "2038666955637367164",
+        "created_at": "2026-03-30T17:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038666955637367164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/6RNRl2TEg_VW…",
+              "end": 153,
+              "expanded_url": "https://mp.weixin.qq.com/s/6RNRl2TEg_VW0aAbG9QRyA",
+              "start": 130,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HC-wymmjhs8uzavxtz7L9gznY8LpigNku5e9xhei&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6RNRl2TEg_VW0aAbG9QRyA",
+              "url": "https://t.co/WwUb4UsBEA"
+            },
+            {
+              "display_url": "pic.x.com/Odsu2DVDmC",
+              "end": 177,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2038666955637367164/photo/1",
+              "media_key": "3_2038666945969684480",
+              "start": 154,
+              "url": "https://t.co/Odsu2DVDmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038666955637367164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是国际跨性别现身日\n愿每一个跨性别小可爱都能被温柔相待\n注：国际跨性别现身日（英语：International Transgender Day of Visibility）是在3月31日专门为庆祝跨性别者，并培养提高全球关注对跨性别者面临歧视的意识的节日\nhttps://t.co/WwUb4UsBEA https://t.co/Odsu2DVDmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6598,
+          "following_count": 2006,
+          "like_count": 23200,
+          "listed_count": 27,
+          "media_count": 490,
+          "tweet_count": 2641
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

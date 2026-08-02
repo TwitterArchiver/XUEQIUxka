@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037359870987628544"
+      ],
+      "media_source_tweet_id": [
+        "2037359880961704065"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037370526902133074",
+    "created_at": "2026-03-27T03:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037370526902133074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Yujiudu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tiZqGfICEt",
+          "end": 137,
+          "expanded_url": "https://x.com/Yujiudu/status/2037359880961704065/photo/1",
+          "media_key": "3_2037359870987628544",
+          "start": 114,
+          "url": "https://t.co/tiZqGfICEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037370526902133074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037359880961704065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yujiudu: 我军训的时候，有人泄露我是药娘大王，都起哄要我表演变性，我上去直接1分钟磕了5000片戊酸雌二醇，教官都傻了，我当场乳腺发育把迷彩服撑爆了，教官直接给我批了三个月产假，还问我能不能分他两片让他也变个身 https://t.co/tiZqGfICEt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037370526902133074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037370526902133074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037370526902133074"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2037359870987628544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYoAh3acAA3Ued.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037359870987628544"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2037359880961704065",
+        "created_at": "2026-03-27T02:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037359880961704065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiZqGfICEt",
+              "end": 124,
+              "expanded_url": "https://x.com/Yujiudu/status/2037359880961704065/photo/1",
+              "media_key": "3_2037359870987628544",
+              "start": 101,
+              "url": "https://t.co/tiZqGfICEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037359880961704065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是药娘大王，都起哄要我表演变性，我上去直接1分钟磕了5000片戊酸雌二醇，教官都傻了，我当场乳腺发育把迷彩服撑爆了，教官直接给我批了三个月产假，还问我能不能分他两片让他也变个身 https://t.co/tiZqGfICEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6455,
+          "following_count": 1937,
+          "like_count": 22355,
+          "listed_count": 27,
+          "media_count": 456,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4321,
+          "following_count": 1953,
+          "like_count": 43855,
+          "listed_count": 7,
+          "media_count": 1175,
+          "tweet_count": 8445
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

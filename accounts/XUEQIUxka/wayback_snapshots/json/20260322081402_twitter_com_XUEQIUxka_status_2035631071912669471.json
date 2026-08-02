@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035583763095408961",
+    "created_at": "2026-03-22T08:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035631071912669471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1869683226178146304",
+          "start": 0,
+          "username": "Saccc_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035631071912669471",
+    "in_reply_to_user_id": "1869683226178146304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035583763095408961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saccc_c 感觉应该很简单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2035583748855730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_YonUakAAflMS.png",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035583763095408961",
+        "created_at": "2026-03-22T08:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035631071912669471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035631071912669471",
+        "in_reply_to_user_id": "1869683226178146304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035583763095408961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saccc_c 感觉应该很简单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035583748855730176"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "conversation_id": "2035583763095408961",
+        "created_at": "2026-03-22T05:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035583763095408961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjI1Sa7HPV",
+              "end": 156,
+              "expanded_url": "https://x.com/Saccc_c/status/2035583763095408961/photo/1",
+              "media_key": "3_2035583748855730176",
+              "start": 133,
+              "url": "https://t.co/zjI1Sa7HPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035583763095408961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想尝试用短视频变现但不知如何下手？不妨试试这两个开源项目。\n\n1. MoneyPrinterTurbo (50K+ Stars)：短视频自动生成工具。只需提供关键词，AI 自动写文案、找素材、配音加字幕，一键生成高清短视频。 \n\n2. AiToEarn (11K+ Stars)：内容分发和运营管理工具。可以把生成的视频，一键同步分发到抖音、小红书等 14 个平台，并支持对发布的内容进行数据分析、评论监控等后续运营工作。\n\n建议对内容创作感兴趣的人赶紧收藏，链接放评论区了👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 10981,
+          "like_count": 200,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "想尝试用短视频变现但不知如何下手？不妨试试这两个开源项目。\n\n1. MoneyPrinterTurbo (50K+ Stars)：短视频自动生成工具。只需提供关键词，AI 自动写文案、找素材、配音加字幕，一键生成高清短视频。 \n\n2. AiToEarn (11K+ https://t.co/zjI1Sa7HPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6304,
+          "following_count": 1804,
+          "like_count": 21604,
+          "listed_count": 26,
+          "media_count": 414,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-19T09:56:52.000Z",
+        "description": "Start from the bottom｜最好的base 中文媒体@basezh| @NTUsg｜全真",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "basezh"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1869683226178146304",
+        "location": "Singapore, SGP",
+        "name": "Sac",
+        "pinned_tweet_id": "2034316777765949691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011050511148204033/RNjMQJ6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 2146,
+          "like_count": 2471,
+          "listed_count": 59,
+          "media_count": 107,
+          "tweet_count": 2032
+        },
+        "username": "Saccc_c",
+        "verified": true
+      }
+    ]
+  }
+}

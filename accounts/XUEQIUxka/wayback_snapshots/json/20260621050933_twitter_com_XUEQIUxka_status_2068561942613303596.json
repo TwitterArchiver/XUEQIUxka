@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2068094635923095681",
+    "created_at": "2026-06-21T05:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068561942613303596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2845909596",
+          "start": 0,
+          "username": "midwaydude"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xueqiuxka/stat…",
+          "end": 47,
+          "expanded_url": "https://x.com/xueqiuxka/status/2067613050119799122?s=46",
+          "start": 24,
+          "url": "https://t.co/oLCMfWiYyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068561942613303596",
+    "in_reply_to_user_id": "2845909596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067613050119799122",
+        "type": "quoted"
+      },
+      {
+        "id": "2068094635923095681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midwaydude 对的，就是被发明出来的\nhttps://t.co/oLCMfWiYyn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1858,
+        "media_key": "3_2067582896962211840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGHsLUbEAAsLu2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1767,
+        "media_key": "3_2068094627651956736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNZG0sWsAAk9h-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068094635923095681",
+        "created_at": "2026-06-21T05:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068561942613303596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2845909596",
+              "start": 0,
+              "username": "midwaydude"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 47,
+              "expanded_url": "https://x.com/xueqiuxka/status/2067613050119799122?s=46",
+              "start": 24,
+              "url": "https://t.co/oLCMfWiYyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068561942613303596",
+        "in_reply_to_user_id": "2845909596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067613050119799122",
+            "type": "quoted"
+          },
+          {
+            "id": "2068094635923095681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midwaydude 对的，就是被发明出来的\nhttps://t.co/oLCMfWiYyn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067582896962211840"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2067613050119799122",
+        "created_at": "2026-06-18T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067613050119799122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGwuCJtzAA",
+              "end": 28,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2067613050119799122/photo/1",
+              "media_key": "3_2067582896962211840",
+              "start": 5,
+              "url": "https://t.co/VGwuCJtzAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613050119799122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 2073914,
+          "like_count": 3641,
+          "quote_count": 24,
+          "reply_count": 770,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/VGwuCJtzAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068094627651956736"
+          ]
+        },
+        "author_id": "2845909596",
+        "conversation_id": "2068094635923095681",
+        "created_at": "2026-06-19T22:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:07:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068093436176007606",
+          "2068094635923095681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQT0p57FVr",
+              "end": 65,
+              "expanded_url": "https://x.com/midwaydude/status/2068094635923095681/photo/1",
+              "media_key": "3_2068094627651956736",
+              "start": 42,
+              "url": "https://t.co/zQT0p57FVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068094635923095681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 27053,
+          "like_count": 372,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "轉發週知：所謂端午安康就是2015年左右由營銷號發明出來的偽概念。之前完全聞所未聞 https://t.co/zQT0p57FVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9421,
+          "following_count": 2406,
+          "like_count": 33092,
+          "listed_count": 25,
+          "media_count": 2127,
+          "tweet_count": 6383
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-08T03:41:56.000Z",
+        "description": "Say to yourself in the early morning: I shall meet today ungrateful, violent, treacherous, envious, uncharitable men - Marcus Aurelius",
+        "id": "2845909596",
+        "name": "喵流青年😼",
+        "pinned_tweet_id": "1761949401562350076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050303841032192000/bABGBc_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43782,
+          "following_count": 555,
+          "like_count": 30161,
+          "listed_count": 230,
+          "media_count": 3937,
+          "tweet_count": 50107
+        },
+        "url": "",
+        "username": "midwaydude",
+        "verified": true
+      }
+    ]
+  }
+}

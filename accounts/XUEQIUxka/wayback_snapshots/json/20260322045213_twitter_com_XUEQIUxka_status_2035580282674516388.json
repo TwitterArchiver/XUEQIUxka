@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035540930997158391",
+    "created_at": "2026-03-22T04:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035580282674516388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035580282674516388",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035540930997158391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 美股可以玩玩，国内的坑不死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2035539978403655680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-w01rbMAASuoA.png",
+        "width": 512
+      },
+      {
+        "height": 710,
+        "media_key": "3_2035540093294071808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-w7hrb0AA5W8E.png",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035540930997158391",
+        "created_at": "2026-03-22T04:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035580282674516388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035580282674516388",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035540930997158391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 美股可以玩玩，国内的坑不死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035539978403655680",
+            "3_2035540093294071808"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2035540930997158391",
+        "created_at": "2026-03-22T02:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035540930997158391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdde5f5yPY",
+              "end": 90,
+              "expanded_url": "https://x.com/igeekbb/status/2035540930997158391/photo/1",
+              "media_key": "3_2035539978403655680",
+              "start": 67,
+              "url": "https://t.co/cdde5f5yPY"
+            },
+            {
+              "display_url": "pic.x.com/cdde5f5yPY",
+              "end": 90,
+              "expanded_url": "https://x.com/igeekbb/status/2035540930997158391/photo/1",
+              "media_key": "3_2035540093294071808",
+              "start": 67,
+              "url": "https://t.co/cdde5f5yPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035540930997158391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 87195,
+          "like_count": 287,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "有眼尖的网友发现，美国股市虽然也跌，但它每只股票的分时走势都不一样，再看看中国板块清一色的走势，感觉全是量化在玩，这tm哪有散户啊! https://t.co/cdde5f5yPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 1802,
+          "like_count": 21575,
+          "listed_count": 26,
+          "media_count": 410,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68471,
+          "following_count": 1,
+          "like_count": 12644,
+          "listed_count": 292,
+          "media_count": 6714,
+          "tweet_count": 10593
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

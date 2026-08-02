@@ -1,0 +1,391 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1798442791120646621",
+    "created_at": "2024-06-05T19:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T20:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798442791120646621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QianYue_XQ/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/QianYue_XQ/status/1798408070399500568",
+          "start": 33,
+          "url": "https://t.co/sBOPjFfrfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798442791120646621",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798408070399500568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然雪球已经离开了，但玥玥还要好好活着喔\n来猜猜是谁继承账号发的 https://t.co/sBOPjFfrfw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1798442791120646621",
+        "created_at": "2024-06-05T19:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T20:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798442791120646621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianYue_XQ/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1798408070399500568",
+              "start": 33,
+              "url": "https://t.co/sBOPjFfrfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798442791120646621",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798408070399500568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然雪球已经离开了，但玥玥还要好好活着喔\n来猜猜是谁继承账号发的 https://t.co/sBOPjFfrfw"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798408066536472576"
+          ]
+        },
+        "author_id": "1382339434872463371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1798408070399500568",
+        "created_at": "2024-06-05T17:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T18:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798408070399500568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/b1Jgit2VGt",
+              "end": 64,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1798408070399500568/photo/1",
+              "media_key": "3_1798408066536472576",
+              "start": 41,
+              "url": "https://t.co/b1Jgit2VGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798408070399500568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想找球球 @XUEQIUxka  了\n想知道球球为什么会买火龙888的华为折叠屏 https://t.co/b1Jgit2VGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1790096166039810501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4582,
+          "following_count": 1502,
+          "like_count": 18803,
+          "listed_count": 19,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T14:26:34.000Z",
+        "description": "(･｀ｪ´･)つ简介什么的 应该无所谓吧…\n对象：@XUEQIUxka\n（无涩图 几乎不发推 有事联系找雪球，可惜再也没有球球陪我了）愿球球和jose（苏小溪）在另一个世界被温柔以待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          }
+        },
+        "id": "1382339434872463371",
+        "name": "Yue.纪念雪球和小溪版",
+        "pinned_tweet_id": "1790806099047612894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544426381668667392/XB2mUu-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 313,
+          "like_count": 123,
+          "listed_count": 3,
+          "tweet_count": 109
+        },
+        "username": "QianYue_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

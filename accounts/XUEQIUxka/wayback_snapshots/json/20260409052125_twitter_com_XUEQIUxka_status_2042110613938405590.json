@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042030191816667161",
+    "created_at": "2026-04-09T05:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042110613938405590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1603337446183546880",
+          "start": 0,
+          "username": "jye1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042110613938405590",
+    "in_reply_to_user_id": "1603337446183546880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042030191816667161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jye1968 每个人都有想变美的权利(x\n即实最后不一定很美(？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19600,
+        "height": 1280,
+        "media_key": "13_2042030104684195845",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042030104684195845/img/O_M_8IL8NwZn1qlg.jpg",
+        "public_metrics": {
+          "view_count": 113410
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042030104684195845/vid/avc1/320x568/pAumNPGWaB77vVWb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042030104684195845/vid/avc1/480x852/Y3iYdks9eaUPyZ01.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042030104684195845/vid/avc1/720x1280/v6CakiVTkjcnx8Gq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042030104684195845/pl/9pUVP7JvDrBsjY5W.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042030191816667161",
+        "created_at": "2026-04-09T05:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042110613938405590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1603337446183546880",
+              "start": 0,
+              "username": "jye1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042110613938405590",
+        "in_reply_to_user_id": "1603337446183546880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042030191816667161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jye1968 每个人都有想变美的权利(x\n即实最后不一定很美(？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042030104684195845"
+          ]
+        },
+        "author_id": "1603337446183546880",
+        "conversation_id": "2042030191816667161",
+        "created_at": "2026-04-09T00:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042030191816667161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCoM3jmTSI",
+              "end": 46,
+              "expanded_url": "https://x.com/jye1968/status/2042030191816667161/video/1",
+              "media_key": "13_2042030104684195845",
+              "start": 23,
+              "url": "https://t.co/YCoM3jmTSI"
+            },
+            {
+              "display_url": "x.com/jye1968/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/jye1968/status/2042001052384555094",
+              "start": 47,
+              "url": "https://t.co/b5FXvsQXjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042030191816667161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 415821,
+          "like_count": 181,
+          "quote_count": 3,
+          "reply_count": 170,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042001052384555094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女子花220万整成这样，你觉得这钱花的值吗？ https://t.co/YCoM3jmTSI https://t.co/b5FXvsQXjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6792,
+          "following_count": 2033,
+          "like_count": 24555,
+          "listed_count": 27,
+          "media_count": 586,
+          "tweet_count": 3180
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T10:35:40.000Z",
+        "description": "Share the latest news from China.",
+        "id": "1603337446183546880",
+        "name": "新新",
+        "pinned_tweet_id": "2040068058455462376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763085380453326848/6gLHRO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24647,
+          "following_count": 10152,
+          "like_count": 110080,
+          "listed_count": 68,
+          "media_count": 4476,
+          "tweet_count": 49933
+        },
+        "username": "jye1968",
+        "verified": false
+      }
+    ]
+  }
+}

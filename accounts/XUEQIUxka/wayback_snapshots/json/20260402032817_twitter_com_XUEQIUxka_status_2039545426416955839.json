@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039346300270026910",
+    "created_at": "2026-04-02T03:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039545426416955839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039545426416955839",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039346300270026910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 每次看到这些都会很心疼，错的不是她们，是这个世界"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44633,
+        "height": 1184,
+        "media_key": "13_2039346202937118721",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039346202937118721/img/6hL2tetZAyPPwT5z.jpg",
+        "public_metrics": {
+          "view_count": 1208582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039346202937118721/vid/avc1/888x1184/HsJjeVZoo0IYCGlG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039346202937118721/vid/avc1/480x640/hEbt3zFUE4r8IbCB.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039346202937118721/vid/avc1/320x426/7-GE5eaD-rwjbQAM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039346202937118721/vid/avc1/720x960/grbfqIOfur4tMK_d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039346202937118721/pl/kkSv3u8cLR-ALT-2.m3u8?v=cfc"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039346300270026910",
+        "created_at": "2026-04-02T03:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039545426416955839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039545426416955839",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039346300270026910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 每次看到这些都会很心疼，错的不是她们，是这个世界"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039346202937118721"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2039346300270026910",
+        "created_at": "2026-04-01T14:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039346300270026910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5guRMhFX7M",
+              "end": 89,
+              "expanded_url": "https://x.com/cuichenghao/status/2039346300270026910/video/1",
+              "media_key": "13_2039346202937118721",
+              "start": 66,
+              "url": "https://t.co/5guRMhFX7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039346300270026910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1995,
+          "impression_count": 2194392,
+          "like_count": 4605,
+          "quote_count": 57,
+          "reply_count": 434,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "今日内地一女子跳楼，救援场面惊险，该女子死死抓着手机不放，大概还没有完全放弃活下去的念头。时代的一粒沙，落到每个人头上就是一座山。 https://t.co/5guRMhFX7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6648,
+          "following_count": 2024,
+          "like_count": 23523,
+          "listed_count": 27,
+          "media_count": 511,
+          "tweet_count": 2766
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "pinned_tweet_id": "2039346300270026910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91179,
+          "following_count": 706,
+          "like_count": 6275,
+          "listed_count": 313,
+          "media_count": 3359,
+          "tweet_count": 3543
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

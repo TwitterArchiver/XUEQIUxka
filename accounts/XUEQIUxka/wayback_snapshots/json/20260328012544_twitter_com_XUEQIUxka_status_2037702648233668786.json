@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037504904617750885",
+    "created_at": "2026-03-28T01:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037702648233668786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037702648233668786",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037504904617750885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb ai这个版本还是太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17633,
+        "height": 602,
+        "media_key": "13_2037503635001868288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037503635001868288/img/EsEZnXEKMnzhkuvz.jpg",
+        "public_metrics": {
+          "view_count": 413554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037503635001868288/vid/avc1/320x334/poKyoiVPxwz_t-S3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037503635001868288/vid/avc1/480x500/F_N1UWajWWtPDHk-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037503635001868288/vid/avc1/576x602/XHMTMofWkeKmvsXR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037503635001868288/pl/lSDNQczC7khXQSvf.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037504904617750885",
+        "created_at": "2026-03-28T01:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037702648233668786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037702648233668786",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037504904617750885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb ai这个版本还是太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037503635001868288"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2037504904617750885",
+        "created_at": "2026-03-27T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037504904617750885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4jqSyGQBZ",
+              "end": 139,
+              "expanded_url": "https://x.com/igeekbb/status/2037504904617750885/video/1",
+              "media_key": "13_2037503635001868288",
+              "start": 116,
+              "url": "https://t.co/K4jqSyGQBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037504904617750885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 896035,
+          "like_count": 1841,
+          "quote_count": 11,
+          "reply_count": 259,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "这两天刷到一些奇怪的视频，立体的影子，评论区说这是地球 online 最新优化：近期大量玩家反馈时间过快，光影不细致，本次不停服更新优化了时间流速问题，细致提升了光追与立体阴影效果。\n\n不少网友表示自己小时候记得影子就是模糊的一坨 https://t.co/K4jqSyGQBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 1940,
+          "like_count": 22419,
+          "listed_count": 27,
+          "media_count": 460,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69457,
+          "following_count": 1,
+          "like_count": 12901,
+          "listed_count": 289,
+          "media_count": 6835,
+          "tweet_count": 10802
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

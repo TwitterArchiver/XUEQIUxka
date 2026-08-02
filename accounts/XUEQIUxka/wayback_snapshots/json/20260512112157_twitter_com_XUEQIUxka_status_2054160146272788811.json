@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2054160025632006248",
+    "created_at": "2026-05-12T11:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054160146272788811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20540…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2054068792901402708",
+          "start": 0,
+          "url": "https://t.co/nJgvyLMqXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054160146272788811",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054068792901402708",
+        "type": "quoted"
+      },
+      {
+        "id": "2054160025632006248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/nJgvyLMqXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_2054068708411342848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGEm30agAAFBIq.jpg",
+        "width": 807
+      },
+      {
+        "height": 1124,
+        "media_key": "3_2054068708402962432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGEm3yaoAAh407.jpg",
+        "width": 806
+      },
+      {
+        "height": 855,
+        "media_key": "3_2054068708411367424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGEm30a4AA2Ffc.png",
+        "width": 802
+      },
+      {
+        "height": 720,
+        "media_key": "3_2054160020104007680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHXp6Yb0AAn3Ii.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054160025632006248",
+        "created_at": "2026-05-12T11:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054160146272788811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20540…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2054068792901402708",
+              "start": 0,
+              "url": "https://t.co/nJgvyLMqXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054160146272788811",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054068792901402708",
+            "type": "quoted"
+          },
+          {
+            "id": "2054160025632006248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/nJgvyLMqXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054068708411342848",
+            "3_2054068708402962432",
+            "3_2054068708411367424"
+          ]
+        },
+        "author_id": "1044093629323632640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054068792901402708",
+        "created_at": "2026-05-12T05:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054068792901402708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbLZh7UWlR",
+              "end": 183,
+              "expanded_url": "https://x.com/trumpchinese1/status/2054068792901402708/photo/1",
+              "media_key": "3_2054068708411342848",
+              "start": 160,
+              "url": "https://t.co/CbLZh7UWlR"
+            },
+            {
+              "display_url": "pic.x.com/CbLZh7UWlR",
+              "end": 183,
+              "expanded_url": "https://x.com/trumpchinese1/status/2054068792901402708/photo/1",
+              "media_key": "3_2054068708402962432",
+              "start": 160,
+              "url": "https://t.co/CbLZh7UWlR"
+            },
+            {
+              "display_url": "pic.x.com/CbLZh7UWlR",
+              "end": 183,
+              "expanded_url": "https://x.com/trumpchinese1/status/2054068792901402708/photo/1",
+              "media_key": "3_2054068708411367424",
+              "start": 160,
+              "url": "https://t.co/CbLZh7UWlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054068792901402708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "特朗普总统访华日程（5月13日-5月15日，北京时间），据Roll Call。\n\n5月13日 星期三\n待定：总统抵达北京首都国际机场\n07:35（5月14日）：外地出行媒体团集合（北京）\n08:00（5月14日）：总统行政时间（Closed Press，北京）\n10:00（5月14日）：与习近平主席会见（人民大会堂）\n10:15（5月14日）：与习近平主席双边会晤（人民大会堂）\n\n5月14日 星期四\n18:00：与习近平主席参加国宴（人民大会堂）\n08:00（5月15日）：总统行政时间（Closed Press，北京）\n08:55（5月15日）：外地出行媒体团集合（北京）\n11:30（5月15日）：与习近平主席问候及友好合影（中南海）\n11:40（5月15日）：与习近平主席双边茶叙（中南海）\n\n5月15日 星期五\n12:15：与习近平主席双边午餐（中南海，公开记者会）\n待定：总统离开北京首都国际机场，返回华盛顿\n待定：总统抵达白宫\n18:00（5月15日，美国东部时间）：白宫市内记者团集合\n\n核心活动集中在5月14日上午与5月15日中午。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 57839,
+          "like_count": 161,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普总统访华日程（5月13日-5月15日，北京时间），据Roll Call。\n\n5月13日 星期三\n待定：总统抵达北京首都国际机场\n07:35（5月14日）：外地出行媒体团集合（北京）\n08:00（5月14日）：总统行政时间（Closed Press，北京）\n10:00（5月14日）：与习近平主席会见（人民大会堂） https://t.co/CbLZh7UWlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054160020104007680"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2054160025632006248",
+        "created_at": "2026-05-12T11:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:08:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054156766385193267",
+          "2054160025632006248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "25073877",
+              "start": 11,
+              "username": "realDonaldTrump"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC1l7kYr89",
+              "end": 101,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2054160025632006248/photo/1",
+              "media_key": "3_2054160020104007680",
+              "start": 78,
+              "url": "https://t.co/QC1l7kYr89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054160025632006248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已知 唐纳德·特朗普 @realDonaldTrump 2026年5月13日19:45落地北京首都机场PEK\n而我 今天从PEK启程离开，特朗普避我锋芒！ https://t.co/QC1l7kYr89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8378,
+          "following_count": 2191,
+          "like_count": 29532,
+          "listed_count": 26,
+          "media_count": 1319,
+          "tweet_count": 4999
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-24T05:18:14.000Z",
+        "description": "MAGA！美利坚合众国第45和47任总统特朗普相关资讯和言论汇总。",
+        "id": "1044093629323632640",
+        "location": "美国",
+        "name": "特朗普中文推特",
+        "pinned_tweet_id": "2053736329310335223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881970924439924736/Bq7XsG1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348557,
+          "following_count": 382,
+          "like_count": 6368,
+          "listed_count": 572,
+          "media_count": 1297,
+          "tweet_count": 6564
+        },
+        "username": "trumpchinese1",
+        "verified": true
+      }
+    ]
+  }
+}

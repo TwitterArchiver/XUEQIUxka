@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032451983320420352"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2032451976034959689",
+    "created_at": "2026-03-13T13:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032451986357158042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DDd35P8L4",
+          "end": 70,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2032451986357158042/photo/1",
+          "media_key": "3_2032451983320420352",
+          "start": 47,
+          "url": "https://t.co/5DDd35P8L4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032451986357158042",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032451976034959689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（实际上是睾酮水平太低了，被要求补充一点点的睾酮，但是病历不怎么怎么写，所以又写回了易性症） https://t.co/5DDd35P8L4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2032451983320420352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS4T3jaEAAPi07.jpg",
+        "width": 2125
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2032451972432044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS4TO_aoAAT_BM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032451983320420352"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032451976034959689",
+        "created_at": "2026-03-13T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032451986357158042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DDd35P8L4",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2032451986357158042/photo/1",
+              "media_key": "3_2032451983320420352",
+              "start": 47,
+              "url": "https://t.co/5DDd35P8L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032451986357158042",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032451976034959689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（实际上是睾酮水平太低了，被要求补充一点点的睾酮，但是病历不怎么怎么写，所以又写回了易性症） https://t.co/5DDd35P8L4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032451972432044032"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032451976034959689",
+        "created_at": "2026-03-13T13:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032451976034959689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UO5YudZ74f",
+              "end": 36,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2032451976034959689/photo/1",
+              "media_key": "3_2032451972432044032",
+              "start": 13,
+              "url": "https://t.co/UO5YudZ74f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032451976034959689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀，怎么能不算飞天猫捏 https://t.co/UO5YudZ74f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5972,
+          "following_count": 1541,
+          "like_count": 20770,
+          "listed_count": 26,
+          "media_count": 345,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

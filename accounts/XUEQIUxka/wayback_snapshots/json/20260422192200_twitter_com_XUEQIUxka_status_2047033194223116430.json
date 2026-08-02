@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046801088658206720",
+        "3_2046801098221211648",
+        "3_2046801107142516736",
+        "3_2046801114042138624"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2047033194223116430",
+    "created_at": "2026-04-22T19:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047033194223116430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DGVwip8QRO",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+          "media_key": "3_2046801088658206720",
+          "start": 9,
+          "url": "https://t.co/DGVwip8QRO"
+        },
+        {
+          "display_url": "pic.x.com/DGVwip8QRO",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+          "media_key": "3_2046801098221211648",
+          "start": 9,
+          "url": "https://t.co/DGVwip8QRO"
+        },
+        {
+          "display_url": "pic.x.com/DGVwip8QRO",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+          "media_key": "3_2046801107142516736",
+          "start": 9,
+          "url": "https://t.co/DGVwip8QRO"
+        },
+        {
+          "display_url": "pic.x.com/DGVwip8QRO",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+          "media_key": "3_2046801114042138624",
+          "start": 9,
+          "url": "https://t.co/DGVwip8QRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047033194223116430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家看线条小狗 https://t.co/DGVwip8QRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2046801088658206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeyvuda8AAPxbm.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2046801098221211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeywSFa0AAeg6e.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2046801107142516736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeywzUbIAARYqT.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2046801114042138624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeyxNBbAAAHnXd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046801088658206720",
+            "3_2046801098221211648",
+            "3_2046801107142516736",
+            "3_2046801114042138624"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2047033194223116430",
+        "created_at": "2026-04-22T19:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047033194223116430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGVwip8QRO",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+              "media_key": "3_2046801088658206720",
+              "start": 9,
+              "url": "https://t.co/DGVwip8QRO"
+            },
+            {
+              "display_url": "pic.x.com/DGVwip8QRO",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+              "media_key": "3_2046801098221211648",
+              "start": 9,
+              "url": "https://t.co/DGVwip8QRO"
+            },
+            {
+              "display_url": "pic.x.com/DGVwip8QRO",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+              "media_key": "3_2046801107142516736",
+              "start": 9,
+              "url": "https://t.co/DGVwip8QRO"
+            },
+            {
+              "display_url": "pic.x.com/DGVwip8QRO",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2047033194223116430/photo/1",
+              "media_key": "3_2046801114042138624",
+              "start": 9,
+              "url": "https://t.co/DGVwip8QRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047033194223116430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家看线条小狗 https://t.co/DGVwip8QRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7246,
+          "following_count": 2142,
+          "like_count": 26987,
+          "listed_count": 27,
+          "media_count": 851,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

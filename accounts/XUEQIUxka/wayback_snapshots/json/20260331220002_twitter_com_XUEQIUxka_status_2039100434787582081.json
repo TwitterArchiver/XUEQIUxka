@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039100434787582081",
+    "created_at": "2026-03-31T22:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039100434787582081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XiaoHuiHuiH/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/2039094400928661552",
+          "start": 20,
+          "url": "https://t.co/nxXq8LfREF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039100434787582081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039094400928661552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安呐，咴咴\n于我们而言，你会一直活着 https://t.co/nxXq8LfREF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039100434787582081",
+        "created_at": "2026-03-31T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039100434787582081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/2039094400928661552",
+              "start": 20,
+              "url": "https://t.co/nxXq8LfREF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039100434787582081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039094400928661552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安呐，咴咴\n于我们而言，你会一直活着 https://t.co/nxXq8LfREF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "2039094400928661552",
+        "created_at": "2026-03-31T21:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039094400928661552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039094400928661552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "公告\n\n各位推友：\n经与小马咴咴家属慎重沟通，现就其推特账号处理事宜\n\n公告如下：\n小马咴咴已于 2026年2月12日 离世。家属已于 2月25日 为其举行火化仪式，并遵照其生前意愿或家属安排，骨灰已撒入大海，完成海葬。\n\n遵照家属意愿，此推特账号计划于三个月后正式注销。账号将保留至 2026年7月1日。若有希望留作纪念的朋友，请在此日期前自行下载并保存相关内容。\n\n感谢大家一直以来对小马咴咴的陪伴与关爱。在此，我们对小马咴咴的离去表示深切哀悼。\n\n愿她随风而行，归于星辰大海，永享安宁。\n\n咴咴最后在遗书中给地球ol评分三星\n\n她的评价内容如下：\n不好不坏，别得抑郁debuff就好\n游戏太肝，太累了，想退游了🩷\n\n爱你们，爱世界，爱一切，唯独恨透了我自己\n\nBootJenna & ServalCandle\n[发布日期：2026年3月31日]"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 399,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "公告\n\n各位推友：\n经与小马咴咴家属慎重沟通，现就其推特账号处理事宜\n\n公告如下：\n小马咴咴已于 2026年2月12日 离世。家属已于 2月25日 为其举行火化仪式，并遵照其生前意愿或家属安排，骨灰已撒入大海，完成海葬。\n\n遵照家属意愿，此推特账号计划于三个月后正式注销。账号将保留至"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6635,
+          "following_count": 2017,
+          "like_count": 23413,
+          "listed_count": 27,
+          "media_count": 504,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2039094400928661552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12391,
+          "following_count": 1382,
+          "like_count": 159933,
+          "listed_count": 34,
+          "media_count": 5083,
+          "tweet_count": 67825
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

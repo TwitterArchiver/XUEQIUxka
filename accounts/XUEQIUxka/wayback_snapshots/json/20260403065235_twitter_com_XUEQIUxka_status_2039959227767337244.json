@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039917451861954682",
+    "created_at": "2026-04-03T06:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039959227767337244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039959227767337244",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039917451861954682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ 感觉这种人的家庭很复杂\n我只能说很没有教养，甚至不配为人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2039917444459061248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8-G5ga4AArnkk.jpg",
+        "width": 443
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039917444400324608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8-G5SaoAAXdgt.jpg",
+        "width": 332
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039917444438073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8-G5baoAAUaa7.jpg",
+        "width": 357
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039917444433936384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8-G5abgAAC1OY.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039917451861954682",
+        "created_at": "2026-04-03T06:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039959227767337244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039959227767337244",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039917451861954682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 感觉这种人的家庭很复杂\n我只能说很没有教养，甚至不配为人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039917444459061248",
+            "3_2039917444400324608",
+            "3_2039917444438073344",
+            "3_2039917444433936384"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039917451861954682",
+        "created_at": "2026-04-03T04:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039917451861954682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8QpkRJWWB",
+              "end": 49,
+              "expanded_url": "https://x.com/__fanqie__/status/2039917451861954682/photo/1",
+              "media_key": "3_2039917444459061248",
+              "start": 26,
+              "url": "https://t.co/T8QpkRJWWB"
+            },
+            {
+              "display_url": "pic.x.com/T8QpkRJWWB",
+              "end": 49,
+              "expanded_url": "https://x.com/__fanqie__/status/2039917451861954682/photo/1",
+              "media_key": "3_2039917444400324608",
+              "start": 26,
+              "url": "https://t.co/T8QpkRJWWB"
+            },
+            {
+              "display_url": "pic.x.com/T8QpkRJWWB",
+              "end": 49,
+              "expanded_url": "https://x.com/__fanqie__/status/2039917451861954682/photo/1",
+              "media_key": "3_2039917444438073344",
+              "start": 26,
+              "url": "https://t.co/T8QpkRJWWB"
+            },
+            {
+              "display_url": "pic.x.com/T8QpkRJWWB",
+              "end": 49,
+              "expanded_url": "https://x.com/__fanqie__/status/2039917451861954682/photo/1",
+              "media_key": "3_2039917444433936384",
+              "start": 26,
+              "url": "https://t.co/T8QpkRJWWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039917451861954682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3301,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个班是凑不出一对父母还是脑袋都被门挤过这么霸凌？ https://t.co/T8QpkRJWWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6664,
+          "following_count": 2024,
+          "like_count": 23734,
+          "listed_count": 27,
+          "media_count": 526,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点但是无特别喜好\n不讨论政治/发梗图为主/侵权私信删除\n支持私信/线下面基（如果我有空的话）",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2035215334706487414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012161853645074432/8hBhXLsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4408,
+          "following_count": 2987,
+          "like_count": 1471,
+          "listed_count": 5,
+          "media_count": 783,
+          "tweet_count": 8388
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

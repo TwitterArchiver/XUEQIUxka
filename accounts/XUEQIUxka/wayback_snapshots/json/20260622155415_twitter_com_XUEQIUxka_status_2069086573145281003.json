@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2068579669398704242",
+    "created_at": "2026-06-22T15:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069086573145281003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069086573145281003",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069027494242685226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068579669398704242",
+        "created_at": "2026-06-22T15:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069086573145281003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069086573145281003",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069027494242685226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778850117933838337",
+        "conversation_id": "2068579669398704242",
+        "created_at": "2026-06-22T11:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069027494242685226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069027494242685226",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068841940339306746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 卧槽这浏览量，卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9516,
+          "following_count": 2400,
+          "like_count": 33324,
+          "listed_count": 25,
+          "media_count": 2159,
+          "tweet_count": 6435
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高二小孩，苦逼文科生，顺直友跨\n ケモノ大好き❤ \n  目标：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机  \n开个蓝v，加点曝光，想过5M浏览量",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1044,
+          "like_count": 18701,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 2070
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

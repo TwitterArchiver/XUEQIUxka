@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038152221356146762",
+    "created_at": "2026-03-29T13:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038244840861761700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        },
+        {
+          "end": 26,
+          "id": "1909390269533011968",
+          "start": 21,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038244840861761700",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038152221356146762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest @grok @gork 你们两个怎么看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038152221356146762",
+        "created_at": "2026-03-29T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038244840861761700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            },
+            {
+              "end": 26,
+              "id": "1909390269533011968",
+              "start": 21,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038244840861761700",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038152221356146762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest @grok @gork 你们两个怎么看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479550299815645185",
+        "conversation_id": "2038152221356146762",
+        "created_at": "2026-03-29T07:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038152221356146762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038152221356146762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "43岁的中年人，失业了，有一套93平的房子，一辆本田雅阁，还有210万的现金。\n\n目前很彷徨，有下面几个生活方案，大家帮我看看选哪个比较好。\n\n方案一：投资3家美宜佳超市，就是那种连锁小超市，地点选在小区的大门旁。\n\n方案二：全职在家炒股 。\n\n方案三：把钱拿出来买基金，然后买一辆便宜的电动汽车，出去跑快车。\n\n方案四：150万炒股，60万理财，然后附近随便找个4000左右的工作，跑跑业务也行。不过，我个人很不爱看人脸色。\n\n方案五：投资朋友的塑料厂，130万，占股百分之30，参与经营。然后其他钱理财。\n\n你的建议是什么？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 393245,
+          "like_count": 400,
+          "quote_count": 18,
+          "reply_count": 742,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "43岁的中年人，失业了，有一套93平的房子，一辆本田雅阁，还有210万的现金。\n\n目前很彷徨，有下面几个生活方案，大家帮我看看选哪个比较好。\n\n方案一：投资3家美宜佳超市，就是那种连锁小超市，地点选在小区的大门旁。\n\n方案二：全职在家炒股 。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6554,
+          "following_count": 1994,
+          "like_count": 22876,
+          "listed_count": 27,
+          "media_count": 477,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32544,
+          "following_count": 1676,
+          "like_count": 23446,
+          "listed_count": 132,
+          "media_count": 3884,
+          "tweet_count": 26717
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8501401,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6596,
+          "media_count": 8732110,
+          "tweet_count": 120321132
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420594,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 395,
+          "media_count": 44442,
+          "tweet_count": 2313020
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

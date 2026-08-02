@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021885362822680576",
+        "3_2021885363250507782"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021885370041086429",
+    "created_at": "2026-02-12T09:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021885370041086429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 75,
+          "id": "4398626122",
+          "start": 68,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkmLeE8eil",
+          "end": 99,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2021885370041086429/photo/1",
+          "media_key": "3_2021885362822680576",
+          "start": 76,
+          "url": "https://t.co/AkmLeE8eil"
+        },
+        {
+          "display_url": "pic.x.com/AkmLeE8eil",
+          "end": 99,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2021885370041086429/photo/1",
+          "media_key": "3_2021885363250507782",
+          "start": 76,
+          "url": "https://t.co/AkmLeE8eil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021885370041086429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "chatGPT 5.2 和煞笔一样\n无论问什么回答都一样，md退钱\n还我4o #keep4o ，我承认我冲的不多，但是现在的模型太差了\n@OpenAI https://t.co/AkmLeE8eil"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2021885362822680576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8uBmubkAAF7Sk.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021885363250507782",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8uBoUbsAY90iF.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021885362822680576",
+            "3_2021885363250507782"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021885370041086429",
+        "created_at": "2026-02-12T09:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021885370041086429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 75,
+              "id": "4398626122",
+              "start": 68,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkmLeE8eil",
+              "end": 99,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2021885370041086429/photo/1",
+              "media_key": "3_2021885362822680576",
+              "start": 76,
+              "url": "https://t.co/AkmLeE8eil"
+            },
+            {
+              "display_url": "pic.x.com/AkmLeE8eil",
+              "end": 99,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2021885370041086429/photo/1",
+              "media_key": "3_2021885363250507782",
+              "start": 76,
+              "url": "https://t.co/AkmLeE8eil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021885370041086429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "chatGPT 5.2 和煞笔一样\n无论问什么回答都一样，md退钱\n还我4o #keep4o ，我承认我冲的不多，但是现在的模型太差了\n@OpenAI https://t.co/AkmLeE8eil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "家长党"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "MTF"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "HRT"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Les"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "双相"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ADHD"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 1450,
+          "like_count": 19351,
+          "listed_count": 24,
+          "media_count": 304,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620330,
+          "following_count": 4,
+          "like_count": 1619,
+          "listed_count": 27187,
+          "media_count": 516,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

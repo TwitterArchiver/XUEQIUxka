@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1923997637096898599",
+    "created_at": "2025-05-18T07:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923998099284033597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923998099284033597",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923997637096898599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但谎言永远都是谎言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1923997637096898599",
+        "created_at": "2025-05-18T07:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923998099284033597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923998099284033597",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923997637096898599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但谎言永远都是谎言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1923997637096898599",
+        "created_at": "2025-05-18T07:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923997637096898599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923997637096898599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“言语是很恐怖的东西，当说的人多了，那些不明所以的人，便会跟着信以为真。”\n“当谎言说上一万次，那么谎言也会变成真相。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在排期，减重，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n（和平分开）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "MTF"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "HRT"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "双相"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 1435,
+          "like_count": 17300,
+          "listed_count": 20,
+          "media_count": 276,
+          "tweet_count": 1598
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

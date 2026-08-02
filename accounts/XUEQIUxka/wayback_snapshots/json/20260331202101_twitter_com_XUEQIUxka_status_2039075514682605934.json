@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039071244558196736",
+        "3_2039071245824843776",
+        "3_2039071245514518528",
+        "3_2039071245527072768"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039075514682605934",
+    "created_at": "2026-03-31T20:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T21:04:09.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039071270260879796",
+      "2039075514682605934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMuo9NgeNV",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+          "media_key": "3_2039071244558196736",
+          "start": 56,
+          "url": "https://t.co/cMuo9NgeNV"
+        },
+        {
+          "display_url": "pic.x.com/cMuo9NgeNV",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+          "media_key": "3_2039071245824843776",
+          "start": 56,
+          "url": "https://t.co/cMuo9NgeNV"
+        },
+        {
+          "display_url": "pic.x.com/cMuo9NgeNV",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+          "media_key": "3_2039071245514518528",
+          "start": 56,
+          "url": "https://t.co/cMuo9NgeNV"
+        },
+        {
+          "display_url": "pic.x.com/cMuo9NgeNV",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+          "media_key": "3_2039071245527072768",
+          "start": 56,
+          "url": "https://t.co/cMuo9NgeNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039075514682605934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "定制了新版的215卡，可以写入数据\n还是和之前一样评论抽两个人送出，之前中奖的有概率会在中奖包裹里直接刷新出！ https://t.co/cMuo9NgeNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2039071244558196736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEw8flOa4AA-4HS.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039071245824843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEw8fp8aYAAneKh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2039071245514518528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEw8foybMAA8xKR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1387,
+        "media_key": "3_2039071245527072768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEw8fo1awAAY8Fh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039071244558196736",
+            "3_2039071245824843776",
+            "3_2039071245514518528",
+            "3_2039071245527072768"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039071270260879796",
+        "created_at": "2026-03-31T20:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T21:04:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039071270260879796",
+          "2039075514682605934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg7uQmH03j",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039071270260879796/photo/1",
+              "media_key": "3_2039071244558196736",
+              "start": 47,
+              "url": "https://t.co/rg7uQmH03j"
+            },
+            {
+              "display_url": "pic.x.com/rg7uQmH03j",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039071270260879796/photo/1",
+              "media_key": "3_2039071245824843776",
+              "start": 47,
+              "url": "https://t.co/rg7uQmH03j"
+            },
+            {
+              "display_url": "pic.x.com/rg7uQmH03j",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039071270260879796/photo/1",
+              "media_key": "3_2039071245514518528",
+              "start": 47,
+              "url": "https://t.co/rg7uQmH03j"
+            },
+            {
+              "display_url": "pic.x.com/rg7uQmH03j",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039071270260879796/photo/1",
+              "media_key": "3_2039071245527072768",
+              "start": 47,
+              "url": "https://t.co/rg7uQmH03j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039071270260879796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定制了新版的UID卡，可以写入数据\n还是和之前一样评论抽两个人送出，之前中奖的也有概率获得！ https://t.co/rg7uQmH03j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039071244558196736",
+            "3_2039071245824843776",
+            "3_2039071245514518528",
+            "3_2039071245527072768"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039075514682605934",
+        "created_at": "2026-03-31T20:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T21:04:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039071270260879796",
+          "2039075514682605934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMuo9NgeNV",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+              "media_key": "3_2039071244558196736",
+              "start": 56,
+              "url": "https://t.co/cMuo9NgeNV"
+            },
+            {
+              "display_url": "pic.x.com/cMuo9NgeNV",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+              "media_key": "3_2039071245824843776",
+              "start": 56,
+              "url": "https://t.co/cMuo9NgeNV"
+            },
+            {
+              "display_url": "pic.x.com/cMuo9NgeNV",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+              "media_key": "3_2039071245514518528",
+              "start": 56,
+              "url": "https://t.co/cMuo9NgeNV"
+            },
+            {
+              "display_url": "pic.x.com/cMuo9NgeNV",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039075514682605934/photo/1",
+              "media_key": "3_2039071245527072768",
+              "start": 56,
+              "url": "https://t.co/cMuo9NgeNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039075514682605934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定制了新版的215卡，可以写入数据\n还是和之前一样评论抽两个人送出，之前中奖的有概率会在中奖包裹里直接刷新出！ https://t.co/cMuo9NgeNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6636,
+          "following_count": 2015,
+          "like_count": 23404,
+          "listed_count": 27,
+          "media_count": 504,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

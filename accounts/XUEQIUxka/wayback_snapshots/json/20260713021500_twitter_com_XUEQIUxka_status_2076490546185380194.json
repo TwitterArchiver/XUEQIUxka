@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076361317758455808",
+        "3_2076361325299879936"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076490546185380194",
+    "created_at": "2026-07-13T02:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076490546185380194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8AK78ZoQt",
+          "end": 38,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2076490546185380194/photo/1",
+          "media_key": "3_2076361317758455808",
+          "start": 15,
+          "url": "https://t.co/B8AK78ZoQt"
+        },
+        {
+          "display_url": "pic.x.com/B8AK78ZoQt",
+          "end": 38,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2076490546185380194/photo/1",
+          "media_key": "3_2076361325299879936",
+          "start": 15,
+          "url": "https://t.co/B8AK78ZoQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076490546185380194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没看到实物前不会想到如此搞笑 https://t.co/B8AK78ZoQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076361317758455808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC3nhJa0AAZ0lY.jpg",
+        "width": 1046
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076361325299879936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC3n9Pb0AA10aA.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076361317758455808",
+            "3_2076361325299879936"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076490546185380194",
+        "created_at": "2026-07-13T02:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076490546185380194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8AK78ZoQt",
+              "end": 38,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076490546185380194/photo/1",
+              "media_key": "3_2076361317758455808",
+              "start": 15,
+              "url": "https://t.co/B8AK78ZoQt"
+            },
+            {
+              "display_url": "pic.x.com/B8AK78ZoQt",
+              "end": 38,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076490546185380194/photo/1",
+              "media_key": "3_2076361325299879936",
+              "start": 15,
+              "url": "https://t.co/B8AK78ZoQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076490546185380194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没看到实物前不会想到如此搞笑 https://t.co/B8AK78ZoQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9598,
+          "following_count": 2371,
+          "like_count": 33323,
+          "listed_count": 26,
+          "media_count": 1602,
+          "tweet_count": 5869
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

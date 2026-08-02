@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2044081797429113283",
+    "created_at": "2026-04-14T17:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044106511157481927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2003889596623687680",
+          "start": 0,
+          "username": "hjy_yuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20439…",
+          "end": 42,
+          "expanded_url": "https://x.com/i/status/2043953454272651417",
+          "start": 19,
+          "url": "https://t.co/ePDw3lRZxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044106511157481927",
+    "in_reply_to_user_id": "2003889596623687680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043953454272651417",
+        "type": "quoted"
+      },
+      {
+        "id": "2044081797429113283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjy_yuan 你怎么恩将仇报呢\nhttps://t.co/ePDw3lRZxQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043953447796649987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2U1NlasAMdYPw.jpg",
+        "width": 951
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044081780576448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4JjKcbcAAchrr.jpg",
+        "width": 1434
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2044081780597374977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4JjKhawAEJfk8.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2044081797429113283",
+        "created_at": "2026-04-14T17:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044106511157481927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003889596623687680",
+              "start": 0,
+              "username": "hjy_yuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20439…",
+              "end": 42,
+              "expanded_url": "https://x.com/i/status/2043953454272651417",
+              "start": 19,
+              "url": "https://t.co/ePDw3lRZxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044106511157481927",
+        "in_reply_to_user_id": "2003889596623687680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043953454272651417",
+            "type": "quoted"
+          },
+          {
+            "id": "2044081797429113283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjy_yuan 你怎么恩将仇报呢\nhttps://t.co/ePDw3lRZxQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043953447796649987"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043953454272651417",
+        "created_at": "2026-04-14T07:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043953454272651417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2003889596623687680",
+              "start": 0,
+              "username": "hjy_yuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iErntp5QO",
+              "end": 61,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2043953454272651417/photo/1",
+              "media_key": "3_2043953447796649987",
+              "start": 38,
+              "url": "https://t.co/8iErntp5QO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953454272651417",
+        "in_reply_to_user_id": "2003889596623687680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 234,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@hjy_yuan 我请你喝奶茶，你还要给我买练习册，怎么恩将仇报呢，这人 https://t.co/8iErntp5QO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044081780576448512",
+            "3_2044081780597374977"
+          ]
+        },
+        "author_id": "2003889596623687680",
+        "conversation_id": "2044081797429113283",
+        "created_at": "2026-04-14T15:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044081797429113283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bf1KrOpR8e",
+              "end": 38,
+              "expanded_url": "https://x.com/hjy_yuan/status/2044081797429113283/photo/1",
+              "media_key": "3_2044081780576448512",
+              "start": 15,
+              "url": "https://t.co/Bf1KrOpR8e"
+            },
+            {
+              "display_url": "pic.x.com/Bf1KrOpR8e",
+              "end": 38,
+              "expanded_url": "https://x.com/hjy_yuan/status/2044081797429113283/photo/1",
+              "media_key": "3_2044081780597374977",
+              "start": 15,
+              "url": "https://t.co/Bf1KrOpR8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081797429113283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢雪姐@XUEQIUxka https://t.co/Bf1KrOpR8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6909,
+          "following_count": 2076,
+          "like_count": 25750,
+          "listed_count": 28,
+          "media_count": 692,
+          "tweet_count": 3673
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T18:04:55.000Z",
+        "description": "Hardware & Tech 📟 / 游戏玩家 👾 / 独立开发探索中 🚀\n分享出海经验与生活槽点。\nDM is open. ✉️",
+        "id": "2003889596623687680",
+        "location": "🌍 地球 OL 维护中 / 127.0.0.1",
+        "name": "Timey",
+        "pinned_tweet_id": "2033144943888453871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024019291193176067/WE4H3X9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1274,
+          "like_count": 594,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1164
+        },
+        "username": "hjy_yuan",
+        "verified": true
+      }
+    ]
+  }
+}

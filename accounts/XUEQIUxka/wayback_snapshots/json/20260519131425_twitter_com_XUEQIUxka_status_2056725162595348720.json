@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2056716775853887758",
+    "created_at": "2026-05-19T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056725162595348720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992255920777392128",
+          "start": 0,
+          "username": "GMwalletHK"
+        },
+        {
+          "end": 25,
+          "id": "1775079210484436992",
+          "start": 12,
+          "username": "0xAstraSpark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056725162595348720",
+    "in_reply_to_user_id": "1992255920777392128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056716775853887758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMwalletHK @0xAstraSpark 为什么我不在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2056716554470039552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrszzDaIAAGtK4.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2056716775853887758",
+        "created_at": "2026-05-19T13:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056725162595348720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992255920777392128",
+              "start": 0,
+              "username": "GMwalletHK"
+            },
+            {
+              "end": 25,
+              "id": "1775079210484436992",
+              "start": 12,
+              "username": "0xAstraSpark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056725162595348720",
+        "in_reply_to_user_id": "1992255920777392128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056716775853887758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMwalletHK @0xAstraSpark 为什么我不在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056716554470039552"
+          ]
+        },
+        "author_id": "1992255920777392128",
+        "conversation_id": "2056716775853887758",
+        "created_at": "2026-05-19T12:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056716775853887758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1775079210484436992",
+              "start": 24,
+              "username": "0xAstraSpark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCIY9TxtTy",
+              "end": 167,
+              "expanded_url": "https://x.com/GMwalletHK/status/2056716775853887758/photo/1",
+              "media_key": "3_2056716554470039552",
+              "start": 144,
+              "url": "https://t.co/YCIY9TxtTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056716775853887758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GM，来了就是打工的！\n\n你来了GM，就变成给 @0xAstraSpark 打工的了！\n\n我真服了啊，刚下班看到这个坏消息，我不想多说，谁没领到这个红包，歪脖三白混了。\n\n你们进的321怎么这么牛逼，怎么我进的都是天天只会复制粘贴的😭\n\n晚点发一条声明，有亿点重要的，记得点个小铃铛哦🫶 https://t.co/YCIY9TxtTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8566,
+          "following_count": 2223,
+          "like_count": 30202,
+          "listed_count": 24,
+          "media_count": 1510,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 开发者，EPusdt 开发者。我们正在构建全新的无摩擦的资产语意层钱包，Keep building！Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2055252246737379359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 633,
+          "like_count": 4196,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 3146
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMwalletHK",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) 加密交易用币安：https://t.co/gCvs8cb1ga\nbitget 最高返佣 https://t.co/4z83vmfHQH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 69,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 46,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "partner.bitget.com/bg/yjqvqjyv",
+                "end": 105,
+                "expanded_url": "https://partner.bitget.com/bg/yjqvqjyv",
+                "start": 82,
+                "url": "https://t.co/4z83vmfHQH"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6670,
+          "following_count": 889,
+          "like_count": 40398,
+          "listed_count": 31,
+          "media_count": 307,
+          "tweet_count": 7676
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      }
+    ]
+  }
+}

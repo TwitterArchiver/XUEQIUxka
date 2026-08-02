@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038925620646903808"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038917860022796440",
+    "created_at": "2026-03-31T10:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038925631715692888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 24,
+          "id": "1545277694325116928",
+          "start": 17,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jb0LqL8I0g",
+          "end": 84,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2038925631715692888/photo/1",
+          "media_key": "3_2038925620646903808",
+          "start": 61,
+          "url": "https://t.co/Jb0LqL8I0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038925631715692888",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038920599037440208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @BI3BXI 扣账卡的平邮你记得找他们要单号，顺便联系邮政，我的扣账卡给我寄丢了两张 https://t.co/Jb0LqL8I0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038925620646903808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu4DJ4aAAAOF2j.jpg",
+        "width": 971
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038920596663541760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuzeuFboAAC8LD.jpg",
+        "width": 755
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038920596999024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuzevVasAAY3oq.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038925620646903808"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038917860022796440",
+        "created_at": "2026-03-31T10:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038925631715692888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 17,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jb0LqL8I0g",
+              "end": 84,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2038925631715692888/photo/1",
+              "media_key": "3_2038925620646903808",
+              "start": 61,
+              "url": "https://t.co/Jb0LqL8I0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038925631715692888",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038920599037440208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @BI3BXI 扣账卡的平邮你记得找他们要单号，顺便联系邮政，我的扣账卡给我寄丢了两张 https://t.co/Jb0LqL8I0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038920596663541760",
+            "3_2038920596999024640"
+          ]
+        },
+        "author_id": "1565231003987505153",
+        "conversation_id": "2038917860022796440",
+        "created_at": "2026-03-31T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038920599037440208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuJrChVRs8",
+              "end": 133,
+              "expanded_url": "https://x.com/Kirishima_Arash/status/2038920599037440208/photo/1",
+              "media_key": "3_2038920596663541760",
+              "start": 110,
+              "url": "https://t.co/GuJrChVRs8"
+            },
+            {
+              "display_url": "pic.x.com/GuJrChVRs8",
+              "end": 133,
+              "expanded_url": "https://x.com/Kirishima_Arash/status/2038920599037440208/photo/1",
+              "media_key": "3_2038920596999024640",
+              "start": 110,
+              "url": "https://t.co/GuJrChVRs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038920599037440208",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038919153650983173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 中国银行大陆 用跨境支付通转中银香港，可以转，转了两三次，几百港币都没问题 \n港元储蓄账户 账面余额和可用余额是一样的 就是转不出去\n\n而且他这个线上开户转账限额是0元，这个还改不了，他说要我去线下网点 https://t.co/GuJrChVRs8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6620,
+          "following_count": 2007,
+          "like_count": 23271,
+          "listed_count": 27,
+          "media_count": 496,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "小雾岛岚",
+        "pinned_tweet_id": "2028423136564441463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6615,
+          "following_count": 7096,
+          "like_count": 113301,
+          "listed_count": 10,
+          "media_count": 992,
+          "tweet_count": 81824
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby🏳️‍⚧️｜（？）@Show5560｜本垢@yqua_｜Sister @Tennoujinyano｜@BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Show5560"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "username": "yqua_"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 3843,
+          "like_count": 38082,
+          "listed_count": 21,
+          "media_count": 2270,
+          "tweet_count": 8858
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044141329027084289",
+        "3_2044141329228468224",
+        "3_2044141329308086272"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2044141500683243691",
+    "created_at": "2026-04-14T19:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:50:46.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044141331740811743",
+      "2044141500683243691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcC6bT0jBZ",
+          "end": 68,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+          "media_key": "3_2044141329027084289",
+          "start": 45,
+          "url": "https://t.co/vcC6bT0jBZ"
+        },
+        {
+          "display_url": "pic.x.com/vcC6bT0jBZ",
+          "end": 68,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+          "media_key": "3_2044141329228468224",
+          "start": 45,
+          "url": "https://t.co/vcC6bT0jBZ"
+        },
+        {
+          "display_url": "pic.x.com/vcC6bT0jBZ",
+          "end": 68,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+          "media_key": "3_2044141329308086272",
+          "start": 45,
+          "url": "https://t.co/vcC6bT0jBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044141500683243691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来我们分开已经不止一年了吗\n我们终究会各自安好\n我不知道\n\n我讨厌自己，我讨厌这个世界 https://t.co/vcC6bT0jBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044141329027084289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4_tVtasAEcB2o.jpg",
+        "width": 971
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044141329228468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4_tWdbkAARg4m.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044141329308086272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4_tWwacAAMXqr.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044141329027084289",
+            "3_2044141329228468224",
+            "3_2044141329308086272"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2044141331740811743",
+        "created_at": "2026-04-14T19:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:50:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044141331740811743",
+          "2044141500683243691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjSCTINUXI",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141331740811743/photo/1",
+              "media_key": "3_2044141329027084289",
+              "start": 30,
+              "url": "https://t.co/VjSCTINUXI"
+            },
+            {
+              "display_url": "pic.x.com/VjSCTINUXI",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141331740811743/photo/1",
+              "media_key": "3_2044141329228468224",
+              "start": 30,
+              "url": "https://t.co/VjSCTINUXI"
+            },
+            {
+              "display_url": "pic.x.com/VjSCTINUXI",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141331740811743/photo/1",
+              "media_key": "3_2044141329308086272",
+              "start": 30,
+              "url": "https://t.co/VjSCTINUXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044141331740811743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来我们分开已经不止一年了吗\n我们终究会各自安好\n我不知道 https://t.co/VjSCTINUXI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044141329027084289",
+            "3_2044141329228468224",
+            "3_2044141329308086272"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2044141500683243691",
+        "created_at": "2026-04-14T19:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:50:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044141331740811743",
+          "2044141500683243691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcC6bT0jBZ",
+              "end": 68,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+              "media_key": "3_2044141329027084289",
+              "start": 45,
+              "url": "https://t.co/vcC6bT0jBZ"
+            },
+            {
+              "display_url": "pic.x.com/vcC6bT0jBZ",
+              "end": 68,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+              "media_key": "3_2044141329228468224",
+              "start": 45,
+              "url": "https://t.co/vcC6bT0jBZ"
+            },
+            {
+              "display_url": "pic.x.com/vcC6bT0jBZ",
+              "end": 68,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044141500683243691/photo/1",
+              "media_key": "3_2044141329308086272",
+              "start": 45,
+              "url": "https://t.co/vcC6bT0jBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044141500683243691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来我们分开已经不止一年了吗\n我们终究会各自安好\n我不知道\n\n我讨厌自己，我讨厌这个世界 https://t.co/vcC6bT0jBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6909,
+          "following_count": 2078,
+          "like_count": 25767,
+          "listed_count": 34,
+          "media_count": 697,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

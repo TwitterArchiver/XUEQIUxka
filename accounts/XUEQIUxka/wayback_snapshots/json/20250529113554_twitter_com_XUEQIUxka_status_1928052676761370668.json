@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1927546252406739160",
+    "created_at": "2025-05-29T11:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T12:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928052676761370668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        },
+        {
+          "end": 27,
+          "id": "1650521797299953665",
+          "start": 17,
+          "username": "yulingko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928052676761370668",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927573804324192376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter @yulingko_ 我不也是("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1927546252406739160",
+        "created_at": "2025-05-29T11:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T12:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928052676761370668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            },
+            {
+              "end": 27,
+              "id": "1650521797299953665",
+              "start": 17,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928052676761370668",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927573804324192376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter @yulingko_ 我不也是("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523537773143236608",
+        "conversation_id": "1927546252406739160",
+        "created_at": "2025-05-28T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927573804324192376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927573804324192376",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927546252406739160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulingko_ 因为你和我互动了，这就是罪大恶极的行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在排期，减重，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n（和平分开）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "MTF"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "HRT"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "双相"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 1442,
+          "like_count": 17441,
+          "listed_count": 20,
+          "media_count": 276,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "本账号中之人就是你们之前讨厌的那个人，如果你以前拉黑了我请继续保持拉黑/老保/仇跨/仇左/直升机驾驶员/含糖反跨顺男/阶级敌人/网络右翼/清蒸骰子/拥共支黑/反DEI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/WoST5VRBiO"
+              }
+            ]
+          }
+        },
+        "id": "1523537773143236608",
+        "name": "胡桃夾子",
+        "pinned_tweet_id": "1898494089483649385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 221,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/WoST5VRBiO",
+        "username": "Homulilly_Alter",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "💛🤍💜🖤 | he/they | 妄想成为不动点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "http://yulingko.moe",
+                "start": 0,
+                "url": "https://t.co/y33zzlVlZu"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "location": "Puewwoc Functional Streaming",
+        "name": "与岭",
+        "pinned_tweet_id": "1921841960538566873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907411523582279680/y9jBLrJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 729,
+          "like_count": 58009,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 9914
+        },
+        "url": "https://t.co/y33zzlVlZu",
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

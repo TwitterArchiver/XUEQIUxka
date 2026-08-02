@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2030536890554683524",
+    "created_at": "2026-03-08T06:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030536890554683524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Luckilyzixaun/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Luckilyzixaun/status/2030525868679057698",
+          "start": 11,
+          "url": "https://t.co/U99JYhoKie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030536890554683524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030525868679057698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望收到的你天天开心 https://t.co/U99JYhoKie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3510,
+        "media_key": "3_2030525391618859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3gFeLaYAAUKO8.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3510,
+        "media_key": "3_2030525391614742528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3gFeKbkAAiUQC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3510,
+        "media_key": "3_2030525391639834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3gFeQacAAvsVW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2030536890554683524",
+        "created_at": "2026-03-08T06:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030536890554683524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luckilyzixaun/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Luckilyzixaun/status/2030525868679057698",
+              "start": 11,
+              "url": "https://t.co/U99JYhoKie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030536890554683524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030525868679057698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望收到的你天天开心 https://t.co/U99JYhoKie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030525391618859008",
+            "3_2030525391614742528",
+            "3_2030525391639834624"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030525868679057698",
+        "created_at": "2026-03-08T06:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030525868679057698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1368897611672018953",
+              "start": 6,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/13fB8lwN7l",
+              "end": 46,
+              "expanded_url": "https://x.com/Luckilyzixaun/status/2030525868679057698/photo/1",
+              "media_key": "3_2030525391618859008",
+              "start": 23,
+              "url": "https://t.co/13fB8lwN7l"
+            },
+            {
+              "display_url": "pic.x.com/13fB8lwN7l",
+              "end": 46,
+              "expanded_url": "https://x.com/Luckilyzixaun/status/2030525868679057698/photo/1",
+              "media_key": "3_2030525391614742528",
+              "start": 23,
+              "url": "https://t.co/13fB8lwN7l"
+            },
+            {
+              "display_url": "pic.x.com/13fB8lwN7l",
+              "end": 46,
+              "expanded_url": "https://x.com/Luckilyzixaun/status/2030525868679057698/photo/1",
+              "media_key": "3_2030525391639834624",
+              "start": 23,
+              "url": "https://t.co/13fB8lwN7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030525868679057698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢雪秋姐姐@XUEQIUxka送我的小礼物 https://t.co/13fB8lwN7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 1537,
+          "like_count": 20533,
+          "listed_count": 25,
+          "media_count": 330,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "MTF｜INFP-T｜07 English/日本語/简繁中文 \nXiaomi Promoter/Xiaomi Fan UTC+8\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜\n产品经理、公关部总经理｜数码玩家、乐子人、自由左",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地:沙特阿拉伯",
+        "name": "夏日重现🍥",
+        "pinned_tweet_id": "2030231432388599814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027376561813594113/GHdKm-Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 916,
+          "like_count": 975,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "Luckilyzixaun",
+        "verified": false
+      }
+    ]
+  }
+}

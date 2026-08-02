@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036247486864453753",
+    "created_at": "2026-03-24T04:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036296637757489472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516975944484990977",
+          "start": 0,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036296637757489472",
+    "in_reply_to_user_id": "1516975944484990977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036247486864453753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuisPasDaVinci 我也好想去养老"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036247486864453753",
+        "created_at": "2026-03-24T04:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036296637757489472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036296637757489472",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036247486864453753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 我也好想去养老"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "conversation_id": "2036247486864453753",
+        "created_at": "2026-03-24T01:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036247486864453753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Graceruansu/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Graceruansu/status/2036234251985887619",
+              "start": 155,
+              "url": "https://t.co/17ZizPwMt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036247486864453753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前问过一个在加拿大的朋友。\n\n如果哪天真不用为钱发愁了，\n\n最想过什么样的日子。\n\n他说，\n\n想每天背个包，\n\n去McGill这种大学里旁听。\n\n冬天裹着羽绒服进教室，\n\n咖啡还热着，\n\n坐最后一排听老教授慢慢讲。\n\n讲经济，讲哲学，讲历史，\n\n讲那些和赚钱没直接关系，\n\n但能让人脑子一下子亮起来的东西。\n\n不为文凭，\n\n不为找工作，\n\n也不为移民加分。\n\n就是单纯想听懂一点，\n\n多明白一点。\n\n下课以后，\n\n去学校食堂随便吃点热的，\n\n或者在雪地里慢慢走回地铁站，\n\n一路都在想，\n\n今天好像又多懂了一点这个世界。\n\n我到现在都觉得，\n\n这才像财务自由以后，\n\n最体面，也最踏实的快乐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 19745,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036234251985887619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前问过一个在加拿大的朋友。\n\n如果哪天真不用为钱发愁了，\n\n最想过什么样的日子。\n\n他说，\n\n想每天背个包，\n\n去McGill这种大学里旁听。\n\n冬天裹着羽绒服进教室，\n\n咖啡还热着，\n\n坐最后一排听老教授慢慢讲。\n\n讲经济，讲哲学，讲历史，\n\n讲那些和赚钱没直接关系，\n\n但能让人脑子一下子亮起来的东西。 https://t.co/17ZizPwMt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1820,
+          "like_count": 21709,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "中年老登在🇨🇦苦撑\n\n包罗万象的杂货铺",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8726,
+          "following_count": 1410,
+          "like_count": 33434,
+          "listed_count": 20,
+          "media_count": 1188,
+          "tweet_count": 15988
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

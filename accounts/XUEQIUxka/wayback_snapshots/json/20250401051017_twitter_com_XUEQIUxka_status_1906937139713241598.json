@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906937134688407552"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "1906859051549376791",
+    "created_at": "2025-04-01T05:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T06:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906937139713241598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yykmxlS7UB",
+          "end": 23,
+          "expanded_url": "https://x.com/XUEQIUxka/status/1906937139713241598/photo/1",
+          "media_key": "3_1906937134688407552",
+          "start": 0,
+          "url": "https://t.co/yykmxlS7UB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906937139713241598",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906859051549376791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/yykmxlS7UB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1906937134688407552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbNOHoakAAw5lL.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906937134688407552"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "1906859051549376791",
+        "created_at": "2025-04-01T05:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906937139713241598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yykmxlS7UB",
+              "end": 23,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1906937139713241598/photo/1",
+              "media_key": "3_1906937134688407552",
+              "start": 0,
+              "url": "https://t.co/yykmxlS7UB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906937139713241598",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906859051549376791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/yykmxlS7UB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1906859051549376791",
+        "created_at": "2025-04-01T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906859051549376791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "942009203094315008",
+              "start": 5,
+              "username": "shi_Yumiaoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906859051549376791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5714,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n鱼喵@shi_yumiaoya 于2024年6月28号凌晨2:27服用过量药物，经抢救无效后离世，愿逝者安息 \n一份迟到了很久的讣告\n公布一个真相：jose自始至终都是鱼喵假扮的，这两位系同一个人（实名：余浩宇），最后愿大家可以原谅她 R.I.P."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在减肥，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 107,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "MTF"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "HRT"
+              },
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4607,
+          "following_count": 1433,
+          "like_count": 17287,
+          "listed_count": 21,
+          "media_count": 274,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038593151200309329",
+    "created_at": "2026-03-30T12:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038593151200309329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1965505625494011904",
+          "start": 3,
+          "username": "hajimi_CTO_BNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038593151200309329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038544253723517269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajimi_CTO_BNB: 我们新的一期社区周边又双叒叕给大家准备完毕啦 🤓\n\n品类：（总30套）\n哈基米素体玩偶+币安衣服 \n哈基米光栅卡 \n还有各种哈基米电动玩具周边统统放送 \n\n参与时间：\n2026/3-30至2026/4-3日结束\n\n参与方式：\n点赞转发此推…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2038541983317450752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpbIhdbYAAWKyC.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 9133,
+        "height": 768,
+        "media_key": "13_2038542607446646785",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038542607446646785/img/PlyOrPkXUcLii4Dv.jpg",
+        "public_metrics": {
+          "view_count": 388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038542607446646785/vid/avc1/320x426/1weXOplBrTWm0-7d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038542607446646785/vid/avc1/480x640/wLvcBLhLuA8RppZG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038542607446646785/vid/avc1/576x768/ux37hzWg5TQXJlaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038542607446646785/pl/EE9DTfkPXJp6_pig.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2038543569682882560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpck3Ia4AAqLWy.jpg",
+        "width": 1192
+      },
+      {
+        "height": 1007,
+        "media_key": "3_2038543807411806208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpcysvaYAAC1AS.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038593151200309329",
+        "created_at": "2026-03-30T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038593151200309329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1965505625494011904",
+              "start": 3,
+              "username": "hajimi_CTO_BNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038593151200309329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038544253723517269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajimi_CTO_BNB: 我们新的一期社区周边又双叒叕给大家准备完毕啦 🤓\n\n品类：（总30套）\n哈基米素体玩偶+币安衣服 \n哈基米光栅卡 \n还有各种哈基米电动玩具周边统统放送 \n\n参与时间：\n2026/3-30至2026/4-3日结束\n\n参与方式：\n点赞转发此推…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038541983317450752",
+            "13_2038542607446646785",
+            "3_2038543569682882560",
+            "3_2038543807411806208"
+          ]
+        },
+        "author_id": "1965505625494011904",
+        "conversation_id": "2038544253723517269",
+        "created_at": "2026-03-30T09:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038544253723517269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ffj8tV2uI",
+              "end": 183,
+              "expanded_url": "https://x.com/hajimi_CTO_BNB/status/2038544253723517269/video/1",
+              "media_key": "3_2038541983317450752",
+              "start": 160,
+              "url": "https://t.co/1Ffj8tV2uI"
+            },
+            {
+              "display_url": "pic.x.com/1Ffj8tV2uI",
+              "end": 183,
+              "expanded_url": "https://x.com/hajimi_CTO_BNB/status/2038544253723517269/video/1",
+              "media_key": "13_2038542607446646785",
+              "start": 160,
+              "url": "https://t.co/1Ffj8tV2uI"
+            },
+            {
+              "display_url": "pic.x.com/1Ffj8tV2uI",
+              "end": 183,
+              "expanded_url": "https://x.com/hajimi_CTO_BNB/status/2038544253723517269/video/1",
+              "media_key": "3_2038543569682882560",
+              "start": 160,
+              "url": "https://t.co/1Ffj8tV2uI"
+            },
+            {
+              "display_url": "pic.x.com/1Ffj8tV2uI",
+              "end": 183,
+              "expanded_url": "https://x.com/hajimi_CTO_BNB/status/2038544253723517269/video/1",
+              "media_key": "3_2038543807411806208",
+              "start": 160,
+              "url": "https://t.co/1Ffj8tV2uI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038544253723517269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 537,
+                "start": 533,
+                "tag": "哈基米"
+              },
+              {
+                "end": 545,
+                "start": 538,
+                "tag": "HAJIMI"
+              },
+              {
+                "end": 553,
+                "start": 546,
+                "tag": "HAKIMI"
+              },
+              {
+                "end": 562,
+                "start": 554,
+                "tag": "HACHIMI"
+              }
+            ]
+          },
+          "text": "我们新的一期社区周边又双叒叕给大家准备完毕啦 🤓\n\n品类：（总30套）\n哈基米素体玩偶+币安衣服 \n哈基米光栅卡 \n还有各种哈基米电动玩具周边统统放送 \n\n参与时间：\n2026/3-30至2026/4-3日结束\n\n参与方式：\n点赞转发此推文，评论区写下你的社区期望或祝福抽取周边奖励。（玩偶衣服款式随机发货）\n\nOur latest batch of merchandise is ready again! 🤓\n\nItems: (30 sets total)\nHajimi doll materials + clothing\nHajimi lenticular cards\nAnd various electric toy merchandise are also up for grabs!\n\nParticipation Period: March 30, 2026 to April 3, 2026\n\nHow to Participate: Like and share this post, and write down your community wishes or blessings for a chance to win merchandise.\n\n#哈基米 #HAJIMI #HAKIMI #HACHIMI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1506,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我们新的一期社区周边又双叒叕给大家准备完毕啦 🤓\n\n品类：（总30套）\n哈基米素体玩偶+币安衣服 \n哈基米光栅卡 \n还有各种哈基米电动玩具周边统统放送 \n\n参与时间：\n2026/3-30至2026/4-3日结束\n\n参与方式：\n点赞转发此推文，评论区写下你的社区期望或祝福抽取周边奖励。（玩偶衣服款式随机发货）\n\nOur https://t.co/1Ffj8tV2uI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 2004,
+          "like_count": 23129,
+          "listed_count": 27,
+          "media_count": 485,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T20:00:55.000Z",
+        "description": "一句歌词到一只猫咪再到所有猫咪和所有事物的演变-哈基米文化  ♥\nThe evolution from a line of lyrics to a cat to all cats and everything - Hajimi Culture  ♥Do it for love♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Hajimi_BNB",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Hajimi_BNB",
+                "start": 0,
+                "url": "https://t.co/On7dY4YMHc"
+              }
+            ]
+          }
+        },
+        "id": "1965505625494011904",
+        "name": "哈基米",
+        "pinned_tweet_id": "2038544253723517269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026218604824338432/KGAU-FVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6507,
+          "following_count": 58,
+          "like_count": 4030,
+          "listed_count": 20,
+          "media_count": 1631,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/On7dY4YMHc",
+        "username": "hajimi_CTO_BNB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036241588607918414",
+    "created_at": "2026-03-24T04:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036297097050464728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546701118771986432",
+          "start": 0,
+          "username": "Beijilmoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036297097050464728",
+    "in_reply_to_user_id": "1546701118771986432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036241588607918414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beijilmoo 买卖废品除了脏，但是全是利润"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036241588607918414",
+        "created_at": "2026-03-24T04:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036297097050464728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546701118771986432",
+              "start": 0,
+              "username": "Beijilmoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036297097050464728",
+        "in_reply_to_user_id": "1546701118771986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036241588607918414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beijilmoo 买卖废品除了脏，但是全是利润"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546701118771986432",
+        "conversation_id": "2036241588607918414",
+        "created_at": "2026-03-24T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036241588607918414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036241588607918414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去年国庆节家里大扫除，我做了件糊涂事儿，把儿子的金手镯和出生证明顺手塞进鞋盒里。\n\n结果，当天下午老婆没留意，当废品给一起卖了。幸运的是，收废品的大哥打开盒子时发现了，赶忙回来还给我老婆，东西这才失而复得。\n\n我们打心眼里感激他，留了他电话，从那以后，家里的废品都交给他收。\n\n平时看他总坐公交，看着就是个普普通通的人。前段时间在路上碰到他，他手里拎着不少东西，累得满头大汗，我们坚持要开车送他去郊区。\n\n到了地方，我俩当场惊呆了，他住的是三层小别墅，院子里有山有水，还停着一辆车，我认得那车，起码值80万。\n\n旁边就是他的废品收购站，大货车，小车都有，好几个工人在一旁忙活着。\n\n我们忍不住一个劲儿夸他生意做得好，他却笑着摆摆手说“就做点儿小生意”。\n\n我感慨不已，这人真是低调！日子过得那么好，却一点不张扬！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19109,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "去年国庆节家里大扫除，我做了件糊涂事儿，把儿子的金手镯和出生证明顺手塞进鞋盒里。\n\n结果，当天下午老婆没留意，当废品给一起卖了。幸运的是，收废品的大哥打开盒子时发现了，赶忙回来还给我老婆，东西这才失而复得。\n\n我们打心眼里感激他，留了他电话，从那以后，家里的废品都交给他收。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1820,
+          "like_count": 21709,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-12T03:41:06.000Z",
+        "description": "浪漫人生（Love）❤️|休闲人生（Leisure）☕|艺术人生（Art）🌹|自由人生（Freedom）🚀",
+        "id": "1546701118771986432",
+        "name": "北极流沐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007457607213293568/qbs_Lmut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5972,
+          "following_count": 2736,
+          "like_count": 4969,
+          "listed_count": 13,
+          "media_count": 127,
+          "tweet_count": 1004
+        },
+        "username": "Beijilmoo",
+        "verified": true
+      }
+    ]
+  }
+}

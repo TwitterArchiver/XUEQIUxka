@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038837092105798025",
+    "created_at": "2026-03-31T09:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038919037439135752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        },
+        {
+          "end": 13,
+          "id": "1720665183188922368",
+          "start": 8,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038919037439135752",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038837092105798025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB @grok 事实核查"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2038837089371123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtnh9LbcAAgXLc.jpg",
+        "width": 633
+      },
+      {
+        "height": 633,
+        "media_key": "3_2038837089371062272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtnh9LagAAxsjz.jpg",
+        "width": 633
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038837092105798025",
+        "created_at": "2026-03-31T09:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038919037439135752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038919037439135752",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038837092105798025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB @grok 事实核查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038837089371123712",
+            "3_2038837089371062272"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2038837092105798025",
+        "created_at": "2026-03-31T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038837092105798025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaZyZrCpPv",
+              "end": 82,
+              "expanded_url": "https://x.com/KKaWSB/status/2038837092105798025/photo/1",
+              "media_key": "3_2038837089371123712",
+              "start": 59,
+              "url": "https://t.co/CaZyZrCpPv"
+            },
+            {
+              "display_url": "pic.x.com/CaZyZrCpPv",
+              "end": 82,
+              "expanded_url": "https://x.com/KKaWSB/status/2038837092105798025/photo/1",
+              "media_key": "3_2038837089371062272",
+              "start": 59,
+              "url": "https://t.co/CaZyZrCpPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038837092105798025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 476599,
+          "like_count": 1745,
+          "quote_count": 17,
+          "reply_count": 87,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "在宾夕法尼亚大学就读期间，埃隆·马斯克租了一栋 10 居室的房子，并将其改造成夜总会，向学生收取 5 美元的入场费。 https://t.co/CaZyZrCpPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6619,
+          "following_count": 2007,
+          "like_count": 23266,
+          "listed_count": 27,
+          "media_count": 494,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0Rrr"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74306,
+          "following_count": 2853,
+          "like_count": 9088,
+          "listed_count": 640,
+          "media_count": 5416,
+          "tweet_count": 11105
+        },
+        "url": "https://t.co/TpeTVm0Rrr",
+        "username": "KKaWSB",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8511100,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6609,
+          "media_count": 8746222,
+          "tweet_count": 120615320
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

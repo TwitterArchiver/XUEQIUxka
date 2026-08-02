@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033157948231372800"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033157951247040663",
+    "created_at": "2026-03-15T12:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033157951247040663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1552213521253150720",
+          "start": 17,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAZw1HbCis",
+          "end": 49,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2033157951247040663/photo/1",
+          "media_key": "3_2033157948231372800",
+          "start": 26,
+          "url": "https://t.co/mAZw1HbCis"
+        },
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/acnekot/status/2028658800274948239",
+          "start": 50,
+          "url": "https://t.co/EVn4zacBBE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033157951247040663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028658800274948239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我没中但是我也黑幕到了\n谢谢 @acnekot https://t.co/mAZw1HbCis https://t.co/EVn4zacBBE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2033157948231372800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc6YbyX0AA4Y5b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2028657141444489216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc86_7bsAAz1TT.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033157948231372800"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033157951247040663",
+        "created_at": "2026-03-15T12:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033157951247040663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1552213521253150720",
+              "start": 17,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAZw1HbCis",
+              "end": 49,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2033157951247040663/photo/1",
+              "media_key": "3_2033157948231372800",
+              "start": 26,
+              "url": "https://t.co/mAZw1HbCis"
+            },
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/acnekot/status/2028658800274948239",
+              "start": 50,
+              "url": "https://t.co/EVn4zacBBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033157951247040663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028658800274948239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我没中但是我也黑幕到了\n谢谢 @acnekot https://t.co/mAZw1HbCis https://t.co/EVn4zacBBE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028657141444489216"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2028658800274948239",
+        "created_at": "2026-03-03T02:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028658800274948239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870108535268487169",
+              "start": 3,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 23,
+              "id": "1900168705847500800",
+              "start": 16,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 39,
+              "id": "1810873766119100416",
+              "start": 24,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 52,
+              "id": "1037215747225911299",
+              "start": 40,
+              "username": "alucard_907"
+            },
+            {
+              "end": 68,
+              "id": "1401062276556197888",
+              "start": 53,
+              "username": "Forty_six_days"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXHtD1DUlx",
+              "end": 112,
+              "expanded_url": "https://x.com/acnekot/status/2028658800274948239/photo/1",
+              "media_key": "3_2028657141444489216",
+              "start": 89,
+              "url": "https://t.co/iXHtD1DUlx"
+            },
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/acnekot/status/2027653525128548544",
+              "start": 113,
+              "url": "https://t.co/drWIGTmm6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028658800274948239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1534,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027653525128548544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜\n@MomoseReina\n@wxb_NB\n@RainEngine2024\n@alucard_907\n@Forty_six_days\n我耗材还挺多，以后应该也会不定期抽几个 https://t.co/iXHtD1DUlx https://t.co/drWIGTmm6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6034,
+          "following_count": 1550,
+          "like_count": 20948,
+          "listed_count": 26,
+          "media_count": 352,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 782,
+          "like_count": 85304,
+          "listed_count": 6,
+          "media_count": 3065,
+          "tweet_count": 14025
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

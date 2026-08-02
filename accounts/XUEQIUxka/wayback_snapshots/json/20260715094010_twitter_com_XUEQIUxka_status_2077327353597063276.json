@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2076943782667280816",
+    "created_at": "2026-07-15T09:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077327353597063276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597263481761193985",
+          "start": 0,
+          "username": "ikanbilisinmkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077327353597063276",
+    "in_reply_to_user_id": "1597263481761193985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077147621723086882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikanbilisinmkt 蛙趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2076943782667280816",
+        "created_at": "2026-07-15T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077327353597063276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597263481761193985",
+              "start": 0,
+              "username": "ikanbilisinmkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077327353597063276",
+        "in_reply_to_user_id": "1597263481761193985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077147621723086882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikanbilisinmkt 蛙趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597263481761193985",
+        "conversation_id": "2076943782667280816",
+        "created_at": "2026-07-14T21:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T22:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077147621723086882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077147621723086882",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21720,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076943782667280816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 小王，工作还是不够细致啊，要不去找大案队老刘取取经？\n哦老刘说叫你穿着警服开着警车去学校把她孩子接过来？\n\n对嘛，工作还是要细致，群众的孩子也是要照顾的，落实好她孩子起居，做好让她从48小时转37天的生活安排，辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9708,
+          "following_count": 2370,
+          "like_count": 33482,
+          "listed_count": 26,
+          "media_count": 1643,
+          "tweet_count": 5930
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T16:17:53.000Z",
+        "description": "Market Predictor & Global Mkt trader\nNo one don't love iKan Bilis\nBetter serve with sambal chili\n做一条市场里的江鱼仔\n小鱼吃大鱼\n全品种交易员",
+        "id": "1597263481761193985",
+        "location": "Nasi Lemak with Sambal sauce",
+        "name": "Ikan Bilis in MKT🇸🇬🇲🇾",
+        "pinned_tweet_id": "2062195198340571211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064795295863693312/T0ybBZeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1883,
+          "like_count": 4883,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "ikanbilisinmkt",
+        "verified": true
+      }
+    ]
+  }
+}

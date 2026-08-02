@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2061310076133294584",
+    "created_at": "2026-06-01T05:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061314650248196138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "PriseTwinkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061314650248196138",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061310076133294584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriseTwinkle 好w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2061310031564570624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs-jWtbAAAfn77.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2061310055686049792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs-kwkbkAAfyyB.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2061310076133294584",
+        "created_at": "2026-06-01T05:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061314650248196138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061314650248196138",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061310076133294584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 好w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061310031564570624",
+            "3_2061310055686049792"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2061310076133294584",
+        "created_at": "2026-06-01T04:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061310076133294584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1368897611672018953",
+              "start": 7,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZuBXO7PCi",
+              "end": 66,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2061310076133294584/photo/1",
+              "media_key": "3_2061310031564570624",
+              "start": 43,
+              "url": "https://t.co/cZuBXO7PCi"
+            },
+            {
+              "display_url": "pic.x.com/cZuBXO7PCi",
+              "end": 66,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2061310076133294584/photo/1",
+              "media_key": "3_2061310055686049792",
+              "start": 43,
+              "url": "https://t.co/cZuBXO7PCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061310076133294584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次收到雪秋@xueqiuxka给我送的小礼物🥰，谢谢啦。不过我对这张卡挺感兴趣。 https://t.co/cZuBXO7PCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 2369,
+          "like_count": 31195,
+          "listed_count": 25,
+          "media_count": 1710,
+          "tweet_count": 5675
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝓟𝓻𝓲𝓼𝓮𝓣𝔀𝓲𝓷𝓴𝓵𝓮 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060941311604391936/ICzbTja5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 7,
+          "like_count": 2077,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

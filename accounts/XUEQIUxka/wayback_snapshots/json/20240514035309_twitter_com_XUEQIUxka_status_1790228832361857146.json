@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1790146216090861783",
+    "created_at": "2024-05-14T03:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T04:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790228832361857146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762636894515724288",
+          "start": 0,
+          "username": "Fanny_Qijia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790228832361857146",
+    "in_reply_to_user_id": "1762636894515724288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790146216090861783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanny_Qijia 好喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1790146216090861783",
+        "created_at": "2024-05-14T03:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T04:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790228832361857146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762636894515724288",
+              "start": 0,
+              "username": "Fanny_Qijia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790228832361857146",
+        "in_reply_to_user_id": "1762636894515724288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790146216090861783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanny_Qijia 好喔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1762636894515724288",
+        "conversation_id": "1790146216090861783",
+        "created_at": "2024-05-13T22:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T23:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790146216090861783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790146216090861783",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱也含糖20周啦~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1636747797381939200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 1515,
+          "like_count": 19265,
+          "listed_count": 17,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T00:33:32.000Z",
+        "description": "出厂日期05的木桶饭|家长党（？）|超级喜欢的妹妹:@itfAtYcLQ_Fanny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "itfAtYcLQ_Fanny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/dHGGCvDXbg"
+              }
+            ]
+          }
+        },
+        "id": "1762636894515724288",
+        "location": "北京",
+        "name": "🏳️‍⚧️fanny🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774722301239672832/si6ATSZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 92,
+          "like_count": 3579,
+          "listed_count": 2,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/dHGGCvDXbg",
+        "username": "Fanny_Qijia",
+        "verified": false
+      }
+    ]
+  }
+}

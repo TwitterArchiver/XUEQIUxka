@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2043074245438386231",
+    "created_at": "2026-04-12T06:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043211219679781006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750894458659606528",
+          "start": 0,
+          "username": "fuko048"
+        },
+        {
+          "end": 24,
+          "id": "1859523475670695941",
+          "start": 9,
+          "username": "yan93510742972"
+        },
+        {
+          "end": 40,
+          "id": "1638959586140098560",
+          "start": 25,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 56,
+          "id": "2031097520840167424",
+          "start": 41,
+          "username": "Ciallo_114_514"
+        },
+        {
+          "end": 67,
+          "id": "1662293107738640384",
+          "start": 57,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043211219679781006",
+    "in_reply_to_user_id": "1750894458659606528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043074245438386231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko048 @yan93510742972 @jiuyouforwhite @Ciallo_114_514 @SHUGE0731 不是怎么还有我的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2043074242598834178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFp1Mu_akAIfOTf.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043074245438386231",
+        "created_at": "2026-04-12T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043211219679781006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750894458659606528",
+              "start": 0,
+              "username": "fuko048"
+            },
+            {
+              "end": 24,
+              "id": "1859523475670695941",
+              "start": 9,
+              "username": "yan93510742972"
+            },
+            {
+              "end": 40,
+              "id": "1638959586140098560",
+              "start": 25,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 56,
+              "id": "2031097520840167424",
+              "start": 41,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 67,
+              "id": "1662293107738640384",
+              "start": 57,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043211219679781006",
+        "in_reply_to_user_id": "1750894458659606528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043074245438386231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko048 @yan93510742972 @jiuyouforwhite @Ciallo_114_514 @SHUGE0731 不是怎么还有我的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043074242598834178"
+          ]
+        },
+        "author_id": "1750894458659606528",
+        "conversation_id": "2043074245438386231",
+        "created_at": "2026-04-11T21:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043074245438386231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1859523475670695941",
+              "start": 22,
+              "username": "yan93510742972"
+            },
+            {
+              "end": 53,
+              "id": "1638959586140098560",
+              "start": 38,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 75,
+              "id": "2031097520840167424",
+              "start": 60,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 92,
+              "id": "1662293107738640384",
+              "start": 82,
+              "username": "SHUGE0731"
+            },
+            {
+              "end": 103,
+              "id": "1368897611672018953",
+              "start": 93,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041813655159980032/2f2ZYYcE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/3ycQHFNS8q"
+            },
+            {
+              "display_url": "pic.x.com/2VTte6re5C",
+              "end": 155,
+              "expanded_url": "https://x.com/fuko048/status/2043074245438386231/photo/1",
+              "media_key": "3_2043074242598834178",
+              "start": 132,
+              "url": "https://t.co/2VTte6re5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043074245438386231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @yan93510742972 @jiuyouforwhite\n👰 配偶: @Ciallo_114_514\n👶 孩子: @SHUGE0731 @XUEQIUxka\n\n➡️ https://t.co/3ycQHFNS8q https://t.co/2VTte6re5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6831,
+          "following_count": 2045,
+          "like_count": 25293,
+          "listed_count": 28,
+          "media_count": 646,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love/oder/我是有偏头痛吗我头很痛\n好想一直睡觉啊啊啊/英语本当上手/youtube大学在读学生/导师：gpt桑",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "pinned_tweet_id": "2014936025521668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 265,
+          "like_count": 2406,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 729
+        },
+        "username": "fuko048",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-21T09:06:06.000Z",
+        "description": "我是ayy/🎨🎨🎨🎨🎨🎨/二游不会输/翻译器不会输/喷我你完了/不键政/来找我互fo有惊喜/\n如果可以我会更喜欢收到评论，发点梦话也可以好吧。🥴\n放画号：@yan513243192057",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "yan513243192057"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/121957751",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/121957751",
+                "start": 0,
+                "url": "https://t.co/5lft5Ua8Fh"
+              }
+            ]
+          }
+        },
+        "id": "1859523475670695941",
+        "location": "提瓦特",
+        "name": "ayy",
+        "pinned_tweet_id": "2022915454562603092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024179549165277187/kJal29CB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 125,
+          "like_count": 10287,
+          "listed_count": 0,
+          "media_count": 557,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/5lft5Ua8Fh",
+        "username": "yan93510742972",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo(关注的全是fo我的)/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1080,
+          "like_count": 2835,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2041169063330889949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 573,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 2601
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1042,
+          "like_count": 26123,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 9117
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

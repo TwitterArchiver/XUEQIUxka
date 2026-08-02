@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038428299521876410",
+    "created_at": "2026-03-30T06:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038502531995709773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038502531995709773",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038428299521876410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 但爷爷其实也是出于好心"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47577,
+        "height": 1920,
+        "media_key": "13_2038426263761866752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038426263761866752/img/1Dphgz6w4NF-Y6jf.jpg",
+        "public_metrics": {
+          "view_count": 115567
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038426263761866752/vid/avc1/720x1280/xxGg2hJG9NKwoWdL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038426263761866752/vid/avc1/1080x1920/CSyHXFuHqxT8gUnP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038426263761866752/pl/Abo80H5e_UMnqlWo.m3u8?v=130"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038426263761866752/vid/avc1/480x852/ZjLFWJmy2JjNcq_D.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038426263761866752/vid/avc1/320x568/r4LmykU_4iy9rkmS.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038428299521876410",
+        "created_at": "2026-03-30T06:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038502531995709773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038502531995709773",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038428299521876410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 但爷爷其实也是出于好心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038426263761866752"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2038428299521876410",
+        "created_at": "2026-03-30T01:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038428299521876410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3B0D5pcBW",
+              "end": 119,
+              "expanded_url": "https://x.com/igeekbb/status/2038428299521876410/video/1",
+              "media_key": "13_2038426263761866752",
+              "start": 96,
+              "url": "https://t.co/b3B0D5pcBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038428299521876410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 247495,
+          "like_count": 330,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "网友凌晨3点发现小学门口站着一个小女孩，不知该如何处理报警了，民警一问，1点40她爷爷就送过来的，而爷爷已经80岁了，小女孩就这样在这里站了将近两个小时……真不知道说什么，一种深深的无力感。 https://t.co/b3B0D5pcBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 1999,
+          "like_count": 22995,
+          "listed_count": 27,
+          "media_count": 482,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69736,
+          "following_count": 1,
+          "like_count": 13029,
+          "listed_count": 293,
+          "media_count": 6888,
+          "tweet_count": 10887
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

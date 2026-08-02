@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041398575813501195",
+    "created_at": "2026-04-07T10:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041457216839147956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1131016972404051968",
+          "start": 0,
+          "username": "SydneyDaddy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041457216839147956",
+    "in_reply_to_user_id": "1131016972404051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041398575813501195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydneyDaddy1 怕的不是敢讲，怕的是被发现"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82964,
+        "height": 1080,
+        "media_key": "13_2041398463028772864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041398463028772864/img/8iBn3_pQtzC_CU0l.jpg",
+        "public_metrics": {
+          "view_count": 43346
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041398463028772864/vid/avc1/1920x1080/4S81Y7Wrm9DD2IJ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041398463028772864/vid/avc1/1280x720/JqFj3wAil9lQuW-S.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041398463028772864/vid/avc1/480x270/qDEVlnDiLsoK3k0_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041398463028772864/pl/WODAHhGQWRWwq8r3.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041398463028772864/vid/avc1/640x360/sgk6SHNcGfJNyxmw.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041398575813501195",
+        "created_at": "2026-04-07T10:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041457216839147956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131016972404051968",
+              "start": 0,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041457216839147956",
+        "in_reply_to_user_id": "1131016972404051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041398575813501195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyDaddy1 怕的不是敢讲，怕的是被发现"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041398463028772864"
+          ]
+        },
+        "author_id": "1131016972404051968",
+        "conversation_id": "2041398575813501195",
+        "created_at": "2026-04-07T06:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041398575813501195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OlAhRQTR3",
+              "end": 110,
+              "expanded_url": "https://x.com/SydneyDaddy1/status/2041398575813501195/video/1",
+              "media_key": "13_2041398463028772864",
+              "start": 87,
+              "url": "https://t.co/6OlAhRQTR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041398575813501195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 118561,
+          "like_count": 744,
+          "quote_count": 10,
+          "reply_count": 55,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "很多东朝鲜人冒充日本人去应聘远程程序员的工作，给东朝鲜赚外汇\n\n所以这家公司面试的时候提了一个小要求，说句“金正恩是大肥猪”证明自己不是东朝鲜人\n\n给对面整死机了... 🤣 https://t.co/6OlAhRQTR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 2030,
+          "like_count": 24303,
+          "listed_count": 27,
+          "media_count": 564,
+          "tweet_count": 3039
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-22T02:00:34.000Z",
+        "description": "Youtuber: https://t.co/9HHxD7j6V3 堂堂正正做人，踏踏实实要饭 不差钱的打发点呗：https://t.co/6ldNis9QnU 或者比特币bitcoin:1CWDyMsKFJcwgAgmwadM9DkzxZJnyj4zBP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 33,
+                "expanded_url": "http://bit.ly/2tJ7Rui",
+                "start": 10,
+                "url": "https://t.co/9HHxD7j6V3"
+              },
+              {
+                "display_url": "PayPal.Me/sydneydaddy",
+                "end": 80,
+                "expanded_url": "https://PayPal.Me/sydneydaddy",
+                "start": 57,
+                "url": "https://t.co/6ldNis9QnU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2tJ7Rui",
+                "start": 0,
+                "url": "https://t.co/HOwitHqdwI"
+              }
+            ]
+          }
+        },
+        "id": "1131016972404051968",
+        "location": "2000",
+        "name": "悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺🇮🇱",
+        "pinned_tweet_id": "1942522659289354345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969408644820451333/hccC-bGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112896,
+          "following_count": 2555,
+          "like_count": 3465,
+          "listed_count": 568,
+          "media_count": 10824,
+          "tweet_count": 23775
+        },
+        "url": "https://t.co/HOwitHqdwI",
+        "username": "SydneyDaddy1",
+        "verified": true
+      }
+    ]
+  }
+}

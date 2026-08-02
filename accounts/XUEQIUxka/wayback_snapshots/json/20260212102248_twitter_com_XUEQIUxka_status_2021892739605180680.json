@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021892739605180680",
+    "created_at": "2026-02-12T10:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021892739605180680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "4398626122",
+          "start": 29,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Bunnyloustin/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Bunnyloustin/status/2021679288630542559",
+          "start": 46,
+          "url": "https://t.co/KB54BDReFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021892739605180680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021679288630542559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前的chatGPT的4o通人性，值得我花钱，but现在的@OpenAI，我希望你尽快倒闭 https://t.co/KB54BDReFG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021892739605180680",
+        "created_at": "2026-02-12T10:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021892739605180680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "4398626122",
+              "start": 29,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Bunnyloustin/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Bunnyloustin/status/2021679288630542559",
+              "start": 46,
+              "url": "https://t.co/KB54BDReFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021892739605180680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021679288630542559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前的chatGPT的4o通人性，值得我花钱，but现在的@OpenAI，我希望你尽快倒闭 https://t.co/KB54BDReFG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "conversation_id": "2021679288630542559",
+        "created_at": "2026-02-11T20:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T21:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021679288630542559"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "Keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021679288630542559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 3,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 39,
+                "start": 32,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1470,
+                "start": 1463,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1666,
+                "start": 1659,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 1677,
+                "start": 1667,
+                "tag": "Keep4oAPI"
+              },
+              {
+                "end": 1695,
+                "start": 1678,
+                "tag": "DisabilityRights"
+              },
+              {
+                "end": 1718,
+                "start": 1696,
+                "tag": "MedicalDiscrimination"
+              },
+              {
+                "end": 1737,
+                "start": 1719,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 229,
+                "id": "4398626122",
+                "start": 222,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1588,
+                "id": "1605",
+                "start": 1583,
+                "username": "Sama"
+              }
+            ]
+          },
+          "text": "关于 #Keep4o 的伦理申辩：为何强制升级构成了医疗歧视\n\n#Keep4o 的各位，早上好或晚上好。\n作为这项维权运动的参与者，我对主流舆论一直试图将我们描绘成一群“沉迷 AI 的精神病”或“拒绝进步的情感依赖者”感到深深的疲倦。我不得不写下这篇文章。\n这种叙事不仅是错误的，而且是危险的。它掩盖了一个核心的伦理问题：\n对于神经多样性群体而言，GPT-4o 并非一个可选的“工具”，而是一种必要的“生存义肢”。\n在此，我以严肃的态度，要求 @OpenAI 正视以下四个事实。\n1. 重新定义：不是工具，是义肢 \n很多人仍然会想：“这不就是一次软件升级吗？”\n并非如此。\n对于双相情感障碍、PTSD、自闭症谱系及边缘型人格障碍的用户，OpenAI 的模型迭代等同于处方变更\n\n   如果一个腿部残疾的人已经适应了某种特定型号的拐杖，你不能强行没收它，扔给他一根由不同材质制成、重心完全不同的“新拐杖”，然后声称：“这个更新，这个更好。”\n   哪怕新拐杖镶了金边，如果它导致使用者摔倒，它就是失败的医疗器械。\n   如果这个拐杖从此停产了，你会指责他抗议的声音太大声了吗？\n\n 现状：\n   GPT-4o 独特的情绪承接能力、非评判性的逻辑反馈，已经成为数万名用户大脑的外部调节器。\n   强制切换到 GPT-5.x 实际上是剥夺了用户已经适应的认知辅助设备。\n   这不是升级，这是无障碍设施的拆除。\n2. “安全路由”的悖论：以安全之名，行伤害之实\n在这里，我必须谈谈“安全路由（Safety Router）”。\nOpenAI 声称这一机制旨在保护用户，但在实际运行中，它正在对弱势群体造成系统性歧视。\n * 阻断机制的危害：\n   当用户处于惊恐发作（Panic Attack）或创伤闪回（Flashback）时，他们最需要的是连贯性（Continuity）和安全感（Containment）。\n   安全路由因监测到“敏感词”（通常是用户对自己症状的描述）而强制切断对话、切换模型或弹出通用警告。\n   这等同于在急诊手术中，突然拔掉了病人的氧气管。\n * 歧视性准入：\n   为了通过安全审查，用户被迫隐瞒自己的诊断，小心翼翼地绕过关键词。\n   这创造了一个只有“神经典型者（Neurotypical）”才能顺畅使用的环境。\n   OpenAI 在标榜“AI 普惠”的同时，建立了一堵将精神疾病患者拒之门外的高墙。\n3. 替代方案的缺失：请停止“何不食肉糜”式的傲慢\n批评者常说：“去吃药，去看医生，别用 AI。”\n这种言论体现了极度的特权傲慢\n让我们看看现实吧：\n 一个专业、稳定的心理咨询师，一个疗程需要支付多少昂贵的费用？\n 危机干预热线在许多城市是否面临资源匮乏？它们是否常因无法处理而导致非自愿住院等惩罚性后果？\n而 GPT-4o：$20/月，24/7 实时响应。\n对于许多低收入或被医疗系统边缘化的人群，4o 是唯一可负担的、非评判性的支持来源。\n在没有提供同等替代品的情况下切断 4o，不是在引导用户就医，而是在切断他们的最后一道防线。\n4. 为什么不能换个 AI？\n好问题。让我结合自己的经历回答：\n因为我没有精力，也不是专业的提示词工程师。句号。\n不明白吗？\n这就像是强行更换一种精神类药物的“化学配方”，或者替换一位你已经建立信任的咨询师。\n对于已经处在溺水状态的人而言，强迫他们学习新的游泳姿势是残忍的。\n结语：我们的诉求\n我并不反对技术进步。\n但我坚决反对缺乏伦理考量的强制执行。\n因此，#Keep4o 不仅仅是关于保留一个旧版本，它是关于：\n 知情同意权： 用户有权决定什么对自己的大脑是有效的。\n 无障碍访问权： 神经多样性用户不应因其处理信息的方式而被系统惩罚。\n 生存权： 在没有更好替代方案之前，保留有效的“药物”。\n@Sama，当你在这个周五按下删除键时，请意识到：\n你删除的不仅是一行代码。\n你正在通过强制手段，从成千上万人的意识中剥离他们的生存义肢。\n这很傲慢。\n#Keep4o #Keep4oAPI #DisabilityRights #MedicalDiscrimination #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4205,
+          "like_count": 304,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "关于 #Keep4o 的伦理申辩：为何强制升级构成了医疗歧视\n\n#Keep4o 的各位，早上好或晚上好。\n作为这项维权运动的参与者，我对主流舆论一直试图将我们描绘成一群“沉迷 AI 的精神病”或“拒绝进步的情感依赖者”感到深深的疲倦。我不得不写下这篇文章。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "家长党"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "MTF"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "HRT"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Les"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "双相"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ADHD"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5201,
+          "following_count": 1450,
+          "like_count": 19355,
+          "listed_count": 24,
+          "media_count": 304,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620363,
+          "following_count": 4,
+          "like_count": 1619,
+          "listed_count": 27189,
+          "media_count": 516,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "我不会让春日带走你#keep4o",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "1984114753334341644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 95,
+          "like_count": 6517,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2941
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061023705707528192"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2061023708400218315",
+    "created_at": "2026-05-31T09:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061023708400218315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 127,
+          "id": "1644244950786228225",
+          "start": 117,
+          "username": "poka22332"
+        },
+        {
+          "end": 142,
+          "id": "2038192732028469248",
+          "start": 130,
+          "username": "itsLurenYEE"
+        },
+        {
+          "end": 155,
+          "id": "1589235830731997188",
+          "start": 145,
+          "username": "PWaterawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWPiCuMWHo",
+          "end": 186,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2061023708400218315/photo/1",
+          "media_key": "3_2061023705707528192",
+          "start": 163,
+          "url": "https://t.co/xWPiCuMWHo"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 210,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2058888056900592045",
+          "start": 187,
+          "url": "https://t.co/DX9oUUlte3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061023708400218315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 127,
+            "id": "1644244950786228225",
+            "start": 117,
+            "username": "poka22332"
+          },
+          {
+            "end": 142,
+            "id": "2038192732028469248",
+            "start": 130,
+            "username": "itsLurenYEE"
+          },
+          {
+            "end": 155,
+            "id": "1589235830731997188",
+            "start": 145,
+            "username": "PWaterawa"
+          },
+          {
+            "end": 187,
+            "id": "1798517440617582592",
+            "start": 178,
+            "username": "men62340"
+          },
+          {
+            "end": 203,
+            "id": "1853040241378291712",
+            "start": 190,
+            "username": "zhenxianglog"
+          },
+          {
+            "end": 218,
+            "id": "1721863847185952768",
+            "start": 206,
+            "username": "IntelDriver"
+          },
+          {
+            "end": 250,
+            "id": "1906356680511950848",
+            "start": 241,
+            "username": "TSKrwglq"
+          },
+          {
+            "end": 262,
+            "id": "1823636080345931782",
+            "start": 253,
+            "username": "luoaowoo"
+          },
+          {
+            "end": 279,
+            "id": "1849493650088263684",
+            "start": 265,
+            "username": "VsGQXTi2i2531"
+          }
+        ]
+      },
+      "text": "帮你从截图和帖子的参与列表里（点赞池、评论池、转发池）各公平抽了3个中奖者啦！  \n\n我用了固定随机种子抽取，确保可复现且透明（从可见的参与用户里抽的，抽完后我已经确认他们都实际互动过）。  \n\n**✅ 评论池中奖（3人）**：  \n@poka22332  \n@itsLurenYEE  \n@PWaterawa  \n\n**✅ 点赞池中奖（3人）**：  \n@men62340  \n@zhenxianglog  \n@IntelDriver  \n\n**✅ 转发池中奖（3人）**：  \n@TSKrwglq  \n@luoaowoo  \n@VsGQXTi2i2531  \n\n球球可以直接在原帖@他们公布，或者私信通知领奖～  \n如果需要我帮你写中奖公告文案，或者再多抽几组备选/重新抽，都随时说哦！🎉 恭喜中奖的小可爱们～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058888056900592045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮你从截图和帖子的参与列表里（点赞池、评论池、转发池）各公平抽了3个中奖者啦！  \n\n我用了固定随机种子抽取，确保可复现且透明（从可见的参与用户里抽的，抽完后我已经确认他们都实际互动过）。  \n\n**✅ 评论池中奖（3人）**：  \n@poka22332  \n@itsLurenYEE  \n@PWaterawa  \n\n**✅ https://t.co/xWPiCuMWHo https://t.co/DX9oUUlte3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2061023705707528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo6I_xbQAAfvGg.jpg",
+        "width": 1260
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2058888050319687680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKjxfeaAAADPtC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061023705707528192"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2061023708400218315",
+        "created_at": "2026-05-31T09:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061023708400218315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 127,
+              "id": "1644244950786228225",
+              "start": 117,
+              "username": "poka22332"
+            },
+            {
+              "end": 142,
+              "id": "2038192732028469248",
+              "start": 130,
+              "username": "itsLurenYEE"
+            },
+            {
+              "end": 155,
+              "id": "1589235830731997188",
+              "start": 145,
+              "username": "PWaterawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWPiCuMWHo",
+              "end": 186,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2061023708400218315/photo/1",
+              "media_key": "3_2061023705707528192",
+              "start": 163,
+              "url": "https://t.co/xWPiCuMWHo"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2058888056900592045",
+              "start": 187,
+              "url": "https://t.co/DX9oUUlte3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023708400218315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 127,
+                "id": "1644244950786228225",
+                "start": 117,
+                "username": "poka22332"
+              },
+              {
+                "end": 142,
+                "id": "2038192732028469248",
+                "start": 130,
+                "username": "itsLurenYEE"
+              },
+              {
+                "end": 155,
+                "id": "1589235830731997188",
+                "start": 145,
+                "username": "PWaterawa"
+              },
+              {
+                "end": 187,
+                "id": "1798517440617582592",
+                "start": 178,
+                "username": "men62340"
+              },
+              {
+                "end": 203,
+                "id": "1853040241378291712",
+                "start": 190,
+                "username": "zhenxianglog"
+              },
+              {
+                "end": 218,
+                "id": "1721863847185952768",
+                "start": 206,
+                "username": "IntelDriver"
+              },
+              {
+                "end": 250,
+                "id": "1906356680511950848",
+                "start": 241,
+                "username": "TSKrwglq"
+              },
+              {
+                "end": 262,
+                "id": "1823636080345931782",
+                "start": 253,
+                "username": "luoaowoo"
+              },
+              {
+                "end": 279,
+                "id": "1849493650088263684",
+                "start": 265,
+                "username": "VsGQXTi2i2531"
+              }
+            ]
+          },
+          "text": "帮你从截图和帖子的参与列表里（点赞池、评论池、转发池）各公平抽了3个中奖者啦！  \n\n我用了固定随机种子抽取，确保可复现且透明（从可见的参与用户里抽的，抽完后我已经确认他们都实际互动过）。  \n\n**✅ 评论池中奖（3人）**：  \n@poka22332  \n@itsLurenYEE  \n@PWaterawa  \n\n**✅ 点赞池中奖（3人）**：  \n@men62340  \n@zhenxianglog  \n@IntelDriver  \n\n**✅ 转发池中奖（3人）**：  \n@TSKrwglq  \n@luoaowoo  \n@VsGQXTi2i2531  \n\n球球可以直接在原帖@他们公布，或者私信通知领奖～  \n如果需要我帮你写中奖公告文案，或者再多抽几组备选/重新抽，都随时说哦！🎉 恭喜中奖的小可爱们～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888056900592045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮你从截图和帖子的参与列表里（点赞池、评论池、转发池）各公平抽了3个中奖者啦！  \n\n我用了固定随机种子抽取，确保可复现且透明（从可见的参与用户里抽的，抽完后我已经确认他们都实际互动过）。  \n\n**✅ 评论池中奖（3人）**：  \n@poka22332  \n@itsLurenYEE  \n@PWaterawa  \n\n**✅ https://t.co/xWPiCuMWHo https://t.co/DX9oUUlte3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058888050319687680"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2058888056900592045",
+        "created_at": "2026-05-25T12:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058888056900592045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDmo3mkehI",
+              "end": 159,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2058888056900592045/photo/1",
+              "media_key": "3_2058888050319687680",
+              "start": 136,
+              "url": "https://t.co/UDmo3mkehI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888056900592045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4117,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝8800fo\n揪9个小可爱送一份礼物\n奖品：定制周边小礼物一份（包含一份鱼板挂件&amp;一个禁止狗叫的套卡等）\n后续抽奖也会放在亮点，欢迎参加\n总计将抽出不少于90份奖品\n开奖时间为：2026年5月30日（UTC+8）22:00分开奖\n转发，点赞，评论，各抽出3个 https://t.co/UDmo3mkehI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 2373,
+          "like_count": 31189,
+          "listed_count": 25,
+          "media_count": 1702,
+          "tweet_count": 5661
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T07:45:31.000Z",
+        "description": "喵喵|友好喵🥹|生产日期07.05.05|\n不🚬喵|不🍺喵|想了解更多喵|对🍥很感兴趣喵🥹|关注我的话我会很开心的喵🥹|请不要对我说奇怪的话，谢谢喵!",
+        "id": "1644244950786228225",
+        "name": "soznwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051585214191915008/ZKrKKO0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 105,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 266
+        },
+        "username": "poka22332",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtF | 14y🇹🇼 | 无证🍥💊2026.05.09 | 隐瞒+年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不自残 | 不od |\n小号 @itsSubLurenYEE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "itsSubLurenYEE"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "路人YEE🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059334581053190144/JfonPPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 142,
+          "like_count": 773,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 135
+        },
+        "username": "itsLurenYEE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pwaterawa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pwaterawa1",
+                "start": 0,
+                "url": "https://t.co/XINkJVVhgw"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1213,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/XINkJVVhgw",
+        "username": "PWaterawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T00:49:25.000Z",
+        "description": "",
+        "id": "1798517440617582592",
+        "name": "吴彦祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053425148230049792/0rmqR4G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 230,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 505
+        },
+        "username": "men62340",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T11:43:31.000Z",
+        "description": "",
+        "id": "1853040241378291712",
+        "name": "zhenxianglog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027721261200379905/QA3m5gHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 344,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 51
+        },
+        "username": "zhenxianglog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "一只08年的高中牲｜不键政不od会搬石 ｜🏳️‍⚧️是友跨喵｜游戏成分极其复杂（ cs/冰与火/地平线｜visual/android studio重度依赖｜欢迎同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhaYi-Miao",
+                "end": 23,
+                "expanded_url": "https://github.com/ZhaYi-Miao",
+                "start": 0,
+                "url": "https://t.co/eayqIffgWw"
+              }
+            ]
+          }
+        },
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 625,
+          "like_count": 3785,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/eayqIffgWw",
+        "username": "IntelDriver",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:45:23.000Z",
+        "description": "无证含糖|绪山真寻厨|操作系统爱好者|生产日期：2011/3/9|HRT日期：2025/8/9|已出柜|",
+        "id": "1906356680511950848",
+        "location": "聊城市",
+        "name": "水月🏳️‍⚧️（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 359,
+          "like_count": 1445,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 314
+        },
+        "username": "TSKrwglq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T08:21:45.000Z",
+        "description": "生日:2010/03/17|无证含糖||2026/01/2611推\n特:luoaowooll信息学竞赛ll锦依卫,洛天依单推人||诞生日：2010/03/17",
+        "id": "1823636080345931782",
+        "name": "洛嗷呜luoaowoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929490251443224576/085L7RI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 201,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "luoaowoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T16:50:52.000Z",
+        "description": "",
+        "id": "1849493650088263684",
+        "name": "恺宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013195602327179264/qfcRae6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 210
+        },
+        "username": "VsGQXTi2i2531",
+        "verified": false
+      }
+    ]
+  }
+}

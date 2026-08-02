@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035959775301890326",
+    "created_at": "2026-03-23T14:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036092437647782282"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Commissioner Smith",
+          "probability": 0.7009,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "768160820",
+          "start": 0,
+          "username": "buperac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036092437647782282",
+    "in_reply_to_user_id": "768160820",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035959775301890326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buperac I feel like Commissioner Smith ate a lot at 911"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_2035959769840656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEun6pWoAAx8h6.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035959775301890326",
+        "created_at": "2026-03-23T14:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036092437647782282"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Commissioner Smith",
+              "probability": 0.7009,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "768160820",
+              "start": 0,
+              "username": "buperac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036092437647782282",
+        "in_reply_to_user_id": "768160820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035959775301890326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buperac I feel like Commissioner Smith ate a lot at 911"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035959769840656384"
+          ]
+        },
+        "author_id": "768160820",
+        "conversation_id": "2035959775301890326",
+        "created_at": "2026-03-23T06:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035959775301890326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "World Trade Center",
+              "probability": 0.5145,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G09VEYTSnd",
+              "end": 299,
+              "expanded_url": "https://x.com/buperac/status/2035959775301890326/photo/1",
+              "media_key": "3_2035959769840656384",
+              "start": 276,
+              "url": "https://t.co/G09VEYTSnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035959775301890326",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "So you mean to tell me, an airplane can go right through the World Trade Center that had steel structure beams of 4 inch plate every 40” using 12 different grades of steel with a yield strength of 100,000 psi but if the same plane were to run into a firetruck on a runway the plane is completely destroyed. \n\nGot it!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2540,
+          "impression_count": 3166390,
+          "like_count": 23639,
+          "quote_count": 395,
+          "reply_count": 2480,
+          "retweet_count": 4422
+        },
+        "reply_settings": "everyone",
+        "text": "So you mean to tell me, an airplane can go right through the World Trade Center that had steel structure beams of 4 inch plate every 40” using 12 different grades of steel with a yield strength of 100,000 psi but if the same plane were to run into a firetruck on a runway the https://t.co/G09VEYTSnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6328,
+          "following_count": 1817,
+          "like_count": 21702,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-19T20:09:07.000Z",
+        "description": "All posts are for Entertainment Purposes Only 🍿Petro Engineer ⚙️ Ag Tech 🚜 Agriculture Oil & Gas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "agnonymous.news",
+                "end": 23,
+                "expanded_url": "https://agnonymous.news",
+                "start": 0,
+                "url": "https://t.co/oqDg0CJoLN"
+              }
+            ]
+          }
+        },
+        "id": "768160820",
+        "location": "Canada",
+        "name": "bu/ac",
+        "pinned_tweet_id": "2033942867983692123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538611361722183680/cR5NU_yG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37007,
+          "following_count": 7189,
+          "like_count": 74280,
+          "listed_count": 160,
+          "media_count": 7841,
+          "tweet_count": 38686
+        },
+        "url": "https://t.co/oqDg0CJoLN",
+        "username": "buperac",
+        "verified": true
+      }
+    ]
+  }
+}

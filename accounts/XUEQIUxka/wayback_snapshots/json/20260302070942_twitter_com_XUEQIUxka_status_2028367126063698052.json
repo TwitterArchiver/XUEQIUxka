@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2028355122250568172",
+    "created_at": "2026-03-02T07:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028367126063698052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972898838219513856",
+          "start": 0,
+          "username": "Luoji3500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028367126063698052",
+    "in_reply_to_user_id": "1972898838219513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028355122250568172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoji3500 如果是真的我希望是假的，但是如果是假的我又希望是真的\n 虽然我觉得这号人很抽象，但真死了确实会为跨圈又是一个人难受("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2028355122250568172",
+        "created_at": "2026-03-02T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028367126063698052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972898838219513856",
+              "start": 0,
+              "username": "Luoji3500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028367126063698052",
+        "in_reply_to_user_id": "1972898838219513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028355122250568172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoji3500 如果是真的我希望是假的，但是如果是假的我又希望是真的\n 虽然我觉得这号人很抽象，但真死了确实会为跨圈又是一个人难受("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972898838219513856",
+        "conversation_id": "2028355122250568172",
+        "created_at": "2026-03-02T06:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028355122250568172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 51,
+              "url": "https://t.co/M4DmMbiOac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028355122250568172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然老唐平时很抽象\n但是等唐真出事了，我是真的挺难接受的\n默哀吧🌹🌹🌹\n祝你下辈子当一个快乐的正常人 https://t.co/M4DmMbiOac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5900,
+          "following_count": 1520,
+          "like_count": 20279,
+          "listed_count": 25,
+          "media_count": 322,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "MTF",
+        "id": "1972898838219513856",
+        "name": "高冷高松灯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004021523246731266/NcAmRbCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 421,
+          "like_count": 780,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 184
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

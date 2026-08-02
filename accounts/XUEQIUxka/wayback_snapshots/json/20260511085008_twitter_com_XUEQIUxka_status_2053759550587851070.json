@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2053522705337692448",
+    "created_at": "2026-05-11T08:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053759550587851070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1618813318134919170",
+          "start": 0,
+          "username": "DotDot_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053759550587851070",
+    "in_reply_to_user_id": "1618813318134919170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053724136305037357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DotDot_AI 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2053522705337692448",
+        "created_at": "2026-05-11T08:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053759550587851070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618813318134919170",
+              "start": 0,
+              "username": "DotDot_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053759550587851070",
+        "in_reply_to_user_id": "1618813318134919170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053724136305037357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DotDot_AI 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618813318134919170",
+        "conversation_id": "2053522705337692448",
+        "created_at": "2026-05-11T06:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053724136305037357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053724136305037357",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053522705337692448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka A：这是护照吗\nB：是护照，我当时办理的比较早，导致和现在的版本有点差距\nA：但我说这不是护照\nB：你说这不是护照，我也说这不是护照，因为这他妈根本就不是护照，当初人家给我的时候我就和工作人员说过，这不是护照，他们说这就是护照，我说这不是护照，他们说这就是护照，没办法，我就拿着它来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8357,
+          "following_count": 2191,
+          "like_count": 29429,
+          "listed_count": 26,
+          "media_count": 1292,
+          "tweet_count": 4951
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T03:29:51.000Z",
+        "description": "🚨 人工智能管理局第009号标记物\n\n📋 类型：失控INTP\n\n🌱 持仓：Web 3.0 韭菜\n\n🎭 喜好：哲学、艺术、其他无法被定义的有趣事物\n\n🌗 状态：在清醒与梦境之间游荡，捡拾概念碎片\n\n⚠️ 此人不定期掉落奇怪想法，捡到请自行处理，概不负责",
+        "id": "1618813318134919170",
+        "name": "DotDot_AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033374236665069568/oWRBOigN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 488,
+          "like_count": 9378,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 944
+        },
+        "username": "DotDot_AI",
+        "verified": true
+      }
+    ]
+  }
+}

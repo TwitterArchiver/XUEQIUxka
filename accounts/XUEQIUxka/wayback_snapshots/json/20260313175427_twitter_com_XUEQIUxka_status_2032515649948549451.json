@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2032515649948549451",
+    "created_at": "2026-03-13T17:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032515649948549451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hry_xsu/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hry_xsu/status/2032504172889911697",
+          "start": 13,
+          "url": "https://t.co/GK5lwcth8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032515649948549451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032504172889911697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好看，我就蹭蹭，我不进去 https://t.co/GK5lwcth8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032504116883402753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTnucNasAEHEDU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032504169714925568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTnxhBbwAAim34.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032504159988232196",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTnw8yaMAQvUp2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032515649948549451",
+        "created_at": "2026-03-13T17:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032515649948549451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hry_xsu/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hry_xsu/status/2032504172889911697",
+              "start": 13,
+              "url": "https://t.co/GK5lwcth8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032515649948549451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032504172889911697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好看，我就蹭蹭，我不进去 https://t.co/GK5lwcth8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032504116883402753",
+            "3_2032504169714925568",
+            "3_2032504159988232196"
+          ]
+        },
+        "author_id": "1304953938320306176",
+        "conversation_id": "2032504172889911697",
+        "created_at": "2026-03-13T17:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032504172889911697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODu0oUGPbC",
+              "end": 37,
+              "expanded_url": "https://x.com/hry_xsu/status/2032504172889911697/photo/1",
+              "media_key": "3_2032504116883402753",
+              "start": 14,
+              "url": "https://t.co/ODu0oUGPbC"
+            },
+            {
+              "display_url": "pic.x.com/ODu0oUGPbC",
+              "end": 37,
+              "expanded_url": "https://x.com/hry_xsu/status/2032504172889911697/photo/1",
+              "media_key": "3_2032504169714925568",
+              "start": 14,
+              "url": "https://t.co/ODu0oUGPbC"
+            },
+            {
+              "display_url": "pic.x.com/ODu0oUGPbC",
+              "end": 37,
+              "expanded_url": "https://x.com/hry_xsu/status/2032504172889911697/photo/1",
+              "media_key": "3_2032504159988232196",
+              "start": 14,
+              "url": "https://t.co/ODu0oUGPbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032504172889911697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新的小裙子\n（做工一般…… https://t.co/ODu0oUGPbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 1542,
+          "like_count": 20806,
+          "listed_count": 26,
+          "media_count": 345,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!\nen&zh | 💻笔电爱好者 | 无糖 | 女装 | 精神地雷系 | 🏳️‍🌈LGBTQ+friendly\n好朋友@wxb_NB @qusuunmd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "qusuunmd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 360,
+          "like_count": 51806,
+          "listed_count": 7,
+          "media_count": 224,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

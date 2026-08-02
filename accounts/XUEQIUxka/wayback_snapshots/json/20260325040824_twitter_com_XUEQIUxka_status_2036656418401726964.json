@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036504584420462865",
+    "created_at": "2026-03-25T04:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036656418401726964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036656418401726964",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036504584420462865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 因为死了不会站出来说反话\n活的就不一定了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2036504579861524480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMeICIaMAAqgkn.jpg",
+        "width": 800
+      },
+      {
+        "height": 1066,
+        "media_key": "3_2036504579760631808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMeIBwWsAA5FyU.jpg",
+        "width": 1603
+      },
+      {
+        "height": 1234,
+        "media_key": "3_2036504579764842496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMeIBxW8AAZLt2.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2036504579764789248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMeIBxWIAAfiCu.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036504584420462865",
+        "created_at": "2026-03-25T04:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036656418401726964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036656418401726964",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036504584420462865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 因为死了不会站出来说反话\n活的就不一定了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036504579861524480",
+            "3_2036504579760631808",
+            "3_2036504579764842496",
+            "3_2036504579764789248"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2036504584420462865",
+        "created_at": "2026-03-24T18:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036504584420462865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "张雪峰配享太庙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSYoJVNOYW",
+              "end": 161,
+              "expanded_url": "https://x.com/maoshen/status/2036504584420462865/photo/1",
+              "media_key": "3_2036504579861524480",
+              "start": 138,
+              "url": "https://t.co/JSYoJVNOYW"
+            },
+            {
+              "display_url": "pic.x.com/JSYoJVNOYW",
+              "end": 161,
+              "expanded_url": "https://x.com/maoshen/status/2036504584420462865/photo/1",
+              "media_key": "3_2036504579760631808",
+              "start": 138,
+              "url": "https://t.co/JSYoJVNOYW"
+            },
+            {
+              "display_url": "pic.x.com/JSYoJVNOYW",
+              "end": 161,
+              "expanded_url": "https://x.com/maoshen/status/2036504584420462865/photo/1",
+              "media_key": "3_2036504579764842496",
+              "start": 138,
+              "url": "https://t.co/JSYoJVNOYW"
+            },
+            {
+              "display_url": "pic.x.com/JSYoJVNOYW",
+              "end": 161,
+              "expanded_url": "https://x.com/maoshen/status/2036504584420462865/photo/1",
+              "media_key": "3_2036504579764789248",
+              "start": 138,
+              "url": "https://t.co/JSYoJVNOYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036504584420462865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 389238,
+          "like_count": 640,
+          "quote_count": 12,
+          "reply_count": 175,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "国社集体发讣告，死后哀荣，#张雪峰配享太庙👍\n\n人民日报、新华社、人民网、央视新闻、参考消息、中国日报等全部发了讣告，死后哀荣，一介平民，身后事上了几乎所有国媒，实属罕见，难怪网友调侃配享太庙\n\n这说明张雪峰尽管争议较多，官方还是给他一个极高待遇\n\n背后原因或许应该观察～～ https://t.co/JSYoJVNOYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6370,
+          "following_count": 1862,
+          "like_count": 21882,
+          "listed_count": 27,
+          "media_count": 439,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语区独立观察者｜猫神官方账号｜YouTube《猫神漫谈》博主\n坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心❤️那束光\n吃瓜是表象、热点看真相｜愿在网络世界里，与有温度、有力量的您同行🔥",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206156,
+          "following_count": 8000,
+          "like_count": 4124,
+          "listed_count": 520,
+          "media_count": 3567,
+          "tweet_count": 8931
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2032857728540897745",
+    "created_at": "2026-03-15T15:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033202857877365112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890498415974305792",
+          "start": 0,
+          "username": "weiweisama1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033202857877365112",
+    "in_reply_to_user_id": "1890498415974305792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033202364715528321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiweisama1220 你去联系客服，然后提交资料就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032857728540897745",
+        "created_at": "2026-03-15T15:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033202857877365112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890498415974305792",
+              "start": 0,
+              "username": "weiweisama1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033202857877365112",
+        "in_reply_to_user_id": "1890498415974305792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033202364715528321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiweisama1220 你去联系客服，然后提交资料就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890498415974305792",
+        "conversation_id": "2032857728540897745",
+        "created_at": "2026-03-15T15:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033202364715528321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033202364715528321",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032857728540897745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 诶话说航旅纵横能改证件嘛？我找好久没找到来着😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6045,
+          "following_count": 1550,
+          "like_count": 20996,
+          "listed_count": 26,
+          "media_count": 354,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T20:28:49.000Z",
+        "description": "mtf丨生产日期Dec20.2009丨HRT Jan29.2026丨喜欢可爱的东西qwq丨贴贴抱抱重度依赖丨坐标福建泉州丨已炸柜（家长不管）丨大可爱缘缘@Lainyer051230丨最好的姐姐/老婆（确信）@Cc739108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Lainyer051230"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Cc739108"
+              }
+            ]
+          }
+        },
+        "id": "1890498415974305792",
+        "name": "唯唯sama🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031035979742720000/A2FsD6dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 336,
+          "like_count": 4315,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 568
+        },
+        "username": "weiweisama1220",
+        "verified": false
+      }
+    ]
+  }
+}

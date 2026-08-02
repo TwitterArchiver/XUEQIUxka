@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2064260207409008746",
+    "created_at": "2026-06-10T02:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064539690934710393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1396429621113999364",
+          "start": 0,
+          "username": "yuuki_ans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064539690934710393",
+    "in_reply_to_user_id": "1396429621113999364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064525778751230131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_ans 那很累了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2064525765082066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKarPrlbsAATJpO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2064525765073674240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKarPrjboAAeXWc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2064260207409008746",
+        "created_at": "2026-06-10T02:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064539690934710393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1396429621113999364",
+              "start": 0,
+              "username": "yuuki_ans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064539690934710393",
+        "in_reply_to_user_id": "1396429621113999364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064525778751230131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_ans 那很累了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064525765082066944",
+            "3_2064525765073674240"
+          ]
+        },
+        "author_id": "1396429621113999364",
+        "conversation_id": "2064260207409008746",
+        "created_at": "2026-06-10T01:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064525778751230131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txgAC5u4uL",
+              "end": 34,
+              "expanded_url": "https://x.com/yuuki_ans/status/2064525778751230131/photo/1",
+              "media_key": "3_2064525765082066944",
+              "start": 11,
+              "url": "https://t.co/txgAC5u4uL"
+            },
+            {
+              "display_url": "pic.x.com/txgAC5u4uL",
+              "end": 34,
+              "expanded_url": "https://x.com/yuuki_ans/status/2064525778751230131/photo/1",
+              "media_key": "3_2064525765073674240",
+              "start": 11,
+              "url": "https://t.co/txgAC5u4uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064525778751230131",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064260207409008746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka https://t.co/txgAC5u4uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8966,
+          "following_count": 2375,
+          "like_count": 31602,
+          "listed_count": 25,
+          "media_count": 1851,
+          "tweet_count": 5899
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-23T11:35:53.000Z",
+        "description": "Maybe one day in the future, you will see another me ...",
+        "id": "1396429621113999364",
+        "location": "Polaris",
+        "name": "结城安穗-YuuKi_AnS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736811338348011520/Jyv2iFg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 669,
+          "like_count": 220527,
+          "listed_count": 34,
+          "media_count": 1524,
+          "tweet_count": 8155
+        },
+        "username": "yuuki_ans",
+        "verified": true
+      }
+    ]
+  }
+}

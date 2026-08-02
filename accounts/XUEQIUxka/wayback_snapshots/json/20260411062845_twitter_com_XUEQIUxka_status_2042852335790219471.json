@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042845905913631169",
+    "created_at": "2026-04-11T06:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042852335790219471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "sincecoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042852335790219471",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042845905913631169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sincecoco 但是也很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2042845836162244608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFmldutWIAAMVzH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFmldutWIAAMVzH.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042845905913631169",
+        "created_at": "2026-04-11T06:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042852335790219471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "sincecoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042852335790219471",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042845905913631169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sincecoco 但是也很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2042845836162244608"
+          ]
+        },
+        "author_id": "1439465002851725314",
+        "conversation_id": "2042845905913631169",
+        "created_at": "2026-04-11T06:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042845905913631169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTclH14Wuc",
+              "end": 37,
+              "expanded_url": "https://x.com/sincecoco/status/2042845905913631169/photo/1",
+              "media_key": "16_2042845836162244608",
+              "start": 14,
+              "url": "https://t.co/BTclH14Wuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042845905913631169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个小喵是不是有点潦草了？ https://t.co/BTclH14Wuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6797,
+          "following_count": 2042,
+          "like_count": 25023,
+          "listed_count": 27,
+          "media_count": 628,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "4i | 账户是记录日常生活碎片，艺术家 美食搜索家 爱逛街 吃饭 争取做一个旅游博主｜#日常 | #旅游｜#分享｜#美食 看黄的可以绕道走了！| This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 44,
+                "tag": "日常"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "旅游"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "分享"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "美食"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "name": "橙子BABY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16333,
+          "following_count": 299,
+          "like_count": 2072,
+          "listed_count": 45,
+          "media_count": 425,
+          "tweet_count": 1579
+        },
+        "username": "sincecoco",
+        "verified": true
+      }
+    ]
+  }
+}

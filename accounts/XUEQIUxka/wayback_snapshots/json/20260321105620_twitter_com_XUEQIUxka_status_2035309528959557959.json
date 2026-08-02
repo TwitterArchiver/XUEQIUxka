@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035278718063763900",
+    "created_at": "2026-03-21T10:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035309528959557959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1145577443622658048",
+          "start": 0,
+          "username": "Predator_fund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035309528959557959",
+    "in_reply_to_user_id": "1145577443622658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035278718063763900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Predator_fund 广州改身份证也很方便，只需要在原件他们会自己帮你复印，而且只用跑到政务服务中心就好了，除了改信息去了三次，其他都挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035278718063763900",
+        "created_at": "2026-03-21T10:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035309528959557959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1145577443622658048",
+              "start": 0,
+              "username": "Predator_fund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035309528959557959",
+        "in_reply_to_user_id": "1145577443622658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035278718063763900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Predator_fund 广州改身份证也很方便，只需要在原件他们会自己帮你复印，而且只用跑到政务服务中心就好了，除了改信息去了三次，其他都挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145577443622658048",
+        "conversation_id": "2035278718063763900",
+        "created_at": "2026-03-21T08:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035278718063763900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035278718063763900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我当年户口迁入深圳的时候，办的非常丝滑顺利，按要求把资料带全了，去一次就办好了，办的时候缺少了一个复印件，我忙说马上去复印，结果办事的小姑娘说不用了，起身去给我直接复印了，核实好资料，哐哐的就是盖章；\n反倒是老家迁出的时候，被刁难了3次不给迁出，每次都有新说法，不是你缺这个就是少哪个，臭着个脸反正就是办不了，最后只能“找人”，找了人再去办，办事的连资料都没看，就给办了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 23665,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当年户口迁入深圳的时候，办的非常丝滑顺利，按要求把资料带全了，去一次就办好了，办的时候缺少了一个复印件，我忙说马上去复印，结果办事的小姑娘说不用了，起身去给我直接复印了，核实好资料，哐哐的就是盖章；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 1801,
+          "like_count": 21534,
+          "listed_count": 26,
+          "media_count": 409,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-01T06:18:41.000Z",
+        "description": "Predator Quantitative Trading System Developer. 区块链底层技术开发，合约交易为生；“村头CBD社区”创始人. 社群：https://t.co/fUjvAaTmXZ（需申请）； 油管：https://t.co/2tq5CAlRcL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UdhxiPdfeXs0M…",
+                "end": 105,
+                "expanded_url": "https://t.me/+UdhxiPdfeXs0MDY1",
+                "start": 82,
+                "url": "https://t.co/fUjvAaTmXZ"
+              },
+              {
+                "display_url": "youtube.com/@predator_fund",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@predator_fund",
+                "start": 115,
+                "url": "https://t.co/2tq5CAlRcL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pudater",
+                "end": 23,
+                "expanded_url": "https://t.me/pudater",
+                "start": 0,
+                "url": "https://t.co/1fJXvb4uY2"
+              }
+            ]
+          }
+        },
+        "id": "1145577443622658048",
+        "location": "香港",
+        "name": "普达特",
+        "pinned_tweet_id": "1690397676071006208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590404432910434304/DfOmRGay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29945,
+          "following_count": 718,
+          "like_count": 3577,
+          "listed_count": 267,
+          "media_count": 777,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/1fJXvb4uY2",
+        "username": "Predator_fund",
+        "verified": true
+      }
+    ]
+  }
+}

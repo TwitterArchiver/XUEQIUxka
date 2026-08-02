@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039143150485180806",
+    "created_at": "2026-04-01T10:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039292351043244272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462433809303883778",
+          "start": 0,
+          "username": "Krystal_Eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039292351043244272",
+    "in_reply_to_user_id": "1462433809303883778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039143150485180806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krystal_Eth 人有时候就是没有办法决定自己想做的事情，公众人物，尤其是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52764,
+        "height": 576,
+        "media_key": "13_2039142285003108352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039142285003108352/img/btVoUrsnyMRWACb7.jpg",
+        "public_metrics": {
+          "view_count": 325283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039142285003108352/vid/avc1/320x320/nLdsyTR-2Uf8c-Oq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039142285003108352/vid/avc1/576x576/--Zdh7uwpuMk_Wc8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039142285003108352/pl/bVUAHn8zXPj9O8jt.m3u8?v=b17"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039143150485180806",
+        "created_at": "2026-04-01T10:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039292351043244272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462433809303883778",
+              "start": 0,
+              "username": "Krystal_Eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039292351043244272",
+        "in_reply_to_user_id": "1462433809303883778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039143150485180806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krystal_Eth 人有时候就是没有办法决定自己想做的事情，公众人物，尤其是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039142285003108352"
+          ]
+        },
+        "author_id": "1462433809303883778",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039143150485180806",
+        "created_at": "2026-04-01T00:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:46:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039142355500949574",
+          "2039143150485180806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9d72usKqa0",
+              "end": 120,
+              "expanded_url": "https://x.com/Krystal_Eth/status/2039143150485180806/video/1",
+              "media_key": "13_2039142285003108352",
+              "start": 97,
+              "url": "https://t.co/9d72usKqa0"
+            },
+            {
+              "display_url": "x.com/krystal_eth/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/krystal_eth/status/2038411960212144578",
+              "start": 121,
+              "url": "https://t.co/XBC09cxYCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039143150485180806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 1162308,
+          "like_count": 301,
+          "quote_count": 7,
+          "reply_count": 121,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038411960212144578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李白的编曲人常石磊和单依纯\n\n总感觉他们俩的关系有点不一般…\n他们俩的位置有点诡异，而且单好像在盯着常的下面……\n\n还有，单依纯明显就是被掌控和拿捏了，似乎常石磊想在她身上实现自己没得到的东西 https://t.co/9d72usKqa0 https://t.co/XBC09cxYCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 2018,
+          "like_count": 23476,
+          "listed_count": 27,
+          "media_count": 506,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T14:52:55.000Z",
+        "description": "加密社群｜早期投研｜ 热点追踪｜百倍meme玩家 。Ambassador | @billions_ntwk，@TheoriqAI ，@meet_48，@defidotapp，@OpenledgerHQ，。微博X同名。公众号：加密大表姐说。X/社群合作联系https://t.co/yPrj4X5cXI。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "billions_ntwk"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "TheoriqAI"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "meet_48"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "defidotapp"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "OpenledgerHQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Krystal_Eth",
+                "end": 150,
+                "expanded_url": "https://t.me/Krystal_Eth",
+                "start": 127,
+                "url": "https://t.co/yPrj4X5cXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsmkweb.cc/register?ref=1…",
+                "end": 23,
+                "expanded_url": "https://www.bsmkweb.cc/register?ref=139339397",
+                "start": 0,
+                "url": "https://t.co/SPYuTKLAH3"
+              }
+            ]
+          }
+        },
+        "id": "1462433809303883778",
+        "location": "BN链接",
+        "name": "加密Krystal",
+        "pinned_tweet_id": "1914594227817676971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745119026119090176/iGOpUREf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63154,
+          "following_count": 7821,
+          "like_count": 38195,
+          "listed_count": 373,
+          "media_count": 3076,
+          "tweet_count": 31557
+        },
+        "url": "https://t.co/SPYuTKLAH3",
+        "username": "Krystal_Eth",
+        "verified": true
+      }
+    ]
+  }
+}

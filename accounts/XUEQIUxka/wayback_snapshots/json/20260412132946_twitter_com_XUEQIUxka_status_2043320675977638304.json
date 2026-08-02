@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2043282842617323602",
+    "created_at": "2026-04-12T13:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043320675977638304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4123608315",
+          "start": 0,
+          "username": "c5brm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043320675977638304",
+    "in_reply_to_user_id": "4123608315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043282842617323602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5brm 江南西的塔被拆了("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043282830546120705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsy6JpbMAEA9rC.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043282842617323602",
+        "created_at": "2026-04-12T13:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043320675977638304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4123608315",
+              "start": 0,
+              "username": "c5brm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043320675977638304",
+        "in_reply_to_user_id": "4123608315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043282842617323602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5brm 江南西的塔被拆了("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043282830546120705"
+          ]
+        },
+        "author_id": "4123608315",
+        "conversation_id": "2043282842617323602",
+        "created_at": "2026-04-12T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043282842617323602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ha8JOTqPaV",
+              "end": 36,
+              "expanded_url": "https://x.com/c5brm/status/2043282842617323602/photo/1",
+              "media_key": "3_2043282830546120705",
+              "start": 13,
+              "url": "https://t.co/ha8JOTqPaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043282842617323602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 882,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是见过广州塔的人了👉👈 https://t.co/ha8JOTqPaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6847,
+          "following_count": 2053,
+          "like_count": 25368,
+          "listed_count": 28,
+          "media_count": 657,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-06T02:15:39.000Z",
+        "description": "四季如春 万事如意",
+        "id": "4123608315",
+        "location": "🌍",
+        "name": "凯",
+        "pinned_tweet_id": "2039292335805378883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039683091049193472/MlX_jxBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 404,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 403
+        },
+        "username": "c5brm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2032349598262706552",
+    "created_at": "2026-03-16T06:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033428732917305557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892209144763170816",
+          "start": 0,
+          "username": "buzhidaoqishala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033428732917305557",
+    "in_reply_to_user_id": "1892209144763170816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032349598262706552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhidaoqishala 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2032349598262706552",
+        "created_at": "2026-03-16T06:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033428732917305557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892209144763170816",
+              "start": 0,
+              "username": "buzhidaoqishala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033428732917305557",
+        "in_reply_to_user_id": "1892209144763170816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032349598262706552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhidaoqishala 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892209144763170816",
+        "conversation_id": "2032349598262706552",
+        "created_at": "2026-03-13T06:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032349598262706552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kaito Yaps ｜ River ｜ DAO3 社区｜推特蓝V｜互关互助 ✉️",
+              "display_url": "x.com/i/communities/…",
+              "end": 110,
+              "expanded_url": "https://x.com/i/communities/1669241668829323264",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2032349599370002433/LqN9FjB5?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032349599370002433/LqN9FjB5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "X 推特华语区 🐳 ｜蓝V互关｜Kaito｜River",
+              "unwound_url": "https://twitter.com/i/communities/1669241668829323264",
+              "url": "https://t.co/kE6OfEAws2"
+            },
+            {
+              "description": "副业相关：技术/产品/营销/市场/项目/思维 分享社群。",
+              "display_url": "x.com/i/communities/…",
+              "end": 135,
+              "expanded_url": "https://x.com/i/communities/1921943081089486967",
+              "images": [
+                {
+                  "height": 284,
+                  "url": "https://pbs.twimg.com/news_img/2032349598963101696/C1PkTpBr?format=jpg&name=orig",
+                  "width": 710
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032349598963101696/C1PkTpBr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "跟Stanley一起财富自由",
+              "unwound_url": "https://twitter.com/i/communities/1921943081089486967",
+              "url": "https://t.co/yprgwbzKvR"
+            },
+            {
+              "description": "基于推特的神秘组织！",
+              "display_url": "x.com/i/communities/…",
+              "end": 160,
+              "expanded_url": "https://x.com/i/communities/1916164964009886077",
+              "start": 137,
+              "status": 200,
+              "title": "蓝鸟会 | Bluebird🕊️",
+              "unwound_url": "https://twitter.com/i/communities/1916164964009886077",
+              "url": "https://t.co/k2oODVOSsc"
+            },
+            {
+              "display_url": "x.com/i/communities/…",
+              "end": 185,
+              "expanded_url": "https://x.com/i/communities/1780429686268711042",
+              "images": [
+                {
+                  "height": 481,
+                  "url": "https://pbs.twimg.com/news_img/2032349599391006720/v2tJ3DPc?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032349599391006720/v2tJ3DPc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 162,
+              "status": 200,
+              "title": "推特互关 推特互粉",
+              "unwound_url": "https://twitter.com/i/communities/1780429686268711042",
+              "url": "https://t.co/My2Lerv3Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032349598262706552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 110,
+                "expanded_url": "https://x.com/i/communities/1669241668829323264",
+                "start": 87,
+                "url": "https://t.co/VYLDtZrf7R"
+              },
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 135,
+                "expanded_url": "https://x.com/i/communities/1921943081089486967",
+                "start": 112,
+                "url": "https://t.co/iZDQ0OZyZ4"
+              },
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 160,
+                "expanded_url": "https://x.com/i/communities/1916164964009886077",
+                "start": 137,
+                "url": "https://t.co/LRHGWUKPJZ"
+              },
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 185,
+                "expanded_url": "https://x.com/i/communities/1780429686268711042",
+                "start": 162,
+                "url": "https://t.co/CnrU0MnMnh"
+              }
+            ]
+          },
+          "text": "从0开始3天1000真实粉丝。\n其实很简单：\n\n第一步开通蓝v，如果你蓝v都不开通，\n说明你对推特都不一定关注活着在乎，\n回关你的人会大大折扣。\n\n第二步：去这些社区发帖。\nhttps://t.co/VYLDtZrf7R\n\nhttps://t.co/iZDQ0OZyZ4\n\nhttps://t.co/LRHGWUKPJZ\n\nhttps://t.co/CnrU0MnMnh\n\n基本上四个互关的帖子，可以保持最低有1000人过来关注你。\n\n我这个号就是这样，操作的，3天1000多粉丝，\n\n另外注意：\n\n推特每天对多的关注量是400个。\n大概15分钟为一个阶段，一个阶段最多可以关注15个人。\n\n其他的没有什么了，如果这样继续下去。\n基本上一月真实万粉问题不大。\n\n前提你的足够的时间互动（点赞、评论、回关）\n\n当你有了足够的粉丝基础，你就可以大展身手了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1005,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从0开始3天1000真实粉丝。\n其实很简单：\n\n第一步开通蓝v，如果你蓝v都不开通，\n说明你对推特都不一定关注活着在乎，\n回关你的人会大大折扣。\n\n第二步：去这些社区发帖。\nhttps://t.co/kE6OfEAws2\n\nhttps://t.co/yprgwbzKvR\n\nhttps://t.co/k2oODVOSsc\n\nhttps://t.co/My2Lerv3Rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6056,
+          "following_count": 1566,
+          "like_count": 21058,
+          "listed_count": 26,
+          "media_count": 355,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T13:46:49.000Z",
+        "description": "P小将、技术宅、随心分享",
+        "id": "1892209144763170816",
+        "location": "中国",
+        "name": "币圈幸存者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966829335173885961/4ywaE_Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 2254,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 365
+        },
+        "username": "buzhidaoqishala",
+        "verified": true
+      }
+    ]
+  }
+}

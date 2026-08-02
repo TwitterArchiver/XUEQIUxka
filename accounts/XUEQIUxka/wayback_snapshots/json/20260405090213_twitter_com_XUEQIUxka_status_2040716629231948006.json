@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040656936975343629",
+    "created_at": "2026-04-05T09:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040716629231948006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "260125652",
+          "start": 0,
+          "username": "Tina_coin001"
+        },
+        {
+          "end": 19,
+          "id": "1909390269533011968",
+          "start": 14,
+          "username": "gork"
+        },
+        {
+          "end": 25,
+          "id": "1720665183188922368",
+          "start": 20,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040716629231948006",
+    "in_reply_to_user_id": "260125652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040656936975343629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_coin001 @gork @grok 你们觉得后续是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040656936975343629",
+        "created_at": "2026-04-05T09:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040716629231948006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "260125652",
+              "start": 0,
+              "username": "Tina_coin001"
+            },
+            {
+              "end": 19,
+              "id": "1909390269533011968",
+              "start": 14,
+              "username": "gork"
+            },
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040716629231948006",
+        "in_reply_to_user_id": "260125652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040656936975343629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_coin001 @gork @grok 你们觉得后续是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260125652",
+        "conversation_id": "2040656936975343629",
+        "created_at": "2026-04-05T05:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040656936975343629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040656936975343629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 67993,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一哥们正准备睡觉呢，隔壁房间传来他大哥和嫂子吵架的声音，这大晚上吵什么吵呢，好奇心一来便轻手轻脚的过去一看究竟，只听嫂子说：“你恶不恶心啊！滚！”然后就没有动静了……\n哥们把耳朵贴门上准备看看有没有下文，不料一用力，门开了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 2024,
+          "like_count": 24050,
+          "listed_count": 27,
+          "media_count": 549,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-03T07:22:19.000Z",
+        "description": "无关政治 || 爱家爱国 || 爱交朋友 || 币圈老韭菜 || 汉族龙传人 || 搞笑段子分享：请较真的朋友绕道",
+        "id": "260125652",
+        "name": "橙子🍊Tina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891428156608513/YfaquKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6368,
+          "following_count": 2923,
+          "like_count": 23715,
+          "listed_count": 16,
+          "media_count": 617,
+          "tweet_count": 20302
+        },
+        "username": "Tina_coin001",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420829,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 394,
+          "media_count": 44772,
+          "tweet_count": 2332330
+        },
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8534815,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6588,
+          "media_count": 8779841,
+          "tweet_count": 121385786
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

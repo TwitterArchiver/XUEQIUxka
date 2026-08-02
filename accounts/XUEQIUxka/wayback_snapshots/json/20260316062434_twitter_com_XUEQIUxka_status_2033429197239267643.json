@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033416961221149019",
+    "created_at": "2026-03-16T06:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033429197239267643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1785771232828194816",
+          "start": 0,
+          "username": "wjyiq93434375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429197239267643",
+    "in_reply_to_user_id": "1785771232828194816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033416961221149019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjyiq93434375 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2033416944809058304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgl8BOaoAADakT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033416961221149019",
+        "created_at": "2026-03-16T06:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429197239267643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1785771232828194816",
+              "start": 0,
+              "username": "wjyiq93434375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429197239267643",
+        "in_reply_to_user_id": "1785771232828194816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033416961221149019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjyiq93434375 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033416944809058304"
+          ]
+        },
+        "author_id": "1785771232828194816",
+        "conversation_id": "2033416961221149019",
+        "created_at": "2026-03-16T05:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033416961221149019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "认证账号"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "互相关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FgGWjBYxZ",
+              "end": 85,
+              "expanded_url": "https://x.com/wjyiq93434375/status/2033416961221149019/photo/1",
+              "media_key": "3_2033416944809058304",
+              "start": 62,
+              "url": "https://t.co/5FgGWjBYxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033416961221149019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞起 诚信\n\n蓝V小伙伴们，互关吗？一起交流、一起成长！留言或私信我，咱们互相关注！✨ #蓝V互关 #认证账号 #互相关注 https://t.co/5FgGWjBYxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6057,
+          "following_count": 1572,
+          "like_count": 21058,
+          "listed_count": 26,
+          "media_count": 355,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-01T20:40:31.000Z",
+        "description": "Create your own IP",
+        "id": "1785771232828194816",
+        "name": "鑫多鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022675346068578304/uKO0CZPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 906,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 190
+        },
+        "username": "wjyiq93434375",
+        "verified": true
+      }
+    ]
+  }
+}

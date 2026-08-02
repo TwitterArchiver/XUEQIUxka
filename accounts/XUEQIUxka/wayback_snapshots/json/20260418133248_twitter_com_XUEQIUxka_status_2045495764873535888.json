@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045486923138163176",
+    "created_at": "2026-04-18T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045495764873535888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 21,
+          "id": "2032033299980566528",
+          "start": 9,
+          "username": "rinii165892"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20454…",
+          "end": 55,
+          "expanded_url": "https://x.com/i/status/2045493977294782819",
+          "start": 32,
+          "url": "https://t.co/CDXCMIaaHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045495764873535888",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045493977294782819",
+        "type": "quoted"
+      },
+      {
+        "id": "2045495446135787578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @rinii165892 现在还有二次元头像\nhttps://t.co/CDXCMIaaHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045493953970257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMN6eSbQAAuARr.jpg",
+        "width": 511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045486923138163176",
+        "created_at": "2026-04-18T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045495764873535888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 21,
+              "id": "2032033299980566528",
+              "start": 9,
+              "username": "rinii165892"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20454…",
+              "end": 55,
+              "expanded_url": "https://x.com/i/status/2045493977294782819",
+              "start": 32,
+              "url": "https://t.co/CDXCMIaaHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045495764873535888",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045493977294782819",
+            "type": "quoted"
+          },
+          {
+            "id": "2045495446135787578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @rinii165892 现在还有二次元头像\nhttps://t.co/CDXCMIaaHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045493953970257920"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045493977294782819",
+        "created_at": "2026-04-18T13:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045493977294782819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMJwsB3rdS",
+              "end": 55,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045493977294782819/photo/1",
+              "media_key": "3_2045493953970257920",
+              "start": 32,
+              "url": "https://t.co/UMJwsB3rdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045493977294782819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当你的帖子火了↓\n请不要相信任何评论区的这种约的\n100%诈骗 https://t.co/UMJwsB3rdS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2045486923138163176",
+        "created_at": "2026-04-18T13:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045495446135787578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 23,
+              "id": "2032033299980566528",
+              "start": 11,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045495446135787578",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045494923370316277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @rinii165892 笑死我了，还有“有人养我吗”、“男大弟弟来”，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7051,
+          "following_count": 2114,
+          "like_count": 26381,
+          "listed_count": 27,
+          "media_count": 741,
+          "tweet_count": 3866
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2042185391361634720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 582,
+          "like_count": 43917,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "哒哒哒哒哒 好想玩原神【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin36611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin36611",
+                "start": 0,
+                "url": "https://t.co/eWuyqK1iCB"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 803,
+          "like_count": 7075,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 3697
+        },
+        "url": "https://t.co/eWuyqK1iCB",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

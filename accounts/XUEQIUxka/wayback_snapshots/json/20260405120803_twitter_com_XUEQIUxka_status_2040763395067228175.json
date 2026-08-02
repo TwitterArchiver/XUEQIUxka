@@ -1,0 +1,1049 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040762822523851000",
+    "created_at": "2026-04-05T12:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040763395067228175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965505625494011904",
+          "start": 0,
+          "username": "hajimi_CTO_BNB"
+        },
+        {
+          "end": 28,
+          "id": "1476449117542912003",
+          "start": 16,
+          "username": "Samcoincoin"
+        },
+        {
+          "end": 41,
+          "id": "1491676111842856960",
+          "start": 29,
+          "username": "Crypto_0x00"
+        },
+        {
+          "end": 54,
+          "id": "1733417231097421824",
+          "start": 42,
+          "username": "SuetChiu_Yu"
+        },
+        {
+          "end": 67,
+          "id": "999878637422706689",
+          "start": 55,
+          "username": "leotian2023"
+        },
+        {
+          "end": 84,
+          "id": "1654333085390086146",
+          "start": 68,
+          "username": "xixi69789459111"
+        },
+        {
+          "end": 97,
+          "id": "1929699357630304256",
+          "start": 85,
+          "username": "Caizy929292"
+        },
+        {
+          "end": 113,
+          "id": "1924470315943636993",
+          "start": 98,
+          "username": "zyx24737079058"
+        },
+        {
+          "end": 127,
+          "id": "1854301052339990528",
+          "start": 114,
+          "username": "kaola1314536"
+        },
+        {
+          "end": 144,
+          "id": "1230003063789719553",
+          "start": 128,
+          "username": "SNc0GlrHAJhcIf0"
+        },
+        {
+          "end": 158,
+          "id": "1925082071661490176",
+          "start": 145,
+          "username": "BNB_3000soon"
+        },
+        {
+          "end": 170,
+          "id": "1431199482469752834",
+          "start": 159,
+          "username": "Degen1998_"
+        },
+        {
+          "end": 182,
+          "id": "1021216563054051329",
+          "start": 171,
+          "username": "XuXu233333"
+        },
+        {
+          "end": 195,
+          "id": "1977630549381685248",
+          "start": 183,
+          "username": "NoNo8818202"
+        },
+        {
+          "end": 211,
+          "id": "1362970892448325638",
+          "start": 196,
+          "username": "lingchen756096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040763395067228175",
+    "in_reply_to_user_id": "1965505625494011904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040762822523851000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajimi_CTO_BNB @Samcoincoin @Crypto_0x00 @SuetChiu_Yu @leotian2023 @xixi69789459111 @Caizy929292 @zyx24737079058 @kaola1314536 @SNc0GlrHAJhcIf0 @BNB_3000soon @Degen1998_ @XuXu233333 @NoNo8818202 @lingchen756096 我去，真中奖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040762822523851000",
+        "created_at": "2026-04-05T12:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040763395067228175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965505625494011904",
+              "start": 0,
+              "username": "hajimi_CTO_BNB"
+            },
+            {
+              "end": 28,
+              "id": "1476449117542912003",
+              "start": 16,
+              "username": "Samcoincoin"
+            },
+            {
+              "end": 41,
+              "id": "1491676111842856960",
+              "start": 29,
+              "username": "Crypto_0x00"
+            },
+            {
+              "end": 54,
+              "id": "1733417231097421824",
+              "start": 42,
+              "username": "SuetChiu_Yu"
+            },
+            {
+              "end": 67,
+              "id": "999878637422706689",
+              "start": 55,
+              "username": "leotian2023"
+            },
+            {
+              "end": 84,
+              "id": "1654333085390086146",
+              "start": 68,
+              "username": "xixi69789459111"
+            },
+            {
+              "end": 97,
+              "id": "1929699357630304256",
+              "start": 85,
+              "username": "Caizy929292"
+            },
+            {
+              "end": 113,
+              "id": "1924470315943636993",
+              "start": 98,
+              "username": "zyx24737079058"
+            },
+            {
+              "end": 127,
+              "id": "1854301052339990528",
+              "start": 114,
+              "username": "kaola1314536"
+            },
+            {
+              "end": 144,
+              "id": "1230003063789719553",
+              "start": 128,
+              "username": "SNc0GlrHAJhcIf0"
+            },
+            {
+              "end": 158,
+              "id": "1925082071661490176",
+              "start": 145,
+              "username": "BNB_3000soon"
+            },
+            {
+              "end": 170,
+              "id": "1431199482469752834",
+              "start": 159,
+              "username": "Degen1998_"
+            },
+            {
+              "end": 182,
+              "id": "1021216563054051329",
+              "start": 171,
+              "username": "XuXu233333"
+            },
+            {
+              "end": 195,
+              "id": "1977630549381685248",
+              "start": 183,
+              "username": "NoNo8818202"
+            },
+            {
+              "end": 211,
+              "id": "1362970892448325638",
+              "start": 196,
+              "username": "lingchen756096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040763395067228175",
+        "in_reply_to_user_id": "1965505625494011904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040762822523851000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajimi_CTO_BNB @Samcoincoin @Crypto_0x00 @SuetChiu_Yu @leotian2023 @xixi69789459111 @Caizy929292 @zyx24737079058 @kaola1314536 @SNc0GlrHAJhcIf0 @BNB_3000soon @Degen1998_ @XuXu233333 @NoNo8818202 @lingchen756096 我去，真中奖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965505625494011904",
+        "conversation_id": "2040762822523851000",
+        "created_at": "2026-04-05T12:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040762822523851000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1476449117542912003",
+              "start": 43,
+              "username": "Samcoincoin"
+            },
+            {
+              "end": 69,
+              "id": "1491676111842856960",
+              "start": 57,
+              "username": "Crypto_0x00"
+            },
+            {
+              "end": 83,
+              "id": "1733417231097421824",
+              "start": 71,
+              "username": "SuetChiu_Yu"
+            },
+            {
+              "end": 97,
+              "id": "999878637422706689",
+              "start": 85,
+              "username": "leotian2023"
+            },
+            {
+              "end": 115,
+              "id": "1654333085390086146",
+              "start": 99,
+              "username": "xixi69789459111"
+            },
+            {
+              "end": 129,
+              "id": "1929699357630304256",
+              "start": 117,
+              "username": "Caizy929292"
+            },
+            {
+              "end": 146,
+              "id": "1924470315943636993",
+              "start": 131,
+              "username": "zyx24737079058"
+            },
+            {
+              "end": 161,
+              "id": "1854301052339990528",
+              "start": 148,
+              "username": "kaola1314536"
+            },
+            {
+              "end": 179,
+              "id": "1230003063789719553",
+              "start": 163,
+              "username": "SNc0GlrHAJhcIf0"
+            },
+            {
+              "end": 194,
+              "id": "1925082071661490176",
+              "start": 181,
+              "username": "BNB_3000soon"
+            },
+            {
+              "end": 207,
+              "id": "1431199482469752834",
+              "start": 196,
+              "username": "Degen1998_"
+            },
+            {
+              "end": 220,
+              "id": "1021216563054051329",
+              "start": 209,
+              "username": "XuXu233333"
+            },
+            {
+              "end": 234,
+              "id": "1977630549381685248",
+              "start": 222,
+              "username": "NoNo8818202"
+            },
+            {
+              "end": 251,
+              "id": "1362970892448325638",
+              "start": 236,
+              "username": "lingchen756096"
+            },
+            {
+              "end": 263,
+              "id": "1368897611672018953",
+              "start": 253,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hajimi_CTO_BNB…",
+              "end": 287,
+              "expanded_url": "https://twitter.com/hajimi_CTO_BNB/status/2038544253723517269",
+              "start": 264,
+              "url": "https://t.co/lJtUgmFqBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040762822523851000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 584,
+                "start": 580,
+                "tag": "哈基米"
+              },
+              {
+                "end": 592,
+                "start": 585,
+                "tag": "hakimi"
+              },
+              {
+                "end": 600,
+                "start": 593,
+                "tag": "hajimi"
+              },
+              {
+                "end": 609,
+                "start": 601,
+                "tag": "hachimi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "id": "1476449117542912003",
+                "start": 43,
+                "username": "Samcoincoin"
+              },
+              {
+                "end": 69,
+                "id": "1491676111842856960",
+                "start": 57,
+                "username": "Crypto_0x00"
+              },
+              {
+                "end": 83,
+                "id": "1733417231097421824",
+                "start": 71,
+                "username": "SuetChiu_Yu"
+              },
+              {
+                "end": 97,
+                "id": "999878637422706689",
+                "start": 85,
+                "username": "leotian2023"
+              },
+              {
+                "end": 115,
+                "id": "1654333085390086146",
+                "start": 99,
+                "username": "xixi69789459111"
+              },
+              {
+                "end": 129,
+                "id": "1929699357630304256",
+                "start": 117,
+                "username": "Caizy929292"
+              },
+              {
+                "end": 146,
+                "id": "1924470315943636993",
+                "start": 131,
+                "username": "zyx24737079058"
+              },
+              {
+                "end": 161,
+                "id": "1854301052339990528",
+                "start": 148,
+                "username": "kaola1314536"
+              },
+              {
+                "end": 179,
+                "id": "1230003063789719553",
+                "start": 163,
+                "username": "SNc0GlrHAJhcIf0"
+              },
+              {
+                "end": 194,
+                "id": "1925082071661490176",
+                "start": 181,
+                "username": "BNB_3000soon"
+              },
+              {
+                "end": 207,
+                "id": "1431199482469752834",
+                "start": 196,
+                "username": "Degen1998_"
+              },
+              {
+                "end": 220,
+                "id": "1021216563054051329",
+                "start": 209,
+                "username": "XuXu233333"
+              },
+              {
+                "end": 234,
+                "id": "1977630549381685248",
+                "start": 222,
+                "username": "NoNo8818202"
+              },
+              {
+                "end": 251,
+                "id": "1362970892448325638",
+                "start": 236,
+                "username": "lingchen756096"
+              },
+              {
+                "end": 263,
+                "id": "1368897611672018953",
+                "start": 253,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 272,
+                "id": "1444584518531235840",
+                "start": 265,
+                "username": "Pnhoo1"
+              },
+              {
+                "end": 288,
+                "id": "3141725242",
+                "start": 274,
+                "username": "LukasLukasyan"
+              },
+              {
+                "end": 306,
+                "id": "1892511864833351680",
+                "start": 291,
+                "username": "jiushitouzhele"
+              },
+              {
+                "end": 320,
+                "id": "1717190513223401472",
+                "start": 309,
+                "username": "WuJie12141"
+              },
+              {
+                "end": 335,
+                "id": "1661113596166676480",
+                "start": 322,
+                "username": "Web3xiaobai_"
+              },
+              {
+                "end": 345,
+                "id": "1456251109014585352",
+                "start": 337,
+                "username": "qcleeee"
+              },
+              {
+                "end": 357,
+                "id": "1871143747469164544",
+                "start": 347,
+                "username": "IcedNoCap"
+              },
+              {
+                "end": 369,
+                "id": "381864249",
+                "start": 359,
+                "username": "ismenia24"
+              },
+              {
+                "end": 382,
+                "id": "1355174467115225090",
+                "start": 371,
+                "username": "neko_beA_A"
+              },
+              {
+                "end": 392,
+                "id": "1401379825277816838",
+                "start": 384,
+                "username": "iduannx"
+              },
+              {
+                "end": 407,
+                "id": "1775514775596027904",
+                "start": 394,
+                "username": "ovomiemiemie"
+              },
+              {
+                "end": 425,
+                "id": "1692153563030654976",
+                "start": 409,
+                "username": "yuzhng683298215"
+              },
+              {
+                "end": 439,
+                "id": "329897519",
+                "start": 427,
+                "username": "Sweetpee_34"
+              },
+              {
+                "end": 449,
+                "id": "1649601923526586368",
+                "start": 441,
+                "username": "Sylmcxm"
+              },
+              {
+                "end": 460,
+                "id": "1763918158510100480",
+                "start": 451,
+                "username": "HmemeBin"
+              }
+            ]
+          },
+          "text": "哈基米周边奖励名单/Hajimi merchandise winners list：\n@Samcoincoin \n@Crypto_0x00 \n@SuetChiu_Yu \n@leotian2023 \n@xixi69789459111 \n@Caizy929292 \n@zyx24737079058 \n@kaola1314536 \n@SNc0GlrHAJhcIf0 \n@BNB_3000soon \n@Degen1998_ \n@XuXu233333 \n@NoNo8818202 \n@lingchen756096 \n@XUEQIUxka \n@Pnhoo1 \n@LukasLukasyan  \n@jiushitouzhele  \n@WuJie12141 \n@Web3xiaobai_ \n@qcleeee \n@IcedNoCap \n@ismenia24 \n@neko_beA_A \n@iduannx \n@ovomiemiemie \n@yuzhng683298215 \n@Sweetpee_34 \n@Sylmcxm \n@HmemeBin \n\n请以上用户私信此账号填写收货信息~ \n\nPlease send me your shipping information via private message so I can send you the merchandise.\n\n#哈基米 #hakimi #hajimi #hachimi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038544253723517269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈基米周边奖励名单/Hajimi merchandise winners list：\n@Samcoincoin \n@Crypto_0x00 \n@SuetChiu_Yu \n@leotian2023 \n@xixi69789459111 \n@Caizy929292 \n@zyx24737079058 \n@kaola1314536 \n@SNc0GlrHAJhcIf0 \n@BNB_3000soon \n@Degen1998_ \n@XuXu233333 \n@NoNo8818202 \n@lingchen756096 \n@XUEQIUxka https://t.co/lJtUgmFqBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6734,
+          "following_count": 2025,
+          "like_count": 24088,
+          "listed_count": 27,
+          "media_count": 555,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T20:00:55.000Z",
+        "description": "一句歌词到一只猫咪再到所有猫咪和所有事物的演变-哈基米文化  ♥\nThe evolution from a line of lyrics to a cat to all cats and everything - Hajimi Culture  ♥Do it for love♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Hajimi_BNB",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Hajimi_BNB",
+                "start": 0,
+                "url": "https://t.co/On7dY4YMHc"
+              }
+            ]
+          }
+        },
+        "id": "1965505625494011904",
+        "name": "哈基米",
+        "pinned_tweet_id": "2038544253723517269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026218604824338432/KGAU-FVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6440,
+          "following_count": 58,
+          "like_count": 4090,
+          "listed_count": 20,
+          "media_count": 1659,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/On7dY4YMHc",
+        "username": "hajimi_CTO_BNB",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T07:06:15.000Z",
+        "description": "slow is fast\n【币圈特色价投主义】实践ing",
+        "id": "1476449117542912003",
+        "location": "新加坡",
+        "name": "猫神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853602860614963200/z4huwJE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18746,
+          "following_count": 2803,
+          "like_count": 4479,
+          "listed_count": 331,
+          "media_count": 972,
+          "tweet_count": 6544
+        },
+        "username": "Samcoincoin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T07:31:28.000Z",
+        "description": "A 股十年老韭菜｜meme 退出流动性提供者｜一级市场投研打工魂｜AI 工具小白界天花板｜玩 meme 我只用币安钱包https://t.co/2acy0F5DLI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=H…",
+                "end": 82,
+                "expanded_url": "https://web3.binance.com/referral?ref=H22ZYS7M",
+                "start": 59,
+                "url": "https://t.co/2acy0F5DLI"
+              }
+            ]
+          }
+        },
+        "id": "1491676111842856960",
+        "location": "Japaratuba, Brasil",
+        "name": "Ash2Cash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993041541301256196/8hAVTp01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 919,
+          "like_count": 341,
+          "listed_count": 7,
+          "media_count": 40,
+          "tweet_count": 152
+        },
+        "username": "Crypto_0x00",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-09T09:24:20.000Z",
+        "description": "",
+        "id": "1733417231097421824",
+        "name": "SC丨1000X GEM 哈基米",
+        "pinned_tweet_id": "1806003066480861243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978783463949082624/cjRkRP_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 1533,
+          "like_count": 22059,
+          "listed_count": 2,
+          "media_count": 1641,
+          "tweet_count": 5224
+        },
+        "username": "SuetChiu_Yu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-25T05:03:38.000Z",
+        "description": "HODL BSC | $Cheems | 守护最好的 #客服小何 享受最棒的 #币安人生 | Bitmappunks#0-#99 $BMP",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "Cheems"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "BMP"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "客服小何"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "币安人生"
+              }
+            ]
+          }
+        },
+        "id": "999878637422706689",
+        "location": "London, England",
+        "name": "leotian🔶BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923399891126226944/Ii7_vmUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 991,
+          "like_count": 3749,
+          "listed_count": 12,
+          "media_count": 293,
+          "tweet_count": 1360
+        },
+        "username": "leotian2023",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T03:52:11.000Z",
+        "description": "",
+        "id": "1654333085390086146",
+        "name": "段嘉许",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909866860268732416/cXAsJQbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 409,
+          "like_count": 4800,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 2263
+        },
+        "username": "xixi69789459111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T00:39:34.000Z",
+        "description": "努力不一定有结果，但不努力一定不会有结果",
+        "id": "1929699357630304256",
+        "name": "晴天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999503951977414657/PCjLJdaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 423,
+          "like_count": 20789,
+          "listed_count": 0,
+          "media_count": 694,
+          "tweet_count": 1498
+        },
+        "username": "Caizy929292",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T14:21:11.000Z",
+        "description": "",
+        "id": "1924470315943636993",
+        "name": "zyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986686553369026560/5n_dHb4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "zyx24737079058",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T23:13:31.000Z",
+        "description": "",
+        "id": "1854301052339990528",
+        "name": "dog- lobo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639875836882944/FiJtG01u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 309,
+          "like_count": 11957,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2145
+        },
+        "username": "kaola1314536",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-19T05:36:03.000Z",
+        "description": "哈基米莫南北绿豆",
+        "id": "1230003063789719553",
+        "name": "蛤基蟆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019667707197812736/Yz92_Hxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 67,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 324
+        },
+        "username": "SNc0GlrHAJhcIf0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T06:51:54.000Z",
+        "description": "It’s important to respect different opinions within the community.\n@bnbchain 🔶 @beedog_bsc 🔶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "bnbchain"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "beedog_bsc"
+              }
+            ]
+          }
+        },
+        "id": "1925082071661490176",
+        "name": "J2🔸| 蜜蜂狗版",
+        "pinned_tweet_id": "2031272746559352984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038884341498167296/XTc0MqWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 489,
+          "like_count": 37101,
+          "listed_count": 2,
+          "media_count": 3842,
+          "tweet_count": 12629
+        },
+        "username": "BNB_3000soon",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T10:18:51.000Z",
+        "description": "：/冰冷",
+        "id": "1431199482469752834",
+        "name": "bubble",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033158963995516928/RO7Ukwis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1243,
+          "like_count": 6425,
+          "listed_count": 16,
+          "media_count": 312,
+          "tweet_count": 5697
+        },
+        "username": "Degen1998_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-23T02:12:56.000Z",
+        "description": "",
+        "id": "1021216563054051329",
+        "name": "4u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357685110854742024/TEADLoau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 453,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "XuXu233333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T07:00:48.000Z",
+        "description": "",
+        "id": "1977630549381685248",
+        "name": "Penghu Bay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005838700190846976/Gt8g44D__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 41,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "username": "NoNo8818202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:42:52.000Z",
+        "description": "",
+        "id": "1362970892448325638",
+        "location": "北京",
+        "name": "凌辰（哈基米版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497817969304375296/NtIrT0oW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 3070,
+          "like_count": 3158,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 1276
+        },
+        "username": "lingchen756096",
+        "verified": false
+      }
+    ]
+  }
+}

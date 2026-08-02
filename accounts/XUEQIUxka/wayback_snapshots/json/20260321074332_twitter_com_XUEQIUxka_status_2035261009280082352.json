@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035217076634492985",
+    "created_at": "2026-03-21T07:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035261009280082352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899739859084103680",
+          "start": 0,
+          "username": "linwanwan823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035261009280082352",
+    "in_reply_to_user_id": "1899739859084103680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035217076634492985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linwanwan823 我只希望下个月国内的飞机燃油不会涨得很离谱，我不想做加起来250的燃油机建的飞机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035217076634492985",
+        "created_at": "2026-03-21T07:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035261009280082352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899739859084103680",
+              "start": 0,
+              "username": "linwanwan823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035261009280082352",
+        "in_reply_to_user_id": "1899739859084103680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035217076634492985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwanwan823 我只希望下个月国内的飞机燃油不会涨得很离谱，我不想做加起来250的燃油机建的飞机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899739859084103680",
+        "conversation_id": "2035217076634492985",
+        "created_at": "2026-03-21T04:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035217076634492985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035217076634492985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好消息：油价有救了。\n坏消息：伊朗要先收200万美元/艘的过路费。\n\n伊朗已正式将霍尔木兹海峡货币化。\n\n每次航行费用为200万美元。可接受现金、加密货币或以物易物。\n\n如今3200艘船在海峡里头卡着，\n\n晚晚我计算器一摁，\n嗯？\n妈呀，伊朗这是能收64亿美金。\n\n能不能让我重仓很久的油运股Fro先交钱，谢谢伊朗了先。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23544,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好消息：油价有救了。\n坏消息：伊朗要先收200万美元/艘的过路费。\n\n伊朗已正式将霍尔木兹海峡货币化。\n\n每次航行费用为200万美元。可接受现金、加密货币或以物易物。\n\n如今3200艘船在海峡里头卡着，\n\n晚晚我计算器一摁，\n嗯？\n妈呀，伊朗这是能收64亿美金。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6277,
+          "following_count": 1796,
+          "like_count": 21490,
+          "listed_count": 26,
+          "media_count": 409,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T08:31:04.000Z",
+        "description": "AI Agent｜加密投研笔记｜美股期权｜预测市场 \nYou must have patience, cash, and courage, and in that order.",
+        "id": "1899739859084103680",
+        "location": "Singapore",
+        "name": "林晚晚的猫",
+        "pinned_tweet_id": "2004380260121694645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957790840593784832/QDqSJN4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30919,
+          "following_count": 1228,
+          "like_count": 7972,
+          "listed_count": 357,
+          "media_count": 385,
+          "tweet_count": 3729
+        },
+        "username": "linwanwan823",
+        "verified": true
+      }
+    ]
+  }
+}

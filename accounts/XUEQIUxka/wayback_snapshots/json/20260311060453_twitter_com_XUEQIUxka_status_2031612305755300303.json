@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2031612305755300303",
+    "created_at": "2026-03-11T06:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T07:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031612305755300303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TTypezhi/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/TTypezhi/status/2031604030708002956",
+          "start": 6,
+          "url": "https://t.co/SDAUaRlrNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031612305755300303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031604030708002956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天天开心捏 https://t.co/SDAUaRlrNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2031604027532914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG1GWFaMAA2oRg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2031604027352641536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG1GVabcAAV1h_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2031604024819200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG1GL-aMAAa1R4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1753,
+        "media_key": "3_2031604026643722244",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG1GSxaMAQ1bQA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2031612305755300303",
+        "created_at": "2026-03-11T06:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031612305755300303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TTypezhi/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/TTypezhi/status/2031604030708002956",
+              "start": 6,
+              "url": "https://t.co/SDAUaRlrNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031612305755300303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031604030708002956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天天开心捏 https://t.co/SDAUaRlrNo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031604027532914688",
+            "3_2031604027352641536",
+            "3_2031604024819200000",
+            "3_2031604026643722244"
+          ]
+        },
+        "author_id": "1973792014455152640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031604030708002956",
+        "created_at": "2026-03-11T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031604030708002956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNJMxMPFKL",
+              "end": 47,
+              "expanded_url": "https://x.com/TTypezhi/status/2031604030708002956/photo/1",
+              "media_key": "3_2031604027532914688",
+              "start": 24,
+              "url": "https://t.co/lNJMxMPFKL"
+            },
+            {
+              "display_url": "pic.x.com/lNJMxMPFKL",
+              "end": 47,
+              "expanded_url": "https://x.com/TTypezhi/status/2031604030708002956/photo/1",
+              "media_key": "3_2031604027352641536",
+              "start": 24,
+              "url": "https://t.co/lNJMxMPFKL"
+            },
+            {
+              "display_url": "pic.x.com/lNJMxMPFKL",
+              "end": 47,
+              "expanded_url": "https://x.com/TTypezhi/status/2031604030708002956/photo/1",
+              "media_key": "3_2031604024819200000",
+              "start": 24,
+              "url": "https://t.co/lNJMxMPFKL"
+            },
+            {
+              "display_url": "pic.x.com/lNJMxMPFKL",
+              "end": 47,
+              "expanded_url": "https://x.com/TTypezhi/status/2031604030708002956/photo/1",
+              "media_key": "3_2031604026643722244",
+              "start": 24,
+              "url": "https://t.co/lNJMxMPFKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031604030708002956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了来自@XUEQIUxka 的礼物喵🥰🥰🥰 https://t.co/lNJMxMPFKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5961,
+          "following_count": 1545,
+          "like_count": 20599,
+          "listed_count": 25,
+          "media_count": 337,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxnAZQ"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 1038,
+          "like_count": 53,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/SDCzGxnAZQ",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

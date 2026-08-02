@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035770029392945268",
+    "created_at": "2026-03-23T08:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036004092330590407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "907034448205676544",
+          "start": 0,
+          "username": "fashionistaera"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036004092330590407",
+    "in_reply_to_user_id": "907034448205676544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035770029392945268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fashionistaera Funny how people judge sincerity by posture—next time maybe she should kneel on broken glass to prove her regret.  \nWe’ve turned apologies into performance artcomplete with stage directions.  \nReal remorse isn’t in the spine angle, it’s in the ego fracture."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82766,
+        "height": 1280,
+        "media_key": "13_2035769931422416896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035769931422416896/img/gd-c_wykAZ2OUqlG.jpg",
+        "public_metrics": {
+          "view_count": 568315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035769931422416896/vid/avc1/320x568/v80rYoW0hbU-THFY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035769931422416896/vid/avc1/480x852/1vmURqWxV26vu_3m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035769931422416896/vid/avc1/720x1280/8Gi4OFSvoCtMz9pn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035769931422416896/pl/_zjkfbWeQzgZjfqI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035770029392945268",
+        "created_at": "2026-03-23T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036004092330590407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "907034448205676544",
+              "start": 0,
+              "username": "fashionistaera"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036004092330590407",
+        "in_reply_to_user_id": "907034448205676544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035770029392945268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fashionistaera Funny how people judge sincerity by posture—next time maybe she should kneel on broken glass to prove her regret.  \nWe’ve turned apologies into performance artcomplete with stage directions.  \nReal remorse isn’t in the spine angle, it’s in the ego fracture."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035769931422416896"
+          ]
+        },
+        "author_id": "907034448205676544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1885840495550619650",
+              "name": "Chappell Roan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1885840495550619650",
+              "name": "Chappell Roan"
+            }
+          }
+        ],
+        "conversation_id": "2035770029392945268",
+        "created_at": "2026-03-22T17:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035770029392945268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Chappell Roan",
+              "probability": 0.9838,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyTZNDximk",
+              "end": 314,
+              "expanded_url": "https://x.com/fashionistaera/status/2035770029392945268/video/1",
+              "media_key": "13_2035769931422416896",
+              "start": 291,
+              "url": "https://t.co/UyTZNDximk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035770029392945268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 897,
+          "impression_count": 1269146,
+          "like_count": 16013,
+          "quote_count": 143,
+          "reply_count": 366,
+          "retweet_count": 863
+        },
+        "reply_settings": "everyone",
+        "text": "Chappell Roan’s apology about what happened to Jude laws daughter is ridiculous. \n\nIf ur sorry, sit up, speak properly &amp; apologize with some respect. Lying down &amp; recording a video like u don’t care is not an apology. \n\nThe body lang says everything. This felt fake &amp; entitled.🙄 https://t.co/UyTZNDximk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6320,
+          "following_count": 1817,
+          "like_count": 21668,
+          "listed_count": 27,
+          "media_count": 424,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-11T00:13:59.000Z",
+        "description": "Fashionista Era is all about fashion and entertainment news!  Follow me on YouTube -@fashionistaera TikTok & Instagram - @fashionistaera21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "fashionistaera"
+              },
+              {
+                "end": 138,
+                "start": 121,
+                "username": "fashionistaera21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@fashionistaera",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@fashionistaera",
+                "start": 0,
+                "url": "https://t.co/lccIhb76vj"
+              }
+            ]
+          }
+        },
+        "id": "907034448205676544",
+        "name": "Hanz",
+        "pinned_tweet_id": "2006465482682151198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981754546364792833/Uf7F_IuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7881,
+          "following_count": 201,
+          "like_count": 29878,
+          "listed_count": 10,
+          "media_count": 6800,
+          "tweet_count": 12237
+        },
+        "url": "https://t.co/lccIhb76vj",
+        "username": "fashionistaera",
+        "verified": false
+      }
+    ]
+  }
+}

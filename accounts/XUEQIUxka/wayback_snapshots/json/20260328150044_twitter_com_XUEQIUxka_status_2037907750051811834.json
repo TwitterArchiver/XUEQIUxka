@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037858940009267618",
+    "created_at": "2026-03-28T15:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037907750051811834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1305718816413020160",
+          "start": 0,
+          "username": "nvjishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037907750051811834",
+    "in_reply_to_user_id": "1305718816413020160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037858940009267618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvjishi 先看看自己有没有底线，没有就好挣钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037858940009267618",
+        "created_at": "2026-03-28T15:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037907750051811834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1305718816413020160",
+              "start": 0,
+              "username": "nvjishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037907750051811834",
+        "in_reply_to_user_id": "1305718816413020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037858940009267618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvjishi 先看看自己有没有底线，没有就好挣钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305718816413020160",
+        "conversation_id": "2037858940009267618",
+        "created_at": "2026-03-28T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037858940009267618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037858940009267618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前说空姐一年赚100万，我不相信\n\n今天遇到我初中同学，我相信了\n\n我记得张雪峰有一次直播连线“老师，我女儿成绩中等偏上，长得漂亮，身材也好，想报空乘专业，请问报哪个学校好？”\n\n张雪峰：“家长，如果她文化成绩能报其他学校，就尽量报其他学校。适合女生的好专业有很多。”\n\n妈妈：“可是她特别喜欢空乘专业，老师您觉得报哪个学校比较好呢？”\n\n张雪峰：“还是建议报其他专业吧，不一定要空乘。”\n\n妈妈：“她就是一心想报空乘，您指导一下吧。”\n\n张雪峰：“家长，你是真没听懂我的意思。空乘专业我不建议报！\n  \n如果非要报的话，你去问问你女儿——自己有没有底线，没有底线的话，就可以报。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 160292,
+          "like_count": 229,
+          "quote_count": 3,
+          "reply_count": 127,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "以前说空姐一年赚100万，我不相信\n\n今天遇到我初中同学，我相信了\n\n我记得张雪峰有一次直播连线“老师，我女儿成绩中等偏上，长得漂亮，身材也好，想报空乘专业，请问报哪个学校好？”\n\n张雪峰：“家长，如果她文化成绩能报其他学校，就尽量报其他学校。适合女生的好专业有很多。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6504,
+          "following_count": 1978,
+          "like_count": 22591,
+          "listed_count": 27,
+          "media_count": 468,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-15T04:03:29.000Z",
+        "description": "👉番号搜索工具 https://t.co/cFxYQXGW9x\n\n吃喝男模都是亏，唯有web3有来回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 31,
+                "expanded_url": "https://t.me/jisou?start=a_1384383866",
+                "start": 8,
+                "url": "https://t.co/cFxYQXGW9x"
+              }
+            ]
+          }
+        },
+        "id": "1305718816413020160",
+        "name": "女技师",
+        "pinned_tweet_id": "1698221614960460281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665701944495833088/pAi0XCij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55337,
+          "following_count": 11585,
+          "like_count": 20869,
+          "listed_count": 68,
+          "media_count": 726,
+          "tweet_count": 22041
+        },
+        "username": "nvjishi",
+        "verified": true
+      }
+    ]
+  }
+}

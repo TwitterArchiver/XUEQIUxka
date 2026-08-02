@@ -1,0 +1,759 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065320805962231808",
+        "3_2065320806813753344"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2065320809875616048",
+    "created_at": "2026-06-12T06:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065320809875616048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1720665183188922368",
+          "start": 20,
+          "username": "grok"
+        },
+        {
+          "end": 48,
+          "id": "1646839168310583296",
+          "start": 37,
+          "username": "tokio_8964"
+        },
+        {
+          "end": 56,
+          "id": "1900168705847500800",
+          "start": 49,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 74,
+          "id": "3166433062",
+          "start": 67,
+          "username": "lhn002"
+        },
+        {
+          "end": 89,
+          "id": "1440983154131488774",
+          "start": 75,
+          "username": "daisy38193824"
+        },
+        {
+          "end": 111,
+          "id": "361264488",
+          "start": 101,
+          "username": "mapleleaf"
+        },
+        {
+          "end": 125,
+          "id": "2059269142646325248",
+          "start": 112,
+          "username": "MapleLeafFYF"
+        },
+        {
+          "end": 137,
+          "id": "1646839168310583296",
+          "start": 126,
+          "username": "tokio_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mb3XLRukdT",
+          "end": 161,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2065320809875616048/photo/1",
+          "media_key": "3_2065320805962231808",
+          "start": 138,
+          "url": "https://t.co/Mb3XLRukdT"
+        },
+        {
+          "display_url": "pic.x.com/Mb3XLRukdT",
+          "end": 161,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2065320809875616048/photo/1",
+          "media_key": "3_2065320806813753344",
+          "start": 138,
+          "url": "https://t.co/Mb3XLRukdT"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2062796827964121209",
+          "start": 162,
+          "url": "https://t.co/ZtDSjHBT4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065320809875616048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 25,
+            "id": "1720665183188922368",
+            "start": 20,
+            "username": "grok"
+          },
+          {
+            "end": 48,
+            "id": "1646839168310583296",
+            "start": 37,
+            "username": "tokio_8964"
+          },
+          {
+            "end": 56,
+            "id": "1900168705847500800",
+            "start": 49,
+            "username": "wxb_NB"
+          },
+          {
+            "end": 74,
+            "id": "3166433062",
+            "start": 67,
+            "username": "Lhn002"
+          },
+          {
+            "end": 89,
+            "id": "1440983154131488774",
+            "start": 75,
+            "username": "daisy38193824"
+          },
+          {
+            "end": 111,
+            "id": "361264488",
+            "start": 101,
+            "username": "MapleLeaf"
+          },
+          {
+            "end": 125,
+            "id": "2059269142646325248",
+            "start": 112,
+            "username": "MapleLeafFYF"
+          },
+          {
+            "end": 137,
+            "id": "1646839168310583296",
+            "start": 126,
+            "username": "tokio_8964"
+          }
+        ]
+      },
+      "text": "已从点赞和转发列表公平开奖，包括评论，由@grok 抽出\n评论区中奖者：\n@tokio_8964\n@wxb_NB\n点赞区2个中奖者：\n@Lhn002\n@daisy38193824\n\r转发区2个中奖者：\n@MapleLeaf（@MapleLeafFYF\n@tokio_8964\n\r恭喜以上中奖，奖品于15个工作日发出，仅支持中国大陆地区包邮（西藏，新疆，青海，内蒙古，黑龙江以及港澳台地区/其他国家需自付邮费）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062796827964121209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已从点赞和转发列表公平开奖，包括评论，由@grok 抽出\n评论区中奖者：\n@tokio_8964\n@wxb_NB\n点赞区2个中奖者：\n@Lhn002\n@daisy38193824\n\r转发区2个中奖者：\n@MapleLeaf（@MapleLeafFYF\n@tokio_8964 https://t.co/Mb3XLRukdT https://t.co/ZtDSjHBT4H"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [lhn002].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lhn002",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lhn002"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2065320805962231808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl-VJqaMAAh8us.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2844,
+        "media_key": "3_2065320806813753344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl-VM1bYAADOq7.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062796816874360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCGxpmaUAAgifT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065320805962231808",
+            "3_2065320806813753344"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2065320809875616048",
+        "created_at": "2026-06-12T06:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065320809875616048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            },
+            {
+              "end": 48,
+              "id": "1646839168310583296",
+              "start": 37,
+              "username": "tokio_8964"
+            },
+            {
+              "end": 56,
+              "id": "1900168705847500800",
+              "start": 49,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 74,
+              "id": "3166433062",
+              "start": 67,
+              "username": "lhn002"
+            },
+            {
+              "end": 89,
+              "id": "1440983154131488774",
+              "start": 75,
+              "username": "daisy38193824"
+            },
+            {
+              "end": 111,
+              "id": "361264488",
+              "start": 101,
+              "username": "mapleleaf"
+            },
+            {
+              "end": 125,
+              "id": "2059269142646325248",
+              "start": 112,
+              "username": "MapleLeafFYF"
+            },
+            {
+              "end": 137,
+              "id": "1646839168310583296",
+              "start": 126,
+              "username": "tokio_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mb3XLRukdT",
+              "end": 161,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2065320809875616048/photo/1",
+              "media_key": "3_2065320805962231808",
+              "start": 138,
+              "url": "https://t.co/Mb3XLRukdT"
+            },
+            {
+              "display_url": "pic.x.com/Mb3XLRukdT",
+              "end": 161,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2065320809875616048/photo/1",
+              "media_key": "3_2065320806813753344",
+              "start": 138,
+              "url": "https://t.co/Mb3XLRukdT"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2062796827964121209",
+              "start": 162,
+              "url": "https://t.co/ZtDSjHBT4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065320809875616048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 25,
+                "id": "1720665183188922368",
+                "start": 20,
+                "username": "grok"
+              },
+              {
+                "end": 48,
+                "id": "1646839168310583296",
+                "start": 37,
+                "username": "tokio_8964"
+              },
+              {
+                "end": 56,
+                "id": "1900168705847500800",
+                "start": 49,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 74,
+                "id": "3166433062",
+                "start": 67,
+                "username": "Lhn002"
+              },
+              {
+                "end": 89,
+                "id": "1440983154131488774",
+                "start": 75,
+                "username": "daisy38193824"
+              },
+              {
+                "end": 111,
+                "id": "361264488",
+                "start": 101,
+                "username": "MapleLeaf"
+              },
+              {
+                "end": 125,
+                "id": "2059269142646325248",
+                "start": 112,
+                "username": "MapleLeafFYF"
+              },
+              {
+                "end": 137,
+                "id": "1646839168310583296",
+                "start": 126,
+                "username": "tokio_8964"
+              }
+            ]
+          },
+          "text": "已从点赞和转发列表公平开奖，包括评论，由@grok 抽出\n评论区中奖者：\n@tokio_8964\n@wxb_NB\n点赞区2个中奖者：\n@Lhn002\n@daisy38193824\n\r转发区2个中奖者：\n@MapleLeaf（@MapleLeafFYF\n@tokio_8964\n\r恭喜以上中奖，奖品于15个工作日发出，仅支持中国大陆地区包邮（西藏，新疆，青海，内蒙古，黑龙江以及港澳台地区/其他国家需自付邮费）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062796827964121209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已从点赞和转发列表公平开奖，包括评论，由@grok 抽出\n评论区中奖者：\n@tokio_8964\n@wxb_NB\n点赞区2个中奖者：\n@Lhn002\n@daisy38193824\n\r转发区2个中奖者：\n@MapleLeaf（@MapleLeafFYF\n@tokio_8964 https://t.co/Mb3XLRukdT https://t.co/ZtDSjHBT4H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062796816874360832"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2062796827964121209",
+        "created_at": "2026-06-05T07:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062796827964121209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gsptt53G13",
+              "end": 159,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2062796827964121209/photo/1",
+              "media_key": "3_2062796816874360832",
+              "start": 136,
+              "url": "https://t.co/Gsptt53G13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062796827964121209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13301,
+          "like_count": 166,
+          "quote_count": 3,
+          "reply_count": 104,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝8888fo\n揪6个小可爱送一份礼物\n奖品：定制周边小礼物一份（包含一份鱼板挂件&amp;一个禁止狗叫的套卡等）\n后续抽奖也会放在亮点，欢迎参加\n总计将抽出不少于90份奖品\n开奖时间为：2026年6月10日（UTC+8）22:00分开奖\n转发，点赞，评论，各抽出2个 https://t.co/Gsptt53G13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9045,
+          "following_count": 2385,
+          "like_count": 31688,
+          "listed_count": 25,
+          "media_count": 1900,
+          "tweet_count": 5970
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801668,
+          "following_count": 5,
+          "like_count": 104,
+          "listed_count": 6992,
+          "media_count": 9037822,
+          "tweet_count": 128693689
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T11:33:58.000Z",
+        "description": "🍥HRTing🍥🇹🇼立场🇹🇼互fo欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/hZqiEBXlHK"
+              }
+            ]
+          }
+        },
+        "id": "1646839168310583296",
+        "location": "Tungkun, Kwangtung",
+        "name": "トキオ🍥",
+        "pinned_tweet_id": "2063681652430086624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840973610821042176/RIqNhQQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 2203,
+          "like_count": 2435,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/hZqiEBXlHK",
+        "username": "tokio_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 /  我的世界里才是家 / 梗图爱好者 / 编程全靠AI /  作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 551,
+          "like_count": 11024,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜小号@fallin2624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "fallin2624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2060595280031240663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061869210842943488/9BfKk5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 667,
+          "like_count": 1631,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T14:28:25.000Z",
+        "description": "Maple Leaf is proud to be a part of feeding and nurturing the potential of Canadians with real, simple, and natural food. #RealMapleLeaf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 122,
+                "tag": "RealMapleLeaf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MapleLeaf.ca",
+                "end": 23,
+                "expanded_url": "http://www.MapleLeaf.ca",
+                "start": 0,
+                "url": "https://t.co/9DY4P29bDf"
+              }
+            ]
+          }
+        },
+        "id": "361264488",
+        "location": "Canada",
+        "name": "Maple Leaf®",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146465479596359680/ncEf9wfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21018,
+          "following_count": 2025,
+          "like_count": 6992,
+          "listed_count": 151,
+          "media_count": 1311,
+          "tweet_count": 11151
+        },
+        "url": "https://t.co/9DY4P29bDf",
+        "username": "mapleleaf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T13:43:59.000Z",
+        "description": "枫叶，生日12.18/想被得到重视却又不想打扰别人……/双相情感障碍（确诊心境障碍）/HRT🏳️‍⚧100＋天（无证含糖）/多意识体（ht系统，tulpa是小桃）/喜欢并热爱竞技/INTP/恋人：@DioCcc95326/不做乌合之众……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "DioCcc95326"
+              }
+            ]
+          }
+        },
+        "id": "2059269142646325248",
+        "name": "Maple Leaf🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059270075832807424/cEeD8WuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 43,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "MapleLeafFYF",
+        "verified": false
+      }
+    ]
+  }
+}

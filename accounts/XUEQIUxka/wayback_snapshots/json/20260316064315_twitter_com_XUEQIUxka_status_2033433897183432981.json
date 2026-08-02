@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2033408849596817775",
+    "created_at": "2026-03-16T06:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033433897183432981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908862033514393600",
+          "start": 0,
+          "username": "shengchu996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033433897183432981",
+    "in_reply_to_user_id": "1908862033514393600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033408849596817775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengchu996 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2033408849596817775",
+        "created_at": "2026-03-16T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033433897183432981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908862033514393600",
+              "start": 0,
+              "username": "shengchu996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033433897183432981",
+        "in_reply_to_user_id": "1908862033514393600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033408849596817775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengchu996 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908862033514393600",
+        "conversation_id": "2033408849596817775",
+        "created_at": "2026-03-16T05:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033408849596817775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "每日打卡"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "涨粉记录"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "蓝V坚持"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033408849596817775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V签到第258天\n成果汇报：粉丝从100涨到了1523\n平均每天涨2.67个\n预计第992天达到一万粉\n到那时候我的头发可能比粉丝掉得更快\n但没关系，秃头蓝V也是蓝V\n欢迎和我一起打卡。\n#每日打卡 #涨粉记录 #蓝V坚持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "家长党"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "MTF"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "HRT"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "Les"
+              },
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "双相"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ADHD"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6068,
+          "following_count": 1593,
+          "like_count": 21076,
+          "listed_count": 26,
+          "media_count": 355,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-06T12:39:21.000Z",
+        "description": "穿越周期，真实？\n记录自己所信仰的，记录自己操作的逻辑，有错有对，看个乐儿\n找好项目，特别是可以穿越周期的项目",
+        "id": "1908862033514393600",
+        "location": "上海",
+        "name": "胜初",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871175138336768/fX-TUraR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 1775,
+          "like_count": 565,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 256
+        },
+        "username": "shengchu996",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2067005798920679464",
+    "created_at": "2026-06-17T03:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067087716446347394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "124095672",
+          "start": 0,
+          "username": "suika1986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067087716446347394",
+    "in_reply_to_user_id": "124095672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067064372531495166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suika1986 不绝大多数还是贵单位("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2067005798920679464",
+        "created_at": "2026-06-17T03:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067087716446347394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "124095672",
+              "start": 0,
+              "username": "suika1986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067087716446347394",
+        "in_reply_to_user_id": "124095672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067064372531495166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suika1986 不绝大多数还是贵单位("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124095672",
+        "conversation_id": "2067005798920679464",
+        "created_at": "2026-06-17T01:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067064372531495166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067064372531495166",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4329,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067005798920679464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 這種「公對公」的公函不都是「你單位」麼？\n以前在國內經營公司的時候，收到各種公權單位的通知函都是「你單位」。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9252,
+          "following_count": 2402,
+          "like_count": 32272,
+          "listed_count": 26,
+          "media_count": 2021,
+          "tweet_count": 6175
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-18T07:09:28.000Z",
+        "description": "Gay／Cisgender／Blogger / Volunteer\n時代の過ち語り続ける、生き証人になろう。\nsans la liberté de blâmer, il n'est point d'éloge flatteur.\n一個一個偶像都不外如此，沉迷過的偶像一個個消失。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shinekid.com",
+                "end": 23,
+                "expanded_url": "https://shinekid.com/",
+                "start": 0,
+                "url": "https://t.co/3M3eGLvzR9"
+              }
+            ]
+          }
+        },
+        "id": "124095672",
+        "location": "Narashino, Chiba, Japan",
+        "name": "🏳️‍🌈Wesley Lee💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765929109690187776/Pa5ZA637_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 140,
+          "like_count": 1106,
+          "listed_count": 8,
+          "media_count": 450,
+          "tweet_count": 5709
+        },
+        "url": "https://t.co/3M3eGLvzR9",
+        "username": "suika1986",
+        "verified": false
+      }
+    ]
+  }
+}

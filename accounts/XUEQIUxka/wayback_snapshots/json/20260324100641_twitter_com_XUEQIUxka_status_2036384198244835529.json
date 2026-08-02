@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036384198244835529",
+    "created_at": "2026-03-24T10:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036384198244835529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1418758026912174082",
+          "start": 3,
+          "username": "ShouldHaveRabit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036384198244835529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036253863288906179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveRabit: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036253853558120452",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEI6F13aIAQGzwu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036384198244835529",
+        "created_at": "2026-03-24T10:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036384198244835529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1418758026912174082",
+              "start": 3,
+              "username": "ShouldHaveRabit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036384198244835529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036253863288906179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveRabit: ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036253853558120452"
+          ]
+        },
+        "author_id": "1418758026912174082",
+        "conversation_id": "2036253863288906179",
+        "created_at": "2026-03-24T01:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036253863288906179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T47uddUR4A",
+              "end": 227,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2036253863288906179/photo/1",
+              "media_key": "3_2036253853558120452",
+              "start": 204,
+              "url": "https://t.co/T47uddUR4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036253863288906179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 86259,
+          "like_count": 6343,
+          "quote_count": 55,
+          "reply_count": 7,
+          "retweet_count": 1582
+        },
+        "reply_settings": "everyone",
+        "text": "∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/T47uddUR4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 1823,
+          "like_count": 21760,
+          "listed_count": 27,
+          "media_count": 432,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T02:21:00.000Z",
+        "description": "Follow us daily bunny content.🐰❤️ DM for Credit/Remove.",
+        "id": "1418758026912174082",
+        "location": "Turn on notifs 🔔",
+        "name": "Why you should have a rabbit",
+        "pinned_tweet_id": "2026880114865361039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776546440682307584/CqVPSy6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152156,
+          "following_count": 888,
+          "like_count": 18039,
+          "listed_count": 406,
+          "media_count": 16499,
+          "tweet_count": 19957
+        },
+        "username": "ShouldHaveRabit",
+        "verified": true
+      }
+    ]
+  }
+}

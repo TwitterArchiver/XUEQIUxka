@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051252227470426114"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2051252231031382401",
+    "created_at": "2026-05-04T10:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051252231031382401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ag4AFE7APO",
+          "end": 28,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2051252231031382401/photo/1",
+          "media_key": "3_2051252227470426114",
+          "start": 5,
+          "url": "https://t.co/ag4AFE7APO"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2051245836651450520",
+          "start": 29,
+          "url": "https://t.co/R2YVngFZbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051252231031382401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051245836651450520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补张合照 https://t.co/ag4AFE7APO https://t.co/R2YVngFZbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_2051252227470426114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeDCGsagAIr8T9.jpg",
+        "width": 1888
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051245504521203712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd86xwacAAcZUT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051252227470426114"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2051252231031382401",
+        "created_at": "2026-05-04T10:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051252231031382401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag4AFE7APO",
+              "end": 28,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2051252231031382401/photo/1",
+              "media_key": "3_2051252227470426114",
+              "start": 5,
+              "url": "https://t.co/ag4AFE7APO"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2051245836651450520",
+              "start": 29,
+              "url": "https://t.co/R2YVngFZbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051252231031382401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051245836651450520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补张合照 https://t.co/ag4AFE7APO https://t.co/R2YVngFZbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051245504521203712"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2051245836651450520",
+        "created_at": "2026-05-04T10:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051245836651450520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 28,
+              "id": "2041449853213974528",
+              "start": 15,
+              "username": "xiaojiangnie"
+            },
+            {
+              "end": 45,
+              "id": "1809754445162639361",
+              "start": 29,
+              "username": "sakuraiharunana"
+            },
+            {
+              "end": 57,
+              "id": "1559214053024677890",
+              "start": 46,
+              "username": "SuMing5210"
+            },
+            {
+              "end": 67,
+              "id": "2033504930707996672",
+              "start": 58,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 77,
+              "id": "2024424705026117634",
+              "start": 68,
+              "username": "cavityuk"
+            },
+            {
+              "end": 85,
+              "id": "1900168705847500800",
+              "start": 78,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 95,
+              "id": "1943561677762646016",
+              "start": 86,
+              "username": "qusuunmd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8StPlrFqu",
+              "end": 119,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2051245836651450520/photo/1",
+              "media_key": "3_2051245504521203712",
+              "start": 96,
+              "url": "https://t.co/r8StPlrFqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051245836651450520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大贴贴\n@XUEQIUxka @xiaojiangnie @sakuraiharunana @SuMing5210 @Xyliaxka @cavityuk @wxb_NB @qusuunmd https://t.co/r8StPlrFqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8025,
+          "following_count": 2181,
+          "like_count": 28333,
+          "listed_count": 26,
+          "media_count": 1119,
+          "tweet_count": 4673
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

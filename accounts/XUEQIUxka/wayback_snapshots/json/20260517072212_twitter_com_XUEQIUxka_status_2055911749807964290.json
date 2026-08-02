@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055911749807964290",
+    "created_at": "2026-05-17T07:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055911749807964290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024424705026117634",
+          "start": 3,
+          "username": "cavityuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055911749807964290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055904827759300815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cavityuk: 这个周！\np1：雪秋酱的发型大变换！\np2：屿谙酱的上学记～\np3＆p4：小随笔！\n\n雪秋太貌美了做什么发型都好看！\n\nuu的嘴巴好好亲呀！！\n家母也没有责怪成绩\n\n屿谙的小鱼缸里装的都是大家！屿谙一直爱着大家！\n校园里的如意湖真的很美哦！\n雪秋→@…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "挑战发型不重样！之雪秋是大赢家！",
+        "height": 2048,
+        "media_key": "3_2055903571296870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgJZ8ubYAAzCjQ.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "这个周都困困捏",
+        "height": 2048,
+        "media_key": "3_2055904774240014336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgKf-CbEAAQ0SU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055903571502366721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgJZ9fbAAEBJV9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1888,
+        "media_key": "3_2055903571506548736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgJZ9ga0AAI7wT.jpg",
+        "width": 1348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055911749807964290",
+        "created_at": "2026-05-17T07:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055911749807964290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024424705026117634",
+              "start": 3,
+              "username": "cavityuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055911749807964290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055904827759300815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cavityuk: 这个周！\np1：雪秋酱的发型大变换！\np2：屿谙酱的上学记～\np3＆p4：小随笔！\n\n雪秋太貌美了做什么发型都好看！\n\nuu的嘴巴好好亲呀！！\n家母也没有责怪成绩\n\n屿谙的小鱼缸里装的都是大家！屿谙一直爱着大家！\n校园里的如意湖真的很美哦！\n雪秋→@…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055903571296870400",
+            "3_2055904774240014336",
+            "3_2055903571502366721",
+            "3_2055903571506548736"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2055904827759300815",
+        "created_at": "2026-05-17T06:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055904827759300815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 134,
+              "id": "1368897611672018953",
+              "start": 124,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 148,
+              "id": "1943561677762646016",
+              "start": 139,
+              "username": "qusuunmd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEiBWdzX9R",
+              "end": 172,
+              "expanded_url": "https://x.com/cavityuk/status/2055904827759300815/photo/1",
+              "media_key": "3_2055903571296870400",
+              "start": 149,
+              "url": "https://t.co/UEiBWdzX9R"
+            },
+            {
+              "display_url": "pic.x.com/UEiBWdzX9R",
+              "end": 172,
+              "expanded_url": "https://x.com/cavityuk/status/2055904827759300815/photo/1",
+              "media_key": "3_2055904774240014336",
+              "start": 149,
+              "url": "https://t.co/UEiBWdzX9R"
+            },
+            {
+              "display_url": "pic.x.com/UEiBWdzX9R",
+              "end": 172,
+              "expanded_url": "https://x.com/cavityuk/status/2055904827759300815/photo/1",
+              "media_key": "3_2055903571502366721",
+              "start": 149,
+              "url": "https://t.co/UEiBWdzX9R"
+            },
+            {
+              "display_url": "pic.x.com/UEiBWdzX9R",
+              "end": 172,
+              "expanded_url": "https://x.com/cavityuk/status/2055904827759300815/photo/1",
+              "media_key": "3_2055903571506548736",
+              "start": 149,
+              "url": "https://t.co/UEiBWdzX9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055904827759300815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个周！\np1：雪秋酱的发型大变换！\np2：屿谙酱的上学记～\np3＆p4：小随笔！\n\n雪秋太貌美了做什么发型都好看！\n\nuu的嘴巴好好亲呀！！\n家母也没有责怪成绩\n\n屿谙的小鱼缸里装的都是大家！屿谙一直爱着大家！\n校园里的如意湖真的很美哦！\n雪秋→@XUEQIUxka \nUU→@qusuunmd https://t.co/UEiBWdzX9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8507,
+          "following_count": 2205,
+          "like_count": 29891,
+          "listed_count": 26,
+          "media_count": 1449,
+          "tweet_count": 5213
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi\n女朋友❤️：@qusuunmd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 30,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 172
+        },
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045908939909550080"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2045908942208037249",
+    "created_at": "2026-04-19T16:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045908942208037249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "1368897611672018953",
+          "start": 61,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/izbRap9ely",
+          "end": 142,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2045908942208037249/photo/1",
+          "media_key": "3_2045908939909550080",
+          "start": 119,
+          "url": "https://t.co/izbRap9ely"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2045112121009340881",
+          "start": 143,
+          "url": "https://t.co/BHZjUOOe18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045908942208037249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 71,
+            "id": "1368897611672018953",
+            "start": 61,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 198,
+            "id": "1753293214826848256",
+            "start": 187,
+            "username": "tatanakots"
+          },
+          {
+            "end": 225,
+            "id": "2044896801497509888",
+            "start": 214,
+            "username": "hasmiku520"
+          },
+          {
+            "end": 255,
+            "id": "1857802986837172224",
+            "start": 241,
+            "username": "LingJiaXin233"
+          }
+        ]
+      },
+      "text": "抽奖结果新鲜出炉啦！  我已经仔细看了你上传的三张截图（评论区、转帖人、被喜欢），提取了纯净无重复的参与列表（已排除你自己@XUEQIUxka\n 和明显垃圾信息）：评论：18位独特用户  \n转发：19位独特用户  \n点赞：56位独特用户\n\n按照你的要求——转发、点赞、评论各抽1个，我用Python随机抽取（已设置可复现种子，公平透明），结果如下： 中奖小可爱是：评论区：\n@tatanakots\n （たたたこ）  \n转发区： @hasmiku520\n （Puuki）  \n点赞区：@LingJiaXin233\n （凌嘉欣）\n\n恭喜三位中奖～ 每人一份定制周边小礼物！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045112121009340881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽奖结果新鲜出炉啦！  我已经仔细看了你上传的三张截图（评论区、转帖人、被喜欢），提取了纯净无重复的参与列表（已排除你自己@XUEQIUxka\n 和明显垃圾信息）：评论：18位独特用户  \n转发：19位独特用户  \n点赞：56位独特用户 https://t.co/izbRap9ely https://t.co/BHZjUOOe18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045908939909550080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSHV1Ya0AATD7p.jpg",
+        "width": 993
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2045106233364082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGtSKeacAApHM6.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045908939909550080"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2045908942208037249",
+        "created_at": "2026-04-19T16:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045908942208037249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1368897611672018953",
+              "start": 61,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izbRap9ely",
+              "end": 142,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045908942208037249/photo/1",
+              "media_key": "3_2045908939909550080",
+              "start": 119,
+              "url": "https://t.co/izbRap9ely"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2045112121009340881",
+              "start": 143,
+              "url": "https://t.co/BHZjUOOe18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045908942208037249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 71,
+                "id": "1368897611672018953",
+                "start": 61,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 198,
+                "id": "1753293214826848256",
+                "start": 187,
+                "username": "tatanakots"
+              },
+              {
+                "end": 225,
+                "id": "2044896801497509888",
+                "start": 214,
+                "username": "hasmiku520"
+              },
+              {
+                "end": 255,
+                "id": "1857802986837172224",
+                "start": 241,
+                "username": "LingJiaXin233"
+              }
+            ]
+          },
+          "text": "抽奖结果新鲜出炉啦！  我已经仔细看了你上传的三张截图（评论区、转帖人、被喜欢），提取了纯净无重复的参与列表（已排除你自己@XUEQIUxka\n 和明显垃圾信息）：评论：18位独特用户  \n转发：19位独特用户  \n点赞：56位独特用户\n\n按照你的要求——转发、点赞、评论各抽1个，我用Python随机抽取（已设置可复现种子，公平透明），结果如下： 中奖小可爱是：评论区：\n@tatanakots\n （たたたこ）  \n转发区： @hasmiku520\n （Puuki）  \n点赞区：@LingJiaXin233\n （凌嘉欣）\n\n恭喜三位中奖～ 每人一份定制周边小礼物！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045112121009340881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结果新鲜出炉啦！  我已经仔细看了你上传的三张截图（评论区、转帖人、被喜欢），提取了纯净无重复的参与列表（已排除你自己@XUEQIUxka\n 和明显垃圾信息）：评论：18位独特用户  \n转发：19位独特用户  \n点赞：56位独特用户 https://t.co/izbRap9ely https://t.co/BHZjUOOe18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045106233364082688"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2045112121009340881",
+        "created_at": "2026-04-17T12:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:44:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045106235918405960",
+          "2045112121009340881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIHbGydZ4Z",
+              "end": 180,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045112121009340881/photo/1",
+              "media_key": "3_2045106233364082688",
+              "start": 157,
+              "url": "https://t.co/HIHbGydZ4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045112121009340881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3350,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第八弹！\n闲鱼同步上架 giffgaff 直接拍信封即可，可代激活\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份（不含卡）\n总计将抽出不少于60份奖品\n开奖时间为：2026年4月20日（UTC+8）21:00分开奖\n转发或点赞或评论，均可参与\n如果抽不到也可以去我的闲鱼买？\n眼熟的直接找我黑幕就好了 https://t.co/HIHbGydZ4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 2138,
+          "like_count": 26560,
+          "listed_count": 27,
+          "media_count": 772,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 393,
+          "like_count": 27245,
+          "listed_count": 6,
+          "media_count": 1672,
+          "tweet_count": 12181
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:53:12.000Z",
+        "description": "感谢关注喵！|2009.12.22|浙江 温州|信竞小菜喵\n高一物化技desu|关注滴咱都会回关desuwa！|家长反对党\n探索X中喵w|《云律茶馆》游戏制作喵|割手手喵w\n菜菜音游入｜ＰＪＳＫ\n不讨论政治喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroawa.top",
+                "end": 23,
+                "expanded_url": "https://hiroawa.top/",
+                "start": 0,
+                "url": "https://t.co/ZnEypkfQdT"
+              }
+            ]
+          }
+        },
+        "id": "2044896801497509888",
+        "location": "浙江省",
+        "name": "Puuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044897193967190016/SOBDwJyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 136,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/ZnEypkfQdT",
+        "username": "hasmiku520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2045080563636396502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 584,
+          "like_count": 14373,
+          "listed_count": 9,
+          "media_count": 794,
+          "tweet_count": 3651
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

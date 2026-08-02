@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1790609633700442112",
+        "3_1790609641115971584",
+        "3_1790609646476316672",
+        "3_1790609641128476672"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1790609649529704602",
+    "created_at": "2024-05-15T05:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T06:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790609649529704602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/jf5r0gUTSD",
+          "end": 70,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/1790609649529704602/photo/1",
+          "media_key": "3_1790609633700442112",
+          "start": 47,
+          "url": "https://t.co/jf5r0gUTSD"
+        },
+        {
+          "display_url": "pic.twitter.com/jf5r0gUTSD",
+          "end": 70,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/1790609649529704602/photo/1",
+          "media_key": "3_1790609641115971584",
+          "start": 47,
+          "url": "https://t.co/jf5r0gUTSD"
+        },
+        {
+          "display_url": "pic.twitter.com/jf5r0gUTSD",
+          "end": 70,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/1790609649529704602/photo/1",
+          "media_key": "3_1790609646476316672",
+          "start": 47,
+          "url": "https://t.co/jf5r0gUTSD"
+        },
+        {
+          "display_url": "pic.twitter.com/jf5r0gUTSD",
+          "end": 70,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/1790609649529704602/photo/1",
+          "media_key": "3_1790609641128476672",
+          "start": 47,
+          "url": "https://t.co/jf5r0gUTSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790609649529704602",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老娘n年前就没有蛋蛋了，别tm造谣我透人，你有本事造谣你倒是还我蛋蛋啊\n配图为蛋蛋，血腥暴力 https://t.co/jf5r0gUTSD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790609649529704602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790609649529704602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790609649529704602"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1790609633700442112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNmF-YwbcAA9pQa.jpg",
+        "width": 1176
+      },
+      {
+        "height": 1198,
+        "media_key": "3_1790609641115971584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNmF-0YbcAAZ5a4.jpg",
+        "width": 1176
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1790609646476316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNmF_IWb0AAsYYy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1790609641128476672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNmF-0baQAASm_4.jpg",
+        "width": 970
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1790096166039810501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 1512,
+          "like_count": 19279,
+          "listed_count": 17,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

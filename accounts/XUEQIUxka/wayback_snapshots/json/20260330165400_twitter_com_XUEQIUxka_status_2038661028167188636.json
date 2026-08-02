@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038653784877117867",
+    "created_at": "2026-03-30T16:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038661028167188636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038661028167188636",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038653784877117867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever 可是她真的很阳光啊，她的未来一定会变得很好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_2038652462803083265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq_nRnaYAEjPc3.jpg",
+        "width": 640
+      },
+      {
+        "height": 360,
+        "media_key": "3_2038652504637046784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq_ptdaAAAe1W-.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038653784877117867",
+        "created_at": "2026-03-30T16:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038661028167188636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038661028167188636",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038653784877117867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 可是她真的很阳光啊，她的未来一定会变得很好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038652462803083265",
+            "3_2038652504637046784"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2038653784877117867",
+        "created_at": "2026-03-30T16:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038653784877117867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU6Xuy68nF",
+              "end": 93,
+              "expanded_url": "https://x.com/DDaquaforever/status/2038653784877117867/photo/1",
+              "media_key": "3_2038652462803083265",
+              "start": 70,
+              "url": "https://t.co/LU6Xuy68nF"
+            },
+            {
+              "display_url": "pic.x.com/LU6Xuy68nF",
+              "end": 93,
+              "expanded_url": "https://x.com/DDaquaforever/status/2038653784877117867/photo/1",
+              "media_key": "3_2038652504637046784",
+              "start": 70,
+              "url": "https://t.co/LU6Xuy68nF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038653784877117867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小红猪有一个奇怪的热帖。一位巴黎女留学生，买了六个柠檬，吃不完想出二手，打算卖掉其中两枚，但要求必须在一个指定的、遥远的地铁站内交易。\n.\n她保证柠檬很新鲜，很大，还细心教导，柠檬可以用来泡水，泡雪碧。结果大家看完笑吐了，纷纷在下面搞抽象，说疯了，二手柠檬都要卖，你干脆1500欧包邮好了，吃不完直接扔掉啊。\n女孩又编辑几次了帖子，然后说，我刚才没看懂为什么大家会笑我。现在才明白过来了，来留学的很多人是不会为节约一点点钱，花费时间去买二手柠檬的。\n但我身边不一样。有人会为节约几块钱，舍不得坐公交，步行很久很久。\n也会有人要计算着吃柠檬，还怕后面的坏掉，必须赶紧出二手。\n但这两个柠檬不卖了，有人告诉我可以放冰箱，能保存很久。这是我来法国当交换生，学到的第一件事。谢谢大家。\n我突然感觉有一些被击中。于是点开了她的主页。\n女孩是贵州遵义人，本硕985，优秀毕业生，有国家级比赛奖项，拿新生奖学金、优秀学业奖学金、国励奖学金——也就意味着，她是国家认定的困难优秀学生。\n她大概快要毕业，在2025年10月连续发帖，询问关于工作方向的事，她说很想回遵义。但不知道为什么兜兜转转，突然在12月去往了巴黎。\n女孩把小红猪当成日记，写下自己的交换生日常。但她似乎什么都不懂。\n她看到巴黎的中餐厅结账台有一个小碗，里面有好多欧元硬币，惊讶地问服务员，你们把钱放在这里，不怕被人拿吗。\n服务员说，那是放小费的地方。\n她有一张照片，里面只有一碗白饭，一碗土豆丝，一碗炒莲花白。配文说，今天在妈妈的视频指导下自己做了饭，非常好吃，妈妈是世界上最好的人。\n有网友给她留言，说姐妹你要多吃肉蛋奶。异国他乡自己保重身体。\n她回复说，好！但好像从来没有吃过肉蛋奶，等我搜搜攻略就去做。\n她甚至不知道肉，蛋，奶是三种分开的东西，以为是一道菜。网友又细心给她解释，她才恍然大悟。\n这样一个来自遵义困难家庭的女孩啊，是怎样飘飘荡荡地去到巴黎。她是那样懵懂无知，会有多少新东西向她涌去，这会是多么丰满，刺激，又快乐的事。\n女孩发了一张巴黎窗外的景色，说，我好喜欢这里。\n.\n.\n.\n退出女孩的主页，刚好看到那位牢A大师，又在发布重要观点：\n女留学生啊，一出国就总喜欢让外国人玩，三通一达嘛，就是女孩会把全身所有能用的孔，都拿给外国人捅。\n很多人听完亢奋了，冲去众多女留学生的主页，要求她们自证清白。\n我不知道该如何评价。同一个世界，简单的人看到简单，璀璨的人看到璀璨。你看到的世界，也许就是你的自画像。\n阴沟里的声音一直很喧嚣。它们习惯用最低成本的想象，去污蔑别人的人生，以此获得一些廉价卑微的狂欢。\n但没关系的。因为我知道，有一位遵义的女孩，正躺在巴黎小小的房间里，她会望着窗户说，我好喜欢这里。我也知道的，那些和她一样闪着金光的人正奔向未来。未来是属于好人的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 105,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小红猪有一个奇怪的热帖。一位巴黎女留学生，买了六个柠檬，吃不完想出二手，打算卖掉其中两枚，但要求必须在一个指定的、遥远的地铁站内交易。\n. https://t.co/LU6Xuy68nF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6597,
+          "following_count": 2006,
+          "like_count": 23197,
+          "listed_count": 27,
+          "media_count": 489,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4165,
+          "following_count": 4681,
+          "like_count": 8028,
+          "listed_count": 12,
+          "media_count": 2824,
+          "tweet_count": 13162
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042200342839062814",
+    "created_at": "2026-04-10T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042483156037812276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1691056639804399616",
+          "start": 0,
+          "username": "XXY177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042483156037812276",
+    "in_reply_to_user_id": "1691056639804399616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042200342839062814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXY177 这就是为什么很多人不敢谈恋爱和结婚的原因"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33459,
+        "height": 816,
+        "media_key": "13_2041909953255096320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041909953255096320/img/3lIl3NaFyEE0s8if.jpg",
+        "public_metrics": {
+          "view_count": 4832264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041909953255096320/vid/avc1/356x270/GvieBk_NIAemtOJL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041909953255096320/vid/avc1/476x360/Fwk5nhyvr0M-hFww.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041909953255096320/vid/avc1/952x720/rE_QyUWG9Y8OCxeH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041909953255096320/pl/k6br07pqCXrG_A5l.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042200342839062814",
+        "created_at": "2026-04-10T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042483156037812276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1691056639804399616",
+              "start": 0,
+              "username": "XXY177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042483156037812276",
+        "in_reply_to_user_id": "1691056639804399616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042200342839062814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXY177 这就是为什么很多人不敢谈恋爱和结婚的原因"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041909953255096320"
+          ],
+          "media_source_tweet_id": [
+            "2041910005193224685"
+          ]
+        },
+        "author_id": "1691056639804399616",
+        "conversation_id": "2042200342839062814",
+        "created_at": "2026-04-09T11:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042200342839062814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0I1Xerp9l2",
+              "end": 52,
+              "expanded_url": "https://x.com/FilosofiaStoica/status/2041910005193224685/video/1",
+              "media_key": "13_2041909953255096320",
+              "start": 29,
+              "url": "https://t.co/0I1Xerp9l2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042200342839062814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2101,
+          "impression_count": 4212458,
+          "like_count": 16826,
+          "quote_count": 249,
+          "reply_count": 947,
+          "retweet_count": 593
+        },
+        "reply_settings": "everyone",
+        "text": "这才是中国女性，被打了会反抗反击，拿起扳手就是往死里敲🔨 https://t.co/0I1Xerp9l2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 2037,
+          "like_count": 24778,
+          "listed_count": 27,
+          "media_count": 608,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-14T11:58:33.000Z",
+        "description": "90后投资者、2013老韭菜｜BTC矿工、矿场主｜推崇：价值投资、巴菲特、段永平、芒格 ｜研究：美女、美股、加密、A股、AI、人性…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/vio",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/vio",
+                "start": 0,
+                "url": "https://t.co/MipaDf98sX"
+              }
+            ]
+          }
+        },
+        "id": "1691056639804399616",
+        "location": "Hong Kong",
+        "name": "夏雪宜",
+        "pinned_tweet_id": "2041179830138613935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999861750355955712/CmsGGVzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73542,
+          "following_count": 753,
+          "like_count": 17029,
+          "listed_count": 270,
+          "media_count": 3073,
+          "tweet_count": 23393
+        },
+        "url": "https://t.co/MipaDf98sX",
+        "username": "XXY177",
+        "verified": true
+      }
+    ]
+  }
+}

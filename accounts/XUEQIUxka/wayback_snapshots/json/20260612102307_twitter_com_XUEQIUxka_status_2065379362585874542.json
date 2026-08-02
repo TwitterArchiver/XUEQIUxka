@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2065368484062896275",
+    "created_at": "2026-06-12T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065379362585874542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        },
+        {
+          "end": 25,
+          "id": "1810873766119100416",
+          "start": 10,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 34,
+          "id": "2550494587",
+          "start": 26,
+          "username": "vu_yoyo"
+        },
+        {
+          "end": 45,
+          "id": "1676634704878129152",
+          "start": 35,
+          "username": "AotraWong"
+        },
+        {
+          "end": 62,
+          "id": "1393373599579267073",
+          "start": 46,
+          "username": "Ilikesleepinghh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065379362585874542",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065368484062896275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 @RainEngine2024 @vu_yoyo @AotraWong @Ilikesleepinghh 我也想去，呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2065368465847046144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmprUkbUAAY9FM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2065368484062896275",
+        "created_at": "2026-06-12T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379362585874542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            },
+            {
+              "end": 25,
+              "id": "1810873766119100416",
+              "start": 10,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 34,
+              "id": "2550494587",
+              "start": 26,
+              "username": "vu_yoyo"
+            },
+            {
+              "end": 45,
+              "id": "1676634704878129152",
+              "start": 35,
+              "username": "AotraWong"
+            },
+            {
+              "end": 62,
+              "id": "1393373599579267073",
+              "start": 46,
+              "username": "Ilikesleepinghh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379362585874542",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065368484062896275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 @RainEngine2024 @vu_yoyo @AotraWong @Ilikesleepinghh 我也想去，呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065368465847046144"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065368484062896275",
+        "created_at": "2026-06-12T09:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065368484062896275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4uTBR8pDf",
+              "end": 30,
+              "expanded_url": "https://x.com/Poca2381/status/2065368484062896275/photo/1",
+              "media_key": "3_2065368465847046144",
+              "start": 7,
+              "url": "https://t.co/X4uTBR8pDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065368484062896275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来咱家玩 https://t.co/X4uTBR8pDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9059,
+          "following_count": 2386,
+          "like_count": 31726,
+          "listed_count": 25,
+          "media_count": 1903,
+          "tweet_count": 5981
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21762,
+          "following_count": 9256,
+          "like_count": 152112,
+          "listed_count": 52,
+          "media_count": 4739,
+          "tweet_count": 51249
+        },
+        "username": "Poca2381",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10490,
+          "following_count": 958,
+          "like_count": 93610,
+          "listed_count": 25,
+          "media_count": 1891,
+          "tweet_count": 13133
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-06T16:48:56.000Z",
+        "description": "住在香港的非常孤獨的MTF，很需要人陪…… /人工智能和全棧工程師/Research Assistant of HKUST/很溫順的！打遊戲從不罵人 /仍未srs的大齡MTF /外觀完全不pass/超級喜歡黑暗系的衣服！YOYO最愛的兔兔大傻逼：@DDaquaforever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "DDaquaforever"
+              }
+            ]
+          }
+        },
+        "id": "2550494587",
+        "location": "HongKong",
+        "name": "VU yoyo～🏳️‍⚧️",
+        "pinned_tweet_id": "1884209970608234573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632352012879933443/QEWl4dAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1098,
+          "like_count": 3504,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 1067
+        },
+        "username": "vu_yoyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "芷姗 | 也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1089,
+          "like_count": 23268,
+          "listed_count": 5,
+          "media_count": 461,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T01:12:37.000Z",
+        "description": "可以叫我婉星\n08 | mtf |🍥since25.3.5 \n雷霆高中|傻福选科| IMSB |中中混血|生仔未必就是福 | 恩格尔系数💯 |华籍美人👄 📍厂东东完 📱OPPO A5（无SIM）🍻德智体美劳 想吃麦当劳🍔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/uY9ukwfRFh"
+              }
+            ]
+          }
+        },
+        "id": "1393373599579267073",
+        "location": "127.0.0.1",
+        "name": "好想睡够24小时啊啊啊啊啊🍥",
+        "pinned_tweet_id": "1921106684644110662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020110133645529088/GWrkohlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 281,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/uY9ukwfRFh",
+        "username": "Ilikesleepinghh",
+        "verified": false
+      }
+    ]
+  }
+}

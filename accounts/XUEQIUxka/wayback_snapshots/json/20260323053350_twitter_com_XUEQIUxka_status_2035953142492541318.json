@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035686556980453380",
+    "created_at": "2026-03-23T05:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035953142492541318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669608992719654917",
+          "start": 0,
+          "username": "CryptoMaster_70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035953142492541318",
+    "in_reply_to_user_id": "1669608992719654917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035686556980453380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoMaster_70 马斯克选择了购买\n千问选择了投诉，腾讯选择站在对立面，假设千问是腾讯的，那么就不会出现这个问题了了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2035686547576758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEA2ISZaoAAaSIu.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2035686547757101056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEA2ITEacAAxzzD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035686556980453380",
+        "created_at": "2026-03-23T05:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035953142492541318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669608992719654917",
+              "start": 0,
+              "username": "CryptoMaster_70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035953142492541318",
+        "in_reply_to_user_id": "1669608992719654917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035686556980453380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoMaster_70 马斯克选择了购买\n千问选择了投诉，腾讯选择站在对立面，假设千问是腾讯的，那么就不会出现这个问题了了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035686547576758272",
+            "3_2035686547757101056"
+          ]
+        },
+        "author_id": "1669608992719654917",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035686556980453380",
+        "created_at": "2026-03-22T11:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035686556980453380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kn1vAxNP9u",
+              "end": 62,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2035686556980453380/photo/1",
+              "media_key": "3_2035686547576758272",
+              "start": 39,
+              "url": "https://t.co/Kn1vAxNP9u"
+            },
+            {
+              "display_url": "pic.x.com/Kn1vAxNP9u",
+              "end": 62,
+              "expanded_url": "https://x.com/CryptoMaster_70/status/2035686556980453380/photo/1",
+              "media_key": "3_2035686547757101056",
+              "start": 39,
+              "url": "https://t.co/Kn1vAxNP9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035686556980453380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 462977,
+          "like_count": 506,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "非常nice，马斯克拿下了这个域名。\n为这位兄弟高兴，和马斯克做了一笔交易。 https://t.co/Kn1vAxNP9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21649,
+          "listed_count": 27,
+          "media_count": 421,
+          "tweet_count": 2111
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T07:33:40.000Z",
+        "description": "Master in MIS.\nStock, Crypto trader, ex-SW engineer. \n以前是碼農，後來是操盤手，現在是全職小丑 \n在透明的區塊鏈裡，你我都在裸奔\n\n大號沒了, 穢土轉生再出發",
+        "id": "1669608992719654917",
+        "location": "moon",
+        "name": "Master | 最強打野(穢土轉生)",
+        "pinned_tweet_id": "1774076142313668661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748982365152784384/vxAfgPmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6848,
+          "following_count": 1007,
+          "like_count": 3247,
+          "listed_count": 51,
+          "media_count": 2037,
+          "tweet_count": 8193
+        },
+        "username": "CryptoMaster_70",
+        "verified": true
+      }
+    ]
+  }
+}

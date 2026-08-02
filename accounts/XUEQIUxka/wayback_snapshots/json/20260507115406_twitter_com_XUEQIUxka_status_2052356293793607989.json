@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2052246683447337179",
+    "created_at": "2026-05-07T11:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052356293793607989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1897929594956922885",
+          "start": 0,
+          "username": "jeyiqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052356293793607989",
+    "in_reply_to_user_id": "1897929594956922885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052246683447337179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeyiqi 超级好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2052246683447337179",
+        "created_at": "2026-05-07T11:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052356293793607989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1897929594956922885",
+              "start": 0,
+              "username": "jeyiqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052356293793607989",
+        "in_reply_to_user_id": "1897929594956922885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052246683447337179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeyiqi 超级好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897929594956922885",
+        "conversation_id": "2052246683447337179",
+        "created_at": "2026-05-07T04:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052246683447337179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2051881641987944717",
+              "start": 12,
+              "url": "https://t.co/DE5dNWmIoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052246683447337179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051881641987944717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个苹果片真是权威权威 https://t.co/DE5dNWmIoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8182,
+          "following_count": 2187,
+          "like_count": 28888,
+          "listed_count": 26,
+          "media_count": 1191,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T08:37:41.000Z",
+        "description": "自由二棒/女的 吐黑泥预警 bi 激女勿来",
+        "id": "1897929594956922885",
+        "name": "分割线",
+        "pinned_tweet_id": "2002255516131893381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009206773518094337/rf_G1GnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 326,
+          "like_count": 6101,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1289
+        },
+        "username": "jeyiqi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042455574919643136"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042431907087241337",
+    "created_at": "2026-04-10T04:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042455581345329247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zM2zvcwWIn",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2042455581345329247/photo/1",
+          "media_key": "3_2042455574919643136",
+          "start": 16,
+          "url": "https://t.co/zM2zvcwWIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042455581345329247",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042431907087241337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 伪人也是没招了 https://t.co/zM2zvcwWIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042455574919643136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhChiSaAAAmsqQ.jpg",
+        "width": 907
+      },
+      {
+        "height": 758,
+        "media_key": "3_2042431398343278592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgsiRhbAAAWd6G.png",
+        "width": 734
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2042431420233367552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgsjjEbQAAX0FN.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042455574919643136"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042431907087241337",
+        "created_at": "2026-04-10T04:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042455581345329247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zM2zvcwWIn",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2042455581345329247/photo/1",
+              "media_key": "3_2042455574919643136",
+              "start": 16,
+              "url": "https://t.co/zM2zvcwWIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042455581345329247",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042431907087241337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 伪人也是没招了 https://t.co/zM2zvcwWIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042431398343278592",
+            "3_2042431420233367552"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2042431907087241337",
+        "created_at": "2026-04-10T02:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042431907087241337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QGq89VnzZ",
+              "end": 141,
+              "expanded_url": "https://x.com/_FORAB/status/2042431907087241337/photo/1",
+              "media_key": "3_2042431398343278592",
+              "start": 118,
+              "url": "https://t.co/0QGq89VnzZ"
+            },
+            {
+              "display_url": "pic.x.com/0QGq89VnzZ",
+              "end": 141,
+              "expanded_url": "https://x.com/_FORAB/status/2042431907087241337/photo/1",
+              "media_key": "3_2042431420233367552",
+              "start": 118,
+              "url": "https://t.co/0QGq89VnzZ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4ad3383e25ac98d9"
+        },
+        "id": "2042431907087241337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 39988,
+          "like_count": 117,
+          "quote_count": 4,
+          "reply_count": 54,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一夜之间，SBTI 彻底在中文区火了。\n\n相比于传统的 MBTI，16 型人格测试，它的问题和解析更加的直接和犀利，很多人测完后，会显示你是吗喽、小丑、愤世者等抽象结果。\n\n各大中文平台已经刷屏，感兴趣的搜 SBTI Unun Dev https://t.co/0QGq89VnzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6807,
+          "following_count": 2034,
+          "like_count": 24753,
+          "listed_count": 27,
+          "media_count": 608,
+          "tweet_count": 3281
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114158,
+          "following_count": 594,
+          "like_count": 9960,
+          "listed_count": 1889,
+          "media_count": 3045,
+          "tweet_count": 13888
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045882921769390492",
+    "created_at": "2026-04-20T04:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046077575660028376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1501610837655568388",
+          "start": 0,
+          "username": "Lance10t0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046077575660028376",
+    "in_reply_to_user_id": "1501610837655568388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046014384355602701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lance10t0831 现在暂停了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045882921769390492",
+        "created_at": "2026-04-20T04:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046077575660028376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501610837655568388",
+              "start": 0,
+              "username": "Lance10t0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046077575660028376",
+        "in_reply_to_user_id": "1501610837655568388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046014384355602701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lance10t0831 现在暂停了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501610837655568388",
+        "conversation_id": "2045882921769390492",
+        "created_at": "2026-04-19T23:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046014384355602701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046014384355602701",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045882921769390492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 兴业那个还能定制卡面吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7174,
+          "following_count": 2136,
+          "like_count": 26568,
+          "listed_count": 27,
+          "media_count": 784,
+          "tweet_count": 3972
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-09T17:28:24.000Z",
+        "description": "CS计科/CS网络空间安全 出身\nFull-Time Bug Bounty Hunter\n这辈子最喜欢的是Ruby&on rails\n同时专注车联网与固件安全\n学得很杂\n想靠挖漏洞在3年内赚够150K USD\n截至（目前已经50K）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hackerone.com/lance10t",
+                "end": 23,
+                "expanded_url": "https://hackerone.com/lance10t",
+                "start": 0,
+                "url": "https://t.co/PJtkrBL1kx"
+              }
+            ]
+          }
+        },
+        "id": "1501610837655568388",
+        "location": "Macau",
+        "name": "Lance10t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827424967715151872/iybMorNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 219,
+          "like_count": 2055,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/PJtkrBL1kx",
+        "username": "Lance10t0831",
+        "verified": false
+      }
+    ]
+  }
+}

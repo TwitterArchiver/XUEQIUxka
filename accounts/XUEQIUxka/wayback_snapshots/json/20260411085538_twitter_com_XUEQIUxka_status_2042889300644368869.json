@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042856215836004439",
+    "created_at": "2026-04-11T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042889300644368869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1101421030352936961",
+          "start": 0,
+          "username": "SteveHotspots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042889300644368869",
+    "in_reply_to_user_id": "1101421030352936961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042856215836004439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SteveHotspots 感觉弊大于利，希望能改\n发里原创内容，但是也不见得有很多人会看啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042856215836004439",
+        "created_at": "2026-04-11T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042889300644368869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1101421030352936961",
+              "start": 0,
+              "username": "SteveHotspots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042889300644368869",
+        "in_reply_to_user_id": "1101421030352936961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042856215836004439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SteveHotspots 感觉弊大于利，希望能改\n发里原创内容，但是也不见得有很多人会看啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1101421030352936961",
+        "conversation_id": "2042856215836004439",
+        "created_at": "2026-04-11T06:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042856215836004439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042856215836004439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这次调整x收益的规则产生了很深远的影响\n一是新人大概率不会去开蓝V\n二是一大波准备开premium+的直接放弃了\n不管规则怎么变\n我相信很长时间都不会再去尝试了\n\n近的来说中文区整体收益都会下降\n远的来说大家互动的意愿下降了\n很多很努力的人多少是要给些的\n这可好，一棒子透支了X未来的潜力\n\n产品经理还是太年轻了\n究竟有多少人会需要你的原创内容呢？\n有多少人需要你的垂直创作？\n先扪心自问一下\n大部分人来这里是为了什么？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次调整x收益的规则产生了很深远的影响\n一是新人大概率不会去开蓝V\n二是一大波准备开premium+的直接放弃了\n不管规则怎么变\n我相信很长时间都不会再去尝试了\n\n近的来说中文区整体收益都会下降\n远的来说大家互动的意愿下降了\n很多很努力的人多少是要给些的\n这可好，一棒子透支了X未来的潜力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6797,
+          "following_count": 2043,
+          "like_count": 25065,
+          "listed_count": 27,
+          "media_count": 632,
+          "tweet_count": 3451
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-01T09:56:51.000Z",
+        "description": "抛弃血肉bug，追求硅基永动 🚀\nGrok & AI 重度玩家 | Premium+ 用户\n聊机械飞升、马斯克与未来日常\n欢迎同频交流！",
+        "id": "1101421030352936961",
+        "location": "California, USA",
+        "name": "Steve机械飞升",
+        "pinned_tweet_id": "2038779701775507652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996137465934221313/oeCbM_OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 1610,
+          "like_count": 1621,
+          "listed_count": 18,
+          "media_count": 282,
+          "tweet_count": 4816
+        },
+        "username": "SteveHotspots",
+        "verified": true
+      }
+    ]
+  }
+}

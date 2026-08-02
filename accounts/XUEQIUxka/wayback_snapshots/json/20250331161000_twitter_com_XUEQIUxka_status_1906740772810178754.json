@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1906740772810178754",
+    "created_at": "2025-03-31T16:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T17:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906740772810178754"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906740772810178754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是按照林林所说，本来上一次自杀也是和圈子里网暴有关，我当时也进ICU事后心里也崩溃了，当时林林也劝我就断开这个圈子，但一想到还有人在乎我，深思熟虑之后还是决定出来好好说一下，并且道个歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1906740772810178754",
+        "created_at": "2025-03-31T16:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T17:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906740772810178754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906740772810178754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是按照林林所说，本来上一次自杀也是和圈子里网暴有关，我当时也进ICU事后心里也崩溃了，当时林林也劝我就断开这个圈子，但一想到还有人在乎我，深思熟虑之后还是决定出来好好说一下，并且道个歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在减肥，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 107,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "MTF"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "HRT"
+              },
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 1434,
+          "like_count": 17280,
+          "listed_count": 21,
+          "media_count": 272,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

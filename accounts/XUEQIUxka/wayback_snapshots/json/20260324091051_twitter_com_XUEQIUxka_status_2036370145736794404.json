@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036022707876471122",
+    "created_at": "2026-03-24T09:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036370145736794404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951957837674070017",
+          "start": 0,
+          "username": "Meimeibtcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036370145736794404",
+    "in_reply_to_user_id": "1951957837674070017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036022707876471122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meimeibtcc 在想养娃和不想养娃反复横跳，不过绝育其实也是一种好事，对吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20895,
+        "height": 1164,
+        "media_key": "13_2036022627643625472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036022627643625472/img/0PiDcqnkXdIf0gtv.jpg",
+        "public_metrics": {
+          "view_count": 574582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036022627643625472/vid/avc1/320x516/Eu95O-AqUThPG-pf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036022627643625472/vid/avc1/480x776/_lr1EmP7ofvOQC-0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036022627643625472/vid/avc1/720x1164/jBn8k1E1qnhELQRg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036022627643625472/pl/JR0rJbKvXg-1hfcu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036022707876471122",
+        "created_at": "2026-03-24T09:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036370145736794404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951957837674070017",
+              "start": 0,
+              "username": "Meimeibtcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036370145736794404",
+        "in_reply_to_user_id": "1951957837674070017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036022707876471122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meimeibtcc 在想养娃和不想养娃反复横跳，不过绝育其实也是一种好事，对吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036022627643625472"
+          ]
+        },
+        "author_id": "1951957837674070017",
+        "conversation_id": "2036022707876471122",
+        "created_at": "2026-03-23T10:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036022707876471122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJATV6ijNS",
+              "end": 53,
+              "expanded_url": "https://x.com/Meimeibtcc/status/2036022707876471122/video/1",
+              "media_key": "13_2036022627643625472",
+              "start": 30,
+              "url": "https://t.co/aJATV6ijNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036022707876471122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 989350,
+          "like_count": 700,
+          "quote_count": 0,
+          "reply_count": 310,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "夫妻好不容易将娃哄睡，刚准备过二人世界，孩子拿着奶瓶出现了 https://t.co/aJATV6ijNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 1822,
+          "like_count": 21752,
+          "listed_count": 27,
+          "media_count": 431,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T10:46:39.000Z",
+        "description": "9年币圈资深女玩家｜专注一级二级市场分析丨热衷分享丨理性投资丨#BNB #Sol #OKB 资深Holder Patience and discipline are the ultimate keys.#binance TG：https://t.co/4fyZAWd9KL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "Sol"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "OKB"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Meimeibtc",
+                "end": 136,
+                "expanded_url": "https://t.me/Meimeibtc",
+                "start": 113,
+                "url": "https://t.co/4fyZAWd9KL"
+              }
+            ]
+          }
+        },
+        "id": "1951957837674070017",
+        "name": "莓莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010291244300402689/zURKwu8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5592,
+          "following_count": 3221,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3199
+        },
+        "username": "Meimeibtcc",
+        "verified": true
+      }
+    ]
+  }
+}

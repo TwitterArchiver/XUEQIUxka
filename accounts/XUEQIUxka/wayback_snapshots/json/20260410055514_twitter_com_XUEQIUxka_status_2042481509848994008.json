@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042441839240778205",
+    "created_at": "2026-04-10T05:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042481509848994008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599631018679742464",
+          "start": 0,
+          "username": "Hardison0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042481509848994008",
+    "in_reply_to_user_id": "1599631018679742464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042441839240778205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hardison0910 感觉不如买小白卡用eSIM，还合法("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2042440856280670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg1IzFaoAAy6wX.png",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042441839240778205",
+        "created_at": "2026-04-10T05:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042481509848994008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599631018679742464",
+              "start": 0,
+              "username": "Hardison0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042481509848994008",
+        "in_reply_to_user_id": "1599631018679742464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042441839240778205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hardison0910 感觉不如买小白卡用eSIM，还合法("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042440856280670208"
+          ]
+        },
+        "author_id": "1599631018679742464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2042441839240778205",
+        "created_at": "2026-04-10T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042441839240778205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41nkOLVqnN",
+              "end": 129,
+              "expanded_url": "https://x.com/Hardison0910/status/2042441839240778205/photo/1",
+              "media_key": "3_2042440856280670208",
+              "start": 106,
+              "url": "https://t.co/41nkOLVqnN"
+            },
+            {
+              "display_url": "x.com/Hardison0910/s…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Hardison0910/status/2042384377989018078",
+              "start": 130,
+              "url": "https://t.co/fp61aUDUpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042441839240778205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 41775,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042384377989018078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直没搞懂\nVPS服务器11美金一年\n谷歌搜索下，Github上搭建VPN教程\n我一个非程序员10分钟就搞定的事\n\n为何还有那么多人\n花更多的钱\n买千人骑的VPN\n\n常识推断就知道\n多人共用的VPN很容易被封 https://t.co/41nkOLVqnN https://t.co/fp61aUDUpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 2037,
+          "like_count": 24778,
+          "listed_count": 27,
+          "media_count": 608,
+          "tweet_count": 3297
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T05:05:54.000Z",
+        "description": "AI Creator｜ Ai+漫画品鉴 https://t.co/J70sp2MOzL｜ Ai+金融 https://t.co/kvzxcupM6Y ｜Ai+Html5游戏/应用 https://t.co/7E48yczaja",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cc.time2.top",
+                "end": 43,
+                "expanded_url": "https://cc.time2.top",
+                "start": 20,
+                "url": "https://t.co/J70sp2MOzL"
+              },
+              {
+                "display_url": "t.me/F_bots2026",
+                "end": 74,
+                "expanded_url": "https://t.me/F_bots2026",
+                "start": 51,
+                "url": "https://t.co/kvzxcupM6Y"
+              },
+              {
+                "display_url": "blog.ea2b.top",
+                "end": 113,
+                "expanded_url": "https://blog.ea2b.top",
+                "start": 90,
+                "url": "https://t.co/7E48yczaja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ea2b.top",
+                "end": 23,
+                "expanded_url": "https://ea2b.top",
+                "start": 0,
+                "url": "https://t.co/X7s8UyuYht"
+              }
+            ]
+          }
+        },
+        "id": "1599631018679742464",
+        "location": "官方网站",
+        "name": "Hardison",
+        "pinned_tweet_id": "2042397687602168151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962320918811705345/ROmoT7ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6665,
+          "following_count": 2814,
+          "like_count": 4670,
+          "listed_count": 54,
+          "media_count": 2424,
+          "tweet_count": 11552
+        },
+        "url": "https://t.co/X7s8UyuYht",
+        "username": "Hardison0910",
+        "verified": true
+      }
+    ]
+  }
+}

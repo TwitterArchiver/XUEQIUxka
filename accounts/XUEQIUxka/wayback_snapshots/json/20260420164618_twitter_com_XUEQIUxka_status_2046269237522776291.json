@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045916586825990420",
+    "created_at": "2026-04-20T16:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046269237522776291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019826280829710342",
+          "start": 0,
+          "username": "hrc1525037"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20462…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/2046269146804125914",
+          "start": 12,
+          "url": "https://t.co/pvvG0UWFic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046269237522776291",
+    "in_reply_to_user_id": "2019826280829710342",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046269146804125914",
+        "type": "quoted"
+      },
+      {
+        "id": "2046203839725113591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hrc1525037 https://t.co/pvvG0UWFic"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3280,
+        "height": 1632,
+        "media_key": "7_2046269130416979968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046269130416979968/pu/img/ELBYJbJJqgtTzJlP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046269130416979968/pu/vid/avc1/320x724/8XQ9ZbhspBSVwYZR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046269130416979968/pu/vid/avc1/480x1088/FSrK2lAkcQ1SblWD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046269130416979968/pu/vid/avc1/720x1632/ZWSntFsFKZMXrwRY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046269130416979968/pu/pl/jg7_-1oTCm-_FivT.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2437,
+        "media_key": "3_2046269132476383238",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXO7zQaAAYjpF2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045916586825990420",
+        "created_at": "2026-04-20T16:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046269237522776291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019826280829710342",
+              "start": 0,
+              "username": "hrc1525037"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20462…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/2046269146804125914",
+              "start": 12,
+              "url": "https://t.co/pvvG0UWFic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046269237522776291",
+        "in_reply_to_user_id": "2019826280829710342",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046269146804125914",
+            "type": "quoted"
+          },
+          {
+            "id": "2046203839725113591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hrc1525037 https://t.co/pvvG0UWFic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046269130416979968",
+            "3_2046269132476383238"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045916586825990420",
+        "created_at": "2026-04-20T16:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046269146804125914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1329018333295833089",
+              "start": 0,
+              "username": "fengqiling02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkCpDjj9Iy",
+              "end": 42,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2046269146804125914/video/1",
+              "media_key": "7_2046269130416979968",
+              "start": 19,
+              "url": "https://t.co/UkCpDjj9Iy"
+            },
+            {
+              "display_url": "pic.x.com/UkCpDjj9Iy",
+              "end": 42,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2046269146804125914/video/1",
+              "media_key": "3_2046269132476383238",
+              "start": 19,
+              "url": "https://t.co/UkCpDjj9Iy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046269146804125914",
+        "in_reply_to_user_id": "1329018333295833089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046193894950588543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengqiling02 塞进去的 https://t.co/UkCpDjj9Iy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019826280829710342",
+        "conversation_id": "2045916586825990420",
+        "created_at": "2026-04-20T12:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046203839725113591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046203839725113591",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045916586825990420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 真的是放饮料的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 2136,
+          "like_count": 26721,
+          "listed_count": 27,
+          "media_count": 802,
+          "tweet_count": 4015
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T17:31:45.000Z",
+        "description": "懒得写简介",
+        "id": "2019826280829710342",
+        "name": "懒癌渣渣lazy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032490581256253440/xI0KTV92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "username": "hrc1525037",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040715038785437696"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040715041050362222",
+    "created_at": "2026-04-05T08:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040715041050362222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 58,
+          "id": "1907414826101669888",
+          "start": 42,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 77,
+          "id": "2028397856814764032",
+          "start": 68,
+          "username": "Poca5150"
+        },
+        {
+          "end": 109,
+          "id": "1966145959093743622",
+          "start": 94,
+          "username": "Triple_colors_"
+        },
+        {
+          "end": 141,
+          "id": "1894461745277931524",
+          "start": 126,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 178,
+          "id": "1684572167860801536",
+          "start": 168,
+          "username": "kukmoon97"
+        },
+        {
+          "end": 201,
+          "id": "1754180460769574912",
+          "start": 186,
+          "username": "ciyuxun1092046"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4FKpwcr5p",
+          "end": 225,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2040715041050362222/photo/1",
+          "media_key": "3_2040715038785437696",
+          "start": 202,
+          "url": "https://t.co/w4FKpwcr5p"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 249,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2039637354399584486",
+          "start": 226,
+          "url": "https://t.co/onfkTctxzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040715041050362222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 58,
+            "id": "1907414826101669888",
+            "start": 42,
+            "username": "JamFarewellSong"
+          },
+          {
+            "end": 77,
+            "id": "2028397856814764032",
+            "start": 68,
+            "username": "Poca5150"
+          },
+          {
+            "end": 109,
+            "id": "1966145959093743622",
+            "start": 94,
+            "username": "Triple_colors_"
+          },
+          {
+            "end": 141,
+            "id": "1894461745277931524",
+            "start": 126,
+            "username": "Rain_Antar1121"
+          },
+          {
+            "end": 178,
+            "id": "1684572167860801536",
+            "start": 168,
+            "username": "kukmoon97"
+          },
+          {
+            "end": 201,
+            "id": "1754180460769574912",
+            "start": 186,
+            "username": "ciyuxun1092046"
+          }
+        ]
+      },
+      "text": "调整后的抽取结果（已剔除所有重复用户，确保6人完全不同） 评论区 抽2个：果酱离歌 @JamFarewellSong\n  \n早露夸夸兔 @Poca5150\n\r 点赞 抽2个：薄荷喵的手账 @Triple_colors_\n  \nRain Antares @Rain_Antar1121\n\r 转发 抽2个（原抽到重复，已替换）：神楽坂谷月 @kukmoon97\n  \n凜音醬 @ciyuxun1092046\n\r（本次抽取依然基于你提供的截图列表 + 公开可见回复，完全随机）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039637354399584486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "调整后的抽取结果（已剔除所有重复用户，确保6人完全不同） 评论区 抽2个：果酱离歌 @JamFarewellSong\n  \n早露夸夸兔 @Poca5150\n\r 点赞 抽2个：薄荷喵的手账 @Triple_colors_\n  \nRain Antares @Rain_Antar1121\n\r 转发 抽2个（原抽到重复，已替换）：神楽坂谷月 @kukmoon97\n  \n凜音醬 @ciyuxun1092046 https://t.co/w4FKpwcr5p https://t.co/onfkTctxzt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040715038785437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFITg_6agAAHQRH.jpg",
+        "width": 993
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2039637338620649473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_Wl8bYAEC5tC.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039637183687213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_NkxawAAlvqz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039637184127610881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_NmaasAEWdpW.jpg",
+        "width": 908
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039637185083969536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_Np-bkAA6Owa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040715038785437696"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040715041050362222",
+        "created_at": "2026-04-05T08:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040715041050362222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1907414826101669888",
+              "start": 42,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 77,
+              "id": "2028397856814764032",
+              "start": 68,
+              "username": "Poca5150"
+            },
+            {
+              "end": 109,
+              "id": "1966145959093743622",
+              "start": 94,
+              "username": "Triple_colors_"
+            },
+            {
+              "end": 141,
+              "id": "1894461745277931524",
+              "start": 126,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 178,
+              "id": "1684572167860801536",
+              "start": 168,
+              "username": "kukmoon97"
+            },
+            {
+              "end": 201,
+              "id": "1754180460769574912",
+              "start": 186,
+              "username": "ciyuxun1092046"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4FKpwcr5p",
+              "end": 225,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2040715041050362222/photo/1",
+              "media_key": "3_2040715038785437696",
+              "start": 202,
+              "url": "https://t.co/w4FKpwcr5p"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 249,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2039637354399584486",
+              "start": 226,
+              "url": "https://t.co/onfkTctxzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040715041050362222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 58,
+                "id": "1907414826101669888",
+                "start": 42,
+                "username": "JamFarewellSong"
+              },
+              {
+                "end": 77,
+                "id": "2028397856814764032",
+                "start": 68,
+                "username": "Poca5150"
+              },
+              {
+                "end": 109,
+                "id": "1966145959093743622",
+                "start": 94,
+                "username": "Triple_colors_"
+              },
+              {
+                "end": 141,
+                "id": "1894461745277931524",
+                "start": 126,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 178,
+                "id": "1684572167860801536",
+                "start": 168,
+                "username": "kukmoon97"
+              },
+              {
+                "end": 201,
+                "id": "1754180460769574912",
+                "start": 186,
+                "username": "ciyuxun1092046"
+              }
+            ]
+          },
+          "text": "调整后的抽取结果（已剔除所有重复用户，确保6人完全不同） 评论区 抽2个：果酱离歌 @JamFarewellSong\n  \n早露夸夸兔 @Poca5150\n\r 点赞 抽2个：薄荷喵的手账 @Triple_colors_\n  \nRain Antares @Rain_Antar1121\n\r 转发 抽2个（原抽到重复，已替换）：神楽坂谷月 @kukmoon97\n  \n凜音醬 @ciyuxun1092046\n\r（本次抽取依然基于你提供的截图列表 + 公开可见回复，完全随机）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039637354399584486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调整后的抽取结果（已剔除所有重复用户，确保6人完全不同） 评论区 抽2个：果酱离歌 @JamFarewellSong\n  \n早露夸夸兔 @Poca5150\n\r 点赞 抽2个：薄荷喵的手账 @Triple_colors_\n  \nRain Antares @Rain_Antar1121\n\r 转发 抽2个（原抽到重复，已替换）：神楽坂谷月 @kukmoon97\n  \n凜音醬 @ciyuxun1092046 https://t.co/w4FKpwcr5p https://t.co/onfkTctxzt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039637338620649473",
+            "3_2039637183687213056",
+            "3_2039637184127610881",
+            "3_2039637185083969536"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039637354399584486",
+        "created_at": "2026-04-02T09:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039637200703549596",
+          "2039637354399584486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1368897611672018953",
+              "start": 111,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637338620649473",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637183687213056",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637184127610881",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637185083969536",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039637354399584486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4216,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第四弹！\n揪6个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/显卡模型钥匙扣/投资铀条/定制卡 随机发\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月4日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/iwgWTTNZav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 2024,
+          "like_count": 24039,
+          "listed_count": 27,
+          "media_count": 549,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 370,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 108
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T09:11:59.000Z",
+        "description": "是 @ddaquaforever 的逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "ddaquaforever"
+              }
+            ]
+          }
+        },
+        "id": "2028397856814764032",
+        "location": "香港上水",
+        "name": "早露夸夸兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029095703281324032/rQmNHPkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 300,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 148
+        },
+        "username": "Poca5150",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T14:25:18.000Z",
+        "description": "MTF🍥｜2004.07.24｜南京xyn｜爱哭｜\n想和同类贴贴｜（ENFJ）｜高敏感自卑人格\n2025/11/23🍥｜hrt2025/12/21",
+        "id": "1966145959093743622",
+        "location": "NanJing",
+        "name": "薄荷喵的手账🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1990071748427948072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000180424153210882/XubTymBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 181,
+          "like_count": 2220,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 122
+        },
+        "username": "Triple_colors_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2033518993160736859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 5570,
+          "like_count": 12263,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 2438
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 生活在斩杀线之下｜前 #伪娘｜现 #跨性别 女 🌸 Live under kill line ｜ Fmr #crossdresser #CD｜Curr #MtF #transgender #TS 🌸 殺戮ラインの下で生きる｜元 #女装子｜今や #ニューハーフ 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "跨性别"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "CD"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "transgender"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "TS"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "女装子"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2040229110493192637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4401,
+          "following_count": 4196,
+          "like_count": 84042,
+          "listed_count": 3,
+          "media_count": 1649,
+          "tweet_count": 11859
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T16:30:06.000Z",
+        "description": "",
+        "id": "1754180460769574912",
+        "name": "凜音醬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 237,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 388
+        },
+        "username": "ciyuxun1092046",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080501642726924288"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2080501649484009861",
+    "created_at": "2026-07-24T03:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080501649484009861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fXBLuL11fl",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2080501649484009861/photo/1",
+          "media_key": "3_2080501642726924288",
+          "start": 9,
+          "url": "https://t.co/fXBLuL11fl"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2080501649484009861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这让我怎么办兄弟 https://t.co/fXBLuL11fl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080501642726924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9tOJla4AAwhOJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080501642726924288"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2080501649484009861",
+        "created_at": "2026-07-24T03:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080501649484009861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXBLuL11fl",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2080501649484009861/photo/1",
+              "media_key": "3_2080501642726924288",
+              "start": 9,
+              "url": "https://t.co/fXBLuL11fl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2080501649484009861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这让我怎么办兄弟 https://t.co/fXBLuL11fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9787,
+          "following_count": 2368,
+          "like_count": 33560,
+          "listed_count": 26,
+          "media_count": 1649,
+          "tweet_count": 5965
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

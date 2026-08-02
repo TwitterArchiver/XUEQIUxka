@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043926465474142208"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Investors and patents",
+          "id": "857878402157629440",
+          "name": "Investors and patents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2043927134830506259",
+    "created_at": "2026-04-14T05:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:36:58.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043926467885892076",
+      "2043927134830506259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LHB1ZdejNz",
+          "end": 257,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2043927134830506259/photo/1",
+          "media_key": "3_2043926465474142208",
+          "start": 234,
+          "url": "https://t.co/LHB1ZdejNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043927134830506259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\nウランバー（100g）に投資してみませんか？ぜひ見に来てください！※\n投资铀条 100g 走过路过都来看看*\n*هذا المنتج مصنوع باستخدام الطباعة ثلاثية الأبعاد.\n*این محصول با استفاده از چاپ سه بعدی ساخته شده است.\n*This product is made using 3D printing.\n※本製品は3Dプリンティング技術を用いて製造されています。\n*本产品由3D打印制作"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\nウランバー（100g）に投資してみませんか？ぜひ見に来てください！※\n投资铀条 100g https://t.co/LHB1ZdejNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043926465474142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF18SombIAARPoV.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043926465474142208"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043926467885892076",
+        "created_at": "2026-04-14T05:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:36:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043926467885892076",
+          "2043927134830506259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0mNZgLeh6",
+              "end": 288,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2043926467885892076/photo/1",
+              "media_key": "3_2043926465474142208",
+              "start": 265,
+              "url": "https://t.co/M0mNZgLeh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043926467885892076",
+        "lang": "fa",
+        "note_tweet": {
+          "entities": {},
+          "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\n投资铀条 100g 走过路过都来看看*\n*هذا المنتج مصنوع باستخدام الطباعة ثلاثية الأبعاد.\n*این محصول با استفاده از چاپ سه بعدی ساخته شده است.\n*This product is made using 3D printing.\n*本产品由3D打印制作"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\n投资铀条 100g 走过路过都来看看*\n*هذا المنتج مصنوع باستخدام الطباعة ثلاثية الأبعاد.\n*این https://t.co/M0mNZgLeh6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043926465474142208"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2043927134830506259",
+        "created_at": "2026-04-14T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:36:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043926467885892076",
+          "2043927134830506259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHB1ZdejNz",
+              "end": 257,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2043927134830506259/photo/1",
+              "media_key": "3_2043926465474142208",
+              "start": 234,
+              "url": "https://t.co/LHB1ZdejNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043927134830506259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\nウランバー（100g）に投資してみませんか？ぜひ見に来てください！※\n投资铀条 100g 走过路过都来看看*\n*هذا المنتج مصنوع باستخدام الطباعة ثلاثية الأبعاد.\n*این محصول با استفاده از چاپ سه بعدی ساخته شده است.\n*This product is made using 3D printing.\n※本製品は3Dプリンティング技術を用いて製造されています。\n*本产品由3D打印制作"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "استثمر في سبائك اليورانيوم (100 غرام).  *تفضلوا بالاطلاع!\nروی شمش‌های اورانیوم (۱۰۰ گرم) *سرمایه‌گذاری کنید. بیایید و نگاهی بیندازید!\nInvest in uranium bars (100g). Come and take a look! *\nウランバー（100g）に投資してみませんか？ぜひ見に来てください！※\n投资铀条 100g https://t.co/LHB1ZdejNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6887,
+          "following_count": 2060,
+          "like_count": 25568,
+          "listed_count": 28,
+          "media_count": 681,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

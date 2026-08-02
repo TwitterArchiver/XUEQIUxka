@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050925096756514816"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2050925099717734527",
+    "created_at": "2026-05-03T13:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050925099717734527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 64,
+          "id": "1943561677762646016",
+          "start": 55,
+          "username": "qusuunmd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2qiM2ugaaj",
+          "end": 88,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2050925099717734527/photo/1",
+          "media_key": "3_2050925096756514816",
+          "start": 65,
+          "url": "https://t.co/2qiM2ugaaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050925099717734527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "居然还有捆绑play吗\n两杯奶昔在手，一杯是熟悉的奈雪杨梅酸奶昔，另一杯却藏着点未知的甜，让人有点心动地想猜\n@qusuunmd https://t.co/2qiM2ugaaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050925096756514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZZgl0bEAA4DJ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050925096756514816"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2050925099717734527",
+        "created_at": "2026-05-03T13:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050925099717734527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1943561677762646016",
+              "start": 55,
+              "username": "qusuunmd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qiM2ugaaj",
+              "end": 88,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2050925099717734527/photo/1",
+              "media_key": "3_2050925096756514816",
+              "start": 65,
+              "url": "https://t.co/2qiM2ugaaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050925099717734527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然还有捆绑play吗\n两杯奶昔在手，一杯是熟悉的奈雪杨梅酸奶昔，另一杯却藏着点未知的甜，让人有点心动地想猜\n@qusuunmd https://t.co/2qiM2ugaaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7991,
+          "following_count": 2179,
+          "like_count": 28235,
+          "listed_count": 27,
+          "media_count": 1089,
+          "tweet_count": 4625
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 310,
+          "like_count": 1927,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 763
+        },
+        "username": "qusuunmd",
+        "verified": true
+      }
+    ]
+  }
+}

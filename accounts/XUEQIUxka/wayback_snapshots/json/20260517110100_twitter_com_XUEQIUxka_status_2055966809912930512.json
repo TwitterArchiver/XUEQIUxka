@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2055847953886253295",
+    "created_at": "2026-05-17T11:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055966809912930512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794035996889436160",
+          "start": 0,
+          "username": "Eris37298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055966809912930512",
+    "in_reply_to_user_id": "1794035996889436160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055847953886253295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris37298 上网就爱看这些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055847941450166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfWz3Za8AATNSV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2055847953886253295",
+        "created_at": "2026-05-17T11:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055966809912930512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794035996889436160",
+              "start": 0,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966809912930512",
+        "in_reply_to_user_id": "1794035996889436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055847953886253295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris37298 上网就爱看这些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055847941450166272"
+          ]
+        },
+        "author_id": "1794035996889436160",
+        "conversation_id": "2055847953886253295",
+        "created_at": "2026-05-17T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055847953886253295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ub7ypchg81",
+              "end": 155,
+              "expanded_url": "https://x.com/Eris37298/status/2055847953886253295/photo/1",
+              "media_key": "3_2055847941450166272",
+              "start": 132,
+              "url": "https://t.co/ub7ypchg81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055847953886253295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4844,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刚才我的证件在缅甸的一个村庄弄丢了害我找了半天，然后被那个村子的人捡到了并移交到当地民兵武装的军事哨所里，有一个军人看到我的照片感觉很眼熟就联系我的亲戚，我的亲戚又打电话联系我我才能找回，最后作为感谢我给他们15块作为香烟钱作为他们的辛苦费，真是不幸中的万幸啊🥺 https://t.co/ub7ypchg81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8508,
+          "following_count": 2205,
+          "like_count": 29943,
+          "listed_count": 26,
+          "media_count": 1454,
+          "tweet_count": 5224
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本語を勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021609907670384640/4sJWtvpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 1466,
+          "like_count": 27020,
+          "listed_count": 7,
+          "media_count": 3057,
+          "tweet_count": 14057
+        },
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

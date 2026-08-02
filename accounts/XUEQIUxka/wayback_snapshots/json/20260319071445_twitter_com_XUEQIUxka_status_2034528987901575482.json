@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034528979718393856"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034528987901575482",
+    "created_at": "2026-03-19T07:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034528987901575482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjXWbdXpnu",
+          "end": 48,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2034528987901575482/photo/1",
+          "media_key": "3_2034528979718393856",
+          "start": 25,
+          "url": "https://t.co/xjXWbdXpnu"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2034262439798399452",
+          "start": 49,
+          "url": "https://t.co/54GVjX7FS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034528987901575482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034262439798399452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完蛋了，发朋友圈没屏蔽爸妈\n\n怎么回，在线等很急 https://t.co/xjXWbdXpnu https://t.co/54GVjX7FS3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1857,
+        "media_key": "3_2034528979718393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwZU-FaUAA32sl.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034528979718393856"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034528987901575482",
+        "created_at": "2026-03-19T07:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034528987901575482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjXWbdXpnu",
+              "end": 48,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2034528987901575482/photo/1",
+              "media_key": "3_2034528979718393856",
+              "start": 25,
+              "url": "https://t.co/xjXWbdXpnu"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2034262439798399452",
+              "start": 49,
+              "url": "https://t.co/54GVjX7FS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528987901575482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034262439798399452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了，发朋友圈没屏蔽爸妈\n\n怎么回，在线等很急 https://t.co/xjXWbdXpnu https://t.co/54GVjX7FS3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2034262439798399452",
+        "created_at": "2026-03-18T13:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034262439798399452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034262439798399452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我像下水道的老鼠，一直在偷窥别人的幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6246,
+          "following_count": 1747,
+          "like_count": 21336,
+          "listed_count": 26,
+          "media_count": 380,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

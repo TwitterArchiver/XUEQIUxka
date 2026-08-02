@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2025935285939470692",
+    "created_at": "2026-02-23T14:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025935285939470692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_NB/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/wxb_NB/status/2025934898448810337",
+          "start": 3,
+          "url": "https://t.co/umPHhSelqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025935285939470692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025934898448810337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶 https://t.co/umPHhSelqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2289,
+        "media_key": "3_2025934892123770880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2RDO8bUAAnwVk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2025935285939470692",
+        "created_at": "2026-02-23T14:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025935285939470692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2025934898448810337",
+              "start": 3,
+              "url": "https://t.co/umPHhSelqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025935285939470692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025934898448810337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶 https://t.co/umPHhSelqk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025934892123770880"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "conversation_id": "2025934898448810337",
+        "created_at": "2026-02-23T14:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:04:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025934707494441225",
+          "2025934898448810337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1368897611672018953",
+              "start": 12,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fw23RG5aGr",
+              "end": 46,
+              "expanded_url": "https://x.com/wxb_NB/status/2025934898448810337/photo/1",
+              "media_key": "3_2025934892123770880",
+              "start": 23,
+              "url": "https://t.co/fw23RG5aGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025934898448810337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢你(ﾟ∀ﾟ)ﾉ♡\n@XUEQIUxka https://t.co/fw23RG5aGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 1485,
+          "like_count": 19886,
+          "listed_count": 25,
+          "media_count": 310,
+          "tweet_count": 1769
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/keaiXM",
+                "end": 23,
+                "expanded_url": "https://t.me/keaiXM",
+                "start": 0,
+                "url": "https://t.co/H4lcynwHy0"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 231,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/H4lcynwHy0",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

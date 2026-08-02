@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041171225674981376",
+        "3_2041171225238798336"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041171228405461363",
+    "created_at": "2026-04-06T15:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041171228405461363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "1568430640428875776",
+          "start": 57,
+          "username": "YesStrayPuppy"
+        },
+        {
+          "end": 93,
+          "id": "1611274720460304384",
+          "start": 84,
+          "username": "Huqi2009"
+        },
+        {
+          "end": 133,
+          "id": "1820207828931424256",
+          "start": 121,
+          "username": "neko0202002"
+        },
+        {
+          "end": 155,
+          "id": "2026880369572872192",
+          "start": 142,
+          "username": "feng_sulfone"
+        },
+        {
+          "end": 182,
+          "id": "1165044876297134080",
+          "start": 170,
+          "username": "realNyarime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KapHEZFyVO",
+          "end": 206,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2041171228405461363/photo/1",
+          "media_key": "3_2041171225674981376",
+          "start": 183,
+          "url": "https://t.co/KapHEZFyVO"
+        },
+        {
+          "display_url": "pic.x.com/KapHEZFyVO",
+          "end": 206,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2041171228405461363/photo/1",
+          "media_key": "3_2041171225238798336",
+          "start": 183,
+          "url": "https://t.co/KapHEZFyVO"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 230,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2039982144735637903",
+          "start": 207,
+          "url": "https://t.co/sK45P3XmPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041171228405461363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 71,
+            "id": "1568430640428875776",
+            "start": 57,
+            "username": "YesStrayPuppy"
+          },
+          {
+            "end": 93,
+            "id": "1611274720460304384",
+            "start": 84,
+            "username": "Huqi2009"
+          },
+          {
+            "end": 133,
+            "id": "1820207828931424256",
+            "start": 121,
+            "username": "neko0202002"
+          },
+          {
+            "end": 155,
+            "id": "2026880369572872192",
+            "start": 142,
+            "username": "feng_sulfone"
+          },
+          {
+            "end": 182,
+            "id": "1165044876297134080",
+            "start": 170,
+            "username": "realNyarime"
+          },
+          {
+            "end": 205,
+            "id": "1907414826101669888",
+            "start": 189,
+            "username": "JamFarewellSong"
+          },
+          {
+            "end": 225,
+            "id": "1439465002851725314",
+            "start": 215,
+            "username": "sincecoco"
+          }
+        ]
+      },
+      "text": "第一次抽奖只抽出了两个评论的，然后重新抽奖，又抽出了新的评论人选决定都发，以下是中奖名单\n点赞（Likes）中奖：@YesStrayPuppy\n （看见我喊我去学习）\n@Huqi2009\n（Seraph）\n转发（Reposts/转帖人）中奖：@neko0202002\n （妃宫千早）\n@feng_sulfone\n （砚）\n评论（回复）中奖：@realNyarime\n （奶昔）\n@JamFarewellSong\n（果酱离歌）  \n@sincecoco\n（橙子BABY）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039982144735637903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次抽奖只抽出了两个评论的，然后重新抽奖，又抽出了新的评论人选决定都发，以下是中奖名单\n点赞（Likes）中奖：@YesStrayPuppy\n （看见我喊我去学习）\n@Huqi2009\n（Seraph）\n转发（Reposts/转帖人）中奖：@neko0202002\n （妃宫千早）\n@feng_sulfone\n （砚）\n评论（回复）中奖：@realNyarime https://t.co/KapHEZFyVO https://t.co/sK45P3XmPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041171225674981376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOyakgbIAAUd1e.jpg",
+        "width": 993
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041171225238798336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOyai4bgAAIVFS.jpg",
+        "width": 993
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039982133343916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE948SYbkAAH5hb.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041171225674981376",
+            "3_2041171225238798336"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041171228405461363",
+        "created_at": "2026-04-06T15:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041171228405461363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1568430640428875776",
+              "start": 57,
+              "username": "YesStrayPuppy"
+            },
+            {
+              "end": 93,
+              "id": "1611274720460304384",
+              "start": 84,
+              "username": "Huqi2009"
+            },
+            {
+              "end": 133,
+              "id": "1820207828931424256",
+              "start": 121,
+              "username": "neko0202002"
+            },
+            {
+              "end": 155,
+              "id": "2026880369572872192",
+              "start": 142,
+              "username": "feng_sulfone"
+            },
+            {
+              "end": 182,
+              "id": "1165044876297134080",
+              "start": 170,
+              "username": "realNyarime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KapHEZFyVO",
+              "end": 206,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041171228405461363/photo/1",
+              "media_key": "3_2041171225674981376",
+              "start": 183,
+              "url": "https://t.co/KapHEZFyVO"
+            },
+            {
+              "display_url": "pic.x.com/KapHEZFyVO",
+              "end": 206,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041171228405461363/photo/1",
+              "media_key": "3_2041171225238798336",
+              "start": 183,
+              "url": "https://t.co/KapHEZFyVO"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 230,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2039982144735637903",
+              "start": 207,
+              "url": "https://t.co/sK45P3XmPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041171228405461363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 71,
+                "id": "1568430640428875776",
+                "start": 57,
+                "username": "YesStrayPuppy"
+              },
+              {
+                "end": 93,
+                "id": "1611274720460304384",
+                "start": 84,
+                "username": "Huqi2009"
+              },
+              {
+                "end": 133,
+                "id": "1820207828931424256",
+                "start": 121,
+                "username": "neko0202002"
+              },
+              {
+                "end": 155,
+                "id": "2026880369572872192",
+                "start": 142,
+                "username": "feng_sulfone"
+              },
+              {
+                "end": 182,
+                "id": "1165044876297134080",
+                "start": 170,
+                "username": "realNyarime"
+              },
+              {
+                "end": 205,
+                "id": "1907414826101669888",
+                "start": 189,
+                "username": "JamFarewellSong"
+              },
+              {
+                "end": 225,
+                "id": "1439465002851725314",
+                "start": 215,
+                "username": "sincecoco"
+              }
+            ]
+          },
+          "text": "第一次抽奖只抽出了两个评论的，然后重新抽奖，又抽出了新的评论人选决定都发，以下是中奖名单\n点赞（Likes）中奖：@YesStrayPuppy\n （看见我喊我去学习）\n@Huqi2009\n（Seraph）\n转发（Reposts/转帖人）中奖：@neko0202002\n （妃宫千早）\n@feng_sulfone\n （砚）\n评论（回复）中奖：@realNyarime\n （奶昔）\n@JamFarewellSong\n（果酱离歌）  \n@sincecoco\n（橙子BABY）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039982144735637903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次抽奖只抽出了两个评论的，然后重新抽奖，又抽出了新的评论人选决定都发，以下是中奖名单\n点赞（Likes）中奖：@YesStrayPuppy\n （看见我喊我去学习）\n@Huqi2009\n（Seraph）\n转发（Reposts/转帖人）中奖：@neko0202002\n （妃宫千早）\n@feng_sulfone\n （砚）\n评论（回复）中奖：@realNyarime https://t.co/KapHEZFyVO https://t.co/sK45P3XmPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039982133343916032"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039982144735637903",
+        "created_at": "2026-04-03T08:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039982144735637903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1368897611672018953",
+              "start": 97,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o8ajF9irP",
+              "end": 181,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039982144735637903/photo/1",
+              "media_key": "3_2039982133343916032",
+              "start": 158,
+              "url": "https://t.co/1o8ajF9irP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039982144735637903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4728,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝6666fo，让我们开个抽奖\n日常抽奖第五弹！\n揪6个小可爱送一份礼物\n奖品：定制小礼物一份\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月6日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/1o8ajF9irP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6734,
+          "following_count": 2030,
+          "like_count": 24235,
+          "listed_count": 27,
+          "media_count": 561,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|我不是艾姆我只是喜欢小狗。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "天天转贴的同人女",
+        "name": "看见我喊我去学习",
+        "pinned_tweet_id": "2022157892942729459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 494,
+          "like_count": 22961,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6626
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T08:13:34.000Z",
+        "description": "From China / Photography📷 / Mutuals Welcome / HSP / Bday: 11.18 / Anime lover / CN&EN&JP OK😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1795901462",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1795901462",
+                "start": 0,
+                "url": "https://t.co/FQW6XHHPuY"
+              }
+            ]
+          }
+        },
+        "id": "1611274720460304384",
+        "location": "Hong Kong",
+        "name": "Seraph💊(ずっと一緒にいてね )",
+        "pinned_tweet_id": "2026346366386213181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025842297410342912/cD8KTifk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 145,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/FQW6XHHPuY",
+        "username": "Huqi2009",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 769,
+          "like_count": 1029,
+          "listed_count": 2,
+          "media_count": 860,
+          "tweet_count": 2465
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:42:34.000Z",
+        "description": "走的最急的，都是最好的时光",
+        "id": "2026880369572872192",
+        "location": "山海",
+        "name": "砜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037100975878791173/WLwj_PYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 53,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "feng_sulfone",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2038526352199242012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26375,
+          "following_count": 500,
+          "like_count": 11805,
+          "listed_count": 122,
+          "media_count": 1402,
+          "tweet_count": 9449
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 510,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 171
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "记录日常生活碎片，专业艺术家 美食搜索家 爱逛街 爱吃饭 争取做一个旅游博主｜#日常 | #旅游｜#分享｜看黄的不要关注我！| This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "日常"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "旅游"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "分享"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lShaS"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere ",
+        "name": "橙子BABY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16457,
+          "following_count": 380,
+          "like_count": 1980,
+          "listed_count": 46,
+          "media_count": 408,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/VCsG9lShaS",
+        "username": "sincecoco",
+        "verified": true
+      }
+    ]
+  }
+}

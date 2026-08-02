@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041524710501175779",
+    "created_at": "2026-04-07T17:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041561753474179319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965505625494011904",
+          "start": 0,
+          "username": "hajimi_CTO_BNB"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2041561753474179319",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041524710501175779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajimi_CTO_BNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041524695477182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTz5OIa4AAMFBs.jpg",
+        "width": 1152
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041524710501175779",
+        "created_at": "2026-04-07T17:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041561753474179319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965505625494011904",
+              "start": 0,
+              "username": "hajimi_CTO_BNB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2041561753474179319",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041524710501175779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajimi_CTO_BNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041524695477182464"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041524710501175779",
+        "created_at": "2026-04-07T14:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041524710501175779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8odU8JBSh",
+              "end": 35,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041524710501175779/photo/1",
+              "media_key": "3_2041524695477182464",
+              "start": 12,
+              "url": "https://t.co/C8odU8JBSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041524710501175779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 904,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基米\n慢剥柠檬蜂蜜水 https://t.co/C8odU8JBSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6768,
+          "following_count": 2029,
+          "like_count": 24384,
+          "listed_count": 27,
+          "media_count": 568,
+          "tweet_count": 3100
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T20:00:55.000Z",
+        "description": "一句歌词到一只猫咪再到所有猫咪和所有事物的演变-哈基米文化  ♥\nThe evolution from a line of lyrics to a cat to all cats and everything - Hajimi Culture  ♥Do it for love♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Hajimi_BNB",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Hajimi_BNB",
+                "start": 0,
+                "url": "https://t.co/On7dY4YMHc"
+              }
+            ]
+          }
+        },
+        "id": "1965505625494011904",
+        "name": "哈基米",
+        "pinned_tweet_id": "2038544253723517269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026218604824338432/KGAU-FVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6394,
+          "following_count": 58,
+          "like_count": 4113,
+          "listed_count": 19,
+          "media_count": 1671,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/On7dY4YMHc",
+        "username": "hajimi_CTO_BNB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076682887672594432",
+        "3_2076683078194614272",
+        "3_2076683078068776960"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077035889667264713",
+    "created_at": "2026-07-14T14:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077035889667264713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5edWYzpYmv",
+          "end": 77,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+          "media_key": "3_2076682887672594432",
+          "start": 54,
+          "url": "https://t.co/5edWYzpYmv"
+        },
+        {
+          "display_url": "pic.x.com/5edWYzpYmv",
+          "end": 77,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+          "media_key": "3_2076683078194614272",
+          "start": 54,
+          "url": "https://t.co/5edWYzpYmv"
+        },
+        {
+          "display_url": "pic.x.com/5edWYzpYmv",
+          "end": 77,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+          "media_key": "3_2076683078068776960",
+          "start": 54,
+          "url": "https://t.co/5edWYzpYmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077035889667264713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拼多多果然不靠谱，我明明买的是二手m4 256gwifi版，结果他给我发个全新未拆封m5 512g蜂窝版？ https://t.co/5edWYzpYmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076682887672594432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHcFWbbgAAIrO5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1342,
+        "media_key": "3_2076683078194614272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHcQcLa0AA9QuB.jpg",
+        "width": 1284
+      },
+      {
+        "height": 745,
+        "media_key": "3_2076683078068776960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHcQbtasAAaZr1.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076682887672594432",
+            "3_2076683078194614272",
+            "3_2076683078068776960"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077035889667264713",
+        "created_at": "2026-07-14T14:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077035889667264713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5edWYzpYmv",
+              "end": 77,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+              "media_key": "3_2076682887672594432",
+              "start": 54,
+              "url": "https://t.co/5edWYzpYmv"
+            },
+            {
+              "display_url": "pic.x.com/5edWYzpYmv",
+              "end": 77,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+              "media_key": "3_2076683078194614272",
+              "start": 54,
+              "url": "https://t.co/5edWYzpYmv"
+            },
+            {
+              "display_url": "pic.x.com/5edWYzpYmv",
+              "end": 77,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2077035889667264713/photo/1",
+              "media_key": "3_2076683078068776960",
+              "start": 54,
+              "url": "https://t.co/5edWYzpYmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077035889667264713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多果然不靠谱，我明明买的是二手m4 256gwifi版，结果他给我发个全新未拆封m5 512g蜂窝版？ https://t.co/5edWYzpYmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 2370,
+          "like_count": 33402,
+          "listed_count": 26,
+          "media_count": 1630,
+          "tweet_count": 5907
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

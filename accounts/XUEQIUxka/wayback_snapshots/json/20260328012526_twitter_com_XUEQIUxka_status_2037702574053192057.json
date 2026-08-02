@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037540402514051385",
+    "created_at": "2026-03-28T01:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037702574053192057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939242814547914752",
+          "start": 0,
+          "username": "Shenxiao123971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037702574053192057",
+    "in_reply_to_user_id": "1939242814547914752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037540402514051385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenxiao123971 但是因为一点小事就看清别人是怎么样的人，血赚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47239,
+        "height": 720,
+        "media_key": "13_2037539665084108800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037539665084108800/img/NztF8Ubt7TJ8NMWN.jpg",
+        "public_metrics": {
+          "view_count": 437607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037539665084108800/vid/avc1/360x270/1IOaO3C0FVA-4NMw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037539665084108800/vid/avc1/480x360/WgTEasVJNDbrMRKT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037539665084108800/vid/avc1/960x720/cfml9g6_IR90xthv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037539665084108800/pl/KWXiXfwazVt9MZNi.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037540402514051385",
+        "created_at": "2026-03-28T01:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037702574053192057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939242814547914752",
+              "start": 0,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037702574053192057",
+        "in_reply_to_user_id": "1939242814547914752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037540402514051385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenxiao123971 但是因为一点小事就看清别人是怎么样的人，血赚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037539665084108800"
+          ]
+        },
+        "author_id": "1939242814547914752",
+        "conversation_id": "2037540402514051385",
+        "created_at": "2026-03-27T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037540402514051385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSSZ2ffIR2",
+              "end": 45,
+              "expanded_url": "https://x.com/Shenxiao123971/status/2037540402514051385/video/1",
+              "media_key": "13_2037539665084108800",
+              "start": 22,
+              "url": "https://t.co/nSSZ2ffIR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037540402514051385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 824906,
+          "like_count": 296,
+          "quote_count": 2,
+          "reply_count": 208,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“不要因为一件小事，导致失去了美好的爱情” https://t.co/nSSZ2ffIR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 1940,
+          "like_count": 22419,
+          "listed_count": 27,
+          "media_count": 460,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "我是Shenxiao本xiao",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2036086738314305732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31464,
+          "following_count": 5482,
+          "like_count": 128214,
+          "listed_count": 117,
+          "media_count": 855,
+          "tweet_count": 30449
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

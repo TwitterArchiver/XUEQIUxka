@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035634863400009931",
+    "created_at": "2026-03-23T05:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035953516636930455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "260125652",
+          "start": 0,
+          "username": "Tina_coin001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035953516636930455",
+    "in_reply_to_user_id": "260125652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035634863400009931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_coin001 希望新的妈妈会对孩子好\n可这世道，原生家庭，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035634863400009931",
+        "created_at": "2026-03-23T05:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035953516636930455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "260125652",
+              "start": 0,
+              "username": "Tina_coin001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035953516636930455",
+        "in_reply_to_user_id": "260125652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035634863400009931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_coin001 希望新的妈妈会对孩子好\n可这世道，原生家庭，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260125652",
+        "conversation_id": "2035634863400009931",
+        "created_at": "2026-03-22T08:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035634863400009931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035634863400009931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个虐心的段子\n\n病床前，妈妈对三岁的儿子说：“妈妈要去天上当仙女，这是对你的考验，你要是和爸爸一样坚强，妈妈就换个样子回来。爸爸让你叫谁妈妈，谁就是我。”\n\n当晚，妈妈安详走了。\n\n孩子五岁那年，爸爸带回来一个女人，让他喊妈妈。孩子一下子扑过去，抱着她喊：“妈妈你总算回来了！我的考验通过啦！”\n\n女人瞬间泣不成声，抱紧他：“对，妈妈回来了，再也不离开你了。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 571848,
+          "like_count": 1425,
+          "quote_count": 5,
+          "reply_count": 214,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "一个虐心的段子\n\n病床前，妈妈对三岁的儿子说：“妈妈要去天上当仙女，这是对你的考验，你要是和爸爸一样坚强，妈妈就换个样子回来。爸爸让你叫谁妈妈，谁就是我。”\n\n当晚，妈妈安详走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21649,
+          "listed_count": 27,
+          "media_count": 421,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-03T07:22:19.000Z",
+        "description": "无关政治 || 爱家爱国 || 爱交朋友 || 币圈老韭菜 || 汉族龙传人",
+        "id": "260125652",
+        "name": "橙子🍊Tina",
+        "pinned_tweet_id": "2032820468479062301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018891428156608513/YfaquKG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5427,
+          "following_count": 2792,
+          "like_count": 14802,
+          "listed_count": 13,
+          "media_count": 593,
+          "tweet_count": 12671
+        },
+        "username": "Tina_coin001",
+        "verified": true
+      }
+    ]
+  }
+}

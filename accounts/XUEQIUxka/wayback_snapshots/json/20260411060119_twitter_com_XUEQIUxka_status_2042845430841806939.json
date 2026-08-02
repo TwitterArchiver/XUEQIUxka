@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042833713164165289",
+    "created_at": "2026-04-11T06:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042845430841806939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1333129639250759681",
+          "start": 0,
+          "username": "woshichizi"
+        },
+        {
+          "end": 27,
+          "id": "1260553941714186241",
+          "start": 12,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042845430841806939",
+    "in_reply_to_user_id": "1333129639250759681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042833713164165289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshichizi @whyyoutouzhele 想参加可惜在内地"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2042833689260765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmaar-WsAAy1mY.jpg",
+        "width": 1147
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2042833689235636224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmaar4XQAAEUqE.jpg",
+        "width": 1147
+      },
+      {
+        "height": 1606,
+        "media_key": "3_2042833689374228480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmaasZaAAAoPku.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042833713164165289",
+        "created_at": "2026-04-11T06:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042845430841806939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1333129639250759681",
+              "start": 0,
+              "username": "woshichizi"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042845430841806939",
+        "in_reply_to_user_id": "1333129639250759681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042833713164165289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshichizi @whyyoutouzhele 想参加可惜在内地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042833689260765184",
+            "3_2042833689235636224",
+            "3_2042833689374228480"
+          ]
+        },
+        "author_id": "1333129639250759681",
+        "conversation_id": "2042833713164165289",
+        "created_at": "2026-04-11T05:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042833713164165289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nblhyGVTlZ",
+              "end": 76,
+              "expanded_url": "https://x.com/woshichizi/status/2042833713164165289/photo/1",
+              "media_key": "3_2042833689260765184",
+              "start": 53,
+              "url": "https://t.co/nblhyGVTlZ"
+            },
+            {
+              "display_url": "pic.x.com/nblhyGVTlZ",
+              "end": 76,
+              "expanded_url": "https://x.com/woshichizi/status/2042833713164165289/photo/1",
+              "media_key": "3_2042833689235636224",
+              "start": 53,
+              "url": "https://t.co/nblhyGVTlZ"
+            },
+            {
+              "display_url": "pic.x.com/nblhyGVTlZ",
+              "end": 76,
+              "expanded_url": "https://x.com/woshichizi/status/2042833713164165289/photo/1",
+              "media_key": "3_2042833689374228480",
+              "start": 53,
+              "url": "https://t.co/nblhyGVTlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042833713164165289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5527,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你好！我是池子，一名中國脫口秀演員。\n\n這是我第一個脫口秀專場，我想帶給你我最好的演出！\n\n我們現場見！ https://t.co/nblhyGVTlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6797,
+          "following_count": 2041,
+          "like_count": 25012,
+          "listed_count": 27,
+          "media_count": 626,
+          "tweet_count": 3405
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-29T19:24:18.000Z",
+        "description": "Ja chante Je danes 很少瀏覽推特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dachizi?si=PP…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@dachizi?si=PPnr_dargzw1PoAt",
+                "start": 0,
+                "url": "https://t.co/sTRa4HxCgt"
+              }
+            ]
+          }
+        },
+        "id": "1333129639250759681",
+        "name": "池子池子大池子",
+        "pinned_tweet_id": "2042833713164165289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933376463111401472/4lFLgSYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4216,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/sTRa4HxCgt",
+        "username": "woshichizi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2041858598054064378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193581,
+          "following_count": 1027,
+          "like_count": 9401,
+          "listed_count": 8614,
+          "media_count": 45064,
+          "tweet_count": 52144
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

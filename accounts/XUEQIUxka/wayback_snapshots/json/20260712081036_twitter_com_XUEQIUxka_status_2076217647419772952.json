@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076217640365051904"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2076217647419772952",
+    "created_at": "2026-07-12T08:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076217647419772952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f4gv8dkHOi",
+          "end": 35,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2076217647419772952/photo/1",
+          "media_key": "3_2076217640365051904",
+          "start": 12,
+          "url": "https://t.co/f4gv8dkHOi"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2076217647419772952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好玩爱玩\n长隆水上乐园 https://t.co/f4gv8dkHOi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [35fd5bacecc4c6e5].",
+      "parameter": "geo.place_id",
+      "resource_id": "35fd5bacecc4c6e5",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "35fd5bacecc4c6e5"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076217640365051904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA08ZJb0AAU3e5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076217640365051904"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2076217647419772952",
+        "created_at": "2026-07-12T08:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076217647419772952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4gv8dkHOi",
+              "end": 35,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076217647419772952/photo/1",
+              "media_key": "3_2076217640365051904",
+              "start": 12,
+              "url": "https://t.co/f4gv8dkHOi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2076217647419772952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩爱玩\n长隆水上乐园 https://t.co/f4gv8dkHOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka\n爱人：@YongQuan\nSRS：2025/11\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "家长党"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "HRT"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "SRS"
+              },
+              {
+                "end": 118,
+                "start": 114,
+                "tag": "Les"
+              },
+              {
+                "end": 122,
+                "start": 119,
+                "tag": "双相"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "ADHD"
+              },
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9596,
+          "following_count": 2396,
+          "like_count": 33333,
+          "listed_count": 26,
+          "media_count": 1592,
+          "tweet_count": 5856
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

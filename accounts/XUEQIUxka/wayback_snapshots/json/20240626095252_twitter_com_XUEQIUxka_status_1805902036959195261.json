@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1805902036959195261",
+    "created_at": "2024-06-26T09:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T10:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805902036959195261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QianYue_XQ/sta…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/QianYue_XQ/status/1805901209607541052",
+          "start": 122,
+          "url": "https://t.co/zEcT3IQfhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805902036959195261",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805901209607541052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本不想使用这个账号进行扩大影响，但是你们跨圈，再也回不到当初那个互帮互助的时代了，现在全部都是小团体，互相对骂，以前不理解反跨，现在自己却成为了反跨者的一部分，但雪球最后定时推文发完之后，本账号下载完所有数据存档后注销\n我只希望逝者安息，仅此 https://t.co/zEcT3IQfhE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1805902036959195261",
+        "created_at": "2024-06-26T09:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T10:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805902036959195261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianYue_XQ/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1805901209607541052",
+              "start": 122,
+              "url": "https://t.co/zEcT3IQfhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805902036959195261",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805901209607541052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本不想使用这个账号进行扩大影响，但是你们跨圈，再也回不到当初那个互帮互助的时代了，现在全部都是小团体，互相对骂，以前不理解反跨，现在自己却成为了反跨者的一部分，但雪球最后定时推文发完之后，本账号下载完所有数据存档后注销\n我只希望逝者安息，仅此 https://t.co/zEcT3IQfhE"
+      },
+      {
+        "attachments": {},
+        "author_id": "1382339434872463371",
+        "conversation_id": "1805901209607541052",
+        "created_at": "2024-06-26T09:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T10:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805901209607541052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805901209607541052",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么换一种说法，假设几位都活着，那么她们看到你们这么网暴会不会自杀？ 如果自杀了，你们算不算是凶手？\n你们跨圈，直接线上公布其个人隐私信息，对其进行网暴，那么这个群体是否还有存在的意义呢？ 当初的屠龙者终成恶龙，友跨的人，也终究会变成反跨，你们跨圈自己一手造成的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 1491,
+          "like_count": 18547,
+          "listed_count": 19,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T14:26:34.000Z",
+        "description": "(･｀ｪ´･)つ简介什么的 应该无所谓吧…\n对象：@XUEQIUxka @JoseToYuToMiao\n（无涩图 几乎不发推 有事联系找雪球（可惜找不到了捏）/jose @JoseToYuToMiao ，可惜再也没有球球陪我了）愿球球&鱼喵在另一个世界被温柔以待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "JoseToYuToMiao"
+              }
+            ]
+          }
+        },
+        "id": "1382339434872463371",
+        "name": "Yue.纪念雪球版",
+        "pinned_tweet_id": "1790806099047612894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544426381668667392/XB2mUu-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 318,
+          "like_count": 141,
+          "listed_count": 3,
+          "tweet_count": 153
+        },
+        "username": "QianYue_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

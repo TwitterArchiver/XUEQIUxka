@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2048292497277981164",
+    "created_at": "2026-04-26T13:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048389492760088615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605554180953104385",
+          "start": 0,
+          "username": "xynmolly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048389492760088615",
+    "in_reply_to_user_id": "1605554180953104385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388577038590394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynmolly 这个是应该是第一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2048292497277981164",
+        "created_at": "2026-04-26T13:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048389492760088615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605554180953104385",
+              "start": 0,
+              "username": "xynmolly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048389492760088615",
+        "in_reply_to_user_id": "1605554180953104385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388577038590394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynmolly 这个是应该是第一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605554180953104385",
+        "conversation_id": "2048292497277981164",
+        "created_at": "2026-04-26T13:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048388577038590394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048388577038590394",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048292497277981164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 我昨天晚上去的几乎没人啊，就是这家店徐汇tpyB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 2164,
+          "like_count": 27403,
+          "listed_count": 27,
+          "media_count": 930,
+          "tweet_count": 4302
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-21T13:22:11.000Z",
+        "description": "烦死了我就是陌漓| 降级为MtX | 悠传控股董事长 | 在沪攒钱润去🇨🇦ing 看我攒了多少→https://t.co/6HavZfcG4d| 一只可爱猫娘 | 不管党 | 🦊小wuli：@stellachan0w0 | 🐱@baize27824770 沐汐的蓝粉白公司↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "baize27824770"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "money.cwcu.cn",
+                "end": 71,
+                "expanded_url": "http://money.cwcu.cn",
+                "start": 48,
+                "url": "https://t.co/6HavZfcG4d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yootrans",
+                "end": 23,
+                "expanded_url": "https://x.com/yootrans",
+                "start": 0,
+                "url": "https://t.co/mgxAWdVzeA"
+              }
+            ]
+          }
+        },
+        "id": "1605554180953104385",
+        "location": "zh-sh",
+        "name": "陌漓Moox",
+        "pinned_tweet_id": "2012700527801373167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039351797115162624/SZi9dt_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 1565,
+          "like_count": 11868,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 4959
+        },
+        "url": "https://t.co/mgxAWdVzeA",
+        "username": "xynmolly",
+        "verified": false
+      }
+    ]
+  }
+}

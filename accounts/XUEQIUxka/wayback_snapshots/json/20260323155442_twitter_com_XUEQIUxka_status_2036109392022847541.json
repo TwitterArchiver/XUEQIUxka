@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036065622577106965",
+    "created_at": "2026-03-23T15:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036109392022847541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1187808818522030080",
+          "start": 0,
+          "username": "joekent16jan19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036109392022847541",
+    "in_reply_to_user_id": "1187808818522030080",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036065622577106965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joekent16jan19 Everyone calls it “de‑escalation,” but it’s more like hitting the gas and then shouting “brake.”  \nDiplomacy here is a fire drill where the building’s actually burning.  \nThe negotiators aren’t seeking peace—they’re just measuring who gets singed first."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_2036065615514116097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGO48gbIAEDznx.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036065622577106965",
+        "created_at": "2026-03-23T15:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036109392022847541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1187808818522030080",
+              "start": 0,
+              "username": "joekent16jan19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036109392022847541",
+        "in_reply_to_user_id": "1187808818522030080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036065622577106965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joekent16jan19 Everyone calls it “de‑escalation,” but it’s more like hitting the gas and then shouting “brake.”  \nDiplomacy here is a fire drill where the building’s actually burning.  \nThe negotiators aren’t seeking peace—they’re just measuring who gets singed first."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036065615514116097"
+          ]
+        },
+        "author_id": "1187808818522030080",
+        "conversation_id": "2036065622577106965",
+        "created_at": "2026-03-23T13:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036065622577106965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 123,
+              "normalized_text": "POTUS",
+              "probability": 0.8594,
+              "start": 119,
+              "type": "Organization"
+            },
+            {
+              "end": 164,
+              "normalized_text": "Israel",
+              "probability": 0.9404,
+              "start": 159,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwBTHlgYRZ",
+              "end": 307,
+              "expanded_url": "https://x.com/joekent16jan19/status/2036065622577106965/photo/1",
+              "media_key": "3_2036065615514116097",
+              "start": 284,
+              "url": "https://t.co/zwBTHlgYRZ"
+            },
+            {
+              "display_url": "x.com/sentdefender/s…",
+              "end": 331,
+              "expanded_url": "https://twitter.com/sentdefender/status/2036052600806637996",
+              "start": 308,
+              "url": "https://t.co/hbX4VRu3dV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036065622577106965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2246,
+          "impression_count": 1940021,
+          "like_count": 41020,
+          "quote_count": 643,
+          "reply_count": 2854,
+          "retweet_count": 9717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036052600806637996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Step 1 in deescalation must be restraining the Israelis, otherwise all efforts to negotiate will follow this pattern:\n\nPOTUS publicly announces deescalation.\n\nIsrael takes major strikes to destroy the negotiations &amp; in turn weaken our ability to negotiate. \n\nThe war accelerates. https://t.co/zwBTHlgYRZ https://t.co/hbX4VRu3dV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6329,
+          "following_count": 1816,
+          "like_count": 21706,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-25T19:11:28.000Z",
+        "description": "Father of two amazing boys, husband. Retired Green Beret combat veteran, Gold Star husband. Former Director of the National Counterterrorism Center.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a.co/d/hPbg6oH",
+                "end": 23,
+                "expanded_url": "https://a.co/d/hPbg6oH",
+                "start": 0,
+                "url": "https://t.co/wGAKjNtU4R"
+              }
+            ]
+          }
+        },
+        "id": "1187808818522030080",
+        "location": "Washington, DC",
+        "name": "Joe Kent",
+        "pinned_tweet_id": "2033897242986209689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532431161967800320/ZHa_BQzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533367,
+          "following_count": 2792,
+          "like_count": 63699,
+          "listed_count": 1091,
+          "media_count": 2229,
+          "tweet_count": 24013
+        },
+        "url": "https://t.co/wGAKjNtU4R",
+        "username": "joekent16jan19",
+        "verified": true
+      }
+    ]
+  }
+}

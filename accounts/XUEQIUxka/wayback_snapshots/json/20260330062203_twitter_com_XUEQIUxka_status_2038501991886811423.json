@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038421404249682329",
+    "created_at": "2026-03-30T06:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038501991886811423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543808514820173825",
+          "start": 0,
+          "username": "kivi888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038501991886811423",
+    "in_reply_to_user_id": "1543808514820173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038421404249682329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kivi888888 怎么音乐圈也这么抽象了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63175,
+        "height": 1280,
+        "media_key": "13_2038421289879363584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038421289879363584/img/6tTZ1hyA1BSWS1CR.jpg",
+        "public_metrics": {
+          "view_count": 231888
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038421289879363584/vid/avc1/320x568/HfMAip1lE6kAqAuw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038421289879363584/vid/avc1/480x852/xnx7YG7Orp7LiQFf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038421289879363584/vid/avc1/720x1280/--BJZx-yh-GlaSvL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038421289879363584/pl/SKjeeSjYqqbxwGM3.m3u8?v=d9e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038421404249682329",
+        "created_at": "2026-03-30T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038501991886811423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543808514820173825",
+              "start": 0,
+              "username": "kivi888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038501991886811423",
+        "in_reply_to_user_id": "1543808514820173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038421404249682329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kivi888888 怎么音乐圈也这么抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038421289879363584"
+          ]
+        },
+        "author_id": "1543808514820173825",
+        "conversation_id": "2038421404249682329",
+        "created_at": "2026-03-30T01:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038421404249682329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHmxLS57do",
+              "end": 128,
+              "expanded_url": "https://x.com/kivi888888/status/2038421404249682329/video/1",
+              "media_key": "13_2038421289879363584",
+              "start": 105,
+              "url": "https://t.co/yHmxLS57do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038421404249682329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 511713,
+          "like_count": 192,
+          "quote_count": 3,
+          "reply_count": 106,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "单依纯和李荣浩冲突原因：\n单依纯：我要唱《李白》，愿意付钱买版权；\n李荣浩：我不给你唱。\n单依纯：硬要唱；\n李荣浩：直接开撕，我也不惯着你。\n单依纯：道歉，删除演出视频，承诺以后不再唱。\n李荣浩：就这样结束。 https://t.co/yHmxLS57do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 1999,
+          "like_count": 22995,
+          "listed_count": 27,
+          "media_count": 482,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T04:07:06.000Z",
+        "description": "发点自己喜欢的段子/聊点人间百态",
+        "id": "1543808514820173825",
+        "name": "ki v i",
+        "pinned_tweet_id": "2038131617466905030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912669894648500224/8WAIr4oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 1037,
+          "like_count": 5756,
+          "listed_count": 18,
+          "media_count": 233,
+          "tweet_count": 1619
+        },
+        "username": "kivi888888",
+        "verified": true
+      }
+    ]
+  }
+}

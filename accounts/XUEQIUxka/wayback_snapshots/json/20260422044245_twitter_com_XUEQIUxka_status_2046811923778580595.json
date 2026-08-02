@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2046811923778580595",
+    "created_at": "2026-04-22T04:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046811923778580595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 92,
+          "id": "1368897611672018953",
+          "start": 82,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2045112121009340881",
+          "start": 172,
+          "url": "https://t.co/BHZjUOOe18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046811923778580595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 92,
+            "id": "1368897611672018953",
+            "start": 82,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 226,
+            "id": "1970857021588262912",
+            "start": 210,
+            "username": "RainEngine_2024"
+          },
+          {
+            "end": 251,
+            "id": "1800905994186432512",
+            "start": 235,
+            "username": "Hoshino_Iroha10"
+          },
+          {
+            "end": 274,
+            "id": "1842224575947616256",
+            "start": 260,
+            "username": "2016989687Lt1"
+          }
+        ]
+      },
+      "text": "抽奖结果新鲜出炉啦！我严格按照你之前的规则——转发、点赞、评论各抽1个，从你提供的三张截图（被喜欢 / 转帖人 / 主题帖回复）中提取纯净唯一参与列表（已排除你自己@XUEQIUxka\n和明显垃圾信息），使用Python随机抽取。抽取方式透明可复现：\nrandom.seed(2045112121009340881)（基于你帖子的status ID，确保任何人用相同代码都能得到完全一样的结果）中奖小可爱是：评论区：  @RainEngine_2024\n  \n转发区： @Hoshino_Iroha10\n  \n点赞区： @2016989687Lt1\n\r恭喜三位中奖小可爱～  每人一份定制周边小礼物（不含卡）！请尽快私信我（或回复原帖）告诉我收货地址哦～\n如果想重新抽一次、把有名单再公开验证、等明天正式开奖、或调整规则（比如多抽几个），随时告诉我，我马上再帮你办！抽奖愉快，下次继续冲冲冲！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045112121009340881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽奖结果新鲜出炉啦！我严格按照你之前的规则——转发、点赞、评论各抽1个，从你提供的三张截图（被喜欢 / 转帖人 / 主题帖回复）中提取纯净唯一参与列表（已排除你自己@XUEQIUxka\n和明显垃圾信息），使用Python随机抽取。抽取方式透明可复现：\nrandom.seed(2045112121009340881)（基于你帖子的status https://t.co/BHZjUOOe18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2045106233364082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGtSKeacAApHM6.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2046811923778580595",
+        "created_at": "2026-04-22T04:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046811923778580595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1368897611672018953",
+              "start": 82,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2045112121009340881",
+              "start": 172,
+              "url": "https://t.co/BHZjUOOe18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046811923778580595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 92,
+                "id": "1368897611672018953",
+                "start": 82,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 226,
+                "id": "1970857021588262912",
+                "start": 210,
+                "username": "RainEngine_2024"
+              },
+              {
+                "end": 251,
+                "id": "1800905994186432512",
+                "start": 235,
+                "username": "Hoshino_Iroha10"
+              },
+              {
+                "end": 274,
+                "id": "1842224575947616256",
+                "start": 260,
+                "username": "2016989687Lt1"
+              }
+            ]
+          },
+          "text": "抽奖结果新鲜出炉啦！我严格按照你之前的规则——转发、点赞、评论各抽1个，从你提供的三张截图（被喜欢 / 转帖人 / 主题帖回复）中提取纯净唯一参与列表（已排除你自己@XUEQIUxka\n和明显垃圾信息），使用Python随机抽取。抽取方式透明可复现：\nrandom.seed(2045112121009340881)（基于你帖子的status ID，确保任何人用相同代码都能得到完全一样的结果）中奖小可爱是：评论区：  @RainEngine_2024\n  \n转发区： @Hoshino_Iroha10\n  \n点赞区： @2016989687Lt1\n\r恭喜三位中奖小可爱～  每人一份定制周边小礼物（不含卡）！请尽快私信我（或回复原帖）告诉我收货地址哦～\n如果想重新抽一次、把有名单再公开验证、等明天正式开奖、或调整规则（比如多抽几个），随时告诉我，我马上再帮你办！抽奖愉快，下次继续冲冲冲！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045112121009340881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结果新鲜出炉啦！我严格按照你之前的规则——转发、点赞、评论各抽1个，从你提供的三张截图（被喜欢 / 转帖人 / 主题帖回复）中提取纯净唯一参与列表（已排除你自己@XUEQIUxka\n和明显垃圾信息），使用Python随机抽取。抽取方式透明可复现：\nrandom.seed(2045112121009340881)（基于你帖子的status https://t.co/BHZjUOOe18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045106233364082688"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2045112121009340881",
+        "created_at": "2026-04-17T12:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:44:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045106235918405960",
+          "2045112121009340881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIHbGydZ4Z",
+              "end": 180,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045112121009340881/photo/1",
+              "media_key": "3_2045106233364082688",
+              "start": 157,
+              "url": "https://t.co/HIHbGydZ4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045112121009340881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4430,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第八弹！\n闲鱼同步上架 giffgaff 直接拍信封即可，可代激活\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份（不含卡）\n总计将抽出不少于60份奖品\n开奖时间为：2026年4月20日（UTC+8）21:00分开奖\n转发或点赞或评论，均可参与\n如果抽不到也可以去我的闲鱼买？\n眼熟的直接找我黑幕就好了 https://t.co/HIHbGydZ4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7178,
+          "following_count": 2136,
+          "like_count": 26866,
+          "listed_count": 27,
+          "media_count": 832,
+          "tweet_count": 4071
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨|探索中?或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长不管党，炸柜:03.12|oder💊pr&玉米|11.13.2011🎂出厂|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 158,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 135,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "Hanchuan City, Hubei",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️💊",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1376,
+          "like_count": 15379,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "跨性别友好🏳️‍⚧️ | 896489648964 | SBTI FUCK | 正體中文🇹🇼 简体中文🇨🇳 | 不会打音游 | 求互Fo",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041373858608070656/Vb9_n0Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 867,
+          "like_count": 41467,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1274
+        },
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T15:26:00.000Z",
+        "description": "长期睡眠障碍|重度抑郁|OD|药理学研究\n歇斯底里不是力量的展现，而是暴露出力量的空虚",
+        "id": "1842224575947616256",
+        "name": "LT1_冷忆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842225102991269888/XR6enADE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 144,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "2016989687Lt1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2068609868366577700",
+    "created_at": "2026-06-21T09:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629892598751507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614421186334851075",
+          "start": 0,
+          "username": "HoneyWhiteCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629892598751507",
+    "in_reply_to_user_id": "1614421186334851075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068622527375839464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoneyWhiteCloud 蛙趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2068609868366577700",
+        "created_at": "2026-06-21T09:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629892598751507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614421186334851075",
+              "start": 0,
+              "username": "HoneyWhiteCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629892598751507",
+        "in_reply_to_user_id": "1614421186334851075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068622527375839464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoneyWhiteCloud 蛙趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614421186334851075",
+        "conversation_id": "2068609868366577700",
+        "created_at": "2026-06-21T09:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068622527375839464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068622527375839464",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068609868366577700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka ai自动跑刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9430,
+          "following_count": 2405,
+          "like_count": 33115,
+          "listed_count": 25,
+          "media_count": 2132,
+          "tweet_count": 6394
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T00:36:43.000Z",
+        "description": "From台灣新北🇹🇼 | 上海讀書📖 | Furry | IT/Hardware/AI👨‍💻/Photographer📷 | 現居蘇州 | 私信🆗 | 🔜TKU人工智慧 | 裡推：@cloudbackside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "cloudbackside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywhite.cloud",
+                "end": 23,
+                "expanded_url": "http://www.honeywhite.cloud",
+                "start": 0,
+                "url": "https://t.co/lMq73qdn9N"
+              }
+            ]
+          }
+        },
+        "id": "1614421186334851075",
+        "location": "Suzhou ↔️ New Taipei",
+        "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙｜🌈⛅️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999008985089978369/HM_dxqhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1430,
+          "like_count": 98169,
+          "listed_count": 2,
+          "media_count": 1950,
+          "tweet_count": 13687
+        },
+        "url": "https://t.co/lMq73qdn9N",
+        "username": "HoneyWhiteCloud",
+        "verified": false
+      }
+    ]
+  }
+}

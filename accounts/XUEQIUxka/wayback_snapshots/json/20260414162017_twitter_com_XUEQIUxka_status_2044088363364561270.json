@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2043910887673913678",
+    "created_at": "2026-04-14T16:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044088363364561270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20440…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2044078423367442607",
+          "start": 0,
+          "url": "https://t.co/Rf4haSCcdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044088363364561270",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044078423367442607",
+        "type": "quoted"
+      },
+      {
+        "id": "2043910887673913678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Rf4haSCcdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2044078421173776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4GfnsasAAOJYG.jpg",
+        "width": 415
+      },
+      {
+        "height": 576,
+        "media_key": "3_2043910885685768192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1uHxXasAAYnMz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2043910887673913678",
+        "created_at": "2026-04-14T16:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044088363364561270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20440…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2044078423367442607",
+              "start": 0,
+              "url": "https://t.co/Rf4haSCcdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044088363364561270",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044078423367442607",
+            "type": "quoted"
+          },
+          {
+            "id": "2043910887673913678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rf4haSCcdr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044078421173776384"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2044078423367442607",
+        "created_at": "2026-04-14T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044078423367442607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkgL94E02o",
+              "end": 90,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044078423367442607/photo/1",
+              "media_key": "3_2044078421173776384",
+              "start": 67,
+              "url": "https://t.co/FkgL94E02o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044078423367442607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防大家不知道科比真喝过冰红茶：\n2008年北京奥运会，科比在男篮比赛间隙，来到北京朝阳公园沙滩排球场，现场观战美国沙滩排球的比赛。 https://t.co/FkgL94E02o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043910885685768192"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043910887673913678",
+        "created_at": "2026-04-14T04:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043910887673913678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkUowBkYTe",
+              "end": 82,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2043910887673913678/photo/1",
+              "media_key": "3_2043910885685768192",
+              "start": 59,
+              "url": "https://t.co/JkUowBkYTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043910887673913678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 75750,
+          "like_count": 1222,
+          "quote_count": 5,
+          "reply_count": 80,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "历史上的今天\n2016年4月14日，科比打完最后一场比赛，并且说出了那句台词\"man，what can i say\" https://t.co/JkUowBkYTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6909,
+          "following_count": 2077,
+          "like_count": 25733,
+          "listed_count": 28,
+          "media_count": 691,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

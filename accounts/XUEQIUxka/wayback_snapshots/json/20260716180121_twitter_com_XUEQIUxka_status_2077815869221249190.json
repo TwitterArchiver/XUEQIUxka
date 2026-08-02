@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2077479511202152728",
+    "created_at": "2026-07-16T18:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077815869221249190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "636513296",
+          "start": 0,
+          "username": "nikitabier"
+        },
+        {
+          "end": 167,
+          "id": "1368897611672018953",
+          "start": 157,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077815869221249190",
+    "in_reply_to_user_id": "636513296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 155,
+            "id": "1368897611672018953",
+            "start": 145,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 918,
+            "id": "1368897611672018953",
+            "start": 908,
+            "username": "XUEQIUxka"
+          }
+        ]
+      },
+      "text": "Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully compliant — no adult or violating material.\n\nMonetization is my only source of income. I am recovering from major surgery and managing chronic health conditions. Without this income, I cannot afford necessary medication and medical care, which are essential for my health and survival.\n\nThis account is my fresh start as a positive figure in the Chinese transgender community. I am fully committed to X's guidelines and creating uplifting content.\n\nI humbly ask for your help with a manual review to restore my monetization. It would mean the world to me.\n\nThank you sincerely for your time and compassion.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077479511202152728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikitabier Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31216,
+        "height": 1080,
+        "media_key": "13_2077391645830463488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077391645830463488/img/GKZQZK9o4tOY_vpz.jpg",
+        "public_metrics": {
+          "view_count": 109984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077391645830463488/vid/avc1/1920x1080/UtAi5x1I343nfmzC.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077391645830463488/vid/avc1/480x270/_CXprPdrNv8uFP4_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077391645830463488/vid/avc1/640x360/qV8rP9jNPw4c9vdp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077391645830463488/vid/avc1/1280x720/IBtFaUq6FA1-kkAA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077391645830463488/pl/SMtGDy9wcel1Idnf.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2077479511202152728",
+        "created_at": "2026-07-16T18:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077815869221249190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "636513296",
+              "start": 0,
+              "username": "nikitabier"
+            },
+            {
+              "end": 167,
+              "id": "1368897611672018953",
+              "start": 157,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077815869221249190",
+        "in_reply_to_user_id": "636513296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 155,
+                "id": "1368897611672018953",
+                "start": 145,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 918,
+                "id": "1368897611672018953",
+                "start": 908,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully compliant — no adult or violating material.\n\nMonetization is my only source of income. I am recovering from major surgery and managing chronic health conditions. Without this income, I cannot afford necessary medication and medical care, which are essential for my health and survival.\n\nThis account is my fresh start as a positive figure in the Chinese transgender community. I am fully committed to X's guidelines and creating uplifting content.\n\nI humbly ask for your help with a manual review to restore my monetization. It would mean the world to me.\n\nThank you sincerely for your time and compassion.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077479511202152728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikitabier Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077391645830463488"
+          ],
+          "media_source_tweet_id": [
+            "2077407848469078478"
+          ]
+        },
+        "author_id": "636513296",
+        "conversation_id": "2077479511202152728",
+        "created_at": "2026-07-15T19:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077479511202152728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrIswenb9f",
+              "end": 602,
+              "expanded_url": "https://x.com/XBusiness/status/2077407848469078478/video/1",
+              "media_key": "13_2077391645830463488",
+              "start": 579,
+              "url": "https://t.co/yrIswenb9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077479511202152728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/XBusiness/stat…",
+                "end": 602,
+                "expanded_url": "https://x.com/XBusiness/status/2077407848469078478/video/1",
+                "start": 579,
+                "url": "https://t.co/yrIswenb9f"
+              }
+            ]
+          },
+          "text": "Some of my biggest purchases come from testimonials I've read on X. Authentic conversations is what makes X the most trusted source of information. \n\nToday we're releasing Mentions Boost—a brand new ad product on X. If your brand or account is organically mentioned on X, you can boost the post's reach. And we've designed it in a way that is transparent to users and preserves the authenticity of Timeline.\n\nWhile I don't work on ads day-to-day, this is one product I was excited to roll up my sleeves on.\n\nNow available for Premium Business accounts—with more updates to come.\nhttps://t.co/yrIswenb9f"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 373733,
+          "like_count": 3906,
+          "quote_count": 162,
+          "reply_count": 787,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "Some of my biggest purchases come from testimonials I've read on X. Authentic conversations is what makes X the most trusted source of information. \n\nToday we're releasing Mentions Boost—a brand new ad product on X. If your brand or account is organically mentioned on X, you can"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9777,
+          "following_count": 2370,
+          "like_count": 33515,
+          "listed_count": 26,
+          "media_count": 1619,
+          "tweet_count": 5917
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 16,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2074512615351763198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206351,
+          "following_count": 2052,
+          "like_count": 39337,
+          "listed_count": 5984,
+          "media_count": 1596,
+          "tweet_count": 11667
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

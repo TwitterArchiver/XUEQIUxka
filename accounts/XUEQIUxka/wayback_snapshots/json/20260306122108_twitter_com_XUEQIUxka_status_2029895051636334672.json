@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029875718021320704",
+        "3_2029875719174774784",
+        "3_2029875719900385283"
+      ],
+      "media_source_tweet_id": [
+        "2029875723884974375",
+        "2029875723884974375",
+        "2029875723884974375"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029895051636334672",
+    "created_at": "2026-03-06T12:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029895051636334672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1800905994186432512",
+          "start": 3,
+          "username": "Hoshino_Iroha10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbK3ZweIpZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+          "media_key": "3_2029875718021320704",
+          "start": 35,
+          "url": "https://t.co/CbK3ZweIpZ"
+        },
+        {
+          "display_url": "pic.x.com/CbK3ZweIpZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+          "media_key": "3_2029875719174774784",
+          "start": 35,
+          "url": "https://t.co/CbK3ZweIpZ"
+        },
+        {
+          "display_url": "pic.x.com/CbK3ZweIpZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+          "media_key": "3_2029875719900385283",
+          "start": 35,
+          "url": "https://t.co/CbK3ZweIpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029895051636334672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029875723884974375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshino_Iroha10: 已经收到了喵～\n鱼饼好看捏 https://t.co/CbK3ZweIpZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029895051636334672].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029895051636334672",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029895051636334672"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2029875718021320704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuRNfbaEAAq55O.jpg",
+        "width": 2080
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2029875719174774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuRNjuaYAAJFHq.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2029875719900385283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuRNmbaUAM3cSe.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029875718021320704",
+            "3_2029875719174774784",
+            "3_2029875719900385283"
+          ]
+        },
+        "author_id": "1800905994186432512",
+        "conversation_id": "2029875723884974375",
+        "created_at": "2026-03-06T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029875723884974375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbK3ZweIpZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+              "media_key": "3_2029875718021320704",
+              "start": 14,
+              "url": "https://t.co/CbK3ZweIpZ"
+            },
+            {
+              "display_url": "pic.x.com/CbK3ZweIpZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+              "media_key": "3_2029875719174774784",
+              "start": 14,
+              "url": "https://t.co/CbK3ZweIpZ"
+            },
+            {
+              "display_url": "pic.x.com/CbK3ZweIpZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Hoshino_Iroha10/status/2029875723884974375/photo/1",
+              "media_key": "3_2029875719900385283",
+              "start": 14,
+              "url": "https://t.co/CbK3ZweIpZ"
+            },
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2026184949049819407",
+              "start": 38,
+              "url": "https://t.co/4VwWEffhFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029875723884974375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026184949049819407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经收到了喵～\n鱼饼好看捏 https://t.co/CbK3ZweIpZ https://t.co/4VwWEffhFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 1532,
+          "like_count": 20459,
+          "listed_count": 25,
+          "media_count": 325,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028302635129016320/MvfEe2Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 639,
+          "like_count": 28694,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 645
+        },
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      }
+    ]
+  }
+}

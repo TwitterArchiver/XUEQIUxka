@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038922618020192469",
+    "created_at": "2026-03-31T12:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038953510587564535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015262397678993408",
+          "start": 0,
+          "username": "wishtcday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038953510587564535",
+    "in_reply_to_user_id": "2015262397678993408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038922618020192469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wishtcday 可是为什么有一个证是6.31颁发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2038922136384126976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu04V_bQAAmmB5.jpg",
+        "width": 921
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2038922177886720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu06wmakAA_a39.jpg",
+        "width": 1651
+      },
+      {
+        "height": 2480,
+        "media_key": "3_2038922233704546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu0-AibAAAMjdi.jpg",
+        "width": 3508
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2038922374025007104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu1GLRbUAAYXm9.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038922618020192469",
+        "created_at": "2026-03-31T12:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038953510587564535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015262397678993408",
+              "start": 0,
+              "username": "wishtcday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038953510587564535",
+        "in_reply_to_user_id": "2015262397678993408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038922618020192469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wishtcday 可是为什么有一个证是6.31颁发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038922136384126976",
+            "3_2038922177886720000",
+            "3_2038922233704546304",
+            "3_2038922374025007104"
+          ]
+        },
+        "author_id": "2015262397678993408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "2038922618020192469",
+        "created_at": "2026-03-31T10:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038922618020192469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wV450RzBIQ",
+              "end": 104,
+              "expanded_url": "https://x.com/wishtcday/status/2038922618020192469/photo/1",
+              "media_key": "3_2038922136384126976",
+              "start": 81,
+              "url": "https://t.co/wV450RzBIQ"
+            },
+            {
+              "display_url": "pic.x.com/wV450RzBIQ",
+              "end": 104,
+              "expanded_url": "https://x.com/wishtcday/status/2038922618020192469/photo/1",
+              "media_key": "3_2038922177886720000",
+              "start": 81,
+              "url": "https://t.co/wV450RzBIQ"
+            },
+            {
+              "display_url": "pic.x.com/wV450RzBIQ",
+              "end": 104,
+              "expanded_url": "https://x.com/wishtcday/status/2038922618020192469/photo/1",
+              "media_key": "3_2038922233704546304",
+              "start": 81,
+              "url": "https://t.co/wV450RzBIQ"
+            },
+            {
+              "display_url": "pic.x.com/wV450RzBIQ",
+              "end": 104,
+              "expanded_url": "https://x.com/wishtcday/status/2038922618020192469/photo/1",
+              "media_key": "3_2038922374025007104",
+              "start": 81,
+              "url": "https://t.co/wV450RzBIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038922618020192469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 27913,
+          "like_count": 239,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "忙了一天，4本证书到手\n\nGemini 认证教育家证书\nUNESCO教科文证书\n阿里巴巴高级AI训练师\n联合国官方AI认证证书\n\n个人履历上又添了浓墨重彩的一笔 https://t.co/wV450RzBIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6627,
+          "following_count": 2007,
+          "like_count": 23294,
+          "listed_count": 27,
+          "media_count": 497,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T03:16:29.000Z",
+        "description": "地球Online每日出摊中 ……\n今天下英雄，惟使君与操耳",
+        "id": "2015262397678993408",
+        "name": "西楚Boy",
+        "pinned_tweet_id": "2022366214794940716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019344705507737600/dA70UEw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1140,
+          "like_count": 6833,
+          "listed_count": 4,
+          "media_count": 397,
+          "tweet_count": 5849
+        },
+        "username": "wishtcday",
+        "verified": true
+      }
+    ]
+  }
+}

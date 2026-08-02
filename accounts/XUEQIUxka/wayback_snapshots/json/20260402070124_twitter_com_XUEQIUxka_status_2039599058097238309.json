@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039599051600257024"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039594265299521945",
+    "created_at": "2026-04-02T07:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039599058097238309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWMyt3ATSW",
+          "end": 43,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039599058097238309/photo/1",
+          "media_key": "3_2039599051600257024",
+          "start": 20,
+          "url": "https://t.co/pWMyt3ATSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039599058097238309",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039594265299521945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 激情下单，我高低尝尝 https://t.co/pWMyt3ATSW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_2039599051600257024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4ch_rbYAAGXZp.jpg",
+        "width": 1260
+      },
+      {
+        "height": 766,
+        "media_key": "3_2039594259813470208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4YLE4bkAAPxOO.jpg",
+        "width": 690
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2039594246072909825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4YKRsbQAEG8WF.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039599051600257024"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039594265299521945",
+        "created_at": "2026-04-02T07:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039599058097238309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWMyt3ATSW",
+              "end": 43,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039599058097238309/photo/1",
+              "media_key": "3_2039599051600257024",
+              "start": 20,
+              "url": "https://t.co/pWMyt3ATSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039599058097238309",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039594265299521945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 激情下单，我高低尝尝 https://t.co/pWMyt3ATSW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039594259813470208",
+            "3_2039594246072909825"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039594265299521945",
+        "created_at": "2026-04-02T06:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039594265299521945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfPsJfOMVI",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2039594265299521945/photo/1",
+              "media_key": "3_2039594259813470208",
+              "start": 0,
+              "url": "https://t.co/SfPsJfOMVI"
+            },
+            {
+              "display_url": "pic.x.com/SfPsJfOMVI",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2039594265299521945/photo/1",
+              "media_key": "3_2039594246072909825",
+              "start": 0,
+              "url": "https://t.co/SfPsJfOMVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039594265299521945",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SfPsJfOMVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 2024,
+          "like_count": 23561,
+          "listed_count": 27,
+          "media_count": 516,
+          "tweet_count": 2803
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118325,
+          "following_count": 1122,
+          "like_count": 52384,
+          "listed_count": 278,
+          "media_count": 20291,
+          "tweet_count": 30566
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037777320271126552",
+    "created_at": "2026-03-28T10:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037834244421222730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2007446559462703104",
+          "start": 0,
+          "username": "Tim8nbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037834244421222730",
+    "in_reply_to_user_id": "2007446559462703104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037777320271126552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim8nbm 但是国内很多公众人物并不能送别，会被维稳，甚至不能去看故居"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2037777311148515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEejqvpboAAf7VM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1868,
+        "media_key": "3_2037777311135883264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEejqvma4AAQq9j.jpg",
+        "width": 1439
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037777311152627712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEejqvqaYAAhB5x.jpg",
+        "width": 1608
+      },
+      {
+        "height": 1291,
+        "media_key": "3_2037777311140048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEejqvnacAALBdz.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037777320271126552",
+        "created_at": "2026-03-28T10:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037834244421222730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2007446559462703104",
+              "start": 0,
+              "username": "Tim8nbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037834244421222730",
+        "in_reply_to_user_id": "2007446559462703104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037777320271126552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim8nbm 但是国内很多公众人物并不能送别，会被维稳，甚至不能去看故居"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037777311148515328",
+            "3_2037777311135883264",
+            "3_2037777311152627712",
+            "3_2037777311140048896"
+          ]
+        },
+        "author_id": "2007446559462703104",
+        "conversation_id": "2037777320271126552",
+        "created_at": "2026-03-28T06:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037777320271126552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yL6QLDunIk",
+              "end": 158,
+              "expanded_url": "https://x.com/Tim8nbm/status/2037777320271126552/photo/1",
+              "media_key": "3_2037777311148515328",
+              "start": 135,
+              "url": "https://t.co/yL6QLDunIk"
+            },
+            {
+              "display_url": "pic.x.com/yL6QLDunIk",
+              "end": 158,
+              "expanded_url": "https://x.com/Tim8nbm/status/2037777320271126552/photo/1",
+              "media_key": "3_2037777311135883264",
+              "start": 135,
+              "url": "https://t.co/yL6QLDunIk"
+            },
+            {
+              "display_url": "pic.x.com/yL6QLDunIk",
+              "end": 158,
+              "expanded_url": "https://x.com/Tim8nbm/status/2037777320271126552/photo/1",
+              "media_key": "3_2037777311152627712",
+              "start": 135,
+              "url": "https://t.co/yL6QLDunIk"
+            },
+            {
+              "display_url": "pic.x.com/yL6QLDunIk",
+              "end": 158,
+              "expanded_url": "https://x.com/Tim8nbm/status/2037777320271126552/photo/1",
+              "media_key": "3_2037777311140048896",
+              "start": 135,
+              "url": "https://t.co/yL6QLDunIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037777320271126552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 44247,
+          "like_count": 281,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这是今天悼念张雪峰的人流，据说队伍绵延数公里。我记得上一次看到类似规模的送别，还是袁隆平去世的时候。\n\n一个公众人物，难免会因为认知和立场说错话、被争议包围。但最终能被这么多人记住和送别，往往不是因为他从不犯错，而是因为他在很多关键时刻，确实影响过一代人的选择和方向。 https://t.co/yL6QLDunIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6476,
+          "following_count": 1966,
+          "like_count": 22496,
+          "listed_count": 27,
+          "media_count": 465,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T13:39:53.000Z",
+        "description": "你的快乐老家｜🇦🇺常居悉尼的打工人｜家有母老虎｜两性关系｜海外生活｜深深的话要浅浅地说",
+        "id": "2007446559462703104",
+        "location": "Australia",
+        "name": "TimTimmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021166613287034880/cU9tGbBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 1617,
+          "like_count": 3063,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 2404
+        },
+        "username": "Tim8nbm",
+        "verified": true
+      }
+    ]
+  }
+}

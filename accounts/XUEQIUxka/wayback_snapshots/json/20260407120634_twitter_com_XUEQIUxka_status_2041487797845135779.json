@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041451778299089360",
+    "created_at": "2026-04-07T12:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041487797845135779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1759955681593917440",
+          "start": 0,
+          "username": "Xioa_SuLi"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2041487797845135779",
+    "in_reply_to_user_id": "1759955681593917440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041483302717276566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xioa_SuLi 到时候黑幕你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_2041483296807555072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTOPgEbkAAUtrt.jpg",
+        "width": 1260
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041451778299089360",
+        "created_at": "2026-04-07T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041487797845135779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1759955681593917440",
+              "start": 0,
+              "username": "Xioa_SuLi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2041487797845135779",
+        "in_reply_to_user_id": "1759955681593917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041483302717276566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xioa_SuLi 到时候黑幕你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041483296807555072"
+          ]
+        },
+        "author_id": "1759955681593917440",
+        "conversation_id": "2041451778299089360",
+        "created_at": "2026-04-07T11:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041483302717276566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9wIp6jyKj",
+              "end": 42,
+              "expanded_url": "https://x.com/Xioa_SuLi/status/2041483302717276566/photo/1",
+              "media_key": "3_2041483296807555072",
+              "start": 19,
+              "url": "https://t.co/m9wIp6jyKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041483302717276566",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041451778299089360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 什么时候我能中 https://t.co/m9wIp6jyKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 2029,
+          "like_count": 24342,
+          "listed_count": 27,
+          "media_count": 567,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T14:58:41.000Z",
+        "description": "hrt2024.5.8 身高170体重60kg ˃ʍ˂小证嘿嘿 \n08年            \n17岁哎 (-^〇^-)(家长不管党，天残党)\n现在在惠州惠城区喜欢和同类贴贴ww\n门槛疯狂星期四？加好友  可线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "https://t.me",
+                "start": 0,
+                "url": "https://t.co/92fY79QjRQ"
+              }
+            ]
+          }
+        },
+        "id": "1759955681593917440",
+        "location": "地球",
+        "name": "薪薪🍥",
+        "pinned_tweet_id": "1916962863601881373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 382,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/92fY79QjRQ",
+        "username": "Xioa_SuLi",
+        "verified": false
+      }
+    ]
+  }
+}

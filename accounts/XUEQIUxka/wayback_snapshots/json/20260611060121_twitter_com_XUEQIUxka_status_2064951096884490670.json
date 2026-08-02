@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2064576541770789361",
+    "created_at": "2026-06-11T06:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064951096884490670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "5967912",
+          "start": 0,
+          "username": "tinyfool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064951096884490670",
+    "in_reply_to_user_id": "5967912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064617460565942367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinyfool 有理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2064576541770789361",
+        "created_at": "2026-06-11T06:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064951096884490670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "5967912",
+              "start": 0,
+              "username": "tinyfool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064951096884490670",
+        "in_reply_to_user_id": "5967912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064617460565942367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinyfool 有理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5967912",
+        "conversation_id": "2064576541770789361",
+        "created_at": "2026-06-10T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064617460565942367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064617460565942367",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9452,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064576541770789361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 这就跟你去银行，政府去办事儿，那些笔都是固定的，一个逻辑，丢一只笔不算啥，但是放开了，可能一天丢几十只，上百只"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012,
+          "following_count": 2372,
+          "like_count": 31624,
+          "listed_count": 25,
+          "media_count": 1874,
+          "tweet_count": 5929
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-11T17:10:33.000Z",
+        "description": "Youtuber\n20年老程序员，业已退休，不以写代码为主业。\n不是英语老师，但开发了\"英语轻松读\"，做了广受好评的学习英语的视频。\n心在日本，人目前在天津\nYoutube：\n英语学习之路 https://t.co/fY05anVN8r\n胡说八道 https://t.co/FQLaNWFD5j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/tinyfoolgmail",
+                "end": 118,
+                "expanded_url": "http://youtube.com/c/tinyfoolgmail",
+                "start": 95,
+                "url": "https://t.co/fY05anVN8r"
+              },
+              {
+                "display_url": "tinyurl.com/2j928ecm",
+                "end": 147,
+                "expanded_url": "http://tinyurl.com/2j928ecm",
+                "start": 124,
+                "url": "https://t.co/FQLaNWFD5j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "codechina.org",
+                "end": 23,
+                "expanded_url": "https://codechina.org/",
+                "start": 0,
+                "url": "https://t.co/h65nactS6S"
+              }
+            ]
+          }
+        },
+        "id": "5967912",
+        "location": "Tianjin",
+        "name": "Tinyfool",
+        "pinned_tweet_id": "1529730373789179909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634730992278839297/vZg4HnAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193231,
+          "following_count": 999,
+          "like_count": 7945,
+          "listed_count": 1483,
+          "media_count": 5143,
+          "tweet_count": 109474
+        },
+        "url": "https://t.co/h65nactS6S",
+        "username": "tinyfool",
+        "verified": true
+      }
+    ]
+  }
+}

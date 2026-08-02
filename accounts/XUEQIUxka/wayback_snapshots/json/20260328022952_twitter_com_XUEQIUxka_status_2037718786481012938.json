@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037679883124613548",
+    "created_at": "2026-03-28T02:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037718786481012938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "869768913709481986",
+          "start": 0,
+          "username": "yibingsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037718786481012938",
+    "in_reply_to_user_id": "869768913709481986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037679883124613548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibingsg 我只能说他不听别人的建议，死的很正常"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2233,
+        "media_key": "3_2037679880410988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdLDh3bgAARDVo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 798,
+        "media_key": "3_2037679880155082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdLDg6asAAhDgJ.jpg",
+        "width": 629
+      },
+      {
+        "height": 338,
+        "media_key": "3_2037679880348045312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdLDhobEAAq6o3.jpg",
+        "width": 660
+      },
+      {
+        "height": 629,
+        "media_key": "3_2037679880532631552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdLDiUboAA2FhE.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037679883124613548",
+        "created_at": "2026-03-28T02:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037718786481012938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "869768913709481986",
+              "start": 0,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037718786481012938",
+        "in_reply_to_user_id": "869768913709481986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037679883124613548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibingsg 我只能说他不听别人的建议，死的很正常"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037679880410988544",
+            "3_2037679880155082752",
+            "3_2037679880348045312",
+            "3_2037679880532631552"
+          ]
+        },
+        "author_id": "869768913709481986",
+        "conversation_id": "2037679883124613548",
+        "created_at": "2026-03-27T23:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037679883124613548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zS01d4Sgzf",
+              "end": 56,
+              "expanded_url": "https://x.com/yibingsg/status/2037679883124613548/photo/1",
+              "media_key": "3_2037679880410988544",
+              "start": 33,
+              "url": "https://t.co/zS01d4Sgzf"
+            },
+            {
+              "display_url": "pic.x.com/zS01d4Sgzf",
+              "end": 56,
+              "expanded_url": "https://x.com/yibingsg/status/2037679883124613548/photo/1",
+              "media_key": "3_2037679880155082752",
+              "start": 33,
+              "url": "https://t.co/zS01d4Sgzf"
+            },
+            {
+              "display_url": "pic.x.com/zS01d4Sgzf",
+              "end": 56,
+              "expanded_url": "https://x.com/yibingsg/status/2037679883124613548/photo/1",
+              "media_key": "3_2037679880348045312",
+              "start": 33,
+              "url": "https://t.co/zS01d4Sgzf"
+            },
+            {
+              "display_url": "pic.x.com/zS01d4Sgzf",
+              "end": 56,
+              "expanded_url": "https://x.com/yibingsg/status/2037679883124613548/photo/1",
+              "media_key": "3_2037679880532631552",
+              "start": 33,
+              "url": "https://t.co/zS01d4Sgzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037679883124613548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "曝张雪峰早有求死之心，一顿狂吃73根雪糕，饮食太杂还不舍得浪费！\n\n张雪峰离世后，许多人心中留下了一个挥之不去的疑问：这样一个如此聪明的人，为什么在身体状况已不理想，且已经实现财富自由的情况下，依然没有选择退休，反而继续拼命工作？难道他不应该珍惜自己的身体，避免熬夜、多做锻炼，减少暴饮暴食这些常识性错误吗？甚至在他的亲生女儿多次劝他退休时，张雪峰依旧没有改变自己不顾健康的生活方式。\n\n这个现象引发了一个博主的大胆推测：张雪峰早已心存求死之意。经过一番深挖，或许我们才会发现，这个观点并非空穴来风。\n\n虽然有时张雪峰吃东西是为了打广告，或者为了避免浪费，但从根本上来说，这一切都与他独特的性格和成长经历密切相关。说到底，张雪峰并不是不明白健康的重要性，而是他骨子里那股停不下来的劲儿，驱使着他从底层一步步拼搏到今天。在他的内心深处，最害怕的并不是身体的疲惫，而是被社会遗忘，被人替代。他把自己当成了一台永不停歇的机器，不是他不想关掉，而是他根本不敢停下。这种拼命的精神，既成就了他的事业，也最终让他耗尽了生命的能量。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15887,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曝张雪峰早有求死之心，一顿狂吃73根雪糕，饮食太杂还不舍得浪费！ https://t.co/zS01d4Sgzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 1940,
+          "like_count": 22426,
+          "listed_count": 27,
+          "media_count": 460,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-31T04:14:03.000Z",
+        "description": "艺术人生，政经人生，休闲人生，玫瑰人生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smartlypickit.com",
+                "end": 23,
+                "expanded_url": "https://www.smartlypickit.com",
+                "start": 0,
+                "url": "https://t.co/3JS6ZdpC93"
+              }
+            ]
+          }
+        },
+        "id": "869768913709481986",
+        "name": "Fairice",
+        "pinned_tweet_id": "2037603624768221261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152583025672110083/bn1B7p-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54817,
+          "following_count": 21536,
+          "like_count": 25977,
+          "listed_count": 171,
+          "media_count": 21982,
+          "tweet_count": 40291
+        },
+        "url": "https://t.co/3JS6ZdpC93",
+        "username": "yibingsg",
+        "verified": true
+      }
+    ]
+  }
+}

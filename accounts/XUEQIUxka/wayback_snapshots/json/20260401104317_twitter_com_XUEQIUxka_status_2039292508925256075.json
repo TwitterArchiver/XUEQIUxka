@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039223324937740450",
+    "created_at": "2026-04-01T10:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039292508925256075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039292508925256075",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039223324937740450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 看不懂，不好说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2039223175750598656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzGrJBbwAAH2GZ.jpg",
+        "width": 1350
+      },
+      {
+        "duration_ms": 136951,
+        "height": 960,
+        "media_key": "13_2039223199448350720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039223199448350720/img/Yy4ZvcMvpdR_LqSk.jpg",
+        "public_metrics": {
+          "view_count": 86035
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039223199448350720/vid/avc1/320x564/uYpqhYD8rTUr6p_Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039223199448350720/vid/avc1/480x846/g3k0s4YsaP3yxLNc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039223199448350720/vid/avc1/544x960/rj7XswwNe8R7CHgG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039223199448350720/pl/wK-5alo1OXpDJ9wr.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039223324937740450",
+        "created_at": "2026-04-01T10:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039292508925256075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039292508925256075",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039223324937740450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 看不懂，不好说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039223175750598656",
+            "13_2039223199448350720"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2039223324937740450",
+        "created_at": "2026-04-01T06:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039223324937740450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XH0PXH7Ts",
+              "end": 169,
+              "expanded_url": "https://x.com/_FORAB/status/2039223324937740450/video/1",
+              "media_key": "3_2039223175750598656",
+              "start": 146,
+              "url": "https://t.co/2XH0PXH7Ts"
+            },
+            {
+              "display_url": "pic.x.com/2XH0PXH7Ts",
+              "end": 169,
+              "expanded_url": "https://x.com/_FORAB/status/2039223324937740450/video/1",
+              "media_key": "13_2039223199448350720",
+              "start": 146,
+              "url": "https://t.co/2XH0PXH7Ts"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/_FORAB/status/2038581390124740900",
+              "start": 170,
+              "url": "https://t.co/aEmZPBrdUU"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2039223324937740450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 353074,
+          "like_count": 284,
+          "quote_count": 8,
+          "reply_count": 94,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038581390124740900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赴美生子这事，弄不好还真的要被堵死了。特朗普早间再次发布推文，表示在美国出生就有公民权，是为了保护以前黑人奴隶的孩子而设立的，而不是给那些生了 56 个孩子的中国亿万富翁。\n\n社区普遍猜测，这个富豪就是多益网络董事长徐波，在今年初，他家在微博上，晒出 50 多个赴美代孕孩子，集体跳舞视频。 https://t.co/2XH0PXH7Ts https://t.co/aEmZPBrdUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 2018,
+          "like_count": 23476,
+          "listed_count": 27,
+          "media_count": 506,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114326,
+          "following_count": 591,
+          "like_count": 9923,
+          "listed_count": 1895,
+          "media_count": 2965,
+          "tweet_count": 13746
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

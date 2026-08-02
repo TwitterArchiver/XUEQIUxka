@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2081353841703113197",
+    "created_at": "2026-07-29T06:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082356382909808711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998952052463120389",
+          "start": 0,
+          "username": "ku1zu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082356382909808711",
+    "in_reply_to_user_id": "1998952052463120389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081996987738845622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ku1zu0 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2081353841703113197",
+        "created_at": "2026-07-29T06:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082356382909808711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998952052463120389",
+              "start": 0,
+              "username": "ku1zu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082356382909808711",
+        "in_reply_to_user_id": "1998952052463120389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081996987738845622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ku1zu0 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998952052463120389",
+        "conversation_id": "2081353841703113197",
+        "created_at": "2026-07-28T06:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081996987738845622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ku1zu0/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ku1zu0/status/2024430275045052666",
+              "start": 17,
+              "url": "https://t.co/ucpZDJQSws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081996987738845622",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024430275045052666",
+            "type": "quoted"
+          },
+          {
+            "id": "2081353841703113197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 这诗真绝了 https://t.co/ucpZDJQSws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9770,
+          "following_count": 2363,
+          "like_count": 33607,
+          "listed_count": 26,
+          "media_count": 1665,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T03:04:50.000Z",
+        "description": "原号愧怍@kuizuo，重生为鬼炸。历史推文 https://t.co/bZ1zFIFmrk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "kuizuo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.kuizuo.me",
+                "end": 46,
+                "expanded_url": "https://x.kuizuo.me",
+                "start": 23,
+                "url": "https://t.co/bZ1zFIFmrk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuizuo.me",
+                "end": 23,
+                "expanded_url": "https://kuizuo.me",
+                "start": 0,
+                "url": "https://t.co/04bZnabIS6"
+              }
+            ]
+          }
+        },
+        "id": "1998952052463120389",
+        "location": "现实",
+        "name": "鬼炸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006196631172206592/NfDFoMAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 247,
+          "like_count": 2302,
+          "listed_count": 9,
+          "media_count": 101,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/04bZnabIS6",
+        "username": "ku1zu0",
+        "verified": true
+      }
+    ]
+  }
+}

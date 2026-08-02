@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944404762088325120"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "1944404765246677427",
+    "created_at": "2025-07-13T14:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T15:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944404765246677427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDuZbs7ZPg",
+          "end": 82,
+          "expanded_url": "https://x.com/XUEQIUxka/status/1944404765246677427/photo/1",
+          "media_key": "3_1944404762088325120",
+          "start": 59,
+          "url": "https://t.co/XDuZbs7ZPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944404765246677427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "速开朗\n合法吸毒（bushi\n\n感觉根本没用\n不如把钱拿去吃饭 \n评估-1400\n药钱+留观-1600\n3k 不开朗 https://t.co/XDuZbs7ZPg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2254,
+        "media_key": "3_1944404762088325120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvp1EfaQAAW3Bi.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944404762088325120"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "1944404765246677427",
+        "created_at": "2025-07-13T14:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944404765246677427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDuZbs7ZPg",
+              "end": 82,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1944404765246677427/photo/1",
+              "media_key": "3_1944404762088325120",
+              "start": 59,
+              "url": "https://t.co/XDuZbs7ZPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944404765246677427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速开朗\n合法吸毒（bushi\n\n感觉根本没用\n不如把钱拿去吃饭 \n评估-1400\n药钱+留观-1600\n3k 不开朗 https://t.co/XDuZbs7ZPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在排期，减重，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n（和平分开）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "MTF"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "HRT"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "双相"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 1440,
+          "like_count": 17536,
+          "listed_count": 20,
+          "media_count": 278,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

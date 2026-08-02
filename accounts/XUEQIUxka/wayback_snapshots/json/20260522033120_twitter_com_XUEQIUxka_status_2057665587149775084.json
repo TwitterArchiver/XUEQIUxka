@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2057493369241100534",
+    "created_at": "2026-05-22T03:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057665587149775084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464628062751014915",
+          "start": 0,
+          "username": "yfzhaomm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057665587149775084",
+    "in_reply_to_user_id": "1464628062751014915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057650677086904330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yfzhaomm 但是这个并非AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2057493369241100534",
+        "created_at": "2026-05-22T03:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057665587149775084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464628062751014915",
+              "start": 0,
+              "username": "yfzhaomm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057665587149775084",
+        "in_reply_to_user_id": "1464628062751014915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057650677086904330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yfzhaomm 但是这个并非AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464628062751014915",
+        "conversation_id": "2057493369241100534",
+        "created_at": "2026-05-22T02:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057650677086904330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057650677086904330",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057493369241100534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 有的，你让AI生成一个250的也可以马上印出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 2322,
+          "like_count": 30494,
+          "listed_count": 24,
+          "media_count": 1576,
+          "tweet_count": 5437
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-27T16:12:19.000Z",
+        "description": "新加坡｜法律合规 × Web3 研究   做数据产品，\n新加坡房产检索工具：https://t.co/8vI7vg88w1   \n关注监管、链上与市场叙事\n关于WEB3合规和学习笔记链接：https://t.co/67I8GEVOMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zhaoshifu.sg",
+                "end": 61,
+                "expanded_url": "http://zhaoshifu.sg",
+                "start": 38,
+                "url": "https://t.co/8vI7vg88w1"
+              },
+              {
+                "display_url": "mirror.xyz/0x2dc88C74058f…",
+                "end": 117,
+                "expanded_url": "https://mirror.xyz/0x2dc88C74058ff2d8dC4b186c92667D185825dF7C",
+                "start": 94,
+                "url": "https://t.co/67I8GEVOMK"
+              }
+            ]
+          }
+        },
+        "id": "1464628062751014915",
+        "location": "新加坡",
+        "name": "会吐泡的泡泡",
+        "pinned_tweet_id": "2057143201086296128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497935967470362626/bsRKxTvj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 794,
+          "like_count": 217,
+          "listed_count": 25,
+          "media_count": 44,
+          "tweet_count": 1307
+        },
+        "username": "yfzhaomm",
+        "verified": true
+      }
+    ]
+  }
+}

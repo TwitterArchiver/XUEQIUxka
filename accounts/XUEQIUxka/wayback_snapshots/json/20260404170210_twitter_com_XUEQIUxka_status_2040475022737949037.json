@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040371795182895505",
+    "created_at": "2026-04-04T17:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040475022737949037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "839124457188798464",
+          "start": 0,
+          "username": "ddny09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040475022737949037",
+    "in_reply_to_user_id": "839124457188798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040371795182895505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddny09 其实早就想了，这只不过是一个导火索罢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30395,
+        "height": 1280,
+        "media_key": "13_2040367762867208192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040367762867208192/img/DcAcuHOHKqVcq-Df.jpg",
+        "public_metrics": {
+          "view_count": 121014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040367762867208192/vid/avc1/320x568/y6EhdmcWbI7pbHtl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040367762867208192/vid/avc1/480x852/SDbCV7vxzhR4hgxQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040367762867208192/vid/avc1/720x1280/H5wkNcBikHkznDkp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040367762867208192/pl/Fux7D8ZuitoSuUCd.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040371795182895505",
+        "created_at": "2026-04-04T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040475022737949037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "839124457188798464",
+              "start": 0,
+              "username": "ddny09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040475022737949037",
+        "in_reply_to_user_id": "839124457188798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040371795182895505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddny09 其实早就想了，这只不过是一个导火索罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040367762867208192"
+          ]
+        },
+        "author_id": "839124457188798464",
+        "conversation_id": "2040371795182895505",
+        "created_at": "2026-04-04T10:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040371795182895505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3hS0IYjTv",
+              "end": 77,
+              "expanded_url": "https://x.com/ddny09/status/2040371795182895505/video/1",
+              "media_key": "13_2040367762867208192",
+              "start": 54,
+              "url": "https://t.co/O3hS0IYjTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040371795182895505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 231753,
+          "like_count": 266,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一家长一耳光把自己怀胎10月的宝贝直接送到了阎王\n这是到底是家长教育的问题\n还是现在孩子的心里有很大问题？ https://t.co/O3hS0IYjTv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 2028,
+          "like_count": 23997,
+          "listed_count": 27,
+          "media_count": 543,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-07T14:43:55.000Z",
+        "description": "｜进都进来了顺手点个关注吧 ｜热爱分享 ｜热爱生活 ｜享受每一天的搬砖搬运工快乐｜",
+        "id": "839124457188798464",
+        "location": "S",
+        "name": "Z.Yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021091880092696577/TqsioCp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 1587,
+          "like_count": 32296,
+          "listed_count": 35,
+          "media_count": 1501,
+          "tweet_count": 24075
+        },
+        "username": "ddny09",
+        "verified": true
+      }
+    ]
+  }
+}

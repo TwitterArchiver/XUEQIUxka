@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045141186835599792",
+    "created_at": "2026-04-17T17:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045187418673041684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "281706423",
+          "start": 0,
+          "username": "Chen_0_"
+        },
+        {
+          "end": 24,
+          "id": "1841306675674075136",
+          "start": 9,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045187418673041684",
+    "in_reply_to_user_id": "281706423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045152477452877906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chen_0_ @suishoucrystal 好喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045141186835599792",
+        "created_at": "2026-04-17T17:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045187418673041684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "281706423",
+              "start": 0,
+              "username": "Chen_0_"
+            },
+            {
+              "end": 24,
+              "id": "1841306675674075136",
+              "start": 9,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045187418673041684",
+        "in_reply_to_user_id": "281706423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045152477452877906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chen_0_ @suishoucrystal 好喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "281706423",
+        "conversation_id": "2045141186835599792",
+        "created_at": "2026-04-17T14:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045152477452877906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 26,
+              "id": "1841306675674075136",
+              "start": 11,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045152477452877906",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045141186835599792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @suishoucrystal 那我就要点赞评论了，哈哈 天降周边吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7010,
+          "following_count": 2113,
+          "like_count": 26233,
+          "listed_count": 27,
+          "media_count": 725,
+          "tweet_count": 3801
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-13T20:17:44.000Z",
+        "description": "No politics. AI agent builder. Long in TSLA aka bag holder. Options for the day coding for the night. I also work out. | 投资亏损专家, AI视频制作者",
+        "id": "281706423",
+        "name": "Charlan",
+        "pinned_tweet_id": "2041387309984067879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039738710279798784/lXJOIFOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 2352,
+          "like_count": 4691,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 3425
+        },
+        "username": "Chen_0_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語专业出身，自学计算机中☠️穷困潦倒，艰苦度日☠️广交推特各路豪杰\n🙌Mrs.GreenAppleファン🍏",
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1223,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2578
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

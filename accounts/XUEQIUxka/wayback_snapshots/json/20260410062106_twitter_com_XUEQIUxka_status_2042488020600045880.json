@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042488020600045880",
+    "created_at": "2026-04-10T06:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042488020600045880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mnib65836284/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/mnib65836284/status/1802391768278683818",
+          "start": 30,
+          "url": "https://t.co/ZxUqZC6252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042488020600045880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802391768278683818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "翻推文刷到了，谢谢你还记得我，当时也确实不是故意要骗大家的 https://t.co/ZxUqZC6252"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1802391760741470208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQNhwcUWEAAUEcA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1137,
+        "media_key": "3_1802391760787701760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQNhwcfXgAAzpFl.jpg",
+        "width": 692
+      },
+      {
+        "height": 1146,
+        "media_key": "3_1802391757637697537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQNhwQwWQAEcwtk.jpg",
+        "width": 777
+      },
+      {
+        "height": 1155,
+        "media_key": "3_1802391764780695553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQNhwrXXwAEEjdA.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042488020600045880",
+        "created_at": "2026-04-10T06:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042488020600045880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mnib65836284/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/mnib65836284/status/1802391768278683818",
+              "start": 30,
+              "url": "https://t.co/ZxUqZC6252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042488020600045880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802391768278683818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "翻推文刷到了，谢谢你还记得我，当时也确实不是故意要骗大家的 https://t.co/ZxUqZC6252"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1802391760741470208",
+            "3_1802391760787701760",
+            "3_1802391757637697537",
+            "3_1802391764780695553"
+          ]
+        },
+        "author_id": "1609317797540302848",
+        "conversation_id": "1802391768278683818",
+        "created_at": "2024-06-16T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802391768278683818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 136,
+              "id": "1368897611672018953",
+              "start": 126,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvwtLH93By",
+              "end": 172,
+              "expanded_url": "https://x.com/mnib65836284/status/1802391768278683818/photo/1",
+              "media_key": "3_1802391760741470208",
+              "start": 149,
+              "url": "https://t.co/lvwtLH93By"
+            },
+            {
+              "display_url": "pic.x.com/lvwtLH93By",
+              "end": 172,
+              "expanded_url": "https://x.com/mnib65836284/status/1802391768278683818/photo/1",
+              "media_key": "3_1802391760787701760",
+              "start": 149,
+              "url": "https://t.co/lvwtLH93By"
+            },
+            {
+              "display_url": "pic.x.com/lvwtLH93By",
+              "end": 172,
+              "expanded_url": "https://x.com/mnib65836284/status/1802391768278683818/photo/1",
+              "media_key": "3_1802391757637697537",
+              "start": 149,
+              "url": "https://t.co/lvwtLH93By"
+            },
+            {
+              "display_url": "pic.x.com/lvwtLH93By",
+              "end": 172,
+              "expanded_url": "https://x.com/mnib65836284/status/1802391768278683818/photo/1",
+              "media_key": "3_1802391764780695553",
+              "start": 149,
+              "url": "https://t.co/lvwtLH93By"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802391768278683818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2919,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来想着高考结束就干的，拖到了现在。。。\n其实高考前就开始抄了，没什么时间就抄了好久好久\n奇怪的是有几片烧完之后字迹还能看得清，就是小了点，是想给我留下吗\n有一点点错误顺便帮她改了，不过也只有她能看到了\n另外不要在底下说扫兴的话，我不关心什么真相\n顺便@XUEQIUxka @QianYue_XQ https://t.co/lvwtLH93By"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 2038,
+          "like_count": 24793,
+          "listed_count": 27,
+          "media_count": 609,
+          "tweet_count": 3311
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-31T22:37:50.000Z",
+        "description": "日常推/有时hrt的友跨（顺）男娘/成分复杂/回坑腐男/喜欢耽美/喜欢一切可爱的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shuichichi",
+                "end": 23,
+                "expanded_url": "https://t.me/shuichichi",
+                "start": 0,
+                "url": "https://t.co/tSkAkaxa98"
+              }
+            ]
+          }
+        },
+        "id": "1609317797540302848",
+        "name": "你不可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893318762486767616/Lgo_jJwx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 49,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/tSkAkaxa98",
+        "username": "mnib65836284",
+        "verified": false
+      }
+    ]
+  }
+}

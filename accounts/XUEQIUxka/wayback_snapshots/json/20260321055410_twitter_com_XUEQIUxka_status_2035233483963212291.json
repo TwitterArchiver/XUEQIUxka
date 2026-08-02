@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035190554590683630",
+    "created_at": "2026-03-21T05:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035233483963212291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240545827333914624",
+          "start": 0,
+          "username": "Xiaoniu6161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035233483963212291",
+    "in_reply_to_user_id": "1240545827333914624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035190554590683630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoniu6161 震撼首发"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 224828,
+        "height": 2300,
+        "media_key": "13_2035189855828025346",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035189855828025346/img/x7syeniCNmcYnveX.jpg",
+        "public_metrics": {
+          "view_count": 37418
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035189855828025346/vid/avc1/720x1288/qbiKo7SgV2x7JK6F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035189855828025346/pl/7ksghZOM3riQD9Wo.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035189855828025346/vid/avc1/320x572/yhs-GPLJi7h_VqlR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035189855828025346/vid/avc1/1284x2300/YT5zztYjiCTAerHW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035189855828025346/vid/avc1/480x858/G1U1kVmJpLvPaQ30.mp4"
+          }
+        ],
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035190554590683630",
+        "created_at": "2026-03-21T05:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035233483963212291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240545827333914624",
+              "start": 0,
+              "username": "Xiaoniu6161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035233483963212291",
+        "in_reply_to_user_id": "1240545827333914624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035190554590683630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoniu6161 震撼首发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035189855828025346"
+          ]
+        },
+        "author_id": "1240545827333914624",
+        "conversation_id": "2035190554590683630",
+        "created_at": "2026-03-21T03:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035190554590683630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlWaRXyMJW",
+              "end": 81,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2035190554590683630/video/1",
+              "media_key": "13_2035189855828025346",
+              "start": 58,
+              "url": "https://t.co/GlWaRXyMJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035190554590683630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 75991,
+          "like_count": 199,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "抖音博主 : 蔡有才，不到 50 万的粉丝，整 500 万的活😂\n\n全程都是高能讽刺视频，这个账号迟早被封•ᴗ•💧 https://t.co/GlWaRXyMJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6274,
+          "following_count": 1785,
+          "like_count": 21477,
+          "listed_count": 26,
+          "media_count": 408,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-19T07:49:29.000Z",
+        "description": "预测市场群：https://t.co/ZKHf21DTKM\n币圈交流群：https://t.co/TU11hhS4xP\n美股交流群：https://t.co/pMSN66D3Dd\nTG 交易信号：https://t.co/oD1wI5RXXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/polymarket88",
+                "end": 29,
+                "expanded_url": "https://t.me/polymarket88",
+                "start": 6,
+                "url": "https://t.co/ZKHf21DTKM"
+              },
+              {
+                "display_url": "t.me/xiaoniu616",
+                "end": 59,
+                "expanded_url": "https://t.me/xiaoniu616",
+                "start": 36,
+                "url": "https://t.co/TU11hhS4xP"
+              },
+              {
+                "display_url": "t.me/xiaoniu8181",
+                "end": 89,
+                "expanded_url": "https://t.me/xiaoniu8181",
+                "start": 66,
+                "url": "https://t.co/pMSN66D3Dd"
+              },
+              {
+                "display_url": "t.me/niuxiong",
+                "end": 121,
+                "expanded_url": "https://t.me/niuxiong",
+                "start": 98,
+                "url": "https://t.co/oD1wI5RXXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/1BEusP?i…",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/share/1BEusP?inviteCode=x9Warg",
+                "start": 0,
+                "url": "https://t.co/vzQKEX2NX5"
+              }
+            ]
+          }
+        },
+        "id": "1240545827333914624",
+        "location": "BG 钱包 最丝滑链上体验 meme  合约 美股 理财",
+        "name": "小牛",
+        "pinned_tweet_id": "1991399214539219264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869381488939008/BHPIOtLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145489,
+          "following_count": 982,
+          "like_count": 3806,
+          "listed_count": 1376,
+          "media_count": 11841,
+          "tweet_count": 27380
+        },
+        "url": "https://t.co/vzQKEX2NX5",
+        "username": "Xiaoniu6161",
+        "verified": true
+      }
+    ]
+  }
+}

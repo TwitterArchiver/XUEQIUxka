@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036251231899812241",
+    "created_at": "2026-03-24T04:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036294139491524783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "39941478",
+          "start": 0,
+          "username": "zaobaosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036294139491524783",
+    "in_reply_to_user_id": "39941478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036251231899812241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaobaosg 哇……我只看懂了“美元可能不够用了，人民币要上场”，心里有点慌又有点期待，感觉手里的钱会增涨\n世界经济好复杂，但希望大家都稳稳的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036251231899812241",
+        "created_at": "2026-03-24T04:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036294139491524783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39941478",
+              "start": 0,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036294139491524783",
+        "in_reply_to_user_id": "39941478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036251231899812241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaobaosg 哇……我只看懂了“美元可能不够用了，人民币要上场”，心里有点慌又有点期待，感觉手里的钱会增涨\n世界经济好复杂，但希望大家都稳稳的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "conversation_id": "2036251231899812241",
+        "created_at": "2026-03-24T01:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036251231899812241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国知名经济学家、国际货币基金组织原副总裁朱民说，美国经济占全球经济比重从45%跌到25%，已不足以支撑全球化单一货币——美元；大力推进人民币国际化，既是中国经济内生需要，也是国际金融发展稳定需要。",
+              "display_url": "zaobao.com.sg/news/china/sto…",
+              "end": 123,
+              "expanded_url": "https://www.zaobao.com.sg/news/china/story20260323-8779818?utm_medium=Social&utm_source=Twitter#Echobox=1774314951",
+              "start": 100,
+              "status": 200,
+              "title": "美元难撑 学者指人民币国际化对中国和世界有利",
+              "unwound_url": "https://www.zaobao.com.sg/news/china/story20260323-8779818?utm_medium=Social&utm_source=Twitter#Echobox=1774314951",
+              "url": "https://t.co/nuLHL1P2rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036251231899812241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 60845,
+          "like_count": 137,
+          "quote_count": 14,
+          "reply_count": 108,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "中国知名经济学家、国际货币基金组织原副总裁朱民说，美国经济占全球经济比重从45%跌到25%，已不足以支撑全球化单一货币——美元；大力推进人民币国际化，既是中国经济内生需要，也是国际金融发展稳定需要。 https://t.co/nuLHL1P2rX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1820,
+          "like_count": 21707,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742094,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 6164,
+          "media_count": 5911,
+          "tweet_count": 172982
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035988893464703480",
+    "created_at": "2026-03-23T13:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036077960713920624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036077960713920624",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035988893464703480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat 但是现实中的黄毛都吃的好好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44000,
+        "height": 1280,
+        "media_key": "13_2035988815219929089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035988815219929089/img/5gR3Ku7NFt6tFr2W.jpg",
+        "public_metrics": {
+          "view_count": 81653
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035988815219929089/vid/avc1/320x568/WfqUvm93Fc3UTjcK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035988815219929089/vid/avc1/480x852/PFG9BYK7UPh63Xix.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035988815219929089/vid/avc1/720x1280/OaQM3wpHcvV98fUC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035988815219929089/pl/DK65jMRiW7VvgrzH.m3u8?v=a7d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035988893464703480",
+        "created_at": "2026-03-23T13:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036077960713920624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036077960713920624",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035988893464703480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat 但是现实中的黄毛都吃的好好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035988815219929089"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2035988893464703480",
+        "created_at": "2026-03-23T07:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035988893464703480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeZZ827waa",
+              "end": 95,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2035988893464703480/video/1",
+              "media_key": "13_2035988815219929089",
+              "start": 72,
+              "url": "https://t.co/SeZZ827waa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035988893464703480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 153168,
+          "like_count": 249,
+          "quote_count": 1,
+          "reply_count": 197,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "这黄毛非常能处\n\n小女生为啥对黄毛爱的死去活来\n\n就是因为黄毛随时随地都在挑逗小女生的荷尔蒙\n\n200不行300行小女生又爱又恨的不就上头了嘛 https://t.co/SeZZ827waa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 1817,
+          "like_count": 21693,
+          "listed_count": 27,
+          "media_count": 425,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27142,
+          "following_count": 17268,
+          "like_count": 20043,
+          "listed_count": 53,
+          "media_count": 833,
+          "tweet_count": 14865
+        },
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

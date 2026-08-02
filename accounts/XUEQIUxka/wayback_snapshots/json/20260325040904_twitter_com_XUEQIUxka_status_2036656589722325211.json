@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036452238911218098",
+    "created_at": "2026-03-25T04:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036656589722325211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1224066402874617856",
+          "start": 0,
+          "username": "chaozuoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036656589722325211",
+    "in_reply_to_user_id": "1224066402874617856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036452238911218098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaozuoye 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_2036452195487588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELue3IaIAAfTY3.png",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036452238911218098",
+        "created_at": "2026-03-25T04:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036656589722325211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1224066402874617856",
+              "start": 0,
+              "username": "chaozuoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036656589722325211",
+        "in_reply_to_user_id": "1224066402874617856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036452238911218098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaozuoye 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036452195487588352"
+          ]
+        },
+        "author_id": "1224066402874617856",
+        "conversation_id": "2036452238911218098",
+        "created_at": "2026-03-24T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036452238911218098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpRfXSZx6F",
+              "end": 31,
+              "expanded_url": "https://x.com/chaozuoye/status/2036452238911218098/photo/1",
+              "media_key": "3_2036452195487588352",
+              "start": 8,
+              "url": "https://t.co/TpRfXSZx6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036452238911218098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 473835,
+          "like_count": 493,
+          "quote_count": 5,
+          "reply_count": 55,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "群里看到已笑喷 https://t.co/TpRfXSZx6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6370,
+          "following_count": 1862,
+          "like_count": 21884,
+          "listed_count": 27,
+          "media_count": 439,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T20:25:55.000Z",
+        "description": "不是KOL ,公众号理财博主（已封）喂饭级博主｜\n\n合作TG👉: @chaozuoye｜\n\n#OKX 新人首选一站式链上链下交易平台👉https://t.co/mb4fnWzjyB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "OKX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "chaozuoye"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/ZUOYE",
+                "end": 90,
+                "expanded_url": "http://okx.com/join/ZUOYE",
+                "start": 67,
+                "url": "https://t.co/mb4fnWzjyB"
+              }
+            ]
+          }
+        },
+        "id": "1224066402874617856",
+        "name": "作业借你抄",
+        "pinned_tweet_id": "2021956394635997507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017874013171920896/CKNBh67K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56186,
+          "following_count": 2411,
+          "like_count": 21607,
+          "listed_count": 843,
+          "media_count": 2687,
+          "tweet_count": 19262
+        },
+        "username": "chaozuoye",
+        "verified": true
+      }
+    ]
+  }
+}

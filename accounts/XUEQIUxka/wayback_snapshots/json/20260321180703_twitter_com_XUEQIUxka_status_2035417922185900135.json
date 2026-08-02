@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035362236114563245",
+    "created_at": "2026-03-21T18:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035417922185900135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "222316578",
+          "start": 0,
+          "username": "iam678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035417922185900135",
+    "in_reply_to_user_id": "222316578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035362236114563245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iam678 很多直接拿别人的照片\n我也想要门槛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2788,
+        "media_key": "3_2035359783231041536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8M8GWaMAAcD_h.jpg",
+        "width": 2184
+      },
+      {
+        "height": 1772,
+        "media_key": "3_2035359784833286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8M8MUagAAqBQ1.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035362236114563245",
+        "created_at": "2026-03-21T18:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035417922185900135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "222316578",
+              "start": 0,
+              "username": "iam678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035417922185900135",
+        "in_reply_to_user_id": "222316578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035362236114563245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam678 很多直接拿别人的照片\n我也想要门槛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035359783231041536",
+            "3_2035359784833286144"
+          ]
+        },
+        "author_id": "222316578",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035362236114563245",
+        "created_at": "2026-03-21T14:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:24:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035361826947608840",
+          "2035362236114563245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ds1JbIqfLt",
+              "end": 167,
+              "expanded_url": "https://x.com/iam678/status/2035362236114563245/photo/1",
+              "media_key": "3_2035359783231041536",
+              "start": 144,
+              "url": "https://t.co/Ds1JbIqfLt"
+            },
+            {
+              "display_url": "pic.x.com/Ds1JbIqfLt",
+              "end": 167,
+              "expanded_url": "https://x.com/iam678/status/2035362236114563245/photo/1",
+              "media_key": "3_2035359784833286144",
+              "start": 144,
+              "url": "https://t.co/Ds1JbIqfLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035362236114563245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 87399,
+          "like_count": 621,
+          "quote_count": 7,
+          "reply_count": 56,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "福利姬鉴别平台差不多可以用了，\n每次的搜索结果进行分类并根据分数进行排名，\n主页新增排行榜，\n更新了鉴定机制，更直观的给用户参考。\n取消了登录搜索限制，\n改为登录用户可以给搜索结果进行投票评分与评论。\n会在全网抓取对检索账户的负面评价，\n哪怕被隐藏的评论也会被抓取，\n全面减少门槛诈骗。 https://t.co/Ds1JbIqfLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 1802,
+          "like_count": 21574,
+          "listed_count": 26,
+          "media_count": 410,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-03T02:06:39.000Z",
+        "description": "夜遊びチャネル運営🇯🇵🇨🇳SNS企画| 经纪 | 备用号：@skus678 |日本艺人资料在会员TG频道，X私信仅回复入会咨询|TG咨询专用频道：https://t.co/ipBJVY7okM |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "skus678"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/injp777",
+                "end": 96,
+                "expanded_url": "https://t.me/injp777",
+                "start": 73,
+                "url": "https://t.co/ipBJVY7okM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/taoo777",
+                "end": 23,
+                "expanded_url": "https://lit.link/taoo777",
+                "start": 0,
+                "url": "https://t.co/8Cr5NcQa7o"
+              }
+            ]
+          }
+        },
+        "id": "222316578",
+        "location": "入会咨询及两个平台区别参考置顶推链接",
+        "name": "梁",
+        "pinned_tweet_id": "1927190568909598844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772826334999502848/ZdX2uBog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191983,
+          "following_count": 152,
+          "like_count": 699,
+          "listed_count": 470,
+          "media_count": 1208,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/8Cr5NcQa7o",
+        "username": "iam678",
+        "verified": true
+      }
+    ]
+  }
+}

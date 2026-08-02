@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041667596747931941",
+    "created_at": "2026-04-08T06:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041758818493984988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041758818493984988",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041667596747931941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 像是演的不确定，我再看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88840,
+        "height": 1166,
+        "media_key": "13_2041667452229087232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041667452229087232/img/7pVNl4KbWg7CajYX.jpg",
+        "public_metrics": {
+          "view_count": 314869
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041667452229087232/vid/avc1/320x518/-5xpvacP2zgYskGo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041667452229087232/vid/avc1/480x776/5-2fn1bSYGgQAhYL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041667452229087232/vid/avc1/720x1166/IZU_Wa0Ogk2FQcAl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041667452229087232/pl/yoAk0CpBx6UzFL0n.m3u8?v=f97"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041667596747931941",
+        "created_at": "2026-04-08T06:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041758818493984988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041758818493984988",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041667596747931941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 像是演的不确定，我再看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041667452229087232"
+          ]
+        },
+        "author_id": "2012843367982628864",
+        "conversation_id": "2041667596747931941",
+        "created_at": "2026-04-08T00:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041667596747931941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iSEvrL7Qb",
+              "end": 35,
+              "expanded_url": "https://x.com/XiaoJi0403/status/2041667596747931941/video/1",
+              "media_key": "13_2041667452229087232",
+              "start": 12,
+              "url": "https://t.co/0iSEvrL7Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041667596747931941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 484136,
+          "like_count": 797,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "家庭开放程度堪比欧美😅 https://t.co/0iSEvrL7Qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6787,
+          "following_count": 2031,
+          "like_count": 24403,
+          "listed_count": 27,
+          "media_count": 568,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "啥都发 发着玩儿 素材来源网络收集·自行辨别",
+        "id": "2012843367982628864",
+        "name": "老季",
+        "pinned_tweet_id": "2039856226108936694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021819823077183488/dmpU-l-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6628,
+          "following_count": 781,
+          "like_count": 8693,
+          "listed_count": 16,
+          "media_count": 459,
+          "tweet_count": 3486
+        },
+        "username": "XiaoJi0403",
+        "verified": true
+      }
+    ]
+  }
+}

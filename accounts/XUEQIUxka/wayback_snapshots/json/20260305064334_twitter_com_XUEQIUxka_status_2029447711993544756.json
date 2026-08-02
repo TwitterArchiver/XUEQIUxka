@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2029447711993544756",
+    "created_at": "2026-03-05T06:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T07:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029447711993544756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "SakurabaSenhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029447711993544756",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@SakurabaSenhane \n看不懂你为什么要ban我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2029447711993544756",
+        "created_at": "2026-03-05T06:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029447711993544756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "SakurabaSenhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029447711993544756",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@SakurabaSenhane \n看不懂你为什么要ban我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 1529,
+          "like_count": 20421,
+          "listed_count": 25,
+          "media_count": 323,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "你的带φ东北羽姐•最爱的天气是雨天•最喜欢的人是你·baka·@hoshi_Asuka0089•与你的日常•便是奇迹·大家每天都要开心哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com/my",
+                "end": 23,
+                "expanded_url": "https://www.apple.com/my",
+                "start": 0,
+                "url": "https://t.co/iDBvaNiZyT"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "S.C.H.A.L.E",
+        "name": "💮西行寺　千羽🌸",
+        "pinned_tweet_id": "2029117661427458141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 6021,
+          "like_count": 110413,
+          "listed_count": 8,
+          "media_count": 2353,
+          "tweet_count": 33302
+        },
+        "url": "https://t.co/iDBvaNiZyT",
+        "username": "SakurabaSenhane",
+        "verified": false
+      }
+    ]
+  }
+}

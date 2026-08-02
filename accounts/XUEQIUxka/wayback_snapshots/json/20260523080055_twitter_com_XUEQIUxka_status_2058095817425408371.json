@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2058092925364629976",
+    "created_at": "2026-05-23T08:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058095817425408371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058095817425408371",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058092925364629976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk 好看爱看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058092480592273408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_QNPSa4AATJfC.jpg",
+        "width": 1453
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058092480588079104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_QNPRa4AAnHno.jpg",
+        "width": 1460
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058092480592310272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_QNPSbcAAmLWl.jpg",
+        "width": 1466
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058092480588034048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_QNPRaMAAwy-H.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2058092925364629976",
+        "created_at": "2026-05-23T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058095817425408371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058095817425408371",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058092925364629976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk 好看爱看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058092480592273408",
+            "3_2058092480588079104",
+            "3_2058092480592310272",
+            "3_2058092480588034048"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2058092925364629976",
+        "created_at": "2026-05-23T07:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058092925364629976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UapsHsBVV4",
+              "end": 107,
+              "expanded_url": "https://x.com/cavityuk/status/2058092925364629976/photo/1",
+              "media_key": "3_2058092480592273408",
+              "start": 84,
+              "url": "https://t.co/UapsHsBVV4"
+            },
+            {
+              "display_url": "pic.x.com/UapsHsBVV4",
+              "end": 107,
+              "expanded_url": "https://x.com/cavityuk/status/2058092925364629976/photo/1",
+              "media_key": "3_2058092480588079104",
+              "start": 84,
+              "url": "https://t.co/UapsHsBVV4"
+            },
+            {
+              "display_url": "pic.x.com/UapsHsBVV4",
+              "end": 107,
+              "expanded_url": "https://x.com/cavityuk/status/2058092925364629976/photo/1",
+              "media_key": "3_2058092480592310272",
+              "start": 84,
+              "url": "https://t.co/UapsHsBVV4"
+            },
+            {
+              "display_url": "pic.x.com/UapsHsBVV4",
+              "end": 107,
+              "expanded_url": "https://x.com/cavityuk/status/2058092925364629976/photo/1",
+              "media_key": "3_2058092480588034048",
+              "start": 84,
+              "url": "https://t.co/UapsHsBVV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058092925364629976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接！\n“本子”之uu@qusuunmd \np1：神秘姿势？\np2：uu凶凶的哎……\np3：上半：被掐脖子了下半：p2的手部特写\np4：好软的扔子～❤️\n\n持续更新中！ https://t.co/UapsHsBVV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8763,
+          "following_count": 2367,
+          "like_count": 30924,
+          "listed_count": 25,
+          "media_count": 1614,
+          "tweet_count": 5521
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi\n女朋友❤️：@qusuunmd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 34,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 190
+        },
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

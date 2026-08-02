@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2075087512842952823",
+    "created_at": "2026-07-19T09:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078780214507884545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747926522395324416",
+          "start": 0,
+          "username": "Web3454354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078780214507884545",
+    "in_reply_to_user_id": "1747926522395324416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075087512842952823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Web3454354 那已经永久被暂停的怎么办qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2075087512842952823",
+        "created_at": "2026-07-19T09:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078780214507884545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747926522395324416",
+              "start": 0,
+              "username": "Web3454354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078780214507884545",
+        "in_reply_to_user_id": "1747926522395324416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075087512842952823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3454354 那已经永久被暂停的怎么办qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747926522395324416",
+        "conversation_id": "2075087512842952823",
+        "created_at": "2026-07-09T05:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075087512842952823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075087512842952823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13653,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你的创作者收益被暂停了。\n\n🙅不要立即申诉！\n🙅不要立即申诉！\n🙅不要立即申诉！\n\n否则你就会喜提创作者收益永久封禁！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9778,
+          "following_count": 2363,
+          "like_count": 33512,
+          "listed_count": 26,
+          "media_count": 1632,
+          "tweet_count": 5936
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T10:19:27.000Z",
+        "description": "大圣资本Co-Founder/为1011事件受害者发声/🦜鸟币志愿者/MEME专家/业余链上分析师/13年入圈老韭菜/21年MEME凭运气达到A8后凭实力亏完，回血ing。。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "niaocoin.xyz",
+                "end": 23,
+                "expanded_url": "https://www.niaocoin.xyz/",
+                "start": 0,
+                "url": "https://t.co/zwZWb45Ki2"
+              }
+            ]
+          }
+        },
+        "id": "1747926522395324416",
+        "location": "Everywhere",
+        "name": "PPP想买二手车|狗宝真帅",
+        "pinned_tweet_id": "2077236780466868417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872900817210228737/OfJvn1e2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6737,
+          "following_count": 3824,
+          "like_count": 9505,
+          "listed_count": 11,
+          "media_count": 891,
+          "tweet_count": 20133
+        },
+        "url": "https://t.co/zwZWb45Ki2",
+        "username": "Web3454354",
+        "verified": true
+      }
+    ]
+  }
+}

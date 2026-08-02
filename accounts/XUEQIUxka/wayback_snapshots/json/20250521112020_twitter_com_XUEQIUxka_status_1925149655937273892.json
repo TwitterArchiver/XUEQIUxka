@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1925073363220734067",
+    "created_at": "2025-05-21T11:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T12:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925149655937273892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925149655937273892",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925073363220734067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 关于跨性别相关，可能之后会专门出一期关于跨性别之类的，本质上这个纪录片仅仅只是想记录一个“精神病患者的就医”仅此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1925073363220734067",
+        "created_at": "2025-05-21T11:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925149655937273892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925149655937273892",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925073363220734067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 关于跨性别相关，可能之后会专门出一期关于跨性别之类的，本质上这个纪录片仅仅只是想记录一个“精神病患者的就医”仅此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1925073363220734067",
+        "created_at": "2025-05-21T06:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925073363220734067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925073363220734067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "雪秋那个视频b站有推U补档惹ww\n可算看到惹ww\n\n至于雪秋个人的背景和事件，我这边就不过多赘述了，别的推U讲述的其实已经很清楚了。\n我这边主要是从视频的创作团队的角度，以及这个视频对“圈外的”观众带来的影响和引导，等等角度进行我个人的一个浅显的评价。\n\n首先对于创作团队，目前我本人看下来，通过视频内容和对发布的账号分析呢，个人认为，制作团队应该是不知道雪秋在圈内的负面行为以及舆情的。应该只是通过合作的医生或医院来寻找愿意拍摄的志愿者。\n\n视频整体更多的是围绕“精神疾病”而并非“跨性别”。跨性别部分有所提及，但提及的部分过少。其实并没有对标题中，双引号的这个“她”，有足够的科普和说明。\n\n视频中对于“跨性别”的内容提及过少，甚至缺少必要的科普，可能会给观众带来“精神病”才导致“跨性别”的错误引导。\n\n个人猜测创作团队有可能是担心“跨性别”的议题在墙内容易吃力不讨好，引发争吵。但很显然，缺乏基本的科普和解释说明，反而导致了原评论区的大量争吵。既然标题里说了当事人是跨性别，内容中也有提及当事人是跨性别，视频中不进行必要的科普和说明，反而会引来大量抱有刻板印象的人的攻击。\n（比如视频中提了“易性症”，但却一点都没介绍“易性症”是啥，反而围绕自残自杀以及几项精神病进行展开，反而会给路人一种“精神病才会导致跨性别”的错误引导）\n\n但说实话，其实假设在观众完全不知道当事人个人背景的情况下，那个视频本身的制作质量和水平还是不错的。动画水平还是十分优秀的。\n\n如果不知内情的路人观众，在把当事人完全当成一个纯“素人”去对待的话，其实能主要看到的视频想要体现的角度，还是对常见精神疾病的一个介绍科普和大众引导。\n\n但是说句实话，不知道是不是视频为了适应短视频的节奏，视频中真的缺了太多太多关键信息了，比如距离心脏很近的刀子，我看了两遍才知道啥意思。我第一遍看的时候还没搞明白，那究竟是自残还是被伤害还是家暴还是导致ptsd的元凶？视频里缺掉的关键信息太多了。\n\n整个视频像是在讲述一段听上去很动感情的“歌谣”，但是缺乏必要的细节，缺乏必要的故事或者前因后果，缺乏必要的科普和解释说明，这如何才能让观众对当事人以及同样有精神疾患的人进行共情呢？\n\n创作团队跟着当事人走了一路拍了那么多素材，创作团队是懂一切发生了啥，这样的视频是能感动到创作团队了，但路人还是懵的QvQ。然后理所当然的嘛，这就会导致有路人就会对着不理解的部分进行挑刺了嘛，比如说尤其说是“跨性别”部分，对吧？QvQ\n\n意图聊“精神疾病”，没想到变成老保对LGBT的骂战了，绝。\n\n希望创作团队之后在视频发布前找一些“没跟着团队跟进”的人审一审视频。不能创作团队自己知道背景，所以能跟自己的视频共情。但是视频却没能给路人传达清晰背景，于是就是会感觉辞藻都是浮于表面的，轻飘飘的，只能靠脑补来理解。\n那脑补来脑补去，搭配刻板印象套餐，哦豁，翻车的出乎整个创作团队的意料。QvQ\n\n我目前不知道视频为什么下架的，但感觉跟“雪秋”个人的背景关系不大，主要是涉及LGBTQ+有关的内容在墙内确实是一个雷，你千万别想着避讳，只是稍作提及，那还不如做点全面的科普，更容易避免误会和避免错误的解读QvQ（）\n\n当然毕竟原视频下架了，我看不到原评论区，所以原评论区的内容我只是通过推特上别人描述的“捕风捉影”，和事实若有偏差还请见谅QvQ\n\n整体描述一下这个视频的话，就是：“一个制作精良的，诗歌般的微纪录片。但貌似是为了适应短视频的快节奏，失去了太多必要的解释说明、背景补充、科普介绍。缺乏必要的深度反而会导致过浅的内容容易被发掘出矛盾，从而触雷。”\n\n挺有意思的hh，在现在这个“互联网评论区”就相当于是“全民二创”的时代下，你要是不来点有深度的部分呢，整体都太浮于表面呢，观众会自行创造“深度”的。甚至有的搞笑视频评论区下都会这样。那这样的结果必然是会不如意，失控的了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1348,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "雪秋那个视频b站有推U补档惹ww\n可算看到惹ww\n\n至于雪秋个人的背景和事件，我这边就不过多赘述了，别的推U讲述的其实已经很清楚了。\n我这边主要是从视频的创作团队的角度，以及这个视频对“圈外的”观众带来的影响和引导，等等角度进行我个人的一个浅显的评价。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备24~25年SRS，目前在排期，减重，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n（和平分开）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "MTF"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "HRT"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "双相"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4710,
+          "following_count": 1438,
+          "like_count": 17400,
+          "listed_count": 20,
+          "media_count": 276,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10485,
+          "following_count": 1152,
+          "like_count": 106602,
+          "listed_count": 22,
+          "media_count": 3720,
+          "tweet_count": 52477
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2048213827490361678",
+    "created_at": "2026-04-26T08:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048313680828514677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546153784820129792",
+          "start": 0,
+          "username": "zheguangyouchai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048313680828514677",
+    "in_reply_to_user_id": "1546153784820129792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048213827490361678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheguangyouchai xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048213815930859520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGy3nRqbMAA1uvn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2048213827490361678",
+        "created_at": "2026-04-26T08:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048313680828514677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546153784820129792",
+              "start": 0,
+              "username": "zheguangyouchai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048313680828514677",
+        "in_reply_to_user_id": "1546153784820129792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048213827490361678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheguangyouchai xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048213815930859520"
+          ]
+        },
+        "author_id": "1546153784820129792",
+        "conversation_id": "2048213827490361678",
+        "created_at": "2026-04-26T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048213827490361678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtNT79zzGQ",
+              "end": 44,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2048213827490361678/photo/1",
+              "media_key": "3_2048213815930859520",
+              "start": 21,
+              "url": "https://t.co/dtNT79zzGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048213827490361678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2463,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大疆寄来的Pocket4和一堆周边） https://t.co/dtNT79zzGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7610,
+          "following_count": 2163,
+          "like_count": 27402,
+          "listed_count": 28,
+          "media_count": 924,
+          "tweet_count": 4294
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T15:26:20.000Z",
+        "description": "Politics🚫 AI🚫\n摄影师。\n不授权将我的作品用于AI训练/创作。不要在其他平台提及我和我的照片，否则拉黑，谢谢。",
+        "id": "1546153784820129792",
+        "name": "折光邮差",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043202722309267457/x1DaEYkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10732,
+          "following_count": 183,
+          "like_count": 8830,
+          "listed_count": 59,
+          "media_count": 1488,
+          "tweet_count": 4296
+        },
+        "username": "zheguangyouchai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036258603489972575",
+    "created_at": "2026-03-26T05:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037045594116739250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827090529621782528",
+          "start": 0,
+          "username": "b3785486614474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037045594116739250",
+    "in_reply_to_user_id": "1827090529621782528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036258603489972575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b3785486614474 互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2036258506178023424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEI-UqOb0AAs9Hi.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036258603489972575",
+        "created_at": "2026-03-26T05:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037045594116739250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827090529621782528",
+              "start": 0,
+              "username": "b3785486614474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037045594116739250",
+        "in_reply_to_user_id": "1827090529621782528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036258603489972575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b3785486614474 互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036258506178023424"
+          ]
+        },
+        "author_id": "1827090529621782528",
+        "conversation_id": "2036258603489972575",
+        "created_at": "2026-03-24T01:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036258603489972575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vtS9AEhHa",
+              "end": 43,
+              "expanded_url": "https://x.com/b3785486614474/status/2036258603489972575/photo/1",
+              "media_key": "3_2036258506178023424",
+              "start": 20,
+              "url": "https://t.co/0vtS9AEhHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036258603489972575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1260,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来互关 话不多说 直接整上 有关必回！ https://t.co/0vtS9AEhHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 1897,
+          "like_count": 22122,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T21:08:38.000Z",
+        "description": "我的 Web3 工具箱：\n#OKX 钱包减百分之二十手续费：https://t.co/DUmHeKxpmD\n#GMGN 冲狗神器：https://t.co/JTxXrvR2yL\n#Polymarket 预测市场：https://t.co/x4q8477BOi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "OKX"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "GMGN"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "tag": "Polymarket"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/LLJIE",
+                "end": 53,
+                "expanded_url": "http://web3.okx.com/join/LLJIE",
+                "start": 30,
+                "url": "https://t.co/DUmHeKxpmD"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=bSBYaRka",
+                "end": 88,
+                "expanded_url": "https://gmgn.ai/?ref=bSBYaRka",
+                "start": 65,
+                "url": "https://t.co/JTxXrvR2yL"
+              },
+              {
+                "display_url": "polymarket.com/?r=Jie",
+                "end": 129,
+                "expanded_url": "https://polymarket.com/?r=Jie",
+                "start": 106,
+                "url": "https://t.co/x4q8477BOi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 23,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_Poly123",
+                "start": 0,
+                "url": "https://t.co/iOVh5KfU4f"
+              }
+            ]
+          }
+        },
+        "id": "1827090529621782528",
+        "location": "Poly 官方认证跟单 Bot ➡",
+        "name": "Degen 实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908876411827617792/u7y6Lz3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1137,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/iOVh5KfU4f",
+        "username": "b3785486614474",
+        "verified": true
+      }
+    ]
+  }
+}

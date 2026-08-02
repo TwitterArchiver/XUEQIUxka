@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036811661785567460",
+    "created_at": "2026-03-26T02:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036995847213506679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1603306318139248640",
+          "start": 0,
+          "username": "yhbkqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036995847213506679",
+    "in_reply_to_user_id": "1603306318139248640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036811661785567460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhbkqs 某种意义，赛博永生也算永生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2036811648158359552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQ1ZwrbYAARfuD.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036811661785567460",
+        "created_at": "2026-03-26T02:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036995847213506679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1603306318139248640",
+              "start": 0,
+              "username": "yhbkqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036995847213506679",
+        "in_reply_to_user_id": "1603306318139248640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036811661785567460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhbkqs 某种意义，赛博永生也算永生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036811648158359552"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "conversation_id": "2036811661785567460",
+        "created_at": "2026-03-25T14:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036811661785567460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjJlhYTSqL",
+              "end": 32,
+              "expanded_url": "https://x.com/yhbkqs/status/2036811661785567460/photo/1",
+              "media_key": "3_2036811648158359552",
+              "start": 9,
+              "url": "https://t.co/kjJlhYTSqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036811661785567460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 812965,
+          "like_count": 2099,
+          "quote_count": 16,
+          "reply_count": 318,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "张老师赛博永生。 https://t.co/kjJlhYTSqL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6396,
+          "following_count": 1882,
+          "like_count": 22103,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14210,
+          "following_count": 827,
+          "like_count": 45,
+          "listed_count": 60,
+          "media_count": 771,
+          "tweet_count": 5230
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

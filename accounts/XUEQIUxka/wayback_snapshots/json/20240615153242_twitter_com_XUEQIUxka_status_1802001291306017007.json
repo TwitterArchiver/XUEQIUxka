@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1802001291306017007",
+    "created_at": "2024-06-15T15:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T16:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802001291306017007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QianYue_XQ/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/QianYue_XQ/status/1801996686329328014",
+          "start": 8,
+          "url": "https://t.co/og6enWWytz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802001291306017007",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801996686329328014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么到此结束了 https://t.co/og6enWWytz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1802001291306017007",
+        "created_at": "2024-06-15T15:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T16:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802001291306017007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianYue_XQ/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1801996686329328014",
+              "start": 8,
+              "url": "https://t.co/og6enWWytz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802001291306017007",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801996686329328014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么到此结束了 https://t.co/og6enWWytz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801996678318215169",
+            "3_1801996681233256448",
+            "3_1801996682474696704"
+          ]
+        },
+        "author_id": "1382339434872463371",
+        "conversation_id": "1801996686329328014",
+        "created_at": "2024-06-15T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801996686329328014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 46,
+              "id": "1587653801305153538",
+              "start": 34,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 61,
+              "id": "1468416451208179712",
+              "start": 47,
+              "username": "kokowamakotsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xISj5NN3dL",
+              "end": 103,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1801996686329328014/photo/1",
+              "media_key": "3_1801996678318215169",
+              "start": 80,
+              "url": "https://t.co/xISj5NN3dL"
+            },
+            {
+              "display_url": "pic.twitter.com/xISj5NN3dL",
+              "end": 103,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1801996686329328014/photo/1",
+              "media_key": "3_1801996681233256448",
+              "start": 80,
+              "url": "https://t.co/xISj5NN3dL"
+            },
+            {
+              "display_url": "pic.twitter.com/xISj5NN3dL",
+              "end": 103,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1801996686329328014/photo/1",
+              "media_key": "3_1801996682474696704",
+              "start": 80,
+              "url": "https://t.co/xISj5NN3dL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801996686329328014",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把雪球 @XUEQIUxka 的骨灰撒到珠江里了，感谢来帮忙的大家 @XiaoHuiHuiH @kokowamakotsu \n最后，愿她在另一个世界被温柔以待 https://t.co/xISj5NN3dL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 1496,
+          "like_count": 18564,
+          "listed_count": 19,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T14:26:34.000Z",
+        "description": "(･｀ｪ´･)つ简介什么的 应该无所谓吧…\n对象：@XUEQIUxka\n（无涩图 几乎不发推 有事联系找雪球，可惜再也没有球球陪我了）愿球球和jose（苏小溪）在另一个世界被温柔以待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              }
+            ]
+          }
+        },
+        "id": "1382339434872463371",
+        "name": "Yue.纪念雪球和小溪版",
+        "pinned_tweet_id": "1790806099047612894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544426381668667392/XB2mUu-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 314,
+          "like_count": 138,
+          "listed_count": 3,
+          "tweet_count": 112
+        },
+        "username": "QianYue_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

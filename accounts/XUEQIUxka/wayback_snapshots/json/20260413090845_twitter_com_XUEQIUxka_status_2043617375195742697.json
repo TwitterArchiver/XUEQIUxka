@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043617372721082368"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2043617375195742697",
+    "created_at": "2026-04-13T09:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043617375195742697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 86,
+          "id": "2039295933834289152",
+          "start": 78,
+          "username": "runauua"
+        },
+        {
+          "end": 116,
+          "id": "1829436939826774016",
+          "start": 101,
+          "username": "dachuan_CN5622"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UBlsfIMFrY",
+          "end": 188,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2043617375195742697/photo/1",
+          "media_key": "3_2043617372721082368",
+          "start": 165,
+          "url": "https://t.co/UBlsfIMFrY"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 212,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2042224926887965019",
+          "start": 189,
+          "url": "https://t.co/65Z5bVpUcF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043617375195742697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 86,
+            "id": "2039295933834289152",
+            "start": 78,
+            "username": "runauua"
+          },
+          {
+            "end": 116,
+            "id": "1829436939826774016",
+            "start": 101,
+            "username": "dachuan_CN5622"
+          }
+        ]
+      },
+      "text": "抽取完成！（基于你提供的三个截图列表，纯随机抽取，确保公平～） 点赞抽取一位：\n@DustWallo15805\n （Cassiopeia） 转发抽取一位：\n@runauua\n （汐夏） 评论抽取一位：\n@dachuan_CN5622\n （Dachuan / 大川）你可以直接复制这些账号去@他们，或者在你那条帖子里回复公布结果～\n需要我帮你写好公布文案吗？（比如“恭喜中奖！请私信我领奖～”）随时说！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042224926887965019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽取完成！（基于你提供的三个截图列表，纯随机抽取，确保公平～） 点赞抽取一位：\n@DustWallo15805\n （Cassiopeia） 转发抽取一位：\n@runauua\n （汐夏） 评论抽取一位：\n@dachuan_CN5622\n （Dachuan / 大川）你可以直接复制这些账号去@他们，或者在你那条帖子里回复公布结果～ https://t.co/UBlsfIMFrY https://t.co/65Z5bVpUcF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043617372721082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxjLEXbcAApy3V.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042224923209592833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdwv1tbcAE300y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2042224923935166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdwv4aa0AAjlyv.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042224923138301952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdwv1cboAApM_K.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043617372721082368"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2043617375195742697",
+        "created_at": "2026-04-13T09:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043617375195742697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "2039295933834289152",
+              "start": 78,
+              "username": "runauua"
+            },
+            {
+              "end": 116,
+              "id": "1829436939826774016",
+              "start": 101,
+              "username": "dachuan_CN5622"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBlsfIMFrY",
+              "end": 188,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2043617375195742697/photo/1",
+              "media_key": "3_2043617372721082368",
+              "start": 165,
+              "url": "https://t.co/UBlsfIMFrY"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2042224926887965019",
+              "start": 189,
+              "url": "https://t.co/65Z5bVpUcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043617375195742697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 86,
+                "id": "2039295933834289152",
+                "start": 78,
+                "username": "runauua"
+              },
+              {
+                "end": 116,
+                "id": "1829436939826774016",
+                "start": 101,
+                "username": "dachuan_CN5622"
+              }
+            ]
+          },
+          "text": "抽取完成！（基于你提供的三个截图列表，纯随机抽取，确保公平～） 点赞抽取一位：\n@DustWallo15805\n （Cassiopeia） 转发抽取一位：\n@runauua\n （汐夏） 评论抽取一位：\n@dachuan_CN5622\n （Dachuan / 大川）你可以直接复制这些账号去@他们，或者在你那条帖子里回复公布结果～\n需要我帮你写好公布文案吗？（比如“恭喜中奖！请私信我领奖～”）随时说！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042224926887965019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽取完成！（基于你提供的三个截图列表，纯随机抽取，确保公平～） 点赞抽取一位：\n@DustWallo15805\n （Cassiopeia） 转发抽取一位：\n@runauua\n （汐夏） 评论抽取一位：\n@dachuan_CN5622\n （Dachuan / 大川）你可以直接复制这些账号去@他们，或者在你那条帖子里回复公布结果～ https://t.co/UBlsfIMFrY https://t.co/65Z5bVpUcF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042224923209592833",
+            "3_2042224923935166464",
+            "3_2042224923138301952"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042224926887965019",
+        "created_at": "2026-04-09T12:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042224926887965019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "1368897611672018953",
+              "start": 83,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qra86EuphL",
+              "end": 175,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2042224926887965019/photo/1",
+              "media_key": "3_2042224923209592833",
+              "start": 152,
+              "url": "https://t.co/qra86EuphL"
+            },
+            {
+              "display_url": "pic.x.com/qra86EuphL",
+              "end": 175,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2042224926887965019/photo/1",
+              "media_key": "3_2042224923935166464",
+              "start": 152,
+              "url": "https://t.co/qra86EuphL"
+            },
+            {
+              "display_url": "pic.x.com/qra86EuphL",
+              "end": 175,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2042224926887965019/photo/1",
+              "media_key": "3_2042224923138301952",
+              "start": 152,
+              "url": "https://t.co/qra86EuphL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042224926887965019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2067,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第七弹！\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月12日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n如果抽不到也可以去我的闲鱼买？\n眼熟的直接找我黑幕就好了 https://t.co/qra86EuphL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6868,
+          "following_count": 2054,
+          "like_count": 25443,
+          "listed_count": 28,
+          "media_count": 667,
+          "tweet_count": 3566
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T10:57:05.000Z",
+        "description": "01 | 无证 | 社恐 | 缺爱 | 貌似没有郁郁症 | 日本海归已工作 | 日语OK |  性取向非顺男非顺女仅限想要变喵的跨友（如果有喵愿意陪我去泰国srs我一定会嫁给她！）",
+        "id": "2039295933834289152",
+        "location": "安亭",
+        "name": "🇨🇳🇯🇵汐夏🏳️‍⚧️ 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039298253339103232/FRONZC4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 50,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 133
+        },
+        "username": "runauua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T08:32:32.000Z",
+        "description": "中/日/英综合大号: @dachuan_DC \n喜欢数码📱/怀旧📟，喜欢玩气球🎈～\n我不一定每天上推，请留意；只发日常、玩气球、数码、怀旧等内容；喜欢涩涩但是不发涩涩，不键政，对我友好的人都会对你友好，如有无言follow请见谅。\n在我这打广告的先过191.9以上🚪，不然拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "dachuan_DC"
+              }
+            ]
+          }
+        },
+        "id": "1829436939826774016",
+        "location": "🚪11.4/51.4/191.9/810 互粉/友好者免费",
+        "name": "Dachuan (aka. 大川)🎈📱📟",
+        "pinned_tweet_id": "2042977213566586938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829437032466386944/tDzx14ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 262,
+          "like_count": 2571,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 1195
+        },
+        "username": "dachuan_CN5622",
+        "verified": false
+      }
+    ]
+  }
+}

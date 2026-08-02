@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2066842724414927315",
+    "created_at": "2026-06-17T07:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067140259607871886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "618877168",
+          "start": 0,
+          "username": "diyskillstacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067140259607871886",
+    "in_reply_to_user_id": "618877168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067040007529882087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diyskillstacker 因为新用户花钱了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2066842724414927315",
+        "created_at": "2026-06-17T07:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067140259607871886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "618877168",
+              "start": 0,
+              "username": "diyskillstacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067140259607871886",
+        "in_reply_to_user_id": "618877168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067040007529882087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diyskillstacker 因为新用户花钱了("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "618877168",
+        "conversation_id": "2066842724414927315",
+        "created_at": "2026-06-17T00:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067040007529882087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067040007529882087",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6896,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066842724414927315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 这赔偿可以了，相当于劳斯莱斯999元代金劵。话说已经注册邮箱就这么开放注册了不应该收回新注册用户的吗？为什么把老用户的收回了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9265,
+          "following_count": 2404,
+          "like_count": 32343,
+          "listed_count": 26,
+          "media_count": 2024,
+          "tweet_count": 6192
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-26T08:36:01.000Z",
+        "description": "低调，等待，机遇",
+        "id": "618877168",
+        "location": "村头右拐250米处《反“斜杠文化”》宣传委员会装逼整治办",
+        "name": "技多不押韵",
+        "pinned_tweet_id": "2064787326044094576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980817092313030656/VZyAhlfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 523,
+          "like_count": 181,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "diyskillstacker",
+        "verified": false
+      }
+    ]
+  }
+}

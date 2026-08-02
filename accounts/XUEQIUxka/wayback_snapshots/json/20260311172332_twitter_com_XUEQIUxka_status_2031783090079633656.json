@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2031783090079633656",
+    "created_at": "2026-03-11T17:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031783090079633656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZemingLiu51015…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ZemingLiu51015/status/2031779316313571544",
+          "start": 6,
+          "url": "https://t.co/taJWJ0ueWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031783090079633656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031779316313571544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢喜欢捏 https://t.co/taJWJ0ueWm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031779309762084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJUhHRbgAAAB8s.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031779311091662848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJUhMObQAAPPMz.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1790,
+        "media_key": "3_2031779313025261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJUhTbboAAPN1t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2031783090079633656",
+        "created_at": "2026-03-11T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031783090079633656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZemingLiu51015…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ZemingLiu51015/status/2031779316313571544",
+              "start": 6,
+              "url": "https://t.co/taJWJ0ueWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031783090079633656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031779316313571544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢喜欢捏 https://t.co/taJWJ0ueWm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031779309762084864",
+            "3_2031779311091662848",
+            "3_2031779313025261568"
+          ]
+        },
+        "author_id": "1875960927746691072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031779316313571544",
+        "created_at": "2026-03-11T17:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031779316313571544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1368897611672018953",
+              "start": 8,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nbEwkQPfh",
+              "end": 58,
+              "expanded_url": "https://x.com/ZemingLiu51015/status/2031779316313571544/photo/1",
+              "media_key": "3_2031779309762084864",
+              "start": 35,
+              "url": "https://t.co/1nbEwkQPfh"
+            },
+            {
+              "display_url": "pic.x.com/1nbEwkQPfh",
+              "end": 58,
+              "expanded_url": "https://x.com/ZemingLiu51015/status/2031779316313571544/photo/1",
+              "media_key": "3_2031779311091662848",
+              "start": 35,
+              "url": "https://t.co/1nbEwkQPfh"
+            },
+            {
+              "display_url": "pic.x.com/1nbEwkQPfh",
+              "end": 58,
+              "expanded_url": "https://x.com/ZemingLiu51015/status/2031779316313571544/photo/1",
+              "media_key": "3_2031779313025261568",
+              "start": 35,
+              "url": "https://t.co/1nbEwkQPfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031779316313571544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢来自雪秋姐姐@XUEQIUxka赠送的礼物喵（前几天忘了发了🥺） https://t.co/1nbEwkQPfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "家长党"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "MTF"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "HRT"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "Les"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "双相"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ADHD"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 1547,
+          "like_count": 20626,
+          "listed_count": 25,
+          "media_count": 339,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T17:42:04.000Z",
+        "description": "🏳️‍⚧️mtf/无证含糖/半家长党/阴暗苦逼高三牲（已高考完，复读ing）/目前重抑重焦几乎康复/喜欢发癫/音游吃/ba二档摆烂人/爱听HARDCORE/想学弹钢琴和编曲/曲师pikasonic铁粉/欢迎同类互fo🥰/好想减肥（呜呜）",
+        "id": "1875960927746691072",
+        "location": "雌二醇天堂",
+        "name": "可耐的笨笨🍥",
+        "pinned_tweet_id": "2026636689347862639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889115918586023936/oYAatzKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 137,
+          "like_count": 292,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 140
+        },
+        "username": "ZemingLiu51015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076678469015183360"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2076730879691604143",
+    "created_at": "2026-07-13T18:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076730879691604143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XKXwzZTsL",
+          "end": 38,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2076730879691604143/photo/1",
+          "media_key": "3_2076678469015183360",
+          "start": 15,
+          "url": "https://t.co/2XKXwzZTsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076730879691604143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "师傅，开车不要东张西望啊…… https://t.co/2XKXwzZTsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2076678469015183360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHYEJpaIAA_TCc.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076678469015183360"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2076730879691604143",
+        "created_at": "2026-07-13T18:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076730879691604143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XKXwzZTsL",
+              "end": 38,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2076730879691604143/photo/1",
+              "media_key": "3_2076678469015183360",
+              "start": 15,
+              "url": "https://t.co/2XKXwzZTsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730879691604143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "师傅，开车不要东张西望啊…… https://t.co/2XKXwzZTsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9605,
+          "following_count": 2370,
+          "like_count": 33366,
+          "listed_count": 26,
+          "media_count": 1614,
+          "tweet_count": 5885
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

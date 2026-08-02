@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036002259155448318",
+    "created_at": "2026-03-23T13:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036077075506077896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036077075506077896",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036002259155448318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 现在做空黄金怎么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2036002239215779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFVP9ZbQAAaO2a.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2036002239203180544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFVP9WbAAAcTQv.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2036002239207313410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFVP9XaEAIblq3.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036002259155448318",
+        "created_at": "2026-03-23T13:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036077075506077896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036077075506077896",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036002259155448318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 现在做空黄金怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036002239215779840",
+            "3_2036002239203180544",
+            "3_2036002239207313410"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2036002259155448318",
+        "created_at": "2026-03-23T08:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036002259155448318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UcDaQ2y2y",
+              "end": 159,
+              "expanded_url": "https://x.com/cuichenghao/status/2036002259155448318/photo/1",
+              "media_key": "3_2036002239215779840",
+              "start": 136,
+              "url": "https://t.co/5UcDaQ2y2y"
+            },
+            {
+              "display_url": "pic.x.com/5UcDaQ2y2y",
+              "end": 159,
+              "expanded_url": "https://x.com/cuichenghao/status/2036002259155448318/photo/1",
+              "media_key": "3_2036002239203180544",
+              "start": 136,
+              "url": "https://t.co/5UcDaQ2y2y"
+            },
+            {
+              "display_url": "pic.x.com/5UcDaQ2y2y",
+              "end": 159,
+              "expanded_url": "https://x.com/cuichenghao/status/2036002259155448318/photo/1",
+              "media_key": "3_2036002239207313410",
+              "start": 136,
+              "url": "https://t.co/5UcDaQ2y2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036002259155448318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12602,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天，受美伊战争可能升级的影响，中国内地沪深两市5500只个股下跌，沪市向下跳空大跌3.6%，重新跌回6124和5178两个高点连线。\n\n今日黄金也迎来史诗级暴跌，单日跌幅8%，主要原因为中东主要产油国石油收入大幅缩水，被迫大规模抛售黄金储备回笼现金，直接触发金价崩盘。 https://t.co/5UcDaQ2y2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 1817,
+          "like_count": 21693,
+          "listed_count": 27,
+          "media_count": 425,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89796,
+          "following_count": 698,
+          "like_count": 6014,
+          "listed_count": 314,
+          "media_count": 3137,
+          "tweet_count": 3314
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

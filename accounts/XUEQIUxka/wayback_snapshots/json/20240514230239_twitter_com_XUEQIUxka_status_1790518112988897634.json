@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1790518112988897634",
+    "created_at": "2024-05-14T23:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T00:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790518112988897634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shi_miaoliya/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/shi_miaoliya/status/1790476999657717930",
+          "start": 27,
+          "url": "https://t.co/KulnB00TKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790518112988897634",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790476999657717930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实不用管就好了，没人爱的雪球自己会死，不需要担心捏 https://t.co/KulnB00TKu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1790518112988897634",
+        "created_at": "2024-05-14T23:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T00:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790518112988897634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shi_miaoliya/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/shi_miaoliya/status/1790476999657717930",
+              "start": 27,
+              "url": "https://t.co/KulnB00TKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790518112988897634",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790476999657717930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实不用管就好了，没人爱的雪球自己会死，不需要担心捏 https://t.co/KulnB00TKu"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786098386736959488",
+        "conversation_id": "1790476999657717930",
+        "created_at": "2024-05-14T20:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T21:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790476999657717930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790476999657717930",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雪秋的精神状态突然变得好差，不知道该怎么办了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n大老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTF"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "HRT"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "双相"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1790096166039810501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4557,
+          "following_count": 1513,
+          "like_count": 19274,
+          "listed_count": 17,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T18:20:51.000Z",
+        "description": "是一只含糖的小猫娘，也是MTX哦，但在考虑会不会翻车变成木桶饭，QAQ。希望能和大家和谐相处～\n双相情感障碍带精分性状，可能有点边缘性人格障碍QAQ\n会努力治疗的",
+        "id": "1786098386736959488",
+        "location": "江浙沪 珠三角",
+        "name": "喵璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786409412271517696/AUaNU0pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 158,
+          "like_count": 516,
+          "listed_count": 0,
+          "tweet_count": 156
+        },
+        "username": "shi_miaoliya",
+        "verified": false
+      }
+    ]
+  }
+}

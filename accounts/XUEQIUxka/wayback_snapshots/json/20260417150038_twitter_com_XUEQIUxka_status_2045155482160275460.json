@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045136341957292070",
+    "created_at": "2026-04-17T15:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045155482160275460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546153784820129792",
+          "start": 0,
+          "username": "zheguangyouchai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045155482160275460",
+    "in_reply_to_user_id": "1546153784820129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045136341957292070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheguangyouchai 大佬牛逼，关注大佬很久了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2045136338404663296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHIqgfaYAAIj1L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045136339012911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHIqiwbgAAbNCJ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 943,
+        "media_key": "3_2045136338899664896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHIqiVbgAAFxWl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 943,
+        "media_key": "3_2045136339272966144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHIqjuboAAsg4C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045136341957292070",
+        "created_at": "2026-04-17T15:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045155482160275460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546153784820129792",
+              "start": 0,
+              "username": "zheguangyouchai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045155482160275460",
+        "in_reply_to_user_id": "1546153784820129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045136341957292070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheguangyouchai 大佬牛逼，关注大佬很久了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045136338404663296",
+            "3_2045136339012911104",
+            "3_2045136338899664896",
+            "3_2045136339272966144"
+          ]
+        },
+        "author_id": "1546153784820129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045136341957292070",
+        "created_at": "2026-04-17T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045136341957292070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPnfAg2l82",
+              "end": 91,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2045136341957292070/photo/1",
+              "media_key": "3_2045136338404663296",
+              "start": 68,
+              "url": "https://t.co/pPnfAg2l82"
+            },
+            {
+              "display_url": "pic.x.com/pPnfAg2l82",
+              "end": 91,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2045136341957292070/photo/1",
+              "media_key": "3_2045136339012911104",
+              "start": 68,
+              "url": "https://t.co/pPnfAg2l82"
+            },
+            {
+              "display_url": "pic.x.com/pPnfAg2l82",
+              "end": 91,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2045136341957292070/photo/1",
+              "media_key": "3_2045136338899664896",
+              "start": 68,
+              "url": "https://t.co/pPnfAg2l82"
+            },
+            {
+              "display_url": "pic.x.com/pPnfAg2l82",
+              "end": 91,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2045136341957292070/photo/1",
+              "media_key": "3_2045136339272966144",
+              "start": 68,
+              "url": "https://t.co/pPnfAg2l82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045136341957292070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1152,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "达成成就：名字出现在电影片尾\n\n4月24日 中国航天日，由国家航天局新闻中心出品的嫦娥六号任务记录电影《 登月》欢迎大家来电影院看！🎦 https://t.co/pPnfAg2l82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7007,
+          "following_count": 2113,
+          "like_count": 26202,
+          "listed_count": 27,
+          "media_count": 721,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T15:26:20.000Z",
+        "description": "Politics🚫 AI🚫\n摄影师。\n不授权将我的作品用于AI训练/创作。不要在其他平台提及我和我的照片，否则拉黑，谢谢。",
+        "id": "1546153784820129792",
+        "name": "折光邮差",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043202722309267457/x1DaEYkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10622,
+          "following_count": 180,
+          "like_count": 8822,
+          "listed_count": 57,
+          "media_count": 1479,
+          "tweet_count": 4279
+        },
+        "username": "zheguangyouchai",
+        "verified": false
+      }
+    ]
+  }
+}

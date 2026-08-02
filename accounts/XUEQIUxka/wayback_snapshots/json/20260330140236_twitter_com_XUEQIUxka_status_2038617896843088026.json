@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038329011861082269",
+    "created_at": "2026-03-30T14:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038617896843088026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1339847350173351936",
+          "start": 0,
+          "username": "theepicmap"
+        },
+        {
+          "end": 25,
+          "id": "1830192967120011266",
+          "start": 12,
+          "username": "RikuSakaLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038617896843088026",
+    "in_reply_to_user_id": "1339847350173351936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038329011861082269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theepicmap @RikuSakaLine 国内什么时候有，我真想玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32833,
+        "height": 480,
+        "media_key": "7_1693334999066394625",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1693334999066394625/pu/img/VhjA_-lTnn7P_ytt.jpg",
+        "public_metrics": {
+          "view_count": 15205877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1693334999066394625/pu/vid/320x320/WR9haDihfDcJBeE7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1693334999066394625/pu/vid/480x480/s-7UQtLAptOMEAHz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1693334999066394625/pu/pl/16vRBVs0mFwNEvMi.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038329011861082269",
+        "created_at": "2026-03-30T14:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038617896843088026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1339847350173351936",
+              "start": 0,
+              "username": "theepicmap"
+            },
+            {
+              "end": 25,
+              "id": "1830192967120011266",
+              "start": 12,
+              "username": "RikuSakaLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038617896843088026",
+        "in_reply_to_user_id": "1339847350173351936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038329011861082269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theepicmap @RikuSakaLine 国内什么时候有，我真想玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1693334999066394625"
+          ],
+          "media_source_tweet_id": [
+            "1693335090070446465"
+          ]
+        },
+        "author_id": "1339847350173351936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038329011861082269",
+        "created_at": "2026-03-29T18:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038329011861082269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY4diAlOLe",
+              "end": 67,
+              "expanded_url": "https://x.com/Locati0ns/status/1693335090070446465/video/1",
+              "media_key": "7_1693334999066394625",
+              "start": 44,
+              "url": "https://t.co/ZY4diAlOLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038329011861082269",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1794,
+          "impression_count": 2526262,
+          "like_count": 9626,
+          "quote_count": 59,
+          "reply_count": 87,
+          "retweet_count": 662
+        },
+        "reply_settings": "everyone",
+        "text": "Interactive Topography Sandbox [1000 x 600] https://t.co/ZY4diAlOLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6593,
+          "following_count": 2004,
+          "like_count": 23156,
+          "listed_count": 27,
+          "media_count": 487,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-18T08:19:08.000Z",
+        "description": "Educational and informative world Maps 🗺️. We do not own any content posted. Dm for removal/credit.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/geographymap",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/geographymap",
+                "start": 0,
+                "url": "https://t.co/M4QzqF6sid"
+              }
+            ]
+          }
+        },
+        "id": "1339847350173351936",
+        "location": "Turn ON tweet notifications🔔",
+        "name": "Epic Maps 🗺️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1369972073758564355/nzPns41x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223388,
+          "following_count": 6,
+          "like_count": 2104,
+          "listed_count": 3367,
+          "media_count": 7809,
+          "tweet_count": 9258
+        },
+        "url": "https://t.co/M4QzqF6sid",
+        "username": "theepicmap",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "实事求是｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·地图·气象·EEW系统｜理科生，精通人文地理｜高考日语生 备考JLPT N4｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "2015024191188378021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005244128788123648/71-Jv-0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 416,
+          "like_count": 8625,
+          "listed_count": 1,
+          "media_count": 631,
+          "tweet_count": 2957
+        },
+        "username": "RikuSakaLine",
+        "verified": true
+      }
+    ]
+  }
+}

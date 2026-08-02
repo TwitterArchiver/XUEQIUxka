@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035959575694983308",
+    "created_at": "2026-03-23T11:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036048899266469985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036048899266469985",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035959575694983308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 哈哈……我觉得这个好像也在提醒自己啊🥹\n有时候我们对自己付出的东西爱得太深，\n就算它歪歪扭扭，也觉得珍贵无比\n可世界可能并不懂，但没关系，\n那份努力和心意，本身就值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035959575694983308",
+        "created_at": "2026-03-23T11:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036048899266469985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036048899266469985",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035959575694983308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 哈哈……我觉得这个好像也在提醒自己啊🥹\n有时候我们对自己付出的东西爱得太深，\n就算它歪歪扭扭，也觉得珍贵无比\n可世界可能并不懂，但没关系，\n那份努力和心意，本身就值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          }
+        ],
+        "conversation_id": "2035959575694983308",
+        "created_at": "2026-03-23T05:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035959575694983308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035959575694983308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "歪歪扭扭的柜子\n\n1950年代，美国的食品公司发明了速溶蛋糕粉。\n加水，搅一搅，扔进烤箱。\n完美。\n省时省力，味道也不差。\n公司信心满满地推向市场。\n结果——\n\n没人买。\n\n美国家庭主妇们集体抵制。\n理由是：“这也太简单了吧，完全感受不到我在’做蛋糕’，这算什么烘焙？”\n\n公司的工程师们抓破脑袋。\n\n后来，他们做了一件看似愚蠢的事。\n把配方里的鸡蛋粉去掉了。\n新包装上写着：“请加一颗鸡蛋。”\n\n产品完全没变好。\n多了一个步骤，反而更麻烦了。\n\n但销量——\n爆了。\n\n为什么？\n\n因为主妇们觉得：“我亲手打了一颗蛋进去，这个蛋糕是我做的。”\n\n五十年后。\n2011年，哈佛商学院的迈克尔·诺顿教授想起了这个故事。\n他做了一系列实验。\n\n第一个实验：\n他让一组人自己动手组装宜家家具。\n另一组人直接拿到了一模一样的、已经装好的成品。\n然后问两组人：你愿意为这个家具出多少钱？\n自己装的那组人，愿意出的价格比成品组高出63%。\n\n第二个实验：\n他让人们亲手折纸鹤。\n然后问他们：你觉得你折的纸鹤值多少钱？\n再让另一群没参与折纸的人来评价同一只纸鹤。\n结果：\n自己折的人，觉得这只歪歪扭扭的纸鹤简直是艺术品。\n\n旁观者看了一眼说：这是什么玩意？\n\n最讽刺的是——\n那些亲手折纸鹤的人，认为自己的业余作品的价值，跟专家折的一样高。\n而且他们真心觉得，别人也应该这么认为。\n\n🖊️ 诺顿教授把这个现象命名为——“宜家效应”。\n\n当你为一个东西付出了劳动，你就会不可救药地高估它的价值。\n\n哪怕它歪歪扭扭。\n哪怕它粗制滥造。\n哪怕在别人眼里一文不值。\n你还是觉得它价值连城。\n因为你的汗水在里面。\n\n这个效应在商业和投资中比比皆是。\n\n一个创业者死守自己明显失败的项目不肯放手——“这是我亲手做的，它一定有价值。”\n\n一个经理人拒绝采纳外部更好的方案——“我们自己研发的更好。“这甚至有个专门的名字叫”非我发明综合症”。\n\n一个房主把自己亲手铺的砖墙小路算进了房价里——但买家只看到了一条歪歪斜斜的小路。\n\n你投入的劳动，确实创造了情感价值。但不要把情感价值跟市场价值搞混了。\n\n你觉得自己折的纸鹤是天鹅。但市场只看见了一张被揉皱的纸。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 85534,
+          "like_count": 514,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "歪歪扭扭的柜子\n\n1950年代，美国的食品公司发明了速溶蛋糕粉。\n加水，搅一搅，扔进烤箱。\n完美。\n省时省力，味道也不差。\n公司信心满满地推向市场。\n结果——\n\n没人买。\n\n美国家庭主妇们集体抵制。\n理由是：“这也太简单了吧，完全感受不到我在’做蛋糕’，这算什么烘焙？”\n\n公司的工程师们抓破脑袋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6322,
+          "following_count": 1817,
+          "like_count": 21688,
+          "listed_count": 27,
+          "media_count": 424,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71766,
+          "following_count": 2829,
+          "like_count": 9022,
+          "listed_count": 613,
+          "media_count": 5095,
+          "tweet_count": 10573
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

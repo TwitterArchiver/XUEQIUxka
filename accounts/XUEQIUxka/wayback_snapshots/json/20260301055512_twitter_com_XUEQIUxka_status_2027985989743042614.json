@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2027985989743042614",
+    "created_at": "2026-03-01T05:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027985989743042614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_NB/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/wxb_NB/status/2027924968412217710",
+          "start": 11,
+          "url": "https://t.co/rUoQnXghdL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027985989743042614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027924968412217710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提醒大家非必要不出门 https://t.co/rUoQnXghdL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2027985989743042614",
+        "created_at": "2026-03-01T05:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027985989743042614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2027924968412217710",
+              "start": 11,
+              "url": "https://t.co/rUoQnXghdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027985989743042614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027924968412217710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提醒大家非必要不出门 https://t.co/rUoQnXghdL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900168705847500800",
+        "conversation_id": "2027924968412217710",
+        "created_at": "2026-03-01T01:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027924968412217710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027924968412217710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上海发布2022年3月1报道：今天，本市新增1例新冠肺炎本土确诊病例。市、区疫情防控应急处置机制立即启动，全面开展流行病学调查、相关人员排查、采样检测和防控管理，落实相关场所及环境消毒等相关防疫措施。该病例已闭环转运至上海市公共卫生临床中心隔离治疗，目前病情稳定。\n根据国务院联防联控机制有关要求，经市新冠肺炎疫情防控工作领导小组办公室研究决定，将普陀区石泉街道宁强路33号石泉社区文化活动中心列为中风险地区，上海市其他区域风险等级不变。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上海发布2022年3月1报道：今天，本市新增1例新冠肺炎本土确诊病例。市、区疫情防控应急处置机制立即启动，全面开展流行病学调查、相关人员排查、采样检测和防控管理，落实相关场所及环境消毒等相关防疫措施。该病例已闭环转运至上海市公共卫生临床中心隔离治疗，目前病情稳定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5892,
+          "following_count": 1518,
+          "like_count": 20241,
+          "listed_count": 25,
+          "media_count": 317,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.awacat.cc",
+                "end": 23,
+                "expanded_url": "http://about.awacat.cc",
+                "start": 0,
+                "url": "https://t.co/CVlYXKXGJI"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 363,
+          "like_count": 4042,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/CVlYXKXGJI",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

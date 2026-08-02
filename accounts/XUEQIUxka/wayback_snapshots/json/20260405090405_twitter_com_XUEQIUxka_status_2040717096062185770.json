@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040673461643903261",
+    "created_at": "2026-04-05T09:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040717096062185770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724854632152006656",
+          "start": 0,
+          "username": "manguan235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040717096062185770",
+    "in_reply_to_user_id": "1724854632152006656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040673461643903261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manguan235 但是后妈真的对她很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040673461643903261",
+        "created_at": "2026-04-05T09:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040717096062185770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724854632152006656",
+              "start": 0,
+              "username": "manguan235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040717096062185770",
+        "in_reply_to_user_id": "1724854632152006656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040673461643903261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manguan235 但是后妈真的对她很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724854632152006656",
+        "conversation_id": "2040673461643903261",
+        "created_at": "2026-04-05T06:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040673461643903261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040673461643903261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真人真事\n\n女孩4岁时，亲妈卷走家里钱跑了；\n8岁时爸爸又卷走修车店积蓄消失。\n貌不惊人的后妈，一声不吭带着她\n搬家，租破房子打零工供她上学。\n\n知道不是亲妈，女孩省生活费交学费，\n被后妈吼：\"想让我当恶毒后妈？\"从\n此后妈天天接她回家吃饭，盯着她吃\n完。\n\n高中女孩偷偷兼职，后妈追到店里怒喊：\"只管好好好学习！钱的事我来扛，以后连本带利还我，还要给我养老！\"\n后来女孩考上研，找到好工作，嫁给\n了心上人。\n\n婚礼上拜父母环节，女孩没理不请自\n来的亲生父母，请出躲在屋里的后妈，\n扑通跪下：\"你才是我亲妈！\"\n\n生恩不如养恩大，为这个有情有义的\n女孩点赞！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13827,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真人真事\n\n女孩4岁时，亲妈卷走家里钱跑了；\n8岁时爸爸又卷走修车店积蓄消失。\n貌不惊人的后妈，一声不吭带着她\n搬家，租破房子打零工供她上学。\n\n知道不是亲妈，女孩省生活费交学费，\n被后妈吼：\"想让我当恶毒后妈？\"从\n此后妈天天接她回家吃饭，盯着她吃\n完。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 2024,
+          "like_count": 24050,
+          "listed_count": 27,
+          "media_count": 549,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T18:19:40.000Z",
+        "description": "喜欢做Meme投研资源共享/做信息整理分享，拆Meme背后的叙事，数据链/链上情报真实复盘/金融圈野生段子手，分享有趣故事/爱分享，爱交友，爱学习",
+        "id": "1724854632152006656",
+        "name": "大满贯 👑",
+        "pinned_tweet_id": "2035207605849923794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010376122677301248/RKnQY5PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6129,
+          "following_count": 1424,
+          "like_count": 6109,
+          "listed_count": 10,
+          "media_count": 128,
+          "tweet_count": 3041
+        },
+        "username": "manguan235",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040722000797114539",
+    "created_at": "2026-04-05T09:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040722000797114539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KagurazakaKyu/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/KagurazakaKyu/status/2040664527495373218",
+          "start": 3,
+          "url": "https://t.co/UZwBO4YWII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040722000797114539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040664527495373218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诶 https://t.co/UZwBO4YWII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040664506536476673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHljonawAEhk7Y.jpg",
+        "width": 1450
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040664524794335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHlksobkAAfTQk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040722000797114539",
+        "created_at": "2026-04-05T09:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040722000797114539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaKyu/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/KagurazakaKyu/status/2040664527495373218",
+              "start": 3,
+              "url": "https://t.co/UZwBO4YWII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040722000797114539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040664527495373218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诶 https://t.co/UZwBO4YWII"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040664506536476673",
+            "3_2040664524794335232"
+          ]
+        },
+        "author_id": "1240807227604078592",
+        "conversation_id": "2040664527495373218",
+        "created_at": "2026-04-05T05:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040664527495373218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1368897611672018953",
+              "start": 8,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6r8OzlAd8",
+              "end": 55,
+              "expanded_url": "https://x.com/KagurazakaKyu/status/2040664527495373218/photo/1",
+              "media_key": "3_2040664506536476673",
+              "start": 32,
+              "url": "https://t.co/Z6r8OzlAd8"
+            },
+            {
+              "display_url": "pic.x.com/Z6r8OzlAd8",
+              "end": 55,
+              "expanded_url": "https://x.com/KagurazakaKyu/status/2040664527495373218/photo/1",
+              "media_key": "3_2040664524794335232",
+              "start": 32,
+              "url": "https://t.co/Z6r8OzlAd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040664527495373218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "礼物收到了！感谢@XUEQIUxka 。礼物超爱，狠狠开心了！ https://t.co/Z6r8OzlAd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 2024,
+          "like_count": 24058,
+          "listed_count": 27,
+          "media_count": 550,
+          "tweet_count": 2972
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-20T01:08:07.000Z",
+        "description": "¹04.10.19 21周岁大三学生｜\n²25.04.22重吃色｜³24.05.01吃补（已停）｜⁴头像来源Pixiv：マルナ｜⁵社恐儿 长得丑 外貌焦虑 入睡困难",
+        "id": "1240807227604078592",
+        "name": "神乐坂 玖爱",
+        "pinned_tweet_id": "1839120633751548369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976599844442820608/UxHBMlgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 967,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 114
+        },
+        "username": "KagurazakaKyu",
+        "verified": false
+      }
+    ]
+  }
+}

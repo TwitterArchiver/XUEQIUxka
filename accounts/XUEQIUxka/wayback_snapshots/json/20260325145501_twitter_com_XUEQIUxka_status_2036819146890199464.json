@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036640676734251047",
+    "created_at": "2026-03-25T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036819146890199464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1305718816413020160",
+          "start": 0,
+          "username": "nvjishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036819146890199464",
+    "in_reply_to_user_id": "1305718816413020160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036640676734251047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvjishi 广深港一等座不发零食，破防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036640676734251047",
+        "created_at": "2026-03-25T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036819146890199464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1305718816413020160",
+              "start": 0,
+              "username": "nvjishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036819146890199464",
+        "in_reply_to_user_id": "1305718816413020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036640676734251047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvjishi 广深港一等座不发零食，破防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305718816413020160",
+        "conversation_id": "2036640676734251047",
+        "created_at": "2026-03-25T03:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036640676734251047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036640676734251047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一次坐高铁，我坐的靠窗位置。入座后，\n\n旁边坐了个中年男的。没有交流过。\n\n高铁启动后，因为是一等座，乘务员会挨个给乘客发一盒零食和水。\n\n轮到我这一排的时候，坐我旁边大叔直接说我俩不需要。\n\n他一说我心里咯噔一下。他表现好像我俩是一起的一样。\n\n为了防止他是给后面做铺垫。我立马跟乘务员说，我俩不是一起的，我需要。\n\n乘务员和旁边的乘客都听到了。然后旁边的大叔看了我一眼。整个乘车过程，依旧一句话没说过。\n\n后来他下车了，我才放下心来。 可能不一定是坏人，但害人之心不可有，防人之心不可无。\n\n这种莫名其妙，让别人觉得你跟他一起的人，\n\n一定要立马打断和反驳。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 357287,
+          "like_count": 935,
+          "quote_count": 2,
+          "reply_count": 258,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有一次坐高铁，我坐的靠窗位置。入座后，\n\n旁边坐了个中年男的。没有交流过。\n\n高铁启动后，因为是一等座，乘务员会挨个给乘客发一盒零食和水。\n\n轮到我这一排的时候，坐我旁边大叔直接说我俩不需要。\n\n他一说我心里咯噔一下。他表现好像我俩是一起的一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 1864,
+          "like_count": 22058,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-15T04:03:29.000Z",
+        "description": "👉番号搜索工具：https://t.co/cFxYQXGojZ\n\n📩TG： https://t.co/5bvjtB7Jco\n\n吃喝男模都是亏，唯有web3有来回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 31,
+                "expanded_url": "https://t.me/jisou?start=a_1384383866",
+                "start": 8,
+                "url": "https://t.co/cFxYQXGojZ"
+              },
+              {
+                "display_url": "t.me/shisan198",
+                "end": 61,
+                "expanded_url": "https://t.me/shisan198",
+                "start": 38,
+                "url": "https://t.co/5bvjtB7Jco"
+              }
+            ]
+          }
+        },
+        "id": "1305718816413020160",
+        "name": "女技师",
+        "pinned_tweet_id": "1698221614960460281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665701944495833088/pAi0XCij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55268,
+          "following_count": 11568,
+          "like_count": 20855,
+          "listed_count": 68,
+          "media_count": 725,
+          "tweet_count": 22024
+        },
+        "username": "nvjishi",
+        "verified": true
+      }
+    ]
+  }
+}

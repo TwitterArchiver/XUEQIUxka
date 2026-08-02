@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035901624296911297",
+    "created_at": "2026-03-23T05:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035952708558229915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790656996708122624",
+          "start": 0,
+          "username": "lb377204209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035952708558229915",
+    "in_reply_to_user_id": "1790656996708122624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035901624296911297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lb377204209 油价上涨最直接根本导致的就是出行费用的增加,间接之会导致更多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1968,
+        "media_key": "3_2035901173392461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED5VJ3b0AAFBN4.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2035901173425963008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED5VJ_bAAAfGz0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035901624296911297",
+        "created_at": "2026-03-23T05:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035952708558229915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790656996708122624",
+              "start": 0,
+              "username": "lb377204209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035952708558229915",
+        "in_reply_to_user_id": "1790656996708122624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035901624296911297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lb377204209 油价上涨最直接根本导致的就是出行费用的增加,间接之会导致更多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035901173392461824",
+            "3_2035901173425963008"
+          ]
+        },
+        "author_id": "1790656996708122624",
+        "conversation_id": "2035901624296911297",
+        "created_at": "2026-03-23T02:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:07:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035901184872239235",
+          "2035901624296911297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHA7GKZwiI",
+              "end": 175,
+              "expanded_url": "https://x.com/lb377204209/status/2035901624296911297/photo/1",
+              "media_key": "3_2035901173392461824",
+              "start": 152,
+              "url": "https://t.co/UHA7GKZwiI"
+            },
+            {
+              "display_url": "pic.x.com/UHA7GKZwiI",
+              "end": 175,
+              "expanded_url": "https://x.com/lb377204209/status/2035901624296911297/photo/1",
+              "media_key": "3_2035901173425963008",
+              "start": 152,
+              "url": "https://t.co/UHA7GKZwiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035901624296911297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 261,
+                "start": 258,
+                "tag": "卖房"
+              },
+              {
+                "end": 265,
+                "start": 262,
+                "tag": "济南"
+              },
+              {
+                "end": 269,
+                "start": 266,
+                "tag": "中国"
+              }
+            ]
+          },
+          "text": "我们一直在强调“房住不炒”，可是，没说油跑不炒，每升涨1.60元～1.80元。70升的油箱每次加油就需要多花120—130元。2025年油车消耗预测在1.45亿吨，也就是车主需要多消费2600亿元。我之前在知乎就说过，房价下跌导致地方财政收入减少，必然导致基础生活物质价格上涨，乱七八糟的罚款增加等等。\n油价上涨是全产业链传导，几乎覆盖我们的衣食住行，从出行、物流、化工到农业、食品等等，所有商品都会跟着涨，只是快慢、幅度不同。所以，我实在不理解开新能源的车主为什么油价上涨会“幸灾乐祸”呢？你认为油价上涨影响大吗？#卖房 #济南 #中国"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 23156,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我们一直在强调“房住不炒”，可是，没说油跑不炒，每升涨1.60元～1.80元。70升的油箱每次加油就需要多花120—130元。2025年油车消耗预测在1.45亿吨，也就是车主需要多消费2600亿元。我之前在知乎就说过，房价下跌导致地方财政收入减少，必然导致基础生活物质价格上涨，乱七八糟的罚款增加等等。 https://t.co/UHA7GKZwiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21649,
+          "listed_count": 27,
+          "media_count": 421,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-15T08:14:44.000Z",
+        "description": "房产一线观察｜不吹不黑聊楼市 数据、情绪、真相都给你 Real Estate｜No hype, just facts 房价｜政策｜真实成交 ｜",
+        "id": "1790656996708122624",
+        "location": "距你0.01km",
+        "name": "房策",
+        "pinned_tweet_id": "2034615542456442916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030244627509612544/V-xg8Tld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 1984,
+          "like_count": 1565,
+          "listed_count": 28,
+          "media_count": 107,
+          "tweet_count": 1057
+        },
+        "username": "lb377204209",
+        "verified": true
+      }
+    ]
+  }
+}

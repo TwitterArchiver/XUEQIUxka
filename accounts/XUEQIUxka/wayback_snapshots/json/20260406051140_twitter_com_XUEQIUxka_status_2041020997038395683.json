@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041001851446075803",
+    "created_at": "2026-04-06T05:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041020997038395683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2011599098567409665",
+          "start": 0,
+          "username": "wd2xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041020997038395683",
+    "in_reply_to_user_id": "2011599098567409665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041001851446075803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wd2xxj 感觉是那种会上好久的学 然后在衡水那种度过的 唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2041001842428219392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMYXKvaEAAEDpL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041001851446075803",
+        "created_at": "2026-04-06T05:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041020997038395683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2011599098567409665",
+              "start": 0,
+              "username": "wd2xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041020997038395683",
+        "in_reply_to_user_id": "2011599098567409665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041001851446075803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wd2xxj 感觉是那种会上好久的学 然后在衡水那种度过的 唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041001842428219392"
+          ]
+        },
+        "author_id": "2011599098567409665",
+        "conversation_id": "2041001851446075803",
+        "created_at": "2026-04-06T03:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041001851446075803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmxKSpvtWJ",
+              "end": 33,
+              "expanded_url": "https://x.com/wd2xxj/status/2041001851446075803/photo/1",
+              "media_key": "3_2041001842428219392",
+              "start": 10,
+              "url": "https://t.co/UmxKSpvtWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041001851446075803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1528,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😄这孩子出生就废了 https://t.co/UmxKSpvtWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6733,
+          "following_count": 2027,
+          "like_count": 24161,
+          "listed_count": 27,
+          "media_count": 558,
+          "tweet_count": 3004
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T00:39:40.000Z",
+        "description": "",
+        "id": "2011599098567409665",
+        "name": "非常快6号机",
+        "pinned_tweet_id": "2031626268517810601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011599200648388608/4DMHAckG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 224,
+          "like_count": 7609,
+          "listed_count": 10,
+          "media_count": 1091,
+          "tweet_count": 2734
+        },
+        "username": "wd2xxj",
+        "verified": false
+      }
+    ]
+  }
+}

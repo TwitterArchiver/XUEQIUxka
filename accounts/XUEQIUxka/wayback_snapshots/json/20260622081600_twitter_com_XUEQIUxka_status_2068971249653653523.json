@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068699190885240832",
+        "3_2068699219507171328",
+        "3_2068699277015314432",
+        "3_2068699285718458368"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068971249653653523",
+    "created_at": "2026-06-22T08:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068971249653653523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxvAArAmNy",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+          "media_key": "3_2068699190885240832",
+          "start": 30,
+          "url": "https://t.co/MxvAArAmNy"
+        },
+        {
+          "display_url": "pic.x.com/MxvAArAmNy",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+          "media_key": "3_2068699219507171328",
+          "start": 30,
+          "url": "https://t.co/MxvAArAmNy"
+        },
+        {
+          "display_url": "pic.x.com/MxvAArAmNy",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+          "media_key": "3_2068699277015314432",
+          "start": 30,
+          "url": "https://t.co/MxvAArAmNy"
+        },
+        {
+          "display_url": "pic.x.com/MxvAArAmNy",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+          "media_key": "3_2068699285718458368",
+          "start": 30,
+          "url": "https://t.co/MxvAArAmNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068971249653653523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇，实验室还有霸凌\n看来这群人只是学历高，并不是素质高，唉 https://t.co/MxvAArAmNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2068699190885240832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV-9CPaUAAv780.jpg",
+        "width": 1279
+      },
+      {
+        "height": 418,
+        "media_key": "3_2068699219507171328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV--s3aUAACGrD.jpg",
+        "width": 866
+      },
+      {
+        "height": 1996,
+        "media_key": "3_2068699277015314432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV_CDGa8AAOtMG.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2068699285718458368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV_CjhaYAAFO5I.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068699190885240832",
+            "3_2068699219507171328",
+            "3_2068699277015314432",
+            "3_2068699285718458368"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068971249653653523",
+        "created_at": "2026-06-22T08:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068971249653653523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxvAArAmNy",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+              "media_key": "3_2068699190885240832",
+              "start": 30,
+              "url": "https://t.co/MxvAArAmNy"
+            },
+            {
+              "display_url": "pic.x.com/MxvAArAmNy",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+              "media_key": "3_2068699219507171328",
+              "start": 30,
+              "url": "https://t.co/MxvAArAmNy"
+            },
+            {
+              "display_url": "pic.x.com/MxvAArAmNy",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+              "media_key": "3_2068699277015314432",
+              "start": 30,
+              "url": "https://t.co/MxvAArAmNy"
+            },
+            {
+              "display_url": "pic.x.com/MxvAArAmNy",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2068971249653653523/photo/1",
+              "media_key": "3_2068699285718458368",
+              "start": 30,
+              "url": "https://t.co/MxvAArAmNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068971249653653523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，实验室还有霸凌\n看来这群人只是学历高，并不是素质高，唉 https://t.co/MxvAArAmNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9475,
+          "following_count": 2400,
+          "like_count": 33237,
+          "listed_count": 25,
+          "media_count": 2157,
+          "tweet_count": 6428
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

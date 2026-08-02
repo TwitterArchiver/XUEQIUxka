@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2058016371217404186",
+    "created_at": "2026-05-23T04:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058042757667852340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543945347508350976",
+          "start": 0,
+          "username": "xiuyu_com"
+        },
+        {
+          "end": 25,
+          "id": "2834094312",
+          "start": 11,
+          "username": "Shen_Xiaowang"
+        },
+        {
+          "end": 41,
+          "id": "1500636746719326209",
+          "start": 26,
+          "username": "Phoenix_AlphaX"
+        },
+        {
+          "end": 53,
+          "id": "1256077679318753285",
+          "start": 42,
+          "username": "JerryMai11"
+        },
+        {
+          "end": 66,
+          "id": "2040936383653556224",
+          "start": 54,
+          "username": "jinbuhuanyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058042757667852340",
+    "in_reply_to_user_id": "1543945347508350976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058016371217404186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuyu_com @Shen_Xiaowang @Phoenix_AlphaX @JerryMai11 @jinbuhuanyy 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2058016371217404186",
+        "created_at": "2026-05-23T04:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058042757667852340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543945347508350976",
+              "start": 0,
+              "username": "xiuyu_com"
+            },
+            {
+              "end": 25,
+              "id": "2834094312",
+              "start": 11,
+              "username": "Shen_Xiaowang"
+            },
+            {
+              "end": 41,
+              "id": "1500636746719326209",
+              "start": 26,
+              "username": "Phoenix_AlphaX"
+            },
+            {
+              "end": 53,
+              "id": "1256077679318753285",
+              "start": 42,
+              "username": "JerryMai11"
+            },
+            {
+              "end": 66,
+              "id": "2040936383653556224",
+              "start": 54,
+              "username": "jinbuhuanyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058042757667852340",
+        "in_reply_to_user_id": "1543945347508350976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058016371217404186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuyu_com @Shen_Xiaowang @Phoenix_AlphaX @JerryMai11 @jinbuhuanyy 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543945347508350976",
+        "conversation_id": "2058016371217404186",
+        "created_at": "2026-05-23T02:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058016371217404186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "2834094312",
+              "start": 88,
+              "username": "Shen_Xiaowang"
+            },
+            {
+              "end": 131,
+              "id": "1500636746719326209",
+              "start": 116,
+              "username": "Phoenix_AlphaX"
+            },
+            {
+              "end": 154,
+              "id": "1256077679318753285",
+              "start": 143,
+              "username": "JerryMai11"
+            },
+            {
+              "end": 177,
+              "id": "2040936383653556224",
+              "start": 165,
+              "username": "jinbuhuanyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058016371217404186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 102,
+                "id": "2834094312",
+                "start": 88,
+                "username": "Shen_Xiaowang"
+              },
+              {
+                "end": 131,
+                "id": "1500636746719326209",
+                "start": 116,
+                "username": "Phoenix_AlphaX"
+              },
+              {
+                "end": 154,
+                "id": "1256077679318753285",
+                "start": 143,
+                "username": "JerryMai11"
+              },
+              {
+                "end": 177,
+                "id": "2040936383653556224",
+                "start": 165,
+                "username": "jinbuhuanyy"
+              },
+              {
+                "end": 201,
+                "id": "1368897611672018953",
+                "start": 191,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 231,
+                "id": "1910230395188363264",
+                "start": 215,
+                "username": "xiaojianjian567"
+              },
+              {
+                "end": 260,
+                "id": "1370029053479063558",
+                "start": 248,
+                "username": "Chenzeze777"
+              },
+              {
+                "end": 290,
+                "id": "1753023825397391360",
+                "start": 278,
+                "username": "Ethanyessss"
+              },
+              {
+                "end": 317,
+                "id": "941177293233197056",
+                "start": 309,
+                "username": "SenYe10"
+              },
+              {
+                "end": 339,
+                "id": "1524476431505448963",
+                "start": 328,
+                "username": "hututuweb3"
+              },
+              {
+                "end": 359,
+                "id": "1762479983568515073",
+                "start": 349,
+                "username": "yingge001"
+              },
+              {
+                "end": 381,
+                "id": "1813838726080110592",
+                "start": 372,
+                "username": "YonaHeet"
+              },
+              {
+                "end": 407,
+                "id": "1319161498095153152",
+                "start": 395,
+                "username": "Linhtailor2"
+              }
+            ]
+          },
+          "text": "互关宝藏第三期：  \n仔细翻过互关的名单，发现每一页都藏着惊喜。 \n我的小小世界，也因为互关的你而熠熠生辉。    \n真挚推荐新来的朋友们  关注下面的朋友，你会收获惊喜：\n\n@Shen_Xiaowang 互联网已毕业网游产品经理\n@Phoenix_AlphaX AI小能手+老段子手\n@JerryMai11 风趣，幽默 故事多\n@jinbuhuanyy 现高能量社畜｜05碎碎念\n@XUEQIUxka 会分享一些奇奇怪怪的东西\n@xiaojianjian567 AI痴汉｜空投猎人 活跃度很高\n@Chenzeze777 理工男，专注于 AI 生产力工具\n@Ethanyessss 用AI给自己增值 用AI给自己增值\n@SenYe10  专注于高价值互动\n@hututuweb3 币圈火枪手，活跃\n@yingge001 分享真实项目、链上机会\n@YonaHeet 一个漂亮活跃的海外小姐姐\n@Linhtailor2 一个活跃的越南小姐姐\n\n原来宝藏不只远方，也在我们的互关里。每天一期。    \n互关才是第一步，互动才能有高潮。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关宝藏第三期：  \n仔细翻过互关的名单，发现每一页都藏着惊喜。 \n我的小小世界，也因为互关的你而熠熠生辉。    \n真挚推荐新来的朋友们  关注下面的朋友，你会收获惊喜：\n\n@Shen_Xiaowang 互联网已毕业网游产品经理\n@Phoenix_AlphaX AI小能手+老段子手\n@JerryMai11 风趣，幽默 故事多\n@jinbuhuanyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753,
+          "following_count": 2361,
+          "like_count": 30876,
+          "listed_count": 25,
+          "media_count": 1609,
+          "tweet_count": 5506
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T13:10:48.000Z",
+        "description": "三十年商业与营销实战。\n研究 AI、第二大脑与认知升级。\n帮助普通人在 AI 时代迭代提升。\n中文｜English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiuyu.com",
+                "end": 23,
+                "expanded_url": "https://xiuyu.com",
+                "start": 0,
+                "url": "https://t.co/UKJxt74I6D"
+              }
+            ]
+          }
+        },
+        "id": "1543945347508350976",
+        "name": "修愚 | XiuYu",
+        "pinned_tweet_id": "2056641599577493774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056636646200938496/lFNrY_eO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 694,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/UKJxt74I6D",
+        "username": "xiuyu_com",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-27T14:51:29.000Z",
+        "description": "｜互联网已毕业网游产品经理 ，一个还没脱离低级趣味的人 \n｜10年以上的币圈混子; 撸毛、屯币、开合约啥赔钱就干啥 \n｜马斯克第一批火星移民计划未参与者\n｜大表哥CZ唯一全网公开要等下拉黑的男人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ace.box",
+                "end": 23,
+                "expanded_url": "https://ace.box",
+                "start": 0,
+                "url": "https://t.co/iwdueFwEVn"
+              }
+            ]
+          }
+        },
+        "id": "2834094312",
+        "location": "TG：Sxiaowang",
+        "name": "申小王",
+        "pinned_tweet_id": "2047910161080340943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018909498736578560/nBZORxUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11131,
+          "following_count": 6030,
+          "like_count": 42413,
+          "listed_count": 31,
+          "media_count": 1137,
+          "tweet_count": 21061
+        },
+        "url": "https://t.co/iwdueFwEVn",
+        "username": "Shen_Xiaowang",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-07T00:57:49.000Z",
+        "description": "有味道的老男人Ⅰ有啥发啥Ⅰ情感段子Ⅰ小故事Ⅰmeme爱好者Ⅰ喜欢大饼Ⅰ有点怀旧ⅠAI小能手🌐Ⅰ好看的视频Ⅰ科普小文",
+        "id": "1500636746719326209",
+        "location": "Singapore",
+        "name": "须影吟者🕊️",
+        "pinned_tweet_id": "2057617998056493260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027572987059441664/fl6h1f-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14730,
+          "following_count": 5556,
+          "like_count": 55118,
+          "listed_count": 55,
+          "media_count": 851,
+          "tweet_count": 24653
+        },
+        "username": "Phoenix_AlphaX",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-01T04:27:21.000Z",
+        "description": "数字，美股投资｜风趣，幽默｜人性 笑着拆穿假话, 旅游，美食。",
+        "id": "1256077679318753285",
+        "location": "United States",
+        "name": "蓝月亮",
+        "pinned_tweet_id": "2050425195966419452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026685527504683010/9UnibRjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9528,
+          "following_count": 4248,
+          "like_count": 14928,
+          "listed_count": 11,
+          "media_count": 367,
+          "tweet_count": 4274
+        },
+        "username": "JerryMai11",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T23:35:38.000Z",
+        "description": "现高能量社畜｜05碎碎念🐬｜全网同名| $BTC $HYPE",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 24,
+                "start": 20,
+                "tag": "BTC"
+              },
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "HYPE"
+              }
+            ]
+          }
+        },
+        "id": "2040936383653556224",
+        "name": "金不换yy",
+        "pinned_tweet_id": "2057096670354219288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040939123289260032/lEdDr2uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 383,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 678
+        },
+        "username": "jinbuhuanyy",
+        "verified": true
+      }
+    ]
+  }
+}

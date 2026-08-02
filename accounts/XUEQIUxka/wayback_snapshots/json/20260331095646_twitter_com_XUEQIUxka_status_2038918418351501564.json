@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038862410405335229",
+    "created_at": "2026-03-31T09:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038918418351501564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "746265547860381696",
+          "start": 0,
+          "username": "Nancyshanghai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038918418351501564",
+    "in_reply_to_user_id": "746265547860381696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038862410405335229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nancyshanghai 真诚比什么都重要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2038862399567257600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEt-jNAbYAAaNHu.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038862410405335229",
+        "created_at": "2026-03-31T09:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038918418351501564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "746265547860381696",
+              "start": 0,
+              "username": "Nancyshanghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038918418351501564",
+        "in_reply_to_user_id": "746265547860381696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038862410405335229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nancyshanghai 真诚比什么都重要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038862399567257600"
+          ]
+        },
+        "author_id": "746265547860381696",
+        "conversation_id": "2038862410405335229",
+        "created_at": "2026-03-31T06:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038862410405335229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us4Q5MbEG6",
+              "end": 179,
+              "expanded_url": "https://x.com/Nancyshanghai/status/2038862410405335229/photo/1",
+              "media_key": "3_2038862399567257600",
+              "start": 156,
+              "url": "https://t.co/Us4Q5MbEG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038862410405335229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "19岁奥运冠军拍封面\n\n连粉底都没打\n\n摄影师让她笑\n\n她咧嘴就是一口白牙\n\n让她摆姿势\n\n她直接盘腿坐地上\n\n化妆师想遮她的雀斑\n\n她摇头说“这样挺好”\n\n最后成片出来\n\n主编盯着屏幕看了三分钟\n\n那孩子眼里有光\n\n是十米跳台上淬出来的那种\n\n你知道现在修一张封面要多久吗？\n\n两小时起步\n\n她的原片直接能用\n\n从东京到巴黎\n\n她压住的水花能装满一个泳池\n\n可真正让人停下滑动手指的\n\n是她在闪光灯下那个没经过设计的哈欠\n\n时尚圈要的是完美弧线\n\n她给的是真实心跳\n\n有人用滤镜修饰年龄\n\n有人用浓妆掩盖疲惫\n\n全红婵把奖牌往脖子上一挂\n\n素着脸就闯进了五大的镜头\n\n那不是叛逆\n\n是19岁该有的底气\n\n当整个行业都在教你怎么笑的时候\n\n这个女孩教会世界：\n\n最动人的表情\n\n从来不需要排练"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2803,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁奥运冠军拍封面\n\n连粉底都没打\n\n摄影师让她笑\n\n她咧嘴就是一口白牙\n\n让她摆姿势\n\n她直接盘腿坐地上\n\n化妆师想遮她的雀斑\n\n她摇头说“这样挺好”\n\n最后成片出来\n\n主编盯着屏幕看了三分钟\n\n那孩子眼里有光\n\n是十米跳台上淬出来的那种\n\n你知道现在修一张封面要多久吗？\n\n两小时起步\n\n她的原片直接能用 https://t.co/Us4Q5MbEG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6619,
+          "following_count": 2007,
+          "like_count": 23265,
+          "listed_count": 27,
+          "media_count": 494,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-24T08:55:46.000Z",
+        "description": "Premium+：清醒的人性观察家 世间百态的瞭望塔 来都来了点个关注 看都看了点个赞 祝你清醒！也祝你开心😃",
+        "id": "746265547860381696",
+        "location": "Hong Kong",
+        "name": "Nancy",
+        "pinned_tweet_id": "2036303354255777808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023856007542456320/ImJ23sI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6481,
+          "following_count": 635,
+          "like_count": 30720,
+          "listed_count": 22,
+          "media_count": 405,
+          "tweet_count": 14175
+        },
+        "username": "Nancyshanghai",
+        "verified": true
+      }
+    ]
+  }
+}

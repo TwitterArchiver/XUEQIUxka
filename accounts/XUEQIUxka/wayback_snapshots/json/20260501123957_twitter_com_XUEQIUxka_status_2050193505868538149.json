@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2050193505868538149",
+    "created_at": "2026-05-01T12:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050193505868538149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 115,
+          "id": "1962302660541079552",
+          "start": 107,
+          "username": "yuerQwQ"
+        },
+        {
+          "end": 143,
+          "id": "1942218528100134912",
+          "start": 131,
+          "username": "youling_qaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2047179802441134505",
+          "start": 156,
+          "url": "https://t.co/wFwVXH7OAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050193505868538149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 115,
+            "id": "1962302660541079552",
+            "start": 107,
+            "username": "yuerQwQ"
+          },
+          {
+            "end": 143,
+            "id": "1942218528100134912",
+            "start": 131,
+            "username": "youling_qaq"
+          },
+          {
+            "end": 173,
+            "id": "1465701247021838341",
+            "start": 164,
+            "username": "show5560"
+          }
+        ]
+      },
+      "text": "忘了开奖了，现在补一下\n抽奖结果出炉啦！ 我根据你提供的4张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（已去重，避免重复参与），然后用随机方式各抽取一个中奖者。 中奖名单：转发（转帖人）：@yuerQwQ\n （yuer）\n评论（回复）：@youling_qaq\n （basibatu）\n点赞（被喜欢）：@show5560\n （沐安ねこ）\n\n恭喜三位中奖者！\n请尽快私信或@对方发放奖品～\n这次抽奖完全基于你截图里的可见参与者，保证公平透明～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047179802441134505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘了开奖了，现在补一下\n抽奖结果出炉啦！ 我根据你提供的4张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（已去重，避免重复参与），然后用随机方式各抽取一个中奖者。 中奖名单：转发（转帖人）：@yuerQwQ\n （yuer）\n评论（回复）：@youling_qaq\n （basibatu） https://t.co/wFwVXH7OAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2649,
+        "media_key": "3_2047179799924506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkLLn3bAAAe7_k.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2050193505868538149",
+        "created_at": "2026-05-01T12:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050193505868538149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 115,
+              "id": "1962302660541079552",
+              "start": 107,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 143,
+              "id": "1942218528100134912",
+              "start": 131,
+              "username": "youling_qaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2047179802441134505",
+              "start": 156,
+              "url": "https://t.co/wFwVXH7OAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050193505868538149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 115,
+                "id": "1962302660541079552",
+                "start": 107,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 143,
+                "id": "1942218528100134912",
+                "start": 131,
+                "username": "youling_qaq"
+              },
+              {
+                "end": 173,
+                "id": "1465701247021838341",
+                "start": 164,
+                "username": "show5560"
+              }
+            ]
+          },
+          "text": "忘了开奖了，现在补一下\n抽奖结果出炉啦！ 我根据你提供的4张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（已去重，避免重复参与），然后用随机方式各抽取一个中奖者。 中奖名单：转发（转帖人）：@yuerQwQ\n （yuer）\n评论（回复）：@youling_qaq\n （basibatu）\n点赞（被喜欢）：@show5560\n （沐安ねこ）\n\n恭喜三位中奖者！\n请尽快私信或@对方发放奖品～\n这次抽奖完全基于你截图里的可见参与者，保证公平透明～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047179802441134505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘了开奖了，现在补一下\n抽奖结果出炉啦！ 我根据你提供的4张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（已去重，避免重复参与），然后用随机方式各抽取一个中奖者。 中奖名单：转发（转帖人）：@yuerQwQ\n （yuer）\n评论（回复）：@youling_qaq\n （basibatu） https://t.co/wFwVXH7OAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047179799924506624"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2047179802441134505",
+        "created_at": "2026-04-23T05:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047179802441134505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhsshI7Mvs",
+              "end": 155,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2047179802441134505/photo/1",
+              "media_key": "3_2047179799924506624",
+              "start": 132,
+              "url": "https://t.co/MhsshI7Mvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047179802441134505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7711,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第九弹！\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份\n奖品于5月15号统一发出\n后续抽奖也会放在亮点，欢迎参加\n总计将抽出不少于90份奖品/目前已发出60+\n开奖时间为：2026年4月26日（UTC+8）21:00分开奖\n转发或点赞或评论，均可参与 https://t.co/MhsshI7Mvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 2174,
+          "like_count": 27985,
+          "listed_count": 27,
+          "media_count": 1040,
+          "tweet_count": 4537
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2049899118508863784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 700,
+          "like_count": 5015,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 800
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "没错，这个人就是线上比线下还社恐的一个神人（羡慕一切休学的）// 年龄党 mtx // 12.2.22 // 家暴党 // oder // 本质神人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basibatuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basibatuo",
+                "start": 0,
+                "url": "https://t.co/rRuZcZEsob"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "关注塔菲喵，关注塔菲谢谢喵",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049936874127737095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 802,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/rRuZcZEsob",
+        "username": "youling_qaq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 1671,
+          "like_count": 27013,
+          "listed_count": 7,
+          "media_count": 725,
+          "tweet_count": 6672
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

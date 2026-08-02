@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036986672131326340",
+    "created_at": "2026-03-26T07:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037062069900763164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879644163769335808",
+          "start": 0,
+          "username": "WhiteHouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037062069900763164",
+    "in_reply_to_user_id": "1879644163769335808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036986672131326340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteHouse 白宫现在发推像极了半夜群里丢个链接就消失的神秘甲方\n信息越少，权力味越重，仿佛一句话不说也得让全网自己脑补成新闻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3614,
+        "height": 1280,
+        "media_key": "13_2036986616045076480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036986616045076480/img/SiVQPKURp0IUCtTW.jpg",
+        "public_metrics": {
+          "view_count": 2254222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036986616045076480/vid/avc1/320x588/ZAUBFkfCvsJ8eXXi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036986616045076480/vid/avc1/480x882/PhxQKHhR9w9A2_2Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036986616045076480/vid/avc1/696x1280/mdUXGwiBsnd32-7b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036986616045076480/pl/7vAv5L7PTJ4CKnRZ.m3u8"
+          }
+        ],
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036986672131326340",
+        "created_at": "2026-03-26T07:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037062069900763164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879644163769335808",
+              "start": 0,
+              "username": "WhiteHouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037062069900763164",
+        "in_reply_to_user_id": "1879644163769335808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036986672131326340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteHouse 白宫现在发推像极了半夜群里丢个链接就消失的神秘甲方\n信息越少，权力味越重，仿佛一句话不说也得让全网自己脑补成新闻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036986616045076480"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "conversation_id": "2036986672131326340",
+        "created_at": "2026-03-26T02:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036986672131326340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i89MGSQnHs",
+              "end": 26,
+              "expanded_url": "https://x.com/WhiteHouse/status/2036986672131326340/video/1",
+              "media_key": "13_2036986616045076480",
+              "start": 3,
+              "url": "https://t.co/i89MGSQnHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036986672131326340",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4118,
+          "impression_count": 5289756,
+          "like_count": 17025,
+          "quote_count": 3445,
+          "reply_count": 5708,
+          "retweet_count": 3942
+        },
+        "reply_settings": "everyone",
+        "text": "📱🔉 https://t.co/i89MGSQnHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6415,
+          "following_count": 1900,
+          "like_count": 22130,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175634,
+          "following_count": 6,
+          "like_count": 261,
+          "listed_count": 8039,
+          "media_count": 4846,
+          "tweet_count": 13728
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

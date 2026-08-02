@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017117940207013889",
+        "3_2017117940483776513",
+        "3_2017117940727046144"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2017117956845785164",
+    "created_at": "2026-01-30T06:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017117956845785164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z88T0D1ML6",
+          "end": 52,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+          "media_key": "3_2017117940207013889",
+          "start": 29,
+          "url": "https://t.co/Z88T0D1ML6"
+        },
+        {
+          "display_url": "pic.x.com/Z88T0D1ML6",
+          "end": 52,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+          "media_key": "3_2017117940483776513",
+          "start": 29,
+          "url": "https://t.co/Z88T0D1ML6"
+        },
+        {
+          "display_url": "pic.x.com/Z88T0D1ML6",
+          "end": 52,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+          "media_key": "3_2017117940727046144",
+          "start": 29,
+          "url": "https://t.co/Z88T0D1ML6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017117956845785164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备玩live2D\n有没有推荐制作的平台？(\n目前有线稿 https://t.co/Z88T0D1ML6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2017117940207013889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4-FFgbUAE8836.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017117940483776513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4-FGiaYAEE6Oo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2017117940727046144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4-FHcaYAAvb7g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017117940207013889",
+            "3_2017117940483776513",
+            "3_2017117940727046144"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2017117956845785164",
+        "created_at": "2026-01-30T06:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017117956845785164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z88T0D1ML6",
+              "end": 52,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+              "media_key": "3_2017117940207013889",
+              "start": 29,
+              "url": "https://t.co/Z88T0D1ML6"
+            },
+            {
+              "display_url": "pic.x.com/Z88T0D1ML6",
+              "end": 52,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+              "media_key": "3_2017117940483776513",
+              "start": 29,
+              "url": "https://t.co/Z88T0D1ML6"
+            },
+            {
+              "display_url": "pic.x.com/Z88T0D1ML6",
+              "end": 52,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2017117956845785164/photo/1",
+              "media_key": "3_2017117940727046144",
+              "start": 29,
+              "url": "https://t.co/Z88T0D1ML6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017117956845785164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备玩live2D\n有没有推荐制作的平台？(\n目前有线稿 https://t.co/Z88T0D1ML6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，2025/11/12 SRS，感谢大家一直以来的陪伴\n曾经的爱人  @shi_yumiaoya\n老婆  @QianYue_XQ （和平分手）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "家长党"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "MTF"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "HRT"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "Les"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "双相"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ADHD"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5106,
+          "following_count": 1442,
+          "like_count": 19097,
+          "listed_count": 24,
+          "media_count": 314,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

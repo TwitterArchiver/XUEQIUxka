@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037174549603881000",
+    "created_at": "2026-03-26T17:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037220083949592806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "860873731886862336",
+          "start": 0,
+          "username": "wangray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037220083949592806",
+    "in_reply_to_user_id": "860873731886862336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037174549603881000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangray 有意思，可以方便我改以前的公众号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037174549603881000",
+        "created_at": "2026-03-26T17:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037220083949592806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "860873731886862336",
+              "start": 0,
+              "username": "wangray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037220083949592806",
+        "in_reply_to_user_id": "860873731886862336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037174549603881000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangray 有意思，可以方便我改以前的公众号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860873731886862336",
+        "conversation_id": "2037174549603881000",
+        "created_at": "2026-03-26T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037174549603881000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangray/status…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/wangray/status/2036063366012367238",
+              "start": 162,
+              "url": "https://t.co/OxjIxdIfyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037174549603881000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/oaker-io/wewri…",
+                "end": 217,
+                "expanded_url": "https://github.com/oaker-io/wewrite",
+                "start": 194,
+                "url": "https://t.co/Vao3nxGuhf"
+              }
+            ]
+          },
+          "text": "正式开源公众号自动化发文 Skill，兼容 Claude Code/OpenClaw\n\n一句话让 AI 完成公众号全流程——热点抓取 → 选题评分 → 框架生成 → 写作 → SEO 优化 → AI 配图 → 排版 → 推送草稿箱\n\n专门的去 AI 痕迹流程，基于百度 + 360 真实搜索数据做 SEO，Playbook 飞轮——你改一次稿，它记住你的风格偏好，越用越像你\n\n欢迎来用👉https://t.co/Vao3nxGuhf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 14354,
+          "like_count": 173,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036063366012367238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式开源公众号自动化发文 Skill，兼容 Claude Code/OpenClaw\n\n一句话让 AI 完成公众号全流程——热点抓取 → 选题评分 → 框架生成 → 写作 → SEO 优化 → AI 配图 → 排版 → 推送草稿箱\n\n专门的去 AI 痕迹流程，基于百度 + 360 真实搜索数据做 SEO，Playbook https://t.co/OxjIxdIfyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6448,
+          "following_count": 1918,
+          "like_count": 22294,
+          "listed_count": 27,
+          "media_count": 450,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-06T15:07:46.000Z",
+        "description": "Founder. Builder. Warwick’19. 🤖 AI Agent 实践落地｜商业闭环 🧩 超级个体的 AI 杠杆实验｜公众号：Ray在思考",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "upthos.com",
+                "end": 23,
+                "expanded_url": "https://upthos.com",
+                "start": 0,
+                "url": "https://t.co/egT25OdVHh"
+              }
+            ]
+          }
+        },
+        "id": "860873731886862336",
+        "location": "on earth",
+        "name": "Ray Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012912088482562048/1Xl89qxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7709,
+          "following_count": 919,
+          "like_count": 414,
+          "listed_count": 71,
+          "media_count": 318,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/egT25OdVHh",
+        "username": "wangray",
+        "verified": true
+      }
+    ]
+  }
+}

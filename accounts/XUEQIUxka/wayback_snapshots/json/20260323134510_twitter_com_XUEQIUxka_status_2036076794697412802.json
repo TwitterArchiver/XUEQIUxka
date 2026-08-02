@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036003287640711500",
+    "created_at": "2026-03-23T13:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036076794697412802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125643352169259008",
+          "start": 0,
+          "username": "SuTNkwfrFkMhHsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036076794697412802",
+    "in_reply_to_user_id": "1125643352169259008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036003287640711500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuTNkwfrFkMhHsG 希望世界和平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2036001852714848256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFU5dkbEAAd9kE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036003287640711500",
+        "created_at": "2026-03-23T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036076794697412802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125643352169259008",
+              "start": 0,
+              "username": "SuTNkwfrFkMhHsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036076794697412802",
+        "in_reply_to_user_id": "1125643352169259008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036003287640711500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuTNkwfrFkMhHsG 希望世界和平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036001852714848256"
+          ]
+        },
+        "author_id": "1125643352169259008",
+        "conversation_id": "2036003287640711500",
+        "created_at": "2026-03-23T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:47:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036001861384409424",
+          "2036003287640711500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FmNKaY8mY",
+              "end": 173,
+              "expanded_url": "https://x.com/SuTNkwfrFkMhHsG/status/2036003287640711500/photo/1",
+              "media_key": "3_2036001852714848256",
+              "start": 150,
+              "url": "https://t.co/2FmNKaY8mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036003287640711500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10285,
+          "like_count": 153,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "赌美国武库耗尽\n\n赌美国国内民意\n\n赌一个和你美关系真不大的航道\n\n就是不敢说正面如何痛击了美军？（8000+架次，目前没任何有力的证据证明打下了一架美军战机，MQ-9到有几架）\n\n都这么“赢”美国的话，这届轴心国的士兵最应该想的是万一真打起来怎么避战，特别是高价值资产的使用者，因为你们会被屠杀） https://t.co/2FmNKaY8mY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 1817,
+          "like_count": 21693,
+          "listed_count": 27,
+          "media_count": 425,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-07T06:07:43.000Z",
+        "description": "America’s success is that you can talk about its failure (China’s failure is that you can only talk about its success)",
+        "id": "1125643352169259008",
+        "name": "艾布拉姆斯🇺🇸💙💛",
+        "pinned_tweet_id": "2033952309085147259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579486210606919680/HG6HLeGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32380,
+          "following_count": 507,
+          "like_count": 524447,
+          "listed_count": 202,
+          "media_count": 6809,
+          "tweet_count": 31691
+        },
+        "username": "SuTNkwfrFkMhHsG",
+        "verified": true
+      }
+    ]
+  }
+}

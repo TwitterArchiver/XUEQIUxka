@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035636595261661573",
+    "created_at": "2026-03-22T08:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035636595261661573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekostar114/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nekostar114/status/2035636384954978577",
+          "start": 8,
+          "url": "https://t.co/6aJTxd9ov5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035636595261661573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035636384954978577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，震撼首发 https://t.co/6aJTxd9ov5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035636595261661573",
+        "created_at": "2026-03-22T08:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035636595261661573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekostar114/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nekostar114/status/2035636384954978577",
+              "start": 8,
+              "url": "https://t.co/6aJTxd9ov5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035636595261661573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035636384954978577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，震撼首发 https://t.co/6aJTxd9ov5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030131697212346370",
+        "conversation_id": "2035636384954978577",
+        "created_at": "2026-03-22T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035636384954978577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035636384954978577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "预制的批只能在出炉前做一次，出炉之后就只能上色不能变成现做的了，但是现做的批可以再次现做有深度，然后也可以上色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6305,
+          "following_count": 1804,
+          "like_count": 21605,
+          "listed_count": 26,
+          "media_count": 415,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-07T04:01:39.000Z",
+        "description": "男娘/已成年/🚪52/喜欢玩galgame/坐标福建/可以线下哦/母后@NakaharaBulbel/国王@REYORIu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "NakaharaBulbel"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "username": "REYORIu"
+              }
+            ]
+          }
+        },
+        "id": "2030131697212346370",
+        "name": "nekostar（求转贴咪",
+        "pinned_tweet_id": "2032371294147424731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030131798064386051/LzhzxGAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 125,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 349
+        },
+        "username": "nekostar114",
+        "verified": true
+      }
+    ]
+  }
+}

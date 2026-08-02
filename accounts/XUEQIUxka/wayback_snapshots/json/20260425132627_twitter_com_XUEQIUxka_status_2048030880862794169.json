@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2048030880862794169",
+    "created_at": "2026-04-25T13:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048030880862794169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fenyoulei/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/fenyoulei/status/2048030413000753302",
+          "start": 20,
+          "url": "https://t.co/6XoRizYYdO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048030880862794169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048030413000753302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收到开心捏\n以及需要化妆刷可以私聊我！ https://t.co/6XoRizYYdO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2048030409649520640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwQzoBbgAAxAoD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048030376048885760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwQxq2agAAJVz2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048030409280413696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwQzmpbYAAjLL5.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2048030880862794169",
+        "created_at": "2026-04-25T13:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048030880862794169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fenyoulei/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/fenyoulei/status/2048030413000753302",
+              "start": 20,
+              "url": "https://t.co/6XoRizYYdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048030880862794169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048030413000753302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到开心捏\n以及需要化妆刷可以私聊我！ https://t.co/6XoRizYYdO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048030409649520640",
+            "3_2048030376048885760",
+            "3_2048030409280413696"
+          ]
+        },
+        "author_id": "1490744102979260418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048030413000753302",
+        "created_at": "2026-04-25T13:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048030413000753302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1368897611672018953",
+              "start": 7,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vl2uG9lZhZ",
+              "end": 100,
+              "expanded_url": "https://x.com/fenyoulei/status/2048030413000753302/photo/1",
+              "media_key": "3_2048030409649520640",
+              "start": 77,
+              "url": "https://t.co/Vl2uG9lZhZ"
+            },
+            {
+              "display_url": "pic.x.com/Vl2uG9lZhZ",
+              "end": 100,
+              "expanded_url": "https://x.com/fenyoulei/status/2048030413000753302/photo/1",
+              "media_key": "3_2048030376048885760",
+              "start": 77,
+              "url": "https://t.co/Vl2uG9lZhZ"
+            },
+            {
+              "display_url": "pic.x.com/Vl2uG9lZhZ",
+              "end": 100,
+              "expanded_url": "https://x.com/fenyoulei/status/2048030413000753302/photo/1",
+              "media_key": "3_2048030409280413696",
+              "start": 77,
+              "url": "https://t.co/Vl2uG9lZhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048030413000753302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了秋雪姐姐@XUEQIUxka 给我寄的礼物～魔爪杯架太有意思了 还有一套超级好的化妆刷，毛特别密啊 质量特别扎实，我作为化妆师看见这个质量都惊了🤩 https://t.co/Vl2uG9lZhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7542,
+          "following_count": 2158,
+          "like_count": 27318,
+          "listed_count": 27,
+          "media_count": 905,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T17:47:51.000Z",
+        "description": "性别：ftx酷儿/假性双性🐾\n嘴贱身更贱，什么重口都敢玩\r🥵\n想看改造进度、听狗叫、或被我反杀？爆米才有资格解锁😈\n暂不线下 | 千粉互推💎 |接寄拍推广\n小号@y4QWQ1\n匿名提问→https://t.co/EwnGBXSyuU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "y4QWQ1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fenyoulei2",
+                "end": 116,
+                "expanded_url": "https://ngl.link/fenyoulei2",
+                "start": 93,
+                "url": "https://t.co/EwnGBXSyuU"
+              }
+            ]
+          }
+        },
+        "id": "1490744102979260418",
+        "location": "好友位150可入福利群看我主页置顶图 ",
+        "name": "🔞坏狗y4（阴蒂正慢慢变大屌 ）",
+        "pinned_tweet_id": "2034840271947788737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417629548077056/WAUyJyE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28486,
+          "following_count": 855,
+          "like_count": 10520,
+          "listed_count": 90,
+          "media_count": 1282,
+          "tweet_count": 4527
+        },
+        "username": "fenyoulei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2066834304525869520",
+    "created_at": "2026-06-17T07:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067141303549190580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796089248686497792",
+          "start": 0,
+          "username": "GNshikau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067141303549190580",
+    "in_reply_to_user_id": "1796089248686497792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066834304525869520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNshikau 我去，不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2066834300604129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7e2IkaIAA35O7.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2066834304525869520",
+        "created_at": "2026-06-17T07:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067141303549190580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796089248686497792",
+              "start": 0,
+              "username": "GNshikau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067141303549190580",
+        "in_reply_to_user_id": "1796089248686497792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066834304525869520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNshikau 我去，不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066834300604129280"
+          ]
+        },
+        "author_id": "1796089248686497792",
+        "conversation_id": "2066834304525869520",
+        "created_at": "2026-06-16T10:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066834304525869520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "リプでもらった単語に関連するエピソード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhjUutipNA",
+              "end": 61,
+              "expanded_url": "https://x.com/GNshikau/status/2066834304525869520/photo/1",
+              "media_key": "3_2066834300604129280",
+              "start": 38,
+              "url": "https://t.co/WhjUutipNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066834304525869520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 59401,
+          "like_count": 810,
+          "quote_count": 9,
+          "reply_count": 168,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#リプでもらった単語に関連するエピソード \n新しい中国の皇帝です\nよろしく https://t.co/WhjUutipNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9265,
+          "following_count": 2404,
+          "like_count": 32354,
+          "listed_count": 26,
+          "media_count": 2024,
+          "tweet_count": 6194
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T08:00:36.000Z",
+        "description": "GN会員の男 ひげきまじば界隈 まばじーず 鍵垢→@mankoooomankoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "mankoooomankoo"
+              }
+            ]
+          }
+        },
+        "id": "1796089248686497792",
+        "location": "ハルディンドーム",
+        "name": "㈲シカウ",
+        "pinned_tweet_id": "2050236805044392236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065046423603924992/Xyy41K1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 783,
+          "like_count": 23925,
+          "listed_count": 3,
+          "media_count": 863,
+          "tweet_count": 8378
+        },
+        "username": "GNshikau",
+        "verified": false
+      }
+    ]
+  }
+}

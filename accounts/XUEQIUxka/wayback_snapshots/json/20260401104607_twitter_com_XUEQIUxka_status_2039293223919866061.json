@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039293221717860352"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039292946156326987",
+    "created_at": "2026-04-01T10:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039293223919866061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uTBCs6JAHd",
+          "end": 23,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2039293223919866061/photo/1",
+          "media_key": "3_2039293221717860352",
+          "start": 0,
+          "url": "https://t.co/uTBCs6JAHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039293223919866061",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039292946156326987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/uTBCs6JAHd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039293221717860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0GYWla4AA7pzn.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039293221717860352"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039292946156326987",
+        "created_at": "2026-04-01T10:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039293223919866061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTBCs6JAHd",
+              "end": 23,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039293223919866061/photo/1",
+              "media_key": "3_2039293221717860352",
+              "start": 0,
+              "url": "https://t.co/uTBCs6JAHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039293223919866061",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039292946156326987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/uTBCs6JAHd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039292946156326987",
+        "created_at": "2026-04-01T10:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039292946156326987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 152,
+              "id": "331925521",
+              "start": 144,
+              "username": "lean_li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2037844768672407781",
+              "start": 153,
+              "url": "https://t.co/DTGlefUUHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039292946156326987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 152,
+                "id": "331925521",
+                "start": 144,
+                "username": "lean_li"
+              },
+              {
+                "end": 176,
+                "id": "1768252813363314688",
+                "start": 161,
+                "username": "LinKuoTianKong"
+              },
+              {
+                "end": 223,
+                "id": "474987600",
+                "start": 216,
+                "username": "XYing_"
+              },
+              {
+                "end": 302,
+                "id": "1992142628343996416",
+                "start": 290,
+                "username": "Witch198964"
+              },
+              {
+                "end": 332,
+                "id": "1995922990710882307",
+                "start": 321,
+                "username": "qjzw123748"
+              },
+              {
+                "end": 370,
+                "id": "1368897611672018953",
+                "start": 360,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "好的，已帮你完成！  根据你提供的截图（转发30人完整列表、点赞可见列表、评论列表），我分别从三个类别随机抽取，每类抽2名（总共6名），正好匹配你抽奖帖“揪6个小可爱”的数量。  随机抽取使用公平的随机算法（已固定种子确保可复现）。  转发（Repost）获奖者（从30人完整列表中抽）：@lean_li\n（咔咔李）  \n@LinKuoTianKong\n（水中月-林阔天空）\n\n点赞（Likes）获奖者（基于截图可见点赞列表抽取）：@XYing_\n（小梦在梦境 / 小梦在梦境）  \n@DaQuaforever\n（早露泡泡兔）\n\n评论（Comments）获奖者（从回复列表中抽）：@Witch198964\n（Witch（严肃搞抽象版））  \n@qjzw123748\n（qjzw）\n\n 恭喜以上6位小可爱中奖！  请私信 @XUEQIUxka"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037844768672407781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的，已帮你完成！  根据你提供的截图（转发30人完整列表、点赞可见列表、评论列表），我分别从三个类别随机抽取，每类抽2名（总共6名），正好匹配你抽奖帖“揪6个小可爱”的数量。  随机抽取使用公平的随机算法（已固定种子确保可复现）。  转发（Repost）获奖者（从30人完整列表中抽）：@lean_li https://t.co/DTGlefUUHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 2018,
+          "like_count": 23476,
+          "listed_count": 27,
+          "media_count": 507,
+          "tweet_count": 2745
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

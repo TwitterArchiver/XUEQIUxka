@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2024713458789584967",
+    "created_at": "2026-02-21T03:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025048296491024414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895387726742200326",
+          "start": 0,
+          "username": "flowingfax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025048296491024414",
+    "in_reply_to_user_id": "1895387726742200326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025028230697058675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flowingfax 我的历史推文有相关信息，你可以查看，而且我的术式是0深度，理论上一个月就可以恢复的很好，手术到现在是100天+"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2024713458789584967",
+        "created_at": "2026-02-21T03:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025048296491024414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895387726742200326",
+              "start": 0,
+              "username": "flowingfax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025048296491024414",
+        "in_reply_to_user_id": "1895387726742200326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025028230697058675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flowingfax 我的历史推文有相关信息，你可以查看，而且我的术式是0深度，理论上一个月就可以恢复的很好，手术到现在是100天+"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895387726742200326",
+        "conversation_id": "2024713458789584967",
+        "created_at": "2026-02-21T02:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025028230697058675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025028230697058675",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024713458789584967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 这个创伤面那么大的手术，2个月能恢复你说的扣B感觉是不是搞笑？不应该是你本人的诊断书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5633,
+          "following_count": 1454,
+          "like_count": 19697,
+          "listed_count": 25,
+          "media_count": 308,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T08:18:14.000Z",
+        "description": "Exploring Fun, Creating Memories. \n                                    Follow for More Videos.",
+        "id": "1895387726742200326",
+        "location": "Realm Space",
+        "name": "Video FlowingFax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912728271298654209/H2epdiN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 485,
+          "like_count": 707,
+          "listed_count": 4,
+          "media_count": 298,
+          "tweet_count": 3642
+        },
+        "username": "flowingfax",
+        "verified": false
+      }
+    ]
+  }
+}

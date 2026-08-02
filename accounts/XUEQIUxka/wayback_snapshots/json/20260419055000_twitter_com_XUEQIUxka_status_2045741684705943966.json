@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045741680629100544"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045741684705943966",
+    "created_at": "2026-04-19T05:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045741684705943966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVG1zc14HI",
+          "end": 69,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2045741684705943966/photo/1",
+          "media_key": "3_2045741680629100544",
+          "start": 46,
+          "url": "https://t.co/CVG1zc14HI"
+        },
+        {
+          "display_url": "x.com/qusuunmd/statu…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/qusuunmd/status/2045688101390242189",
+          "start": 70,
+          "url": "https://t.co/6KzdYuch80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045741684705943966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045688101390242189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/CVG1zc14HI https://t.co/6KzdYuch80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2045741680629100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPvOEAbsAAhquN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045741680629100544"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045741684705943966",
+        "created_at": "2026-04-19T05:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045741684705943966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVG1zc14HI",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045741684705943966/photo/1",
+              "media_key": "3_2045741680629100544",
+              "start": 46,
+              "url": "https://t.co/CVG1zc14HI"
+            },
+            {
+              "display_url": "x.com/qusuunmd/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/qusuunmd/status/2045688101390242189",
+              "start": 70,
+              "url": "https://t.co/6KzdYuch80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045741684705943966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045688101390242189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/CVG1zc14HI https://t.co/6KzdYuch80"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2045688101390242189",
+        "created_at": "2026-04-19T02:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045688101390242189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2043359269542904156",
+              "start": 46,
+              "url": "https://t.co/eTyux3I7pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045688101390242189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043359269542904156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/eTyux3I7pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7125,
+          "following_count": 2123,
+          "like_count": 26471,
+          "listed_count": 27,
+          "media_count": 759,
+          "tweet_count": 3915
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 270,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 632
+        },
+        "username": "qusuunmd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2027209972522832143",
+    "created_at": "2026-02-28T12:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027716869080191442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924698544734404611",
+          "start": 0,
+          "username": "0xWagg"
+        },
+        {
+          "end": 23,
+          "id": "231650651",
+          "start": 8,
+          "username": "georgiahampxox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027716869080191442",
+    "in_reply_to_user_id": "1924698544734404611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027596228662575345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xWagg @georgiahampxox 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2027209972522832143",
+        "created_at": "2026-02-28T12:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027716869080191442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924698544734404611",
+              "start": 0,
+              "username": "0xWagg"
+            },
+            {
+              "end": 23,
+              "id": "231650651",
+              "start": 8,
+              "username": "georgiahampxox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027716869080191442",
+        "in_reply_to_user_id": "1924698544734404611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027596228662575345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xWagg @georgiahampxox 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924698544734404611",
+        "conversation_id": "2027209972522832143",
+        "created_at": "2026-02-28T04:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027596228662575345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "231650651",
+              "start": 0,
+              "username": "georgiahampxox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027596228662575345",
+        "in_reply_to_user_id": "231650651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027209972522832143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@georgiahampxox 一起冲粉加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 1512,
+          "like_count": 20220,
+          "listed_count": 25,
+          "media_count": 317,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T05:27:59.000Z",
+        "description": "Sharing alpha, tracking trends, surviving the cycles.\nResearch-backed calls | Web3, DeFi, AI\nDMs open for collab 🤝",
+        "id": "1924698544734404611",
+        "location": "HK",
+        "name": "0xWAG 🤖ボッ 蓝鸟会 🕊️",
+        "pinned_tweet_id": "2027358889403142478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936026592700252162/IeCp3gFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16403,
+          "following_count": 9008,
+          "like_count": 62997,
+          "listed_count": 47,
+          "media_count": 189,
+          "tweet_count": 60276
+        },
+        "username": "0xWagg",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-29T03:12:36.000Z",
+        "description": "OKX钱包最高20%返佣邀请码：YINGGE888 注册链接： https://t.co/eLDSp7c3c5 #Binance 近3亿用户的共同选择：https://t.co/ux01hl2S4k",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 55,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=YINGGE888",
+                "start": 32,
+                "url": "https://t.co/eLDSp7c3c5"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=Y…",
+                "end": 99,
+                "expanded_url": "https://accounts.binance.com/register?ref=YINGGE888",
+                "start": 76,
+                "url": "https://t.co/ux01hl2S4k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/ok168",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/ok168",
+                "start": 0,
+                "url": "https://t.co/uHAomcBIrC"
+              }
+            ]
+          }
+        },
+        "id": "231650651",
+        "location": "币圈你需要的全部工具👉",
+        "name": "Huahua Talks Crypto",
+        "pinned_tweet_id": "2027572079093223630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000856615390732289/uGgWp11C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 1300,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 3379,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/uHAomcBIrC",
+        "username": "georgiahampxox",
+        "verified": true
+      }
+    ]
+  }
+}

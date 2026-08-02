@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2037433293063463101",
+    "created_at": "2026-03-28T01:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037702425751003450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355717461451005953",
+          "start": 0,
+          "username": "chengeshuo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037702425751003450",
+    "in_reply_to_user_id": "1355717461451005953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037433293063463101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengeshuo666 现在这个社会的人就是这样的，总有坏人想抢你的好东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44071,
+        "height": 1200,
+        "media_key": "7_2037433120631533568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037433120631533568/pu/img/_NQXpIt6M3ZWDxZL.jpg",
+        "public_metrics": {
+          "view_count": 440651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037433120631533568/pu/vid/avc1/320x532/ufc66VU3a0KmUxLa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037433120631533568/pu/vid/avc1/480x800/1LZhTmwWNK2JFugZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037433120631533568/pu/vid/avc1/720x1200/ax5Q_fLYU3AOwt-9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037433120631533568/pu/pl/Z03i48HI_hklmiOI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037433293063463101",
+        "created_at": "2026-03-28T01:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037702425751003450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355717461451005953",
+              "start": 0,
+              "username": "chengeshuo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037702425751003450",
+        "in_reply_to_user_id": "1355717461451005953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037433293063463101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengeshuo666 现在这个社会的人就是这样的，总有坏人想抢你的好东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037433120631533568"
+          ]
+        },
+        "author_id": "1355717461451005953",
+        "conversation_id": "2037433293063463101",
+        "created_at": "2026-03-27T07:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037433293063463101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnsG6oYBhz",
+              "end": 114,
+              "expanded_url": "https://x.com/chengeshuo666/status/2037433293063463101/video/1",
+              "media_key": "7_2037433120631533568",
+              "start": 91,
+              "url": "https://t.co/LnsG6oYBhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037433293063463101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 913512,
+          "like_count": 683,
+          "quote_count": 5,
+          "reply_count": 127,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "在演唱会上的随机抽奖环节，一名女性被大荧幕抽中，但这个时候隔壁一女子想钻规则漏洞，试图用抢镜来夺走这个奖励，可惜被一秒识破，但依然不甘心的选择再次装傻充愣，想浑水摸鱼的蒙混过关…… https://t.co/LnsG6oYBhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 1940,
+          "like_count": 22419,
+          "listed_count": 27,
+          "media_count": 460,
+          "tweet_count": 2406
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-31T03:20:19.000Z",
+        "description": "反对极端女权主义\n只为男性权益发声\n备用号：@chengeshuo\n欢迎私信投稿和交流。\n感谢兄弟们的支持和信任。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "chengeshuo"
+              }
+            ]
+          }
+        },
+        "id": "1355717461451005953",
+        "location": "Hong Kong",
+        "name": "陈哥说",
+        "pinned_tweet_id": "2017569092031709500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725454110076624896/EFPTmVpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12231,
+          "following_count": 1471,
+          "like_count": 100,
+          "listed_count": 27,
+          "media_count": 1129,
+          "tweet_count": 1710
+        },
+        "username": "chengeshuo666",
+        "verified": true
+      }
+    ]
+  }
+}

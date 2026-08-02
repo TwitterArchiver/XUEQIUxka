@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045908052138930176"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2045908054861107264",
+    "created_at": "2026-04-19T16:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045908054861107264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 116,
+          "id": "1472219833261772801",
+          "start": 107,
+          "username": "xxx_jjkk"
+        },
+        {
+          "end": 140,
+          "id": "2012613831357272064",
+          "start": 127,
+          "username": "lianlian2441"
+        },
+        {
+          "end": 182,
+          "id": "1500855672480489475",
+          "start": 170,
+          "username": "Science_010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryvgB8YUxY",
+          "end": 208,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2045908054861107264/photo/1",
+          "media_key": "3_2045908052138930176",
+          "start": 185,
+          "url": "https://t.co/ryvgB8YUxY"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 232,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2045141186835599792",
+          "start": 209,
+          "url": "https://t.co/b9LiDgnBHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045908054861107264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 116,
+            "id": "1472219833261772801",
+            "start": 107,
+            "username": "xxx_jjkk"
+          },
+          {
+            "end": 140,
+            "id": "2012613831357272064",
+            "start": 127,
+            "username": "lianlian2441"
+          },
+          {
+            "end": 182,
+            "id": "1500855672480489475",
+            "start": 170,
+            "username": "Science_010"
+          },
+          {
+            "end": 201,
+            "id": "2024424705026117634",
+            "start": 192,
+            "username": "cavityuk"
+          },
+          {
+            "end": 245,
+            "id": "1732724006787420160",
+            "start": 236,
+            "username": "Venti718"
+          },
+          {
+            "end": 271,
+            "id": "1775079210484436992",
+            "start": 258,
+            "username": "0xAstraSpark"
+          }
+        ]
+      },
+      "text": "（这次严格按“各抽两个”执行）我重新用随机算法（Python random.sample）从完整列表中公平抽取，每个类别正好2个，完全独立于上一次抽取。 最终中奖名单：点赞（Likes）中奖者（2个）：\n@旖旎  @xxx_jjkk\n @ Ming2\n（@lianlian2441\n）\n转发（Reposts）中奖者（2个）：\n@卡塔丽娜（ @Science_010\n）\n@是屿喵喵（ @cavityuk\n）\n评论（Comments）中奖者（2个）：\n@凌老师不是零老师（ @Venti718\n）\n@ Astra\n（ @0xAstraSpark）\n\n抽取透明说明：  点赞池：60个唯一用户  \n转发池：20个唯一用户  \n评论池：32个唯一用户（已去重）  \n随机种子公平，无人为干预，可复现。\n\n恭喜这6位中奖的小伙伴！\n提醒领取定制周边～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045141186835599792",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（这次严格按“各抽两个”执行）我重新用随机算法（Python random.sample）从完整列表中公平抽取，每个类别正好2个，完全独立于上一次抽取。 最终中奖名单：点赞（Likes）中奖者（2个）：\n@旖旎  @xxx_jjkk\n @ Ming2\n（@lianlian2441\n）\n转发（Reposts）中奖者（2个）：\n@卡塔丽娜（ @Science_010\n） https://t.co/ryvgB8YUxY https://t.co/b9LiDgnBHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2045908052138930176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSGiKLaMAAyFB5.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045908052138930176"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045908054861107264",
+        "created_at": "2026-04-19T16:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045908054861107264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 116,
+              "id": "1472219833261772801",
+              "start": 107,
+              "username": "xxx_jjkk"
+            },
+            {
+              "end": 140,
+              "id": "2012613831357272064",
+              "start": 127,
+              "username": "lianlian2441"
+            },
+            {
+              "end": 182,
+              "id": "1500855672480489475",
+              "start": 170,
+              "username": "Science_010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryvgB8YUxY",
+              "end": 208,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2045908054861107264/photo/1",
+              "media_key": "3_2045908052138930176",
+              "start": 185,
+              "url": "https://t.co/ryvgB8YUxY"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 232,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2045141186835599792",
+              "start": 209,
+              "url": "https://t.co/b9LiDgnBHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045908054861107264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 116,
+                "id": "1472219833261772801",
+                "start": 107,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 140,
+                "id": "2012613831357272064",
+                "start": 127,
+                "username": "lianlian2441"
+              },
+              {
+                "end": 182,
+                "id": "1500855672480489475",
+                "start": 170,
+                "username": "Science_010"
+              },
+              {
+                "end": 201,
+                "id": "2024424705026117634",
+                "start": 192,
+                "username": "cavityuk"
+              },
+              {
+                "end": 245,
+                "id": "1732724006787420160",
+                "start": 236,
+                "username": "Venti718"
+              },
+              {
+                "end": 271,
+                "id": "1775079210484436992",
+                "start": 258,
+                "username": "0xAstraSpark"
+              }
+            ]
+          },
+          "text": "（这次严格按“各抽两个”执行）我重新用随机算法（Python random.sample）从完整列表中公平抽取，每个类别正好2个，完全独立于上一次抽取。 最终中奖名单：点赞（Likes）中奖者（2个）：\n@旖旎  @xxx_jjkk\n @ Ming2\n（@lianlian2441\n）\n转发（Reposts）中奖者（2个）：\n@卡塔丽娜（ @Science_010\n）\n@是屿喵喵（ @cavityuk\n）\n评论（Comments）中奖者（2个）：\n@凌老师不是零老师（ @Venti718\n）\n@ Astra\n（ @0xAstraSpark）\n\n抽取透明说明：  点赞池：60个唯一用户  \n转发池：20个唯一用户  \n评论池：32个唯一用户（已去重）  \n随机种子公平，无人为干预，可复现。\n\n恭喜这6位中奖的小伙伴！\n提醒领取定制周边～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045141186835599792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（这次严格按“各抽两个”执行）我重新用随机算法（Python random.sample）从完整列表中公平抽取，每个类别正好2个，完全独立于上一次抽取。 最终中奖名单：点赞（Likes）中奖者（2个）：\n@旖旎  @xxx_jjkk\n @ Ming2\n（@lianlian2441\n）\n转发（Reposts）中奖者（2个）：\n@卡塔丽娜（ @Science_010\n） https://t.co/ryvgB8YUxY https://t.co/b9LiDgnBHT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2045141186835599792",
+        "created_at": "2026-04-17T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045141186835599792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BI3BXI/status/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/BI3BXI/status/2045136031742308475",
+              "start": 52,
+              "url": "https://t.co/qKrJWWg2qK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045141186835599792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6313,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045136031742308475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我居然7000fo了！\n庆祝一下\n这条帖子转载/评论/点赞各抽2个定制周边，4月19号开（UTC+8） https://t.co/qKrJWWg2qK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 2138,
+          "like_count": 26560,
+          "listed_count": 27,
+          "media_count": 771,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 442,
+          "like_count": 10859,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T19:51:55.000Z",
+        "description": "记录人类情绪的异常波动。输出不太正常的表达方式。让你在混乱里。找到一点共鸣。",
+        "id": "2012613831357272064",
+        "name": "Ming⑵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023816954520489984/keBM9NNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1632,
+          "like_count": 10754,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 5635
+        },
+        "username": "lianlian2441",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\n080519/男/173 65/哦滴/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/东方/疑似ENFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 805,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也可以是cavityuk～\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi",
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 19,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 106
+        },
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 2208,
+          "like_count": 19566,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 5998
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "04年连续创业者，澳国立在读。建立了Github 最大的区块链开源基建之一，Top 1加密收款方案，获上万独立站采用并认可，累计处理数亿真实流水。🏗️ 正在打造 @GMWalletApp ｜💻 Keep Building!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "GMWalletApp"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 635,
+          "like_count": 27208,
+          "listed_count": 12,
+          "media_count": 161,
+          "tweet_count": 4865
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      }
+    ]
+  }
+}

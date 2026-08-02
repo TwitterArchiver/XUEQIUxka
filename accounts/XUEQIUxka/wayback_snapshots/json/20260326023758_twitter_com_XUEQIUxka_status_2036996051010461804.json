@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036797115217915928",
+    "created_at": "2026-03-26T02:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036996051010461804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543808514820173825",
+          "start": 0,
+          "username": "kivi888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036996051010461804",
+    "in_reply_to_user_id": "1543808514820173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036797115217915928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kivi888888 但是跑男的综艺真的还蛮好看的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036797102492438528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQoLF2bUAAWfuq.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036797115217915928",
+        "created_at": "2026-03-26T02:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036996051010461804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543808514820173825",
+              "start": 0,
+              "username": "kivi888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036996051010461804",
+        "in_reply_to_user_id": "1543808514820173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036797115217915928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kivi888888 但是跑男的综艺真的还蛮好看的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036797102492438528"
+          ]
+        },
+        "author_id": "1543808514820173825",
+        "conversation_id": "2036797115217915928",
+        "created_at": "2026-03-25T13:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036797115217915928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEN1fmjyCJ",
+              "end": 137,
+              "expanded_url": "https://x.com/kivi888888/status/2036797115217915928/photo/1",
+              "media_key": "3_2036797102492438528",
+              "start": 114,
+              "url": "https://t.co/hEN1fmjyCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036797115217915928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "李晨46岁还赖在跑男不走，真不怪他\n\n我算了下，他2014年就开始跑，到现在11季，一季最少八百万，一年录三四个月，钱就到手了。\n\n再看看他演的戏，这几年就八佰里打了个酱油，爱的二八定律里演了个姐夫，加起来戏份还没跑男一期多。\n\n现在拍戏又累又卷，小成本电影男主片酬才两三百万，还要连轴转三四个月。他又不傻，换我肯定也选跑男。\n\n再说现在影视圈寒冬，开机项目少一半，他这个年纪去抢男一也尴尬，不如综艺里当大黑牛，人设稳，观众买账。综艺常青树也是本事，能跑十年不掉队，我服。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 722080,
+          "like_count": 533,
+          "quote_count": 2,
+          "reply_count": 329,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "李晨46岁还赖在跑男不走，真不怪他\n\n我算了下，他2014年就开始跑，到现在11季，一季最少八百万，一年录三四个月，钱就到手了。\n\n再看看他演的戏，这几年就八佰里打了个酱油，爱的二八定律里演了个姐夫，加起来戏份还没跑男一期多。 https://t.co/hEN1fmjyCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6396,
+          "following_count": 1882,
+          "like_count": 22103,
+          "listed_count": 27,
+          "media_count": 447,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T04:07:06.000Z",
+        "description": "发点自己喜欢的段子/聊点人间百态",
+        "id": "1543808514820173825",
+        "name": "ki v i",
+        "pinned_tweet_id": "2035885176665051292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912669894648500224/8WAIr4oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1035,
+          "like_count": 5488,
+          "listed_count": 16,
+          "media_count": 209,
+          "tweet_count": 1580
+        },
+        "username": "kivi888888",
+        "verified": true
+      }
+    ]
+  }
+}

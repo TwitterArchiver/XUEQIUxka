@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2034796310453526672",
+    "created_at": "2026-03-20T00:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T01:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034796310453526672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/abskoop/status/2034672764272148578",
+          "start": 38,
+          "url": "https://t.co/BTUszI40Jn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034796310453526672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034672764272148578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "微信今天敢做开屏广告\n明天各个平台就开始，永久免广告聊天，字节躺着都能笑死 https://t.co/BTUszI40Jn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2034672750888103937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDycFjbaMAEAt1S.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2034796310453526672",
+        "created_at": "2026-03-20T00:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034796310453526672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/abskoop/status/2034672764272148578",
+              "start": 38,
+              "url": "https://t.co/BTUszI40Jn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034796310453526672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034672764272148578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "微信今天敢做开屏广告\n明天各个平台就开始，永久免广告聊天，字节躺着都能笑死 https://t.co/BTUszI40Jn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034672750888103937"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2034672764272148578",
+        "created_at": "2026-03-19T16:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034672764272148578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsyfNv7Dmd",
+              "end": 40,
+              "expanded_url": "https://x.com/abskoop/status/2034672764272148578/photo/1",
+              "media_key": "3_2034672750888103937",
+              "start": 17,
+              "url": "https://t.co/tsyfNv7Dmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034672764272148578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 50685,
+          "like_count": 78,
+          "quote_count": 4,
+          "reply_count": 45,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "微信不做App开屏广告的原因是？ https://t.co/tsyfNv7Dmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 1754,
+          "like_count": 21349,
+          "listed_count": 26,
+          "media_count": 380,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746875,
+          "following_count": 1255,
+          "like_count": 26036,
+          "listed_count": 2707,
+          "media_count": 24033,
+          "tweet_count": 61343
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

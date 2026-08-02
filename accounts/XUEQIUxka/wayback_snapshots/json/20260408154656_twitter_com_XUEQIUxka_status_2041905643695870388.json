@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2041890481685291276",
+    "created_at": "2026-04-08T15:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041905643695870388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "702327477440528384",
+          "start": 0,
+          "username": "achoudedisheng"
+        },
+        {
+          "end": 32,
+          "id": "1475902620867133441",
+          "start": 16,
+          "username": "paper_white0413"
+        },
+        {
+          "end": 40,
+          "id": "1887684715047784448",
+          "start": 33,
+          "username": "kscssc"
+        },
+        {
+          "end": 55,
+          "id": "1946567120105750528",
+          "start": 41,
+          "username": "kawaiidollkig"
+        },
+        {
+          "end": 71,
+          "id": "1746469344325021697",
+          "start": 56,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041905643695870388",
+    "in_reply_to_user_id": "702327477440528384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041890481685291276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@achoudedisheng @paper_white0413 @kscssc @kawaiidollkig @suzumiyasuzume 好涩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4018,
+        "media_key": "3_2041890445626896384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZAirna8AAjCh2.jpg",
+        "width": 2606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041890481685291276",
+        "created_at": "2026-04-08T15:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041905643695870388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "702327477440528384",
+              "start": 0,
+              "username": "achoudedisheng"
+            },
+            {
+              "end": 32,
+              "id": "1475902620867133441",
+              "start": 16,
+              "username": "paper_white0413"
+            },
+            {
+              "end": 40,
+              "id": "1887684715047784448",
+              "start": 33,
+              "username": "kscssc"
+            },
+            {
+              "end": 55,
+              "id": "1946567120105750528",
+              "start": 41,
+              "username": "kawaiidollkig"
+            },
+            {
+              "end": 71,
+              "id": "1746469344325021697",
+              "start": 56,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041905643695870388",
+        "in_reply_to_user_id": "702327477440528384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041890481685291276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@achoudedisheng @paper_white0413 @kscssc @kawaiidollkig @suzumiyasuzume 好涩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041890445626896384"
+          ]
+        },
+        "author_id": "702327477440528384",
+        "conversation_id": "2041890481685291276",
+        "created_at": "2026-04-08T14:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041890481685291276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1887684715047784448",
+              "start": 13,
+              "username": "kscssc"
+            },
+            {
+              "end": 39,
+              "id": "1946567120105750528",
+              "start": 25,
+              "username": "kawaiidollkig"
+            },
+            {
+              "end": 60,
+              "id": "1746469344325021697",
+              "start": 45,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kvp6jNnCTJ",
+              "end": 84,
+              "expanded_url": "https://x.com/achoudedisheng/status/2041890481685291276/photo/1",
+              "media_key": "3_2041890445626896384",
+              "start": 61,
+              "url": "https://t.co/Kvp6jNnCTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041890481685291276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 621,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友学坏了...\n入替 @kscssc \n头壳 @kawaiidollkig \n原up @suzumiyasuzume https://t.co/Kvp6jNnCTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6799,
+          "following_count": 2032,
+          "like_count": 24520,
+          "listed_count": 27,
+          "media_count": 582,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-24T03:01:34.000Z",
+        "description": "路边着ぐるみ/摄影/绳工 \nNot a Good Kigurumi Player / Photographer / Rigger",
+        "id": "702327477440528384",
+        "location": "shanghai",
+        "name": "466",
+        "pinned_tweet_id": "2030098723028750413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414433605837680644/7UNgSuY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 1210,
+          "like_count": 3373,
+          "listed_count": 43,
+          "media_count": 173,
+          "tweet_count": 898
+        },
+        "username": "achoudedisheng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-28T18:53:08.000Z",
+        "description": "每天不是饿饿就是困困|外表是大姐姐，内心是雌小鬼，一张嘴就是大叔丨女同DD丨聊天容易突然失踪丨北京丨不可爱",
+        "id": "1475902620867133441",
+        "location": "北京 昌平",
+        "name": "好困好困的白纸",
+        "pinned_tweet_id": "1768205120008003956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998428802448515072/6O4L8uBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 250,
+          "like_count": 11754,
+          "listed_count": 14,
+          "media_count": 583,
+          "tweet_count": 3220
+        },
+        "username": "paper_white0413",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T02:08:12.000Z",
+        "description": "常驻上海 已复活 事一个不经常营业の娃圈底边    （ﾉ´д｀）\nqq504076428 欢迎扩列 (◍＞◡＜◍)",
+        "id": "1887684715047784448",
+        "location": "距离114.514km",
+        "name": "古力查力度",
+        "pinned_tweet_id": "2034966315941994669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887685016744001536/Z_VuCzXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 430,
+          "like_count": 1855,
+          "listed_count": 14,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "kscssc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T13:45:52.000Z",
+        "description": "做动漫头套的 老铁们点点关注",
+        "id": "1946567120105750528",
+        "name": "kigurumi着替社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316598808322048/bUchdDkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 151,
+          "like_count": 52,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "kawaiidollkig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13008,
+          "following_count": 878,
+          "like_count": 1882,
+          "listed_count": 24,
+          "media_count": 122,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

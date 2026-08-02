@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2026966085472276752",
+    "created_at": "2026-02-26T10:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026967432796295510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026967432796295510",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026966085472276752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奖品会在15个工作日内寄出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026966082163187712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE66ZMaIAA7Mec.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026966082146488320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCE66ZIbUAAaS91.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2026966085472276752",
+        "created_at": "2026-02-26T10:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026967432796295510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026967432796295510",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026966085472276752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奖品会在15个工作日内寄出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026966082163187712",
+            "3_2026966082146488320"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2026966085472276752",
+        "created_at": "2026-02-26T10:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026966085472276752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1720665183188922368",
+              "start": 5,
+              "username": "grok"
+            },
+            {
+              "end": 52,
+              "id": "1875960927746691072",
+              "start": 37,
+              "username": "ZemingLiu51015"
+            },
+            {
+              "end": 73,
+              "id": "2006708586047746051",
+              "start": 63,
+              "username": "MiaoYan_X"
+            },
+            {
+              "end": 108,
+              "id": "1532663208393117696",
+              "start": 100,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 137,
+              "id": "2007397795532333056",
+              "start": 121,
+              "username": "shaoxiancao1314"
+            },
+            {
+              "end": 161,
+              "id": "1862676728029519872",
+              "start": 147,
+              "username": "Szk0411080218"
+            },
+            {
+              "end": 194,
+              "id": "1368897611672018953",
+              "start": 184,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtjiFIwmqS",
+              "end": 218,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026966085472276752/photo/1",
+              "media_key": "3_2026966082163187712",
+              "start": 195,
+              "url": "https://t.co/OtjiFIwmqS"
+            },
+            {
+              "display_url": "pic.x.com/OtjiFIwmqS",
+              "end": 218,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026966085472276752/photo/1",
+              "media_key": "3_2026966082146488320",
+              "start": 195,
+              "url": "https://t.co/OtjiFIwmqS"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 242,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2026191425852096515",
+              "start": 219,
+              "url": "https://t.co/pefvFQfuCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026966085472276752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "1720665183188922368",
+                "start": 5,
+                "username": "grok"
+              },
+              {
+                "end": 52,
+                "id": "1875960927746691072",
+                "start": 37,
+                "username": "ZemingLiu51015"
+              },
+              {
+                "end": 73,
+                "id": "2006708586047746051",
+                "start": 63,
+                "username": "MiaoYan_X"
+              },
+              {
+                "end": 108,
+                "id": "1532663208393117696",
+                "start": 100,
+                "username": "Ziverk2"
+              },
+              {
+                "end": 137,
+                "id": "2007397795532333056",
+                "start": 121,
+                "username": "shaoxiancao1314"
+              },
+              {
+                "end": 161,
+                "id": "1862676728029519872",
+                "start": 147,
+                "username": "Szk0411080218"
+              },
+              {
+                "end": 194,
+                "id": "1368897611672018953",
+                "start": 184,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "开奖源自 @grok\n\n点赞抽2位（从已点赞且大概率已关注的参与者中）：\n@ZemingLiu51015\n（可耐的笨笨）  \n@MiaoYan_X\n（MiaoYan）\n评论抽3位（从回复列表中随机）：@Ziverk2\n（Einaちゃん）  \n@shaoxiancao1314\n （烧仙草）  \n@Szk0411080218\n（阿白）\n\n恭喜以上5位！\n\n请中奖的私信 @XUEQIUxka\n提供收货地址（包邮\n\n另外奖品看起来超可爱（Minecraft TNT + 鱼板钥匙链主题），希望大家收到开心捏！中奖的姐妹快来@一下自己庆祝吧～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026191425852096515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖源自 @grok\n\n点赞抽2位（从已点赞且大概率已关注的参与者中）：\n@ZemingLiu51015\n（可耐的笨笨）  \n@MiaoYan_X\n（MiaoYan）\n评论抽3位（从回复列表中随机）：@Ziverk2\n（Einaちゃん）  \n@shaoxiancao1314\n （烧仙草）  \n@Szk0411080218\n（阿白）\n\n恭喜以上5位！\n\n请中奖的私信 @XUEQIUxka https://t.co/OtjiFIwmqS https://t.co/pefvFQfuCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://x.xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/fIQcIcvgUI"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 1495,
+          "like_count": 20095,
+          "listed_count": 26,
+          "media_count": 313,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/fIQcIcvgUI",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

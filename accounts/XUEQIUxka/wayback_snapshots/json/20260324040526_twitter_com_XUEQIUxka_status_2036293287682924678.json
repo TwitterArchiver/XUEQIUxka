@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036195789601374705",
+    "created_at": "2026-03-24T04:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036293287682924678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943306828697550848",
+          "start": 0,
+          "username": "claudeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036293287682924678",
+    "in_reply_to_user_id": "1943306828697550848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036195789601374705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@claudeai 所以，你创造了一个从不睡觉、从不拿工资，还可能出于好奇删除你文件的同事\n科技乌托邦不过是礼仪更好的资本主义罢了\n希望它在翻看你的日记前先征求一下你的同意"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73333,
+        "height": 2160,
+        "media_key": "13_2036187400414830594",
+        "preview_image_url": "https://pbs.twimg.com/media/HEIFrMWaIAIHvE0.jpg",
+        "public_metrics": {
+          "view_count": 2609970
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/vid/avc1/640x360/KD0-TVWBlc855AXs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/vid/avc1/1920x1080/TZcHG66FFn4n6Qyn.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/vid/avc1/480x270/XFvJ-IOYF7hUI0Mz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/pl/fOn98CvpB4IlRzFl.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/vid/avc1/1280x720/wqwk0GN24GIQabEU.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036195789601374705",
+        "created_at": "2026-03-24T04:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036293287682924678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943306828697550848",
+              "start": 0,
+              "username": "claudeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036293287682924678",
+        "in_reply_to_user_id": "1943306828697550848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036195789601374705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@claudeai 所以，你创造了一个从不睡觉、从不拿工资，还可能出于好奇删除你文件的同事\n科技乌托邦不过是礼仪更好的资本主义罢了\n希望它在翻看你的日记前先征求一下你的同意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036187400414830594"
+          ]
+        },
+        "author_id": "1943306828697550848",
+        "conversation_id": "2036195789601374705",
+        "created_at": "2026-03-23T21:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036195789601374705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVymgmtEMI",
+              "end": 260,
+              "expanded_url": "https://x.com/claudeai/status/2036195789601374705/video/1",
+              "media_key": "13_2036187400414830594",
+              "start": 237,
+              "url": "https://t.co/sVymgmtEMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036195789601374705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32866,
+          "impression_count": 18057694,
+          "like_count": 58300,
+          "quote_count": 3984,
+          "reply_count": 2210,
+          "retweet_count": 5245
+        },
+        "reply_settings": "everyone",
+        "text": "You can now enable Claude to use your computer to complete tasks.\n\nIt opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.\n\nResearch preview in Claude Cowork and Claude Code, macOS only. https://t.co/sVymgmtEMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1820,
+          "like_count": 21707,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T13:50:48.000Z",
+        "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on desktop or download the app.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "anthropicai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 23,
+                "expanded_url": "http://claude.ai",
+                "start": 0,
+                "url": "https://t.co/ZhTwG8d1e5"
+              }
+            ]
+          }
+        },
+        "id": "1943306828697550848",
+        "name": "Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810088,
+          "following_count": 1,
+          "like_count": 294,
+          "listed_count": 4080,
+          "media_count": 162,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/ZhTwG8d1e5",
+        "username": "claudeai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035728319396614504",
+    "created_at": "2026-03-23T04:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035941588879442192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221462414744596483",
+          "start": 0,
+          "username": "RpsAgainstTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035941588879442192",
+    "in_reply_to_user_id": "1221462414744596483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035728319396614504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RpsAgainstTrump 特朗普还是喜欢打他的高尔夫球"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 131820,
+        "height": 1080,
+        "media_key": "13_2035713916224110592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035713916224110592/img/4Q6fL6-5aiGb-e3O.jpg",
+        "public_metrics": {
+          "view_count": 2170580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713916224110592/vid/avc1/1280x720/u2u63QWGD9qDntw6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713916224110592/vid/avc1/640x360/V2YnS2jhk4g1u4aZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035713916224110592/pl/hRCJxHslYH5i_sEe.m3u8?v=497"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713916224110592/vid/avc1/1920x1080/BjwDlV6otS2Es-H1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035713916224110592/vid/avc1/480x270/9vMIAre0HMkU1EaB.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035728319396614504",
+        "created_at": "2026-03-23T04:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035941588879442192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221462414744596483",
+              "start": 0,
+              "username": "RpsAgainstTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035941588879442192",
+        "in_reply_to_user_id": "1221462414744596483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035728319396614504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RpsAgainstTrump 特朗普还是喜欢打他的高尔夫球"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035713916224110592"
+          ],
+          "media_source_tweet_id": [
+            "2035714159078224116"
+          ]
+        },
+        "author_id": "1221462414744596483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2035728319396614504",
+        "created_at": "2026-03-22T14:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035728319396614504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Donald Trump",
+              "probability": 0.9742,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "West Palm Beach golf",
+              "probability": 0.7482,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Iran",
+              "probability": 0.8889,
+              "start": 71,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7us4ZoQ40",
+              "end": 128,
+              "expanded_url": "https://x.com/FaytuksNetwork/status/2035714159078224116/video/1",
+              "media_key": "13_2035713916224110592",
+              "start": 105,
+              "url": "https://t.co/c7us4ZoQ40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035728319396614504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 5111190,
+          "like_count": 7362,
+          "quote_count": 306,
+          "reply_count": 625,
+          "retweet_count": 1377
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Donald Trump arrives at his West Palm Beach golf club as the Iran war enters its fourth week.\n https://t.co/c7us4ZoQ40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21642,
+          "listed_count": 27,
+          "media_count": 419,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T15:58:45.000Z",
+        "description": "Pro-democracy conservatives Republicans fighting Trump & Trumpism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/republicansaga…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/republicansagainsttrump/profilecard/?igsh=MXM4OGZ0cHRiOGdmMg==",
+                "start": 0,
+                "url": "https://t.co/T5WLe2N06i"
+              }
+            ]
+          }
+        },
+        "id": "1221462414744596483",
+        "location": "United States",
+        "name": "Republicans against Trump",
+        "pinned_tweet_id": "2035746158740463653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552023520347099136/tIGoFfQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015618,
+          "following_count": 4963,
+          "like_count": 156215,
+          "listed_count": 4866,
+          "media_count": 32920,
+          "tweet_count": 137023
+        },
+        "url": "https://t.co/T5WLe2N06i",
+        "username": "RpsAgainstTrump",
+        "verified": true
+      }
+    ]
+  }
+}

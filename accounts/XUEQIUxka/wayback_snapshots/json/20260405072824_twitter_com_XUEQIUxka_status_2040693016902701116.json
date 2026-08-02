@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2040588676980469934",
+    "created_at": "2026-04-05T07:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040693016902701116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2279407860",
+          "start": 0,
+          "username": "bailyLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040693016902701116",
+    "in_reply_to_user_id": "2279407860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040588676980469934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailyLU 不是，为什么这个能过审核？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2040588659507040256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGgkwabkAA7VQZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2040588676980469934",
+        "created_at": "2026-04-05T07:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040693016902701116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2279407860",
+              "start": 0,
+              "username": "bailyLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040693016902701116",
+        "in_reply_to_user_id": "2279407860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040588676980469934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailyLU 不是，为什么这个能过审核？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040588659507040256"
+          ]
+        },
+        "author_id": "2279407860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040588676980469934",
+        "created_at": "2026-04-05T00:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040588676980469934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnDlo5k41c",
+              "end": 29,
+              "expanded_url": "https://x.com/bailyLU/status/2040588676980469934/photo/1",
+              "media_key": "3_2040588659507040256",
+              "start": 6,
+              "url": "https://t.co/tnDlo5k41c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040588676980469934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19561,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这.... https://t.co/tnDlo5k41c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6730,
+          "following_count": 2026,
+          "like_count": 24037,
+          "listed_count": 27,
+          "media_count": 548,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-06T18:00:04.000Z",
+        "description": "🎉 大家好，我是贝利 ✈️ 让我们一起花费更少，享受更好 📍 机票｜酒店｜信用卡｜数码科技 🍏 主业留学移民工作（EU）💳 研究信用卡积分、省钱玩法 & 旅行黑科技 👥 社群｜知识星球：「贝利和他的小伙伴们」 📬 联络我：bailylu@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baily.life",
+                "end": 23,
+                "expanded_url": "http://baily.life",
+                "start": 0,
+                "url": "https://t.co/uk7nmQ0UOh"
+              }
+            ]
+          }
+        },
+        "id": "2279407860",
+        "location": "Milan",
+        "name": "贝利Baily",
+        "pinned_tweet_id": "2010039548903031073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211914146160645/NFElt4XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9603,
+          "following_count": 755,
+          "like_count": 2912,
+          "listed_count": 43,
+          "media_count": 969,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/uk7nmQ0UOh",
+        "username": "bailyLU",
+        "verified": true
+      }
+    ]
+  }
+}

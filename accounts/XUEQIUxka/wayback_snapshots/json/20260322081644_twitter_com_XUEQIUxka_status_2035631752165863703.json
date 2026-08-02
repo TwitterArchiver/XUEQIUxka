@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035576955287072988",
+    "created_at": "2026-03-22T08:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035631752165863703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1582899597323939841",
+          "start": 0,
+          "username": "xiaominz_film"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035631752165863703",
+    "in_reply_to_user_id": "1582899597323939841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035576955287072988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaominz_film 感觉油价还会涨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51133,
+        "height": 818,
+        "media_key": "13_2035576740010209280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035576740010209280/img/5G2QQm1CEoLh1mGZ.jpg",
+        "public_metrics": {
+          "view_count": 25188
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035576740010209280/pl/rtriobgrO2UA41En.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035576740010209280/vid/avc1/1920x818/TVjA2kzC6cZXD5G8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035576740010209280/vid/avc1/1688x720/CLBtCey1PgvCbTWO.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035576740010209280/vid/avc1/632x270/ihPdGVFvHq8qbivE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035576740010209280/vid/avc1/844x360/9hHESuYHtFg8u9V_.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035576955287072988",
+        "created_at": "2026-03-22T08:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035631752165863703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1582899597323939841",
+              "start": 0,
+              "username": "xiaominz_film"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035631752165863703",
+        "in_reply_to_user_id": "1582899597323939841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035576955287072988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaominz_film 感觉油价还会涨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035576740010209280"
+          ]
+        },
+        "author_id": "1582899597323939841",
+        "conversation_id": "2035576955287072988",
+        "created_at": "2026-03-22T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035576955287072988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DD3yIaS38t",
+              "end": 168,
+              "expanded_url": "https://x.com/xiaominz_film/status/2035576955287072988/video/1",
+              "media_key": "13_2035576740010209280",
+              "start": 145,
+              "url": "https://t.co/DD3yIaS38t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035576955287072988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1368,
+                "start": 1362,
+                "tag": "Trump"
+              },
+              {
+                "end": 1378,
+                "start": 1369,
+                "tag": "IranWar‌"
+              },
+              {
+                "end": 1384,
+                "start": 1379,
+                "tag": "美国盟友"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1306,
+                "id": "1879650942410481666",
+                "start": 1300,
+                "username": "POTUS"
+              },
+              {
+                "end": 1317,
+                "id": "66369181",
+                "start": 1307,
+                "username": "DeptofWar"
+              },
+              {
+                "end": 1331,
+                "id": "1518709627927633920",
+                "start": 1319,
+                "username": "PeteHegseth"
+              },
+              {
+                "end": 1343,
+                "id": "15534771",
+                "start": 1332,
+                "username": "secstatewa"
+              },
+              {
+                "end": 1356,
+                "id": "1339488762",
+                "start": 1345,
+                "username": "SolomonYue"
+              }
+            ]
+          },
+          "text": "一不小心又做了个大片🤩🤭\n决战时刻终于来了！\n\n川普总统48小时最后通牒已下：伊朗不投降，就攻打哈尔克岛！很多人担心美国陷泥潭，其实完全不必担心。\n\n川普是“军人出身”（13岁进军事学院）的精明商人，从不食言，到点必开战。这不是赔本买卖，而是精准布局。如果三天就结束战斗，美国就亏大发了。\n\n持久战不符合美国利益，同样速战速决更不符合美国利益。美国必须在新型战争格局下打够时间，把所有新式武器和全新的战争方案在实战中测出完整数据，为下一场更广泛的、针对某些国家的硬仗做好准备！\n\n换句话说：只有彻底干趴伊朗，美国才能集中精力去对付下一个更大的流氓。\n\n油价每涨一天，美国就多赚一大笔。美国不缺油，战略储备一释放，油价翻倍就能收获数十倍利润，这场战争的成本瞬间归零！\n\n这里面奥妙多了，\n就不一一阐述了。\n\n总之再让子弹飞一会儿⋯⋯\n48小时一到，伊朗的末日就会降临，美国将彻底重塑世界格局。\n\n所以别瞎替川普操心了。美国现在的利益点——说白了就一句话：必须要有人出这场战争的费用。再打一两个月，美国不仅不会亏本，还能暴赚一笔。\n\n它不是“泥潭”，而是“高风险高回报”的精准算计。\n\n计算收益：油价每涨一天，美国页岩产业+储备释放确实能回血，SPR低买高卖+本土生产商利润暴增是现实。\n\n武器测试：实战数据（对伊朗导弹/无人机/快艇的拦截效率）远胜模拟，为下一场冲突做准备。\n\n战略红利：海峡重开后，美国主导的“护航联盟”将长期锁定中东能源话语权。\n\n必须彻底清除伊朗现政权这个毒瘤。昨天伊朗已经向美国发射了两枚中程导弹。如果这两枚导弹携带了核弹头，那瞬间就可以毁灭世界。\n\n更可笑的是昨天这两枚中程导弹穿越了整个欧洲上空，可是欧洲这些左B政客却丝毫意识不到危险的存在。\n\n那些拼命呼喊停战的人士，无一不是吐沫横飞地叫嚣：“伊朗并没有威胁美国的迹象”😳😓\n\n那昨天飞出的两枚射程4000公里的导弹叫什么？难道不是大规模杀伤武器吗？为什么在你们眼中就变成了老婆的卫生棉条？\n\n幸亏川普没上当。如果战争提前停止，大家就不会看到伊朗还暗藏大规模杀伤性武器的真相😱\n\n说不定远程导弹还藏在伊朗某个地方，如果没有这场战争，大家都还蒙在鼓里。\n\n这不，昨天这大尾巴狼的本性终于忍不住了吧？他们还能发射中程导弹？那就说明他们还有能力发射远程导弹‼️\n\n幸亏川普不顾一切，根据核心情报动手收拾了伊朗🇮🇷，否则今年美利坚的7月4日，核弹就在美国遍地开花。\n\n那时，左逼们会痛哭流涕地要求弹劾川普，因为川普政府没有保卫美国不受核弹的攻击。\n\n我呸！最好你们一起和伊朗神棍下地狱。\n\n独裁国家不费吹灰之力，让伊朗这么个下三滥、毫无规则的国家，给世界上最后一个“地表强国”来几颗核弹，全世界就归他们了。\n\n我真佩服左B们面对这么大的危险，不顾自己全家人的安危，还要谴责川普出兵伊朗？你们是真心甘当神棍的变种。\n\n如果美国没有这些内部的敌人，早就在月球上开麦当劳了。🍔\n\n哼，一群道貌岸然的坏逼们严重阻碍了美国的发展。\n\n希望川普总统为美国复仇！47年的血债一定要让这帮孙子一次性偿还。接着往死里打这帮狗娘养的。千万别手软。\n\n@POTUS @DeptofWar \n@PeteHegseth @secstatewa \n@SolomonYue \n\n🇺🇸 #Trump #IranWar‌ #美国盟友"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 47000,
+          "like_count": 515,
+          "quote_count": 9,
+          "reply_count": 57,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "一不小心又做了个大片🤩🤭\n决战时刻终于来了！\n\n川普总统48小时最后通牒已下：伊朗不投降，就攻打哈尔克岛！很多人担心美国陷泥潭，其实完全不必担心。\n\n川普是“军人出身”（13岁进军事学院）的精明商人，从不食言，到点必开战。这不是赔本买卖，而是精准布局。如果三天就结束战斗，美国就亏大发了。 https://t.co/DD3yIaS38t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6304,
+          "following_count": 1804,
+          "like_count": 21604,
+          "listed_count": 26,
+          "media_count": 414,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-20T01:01:05.000Z",
+        "description": "电影让人生如此美丽｜百花奖获得者｜国际影展最佳女导演特别奖｜首届金熊猫国际电视节最佳女演员特别奖｜电影投资制作发行｜电报https://t.co/Z0pAC9rL4c｜ 油管https://t.co/li3gcUvh4c｜工作邮箱cftiteam@hotmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+N5v_boxNvGk1N…",
+                "end": 83,
+                "expanded_url": "https://t.me/+N5v_boxNvGk1NTIx",
+                "start": 60,
+                "url": "https://t.co/Z0pAC9rL4c"
+              },
+              {
+                "display_url": "youtube.com/@ZXMFILM",
+                "end": 110,
+                "expanded_url": "http://youtube.com/@ZXMFILM",
+                "start": 87,
+                "url": "https://t.co/li3gcUvh4c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@zhima.sima?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@zhima.sima?_t=ZM-8sJL7wRcUGj&_r=1",
+                "start": 0,
+                "url": "https://t.co/urFkrAP7B8"
+              }
+            ]
+          }
+        },
+        "id": "1582899597323939841",
+        "name": "张晓敏电影人",
+        "pinned_tweet_id": "2035468436017721379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841590887253737472/-aZ3p3Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15051,
+          "following_count": 39,
+          "like_count": 111392,
+          "listed_count": 33,
+          "media_count": 1172,
+          "tweet_count": 21932
+        },
+        "url": "https://t.co/urFkrAP7B8",
+        "username": "xiaominz_film",
+        "verified": true
+      }
+    ]
+  }
+}

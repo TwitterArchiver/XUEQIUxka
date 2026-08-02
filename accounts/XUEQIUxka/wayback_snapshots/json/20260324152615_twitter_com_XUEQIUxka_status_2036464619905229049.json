@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036442197936185836",
+    "created_at": "2026-03-24T15:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036464619905229049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467102254",
+          "start": 0,
+          "username": "disksing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036464619905229049",
+    "in_reply_to_user_id": "467102254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036442197936185836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@disksing 地狱笑话：大家现在死了在下面也可以听张雪峰报考了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036442197936185836",
+        "created_at": "2026-03-24T15:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036464619905229049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467102254",
+              "start": 0,
+              "username": "disksing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036464619905229049",
+        "in_reply_to_user_id": "467102254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036442197936185836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@disksing 地狱笑话：大家现在死了在下面也可以听张雪峰报考了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467102254",
+        "conversation_id": "2036442197936185836",
+        "created_at": "2026-03-24T13:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036442197936185836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036442197936185836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17866,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰猝死，最遗憾的应该是中央军事委员会，因为没来得及攻打台湾至少损失了1亿5千万。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 1839,
+          "like_count": 21826,
+          "listed_count": 27,
+          "media_count": 432,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-18T03:44:03.000Z",
+        "description": "生活有时是喜剧，有时是悲剧，但是不管什么时候都可以发段子。｜因为淋过雨，看别人淋雨的时候，送上录音笔。｜先天离婚圣体，古希腊掌管录音笔的神。｜https://t.co/w5SkYgz0KA 〔备用账号 @shadiaofriend〕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "shadiaofriend"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bento.me/disksing",
+                "end": 94,
+                "expanded_url": "http://bento.me/disksing",
+                "start": 71,
+                "url": "https://t.co/w5SkYgz0KA"
+              }
+            ]
+          }
+        },
+        "id": "467102254",
+        "name": "象牙山刘能",
+        "pinned_tweet_id": "1847109505810944047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904882584955609089/xgyeRR4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45160,
+          "following_count": 613,
+          "like_count": 24858,
+          "listed_count": 211,
+          "media_count": 1248,
+          "tweet_count": 17487
+        },
+        "username": "disksing",
+        "verified": true
+      }
+    ]
+  }
+}

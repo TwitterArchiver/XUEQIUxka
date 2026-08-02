@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2042955324316094499",
+    "created_at": "2026-04-12T06:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043211599998279749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829679457411477504",
+          "start": 0,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043211599998279749",
+    "in_reply_to_user_id": "1829679457411477504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043114277804855524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaowuqvq 我去不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_2043114249413656576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqZlb_XAAAqFrd.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2042955324316094499",
+        "created_at": "2026-04-12T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043211599998279749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829679457411477504",
+              "start": 0,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043211599998279749",
+        "in_reply_to_user_id": "1829679457411477504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043114277804855524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaowuqvq 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043114249413656576"
+          ]
+        },
+        "author_id": "1829679457411477504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042955324316094499",
+        "created_at": "2026-04-11T23:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043114277804855524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csmjUoL3ly",
+              "end": 40,
+              "expanded_url": "https://x.com/miaowuqvq/status/2043114277804855524/photo/1",
+              "media_key": "3_2043114249413656576",
+              "start": 17,
+              "url": "https://t.co/csmjUoL3ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043114277804855524",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1405,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042955324316094499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 皮埃尔:对 https://t.co/csmjUoL3ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6831,
+          "following_count": 2045,
+          "like_count": 25316,
+          "listed_count": 28,
+          "media_count": 646,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡驻外贤者 奈亚祭祀 反支萝莉 L主管 替身使者 成人层司书 百合狂魔 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing @Lilin__Lilit\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Lilin__Lilit"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾🍐(超绝轮椅侠)互fo谢谢",
+        "pinned_tweet_id": "2015115229969940875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 3312,
+          "like_count": 10891,
+          "listed_count": 9,
+          "media_count": 803,
+          "tweet_count": 15587
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

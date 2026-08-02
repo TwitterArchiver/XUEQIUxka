@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1759829884732342619",
+    "created_at": "2024-06-20T06:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T07:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803676076226257049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451422182614069251",
+          "start": 0,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803676076226257049",
+    "in_reply_to_user_id": "1451422182614069251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1759829884732342619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavariT72 雪球含糖3年就死了，果然还是不吃糖活的久-玥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1759829884732342619",
+        "created_at": "2024-06-20T06:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803676076226257049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451422182614069251",
+              "start": 0,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803676076226257049",
+        "in_reply_to_user_id": "1451422182614069251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1759829884732342619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavariT72 雪球含糖3年就死了，果然还是不吃糖活的久-玥"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1759829874137513984"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "1759829884732342619",
+        "created_at": "2024-02-20T06:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-20T07:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1759829884732342619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/INTAfNu89e",
+              "end": 180,
+              "expanded_url": "https://twitter.com/DavariT72/status/1759829884732342619/photo/1",
+              "media_key": "3_1759829874137513984",
+              "start": 157,
+              "url": "https://t.co/INTAfNu89e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1759829884732342619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 31793,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "xyn圈龄换算\nxyn/存活一年≈正常人10年\n圈龄1年→萌新\n圈龄2年→白银\n圈龄3年→黄金\n圈龄4年→铂金\n圈龄5年→稀有\n圈龄6年→罕见\n圈龄7年→古来稀\n圈龄8年→三叠纪活化石\n圈龄10年及以上→创世老药\nxyn……一个比战场死亡率还高的物种，极难饲养且不能繁殖，只能通过罕见的突变来获得!请善待每一个药 https://t.co/INTAfNu89e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "已淡圈且淡推 ，准备24年SRS，目前在减肥，感谢大家一直以来的陪伴，是时候结束一切了，也是时候画上句号了\n我永远爱的  @JoseToYuToMiao\n老婆  @QianYue_XQ\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "MTF"
+              },
+              {
+                "end": 141,
+                "start": 137,
+                "tag": "HRT"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "双相"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/tFvazVPtdO"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&jose的小窝",
+        "name": "雪秋小可爱-已离世版",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769291440440688640/YXkdwMcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 1495,
+          "like_count": 18557,
+          "listed_count": 19,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/tFvazVPtdO",
+        "username": "XUEQIUxka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到甜野猫的主页，一个心理可爱外表丑陋的女孩(178，m，k6k8无主，门槛88\n绒布球/持证/炸柜/含糖/天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类宝宝贴贴，有时候会难过崩溃，可能会重开。恢复之后又似乎是正常人(50％家长党)\n成分（50%可爱+30%焦虑大哭+10%烟花星体+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫（掉fo版)",
+        "pinned_tweet_id": "1574387867362545664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36490,
+          "following_count": 1419,
+          "like_count": 59407,
+          "listed_count": 44,
+          "tweet_count": 36774
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

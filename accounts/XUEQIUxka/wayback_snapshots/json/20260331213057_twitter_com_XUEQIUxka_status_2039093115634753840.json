@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038645669955850710",
+    "created_at": "2026-03-31T21:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T22:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039093115634753840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4810524492",
+          "start": 0,
+          "username": "JesseLiOH"
+        },
+        {
+          "end": 22,
+          "id": "1086585820939579393",
+          "start": 11,
+          "username": "nanatozemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039093115634753840",
+    "in_reply_to_user_id": "4810524492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038645669955850710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JesseLiOH @nanatozemi 叽里咕噜说啥呢？除了前面我都看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038645669955850710",
+        "created_at": "2026-03-31T21:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039093115634753840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4810524492",
+              "start": 0,
+              "username": "JesseLiOH"
+            },
+            {
+              "end": 22,
+              "id": "1086585820939579393",
+              "start": 11,
+              "username": "nanatozemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039093115634753840",
+        "in_reply_to_user_id": "4810524492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038645669955850710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JesseLiOH @nanatozemi 叽里咕噜说啥呢？除了前面我都看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4810524492",
+        "conversation_id": "2038645669955850710",
+        "created_at": "2026-03-30T15:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038645669955850710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038645669955850710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4. 认为所有的有限向量空间都与ℂ^n或ℝ^n同构\n5. 喜欢在二分图中使用匈牙利算法寻找最大匹配\n6. 认为用分离变量求解一阶常微分方程就像拼图一样解压\n7. 喜欢用洛必达法则硬解各种 0/0 型未定式极限。\n8. 认为所有的平移和旋转操作都可以通过齐次坐标的矩阵乘法轻松搞定。\n9. 喜欢寻找正规子群以便构造出结构完美的商群\n10. 认为任何复数域上的方阵无论是否可以对角化都可以化为若尔当标准型\n11. 喜欢一致收敛的优良性质，因为它能保证极限函数的连续性并允许交换极限与积分的顺序\n12. 喜欢把整数集合看作由单个元素生成的循环群并用同余算术迅速化解整除问题\n13. 喜欢在希尔伯特空间中利用内积的几何直观来处理复杂的无穷维问题\n14. 找不到第8种饰带群和第18种壁纸群\n15. 喜欢通过研究交换环的素理想 (prime ideal) 来洞察代数簇的几何结构\n16. 认为黎曼猜想中关于非平凡零点分布的规律隐藏着素数的最深层秘密\n17. 喜欢欧拉公式 e^{iπ}=-1并认为e是除了0和1以外最尊贵的实数\n18. 认为只要算一下矩阵的行列式就能立刻判断一个线性变换是否会把空间降维压扁\n19. 喜欢对任何庞大且复杂的数据矩阵进行奇异值分解以提取其最核心的主成分特征\n20. 认为即使是在非欧几里得几何的世界里，逻辑的严密性也绝不亚于我们在平坦空间中的直觉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 134983,
+          "like_count": 874,
+          "quote_count": 14,
+          "reply_count": 55,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "00后小孩的基本时代特征\n\n1. 比起打电话更喜欢发文字消息，且手机永远常驻静音模式。\n2. 认为只要一个复变函数在某区域内是全纯函数，它在该区域内就必然解析且无穷次可微。\n3. 熟悉怎么用伽罗瓦理论证明一般五次及以上的多项式方程不存在根式解。\n4. 认为所有的有限向量空间都与ℂ^n或ℝ^n同构\n5."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6635,
+          "following_count": 2014,
+          "like_count": 23409,
+          "listed_count": 27,
+          "media_count": 504,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-25T04:15:00.000Z",
+        "description": "(he/him) If you find me inconsistent it’s my problem. I’ll fix it. If you find me controversial it’s your problem. You should fμck off. 普通话|English|日本語|français",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.flightradar24.com/ForeverZZR_666",
+                "end": 23,
+                "expanded_url": "https://my.flightradar24.com/ForeverZZR_666",
+                "start": 0,
+                "url": "https://t.co/Vwzjqpf9R8"
+              }
+            ]
+          }
+        },
+        "id": "4810524492",
+        "location": "Calgary, Alberta",
+        "name": "🇨🇦 That AC Fan at CYYC",
+        "pinned_tweet_id": "1990319895360504166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739637897207398400/ifL0uran_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 1740,
+          "like_count": 11518,
+          "listed_count": 5,
+          "media_count": 3379,
+          "tweet_count": 13624
+        },
+        "url": "https://t.co/Vwzjqpf9R8",
+        "username": "JesseLiOH",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-19T11:27:02.000Z",
+        "description": "這裡是77喔 ENFP 雙相 ADHD 性瘾小狗 Arknights/maimaiDX/挚爱小猫🐱 @VanessaRey17032/社会达尔文主义暴徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "VanessaRey17032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.com.cn",
+                "start": 0,
+                "url": "https://t.co/E4RUjMR2GJ"
+              }
+            ]
+          }
+        },
+        "id": "1086585820939579393",
+        "name": "晩冬",
+        "pinned_tweet_id": "2000154095836123323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696045448249970688/ZTjiIL_6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 2319,
+          "like_count": 68550,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 8718
+        },
+        "url": "https://t.co/E4RUjMR2GJ",
+        "username": "nanatozemi",
+        "verified": false
+      }
+    ]
+  }
+}

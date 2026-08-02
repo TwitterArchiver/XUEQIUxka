@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2038135331275382876",
+    "created_at": "2026-03-29T07:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038149598472986782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038149598472986782",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038135331275382876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 大概是吧\n有人会被善意感动，也有人只盯着别的地方看\n但至少，他做的那点温柔是真的，不会被这些声音抹掉\n但他也有做的不对的，可能这就是人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1946,
+        "media_key": "3_2038135327194599424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjpSBWb0AAonIL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1910,
+        "media_key": "3_2038135327072645120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjpSA5W8AAI22M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1931,
+        "media_key": "3_2038135327228141568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjpSBeboAAz62R.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2038135327211274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjpSBaaQAANHT3.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038135331275382876",
+        "created_at": "2026-03-29T07:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038149598472986782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038149598472986782",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038135331275382876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 大概是吧\n有人会被善意感动，也有人只盯着别的地方看\n但至少，他做的那点温柔是真的，不会被这些声音抹掉\n但他也有做的不对的，可能这就是人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038135327194599424",
+            "3_2038135327072645120",
+            "3_2038135327228141568",
+            "3_2038135327211274240"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038135331275382876",
+        "created_at": "2026-03-29T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038135331275382876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olB5YiniS1",
+              "end": 73,
+              "expanded_url": "https://x.com/maoshen/status/2038135331275382876/photo/1",
+              "media_key": "3_2038135327194599424",
+              "start": 50,
+              "url": "https://t.co/olB5YiniS1"
+            },
+            {
+              "display_url": "pic.x.com/olB5YiniS1",
+              "end": 73,
+              "expanded_url": "https://x.com/maoshen/status/2038135331275382876/photo/1",
+              "media_key": "3_2038135327072645120",
+              "start": 50,
+              "url": "https://t.co/olB5YiniS1"
+            },
+            {
+              "display_url": "pic.x.com/olB5YiniS1",
+              "end": 73,
+              "expanded_url": "https://x.com/maoshen/status/2038135331275382876/photo/1",
+              "media_key": "3_2038135327228141568",
+              "start": 50,
+              "url": "https://t.co/olB5YiniS1"
+            },
+            {
+              "display_url": "pic.x.com/olB5YiniS1",
+              "end": 73,
+              "expanded_url": "https://x.com/maoshen/status/2038135331275382876/photo/1",
+              "media_key": "3_2038135327211274240",
+              "start": 50,
+              "url": "https://t.co/olB5YiniS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038135331275382876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29011,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰聊天记录曝光，给网友捐了5000块\n\n网友满是痛惜与肃敬 \n\n但也有骂他的\n\n这就是人性吧？ https://t.co/olB5YiniS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 1992,
+          "like_count": 22806,
+          "listed_count": 27,
+          "media_count": 476,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语区独立观察者｜猫神官方账号｜YouTube《猫神漫谈》博主\n坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心❤️那束光\n吃瓜是表象、热点看真相｜愿在网络世界里，与有温度、有力量的您同行🔥",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206173,
+          "following_count": 7993,
+          "like_count": 4131,
+          "listed_count": 524,
+          "media_count": 3655,
+          "tweet_count": 9198
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2039546099111977111",
+    "created_at": "2026-04-02T07:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039605465009848520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574516663935901696",
+          "start": 0,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039605465009848520",
+    "in_reply_to_user_id": "1574516663935901696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039546099111977111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjupaian 鹏鹏哥变成月月姐\n笑("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2039545741983752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3sC94aIAA2ymG.jpg",
+        "width": 510
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2039545741967052801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3sC90bUAEdewr.jpg",
+        "width": 1161
+      },
+      {
+        "height": 817,
+        "media_key": "3_2039545973161299968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3sQbFbkAA0NcG.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039546099111977111",
+        "created_at": "2026-04-02T07:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039605465009848520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039605465009848520",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039546099111977111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 鹏鹏哥变成月月姐\n笑("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039545741983752192",
+            "3_2039545741967052801",
+            "3_2039545973161299968"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2039546099111977111",
+        "created_at": "2026-04-02T03:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039546099111977111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKJXONUe88",
+              "end": 142,
+              "expanded_url": "https://x.com/wangjupaian/status/2039546099111977111/photo/1",
+              "media_key": "3_2039545741983752192",
+              "start": 119,
+              "url": "https://t.co/RKJXONUe88"
+            },
+            {
+              "display_url": "pic.x.com/RKJXONUe88",
+              "end": 142,
+              "expanded_url": "https://x.com/wangjupaian/status/2039546099111977111/photo/1",
+              "media_key": "3_2039545741967052801",
+              "start": 119,
+              "url": "https://t.co/RKJXONUe88"
+            },
+            {
+              "display_url": "pic.x.com/RKJXONUe88",
+              "end": 142,
+              "expanded_url": "https://x.com/wangjupaian/status/2039546099111977111/photo/1",
+              "media_key": "3_2039545973161299968",
+              "start": 119,
+              "url": "https://t.co/RKJXONUe88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039546099111977111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【张雪机车设限新手购车：公安部交管力挺】近日，机车博主张雪宣布禁止驾龄不满一年的新手购买82ORR大排量摩托车，并设立5000元举报奖励。对此他回应称，“我希望少死点人”。不过，该举措引发争议，部分用户投诉其涉嫌歧视、违反公平交易原则。\n\n4月1日，公安部交通管理局发声力挺，称这一做法是“给摩友的一份安全底线”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31626,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【张雪机车设限新手购车：公安部交管力挺】近日，机车博主张雪宣布禁止驾龄不满一年的新手购买82ORR大排量摩托车，并设立5000元举报奖励。对此他回应称，“我希望少死点人”。不过，该举措引发争议，部分用户投诉其涉嫌歧视、违反公平交易原则。 https://t.co/RKJXONUe88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 2024,
+          "like_count": 23569,
+          "listed_count": 27,
+          "media_count": 518,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2039531862989914582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122433,
+          "following_count": 293,
+          "like_count": 225,
+          "listed_count": 350,
+          "media_count": 5495,
+          "tweet_count": 6138
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2028363214992580608"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2028363209724633275",
+    "created_at": "2026-03-02T06:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028363216573931889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028363216573931889",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028363209724633275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "投票"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028363206713061376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYxlvuasAAblqC.jpg",
+        "width": 908
+      },
+      {
+        "height": 908,
+        "media_key": "3_2028363206113341440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYxltfbsAAaJ3t.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1050,
+        "media_key": "3_2028363206532718592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYxlvDa4AAMEf5.jpg",
+        "width": 2203
+      },
+      {
+        "height": 911,
+        "media_key": "3_2028363205798715395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYxlsUa4AMvuRY.jpg",
+        "width": 1831
+      }
+    ],
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2026-03-04T06:54:10.000Z",
+        "id": "2028363214992580608",
+        "options": [
+          {
+            "label": "司美格鲁肽",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "替尔泊肽",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "我不用就看看",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2028363214992580608"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2028363209724633275",
+        "created_at": "2026-03-02T06:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028363216573931889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028363216573931889",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028363209724633275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "投票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028363206713061376",
+            "3_2028363206113341440",
+            "3_2028363206532718592",
+            "3_2028363205798715395"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2028363209724633275",
+        "created_at": "2026-03-02T06:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028363209724633275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkBeVZTXAU",
+              "end": 47,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028363209724633275/photo/1",
+              "media_key": "3_2028363206713061376",
+              "start": 24,
+              "url": "https://t.co/rkBeVZTXAU"
+            },
+            {
+              "display_url": "pic.x.com/rkBeVZTXAU",
+              "end": 47,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028363209724633275/photo/1",
+              "media_key": "3_2028363206113341440",
+              "start": 24,
+              "url": "https://t.co/rkBeVZTXAU"
+            },
+            {
+              "display_url": "pic.x.com/rkBeVZTXAU",
+              "end": 47,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028363209724633275/photo/1",
+              "media_key": "3_2028363206532718592",
+              "start": 24,
+              "url": "https://t.co/rkBeVZTXAU"
+            },
+            {
+              "display_url": "pic.x.com/rkBeVZTXAU",
+              "end": 47,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2028363209724633275/photo/1",
+              "media_key": "3_2028363205798715395",
+              "start": 24,
+              "url": "https://t.co/rkBeVZTXAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028363209724633275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得哪个强\n\n不过感觉替尔泊肽不如司美好用 https://t.co/rkBeVZTXAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5900,
+          "following_count": 1520,
+          "like_count": 20279,
+          "listed_count": 25,
+          "media_count": 320,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

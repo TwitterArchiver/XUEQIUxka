@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2035151505507209322",
+    "created_at": "2026-03-21T03:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035195192257769884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567179325551812609",
+          "start": 0,
+          "username": "XianyuLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035195192257769884",
+    "in_reply_to_user_id": "1567179325551812609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035151505507209322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianyuLi 很快就会出现300多的司美\n那我突然觉得替尔泊肽20mg ，680没有性价比了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2035151505507209322",
+        "created_at": "2026-03-21T03:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035195192257769884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567179325551812609",
+              "start": 0,
+              "username": "XianyuLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035195192257769884",
+        "in_reply_to_user_id": "1567179325551812609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035151505507209322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianyuLi 很快就会出现300多的司美\n那我突然觉得替尔泊肽20mg ，680没有性价比了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567179325551812609",
+        "conversation_id": "2035151505507209322",
+        "created_at": "2026-03-21T00:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035151505507209322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035151505507209322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 74860,
+          "like_count": 233,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今日重磅:\n\n司美格鲁肽专利到期\n哈哈哈\n\n神药的落幕也就一年\n这一年还因为自己管线产能不足\n没赚到足够的钱\n被别人拿了一大笔份额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6275,
+          "following_count": 1781,
+          "like_count": 21459,
+          "listed_count": 26,
+          "media_count": 402,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T15:54:12.000Z",
+        "description": "Neuroscience PhD diving deep into AI | Going all-in on global product adventures | English vibes: @lixiangyu9710 | Email to xiangyuli997@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "lixiangyu9710"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiangyu-li97.github.io",
+                "end": 23,
+                "expanded_url": "https://xiangyu-li97.github.io/",
+                "start": 0,
+                "url": "https://t.co/cL1qJtmxUG"
+              }
+            ]
+          }
+        },
+        "id": "1567179325551812609",
+        "name": "Xiangyu 香鱼🐬",
+        "pinned_tweet_id": "2034818486380503141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911584400224948224/QbglopMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24801,
+          "following_count": 2026,
+          "like_count": 42018,
+          "listed_count": 144,
+          "media_count": 781,
+          "tweet_count": 23666
+        },
+        "url": "https://t.co/cL1qJtmxUG",
+        "username": "XianyuLi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2036241837258576366",
+    "created_at": "2026-03-24T04:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036297673318473921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964812192412315648",
+          "start": 0,
+          "username": "Wayfarer0888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036297673318473921",
+    "in_reply_to_user_id": "1964812192412315648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036297189673074909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wayfarer0888 是华为的手表，可以下载百度的导航app，然后会有公共交通到站的提示，但是高德没有适配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036241837258576366",
+        "created_at": "2026-03-24T04:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036297673318473921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964812192412315648",
+              "start": 0,
+              "username": "Wayfarer0888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036297673318473921",
+        "in_reply_to_user_id": "1964812192412315648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036297189673074909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wayfarer0888 是华为的手表，可以下载百度的导航app，然后会有公共交通到站的提示，但是高德没有适配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964812192412315648",
+        "conversation_id": "2036241837258576366",
+        "created_at": "2026-03-24T04:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036297189673074909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036297189673074909",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036296517624144198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 百度手表？我这个还真没用过，好用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6335,
+          "following_count": 1820,
+          "like_count": 21710,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-07T22:05:17.000Z",
+        "description": "大时代的潜水员\n上帝视角看沧海桑田|故纸堆里寻人间烟火。\n只谈风月与历史，不谈国事，偶尔讲个段子，给生活解解乏。",
+        "id": "1964812192412315648",
+        "name": "行止人间/Wayfarer Notes",
+        "pinned_tweet_id": "2034299949991526525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008530546058506241/MywIzQ2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5949,
+          "following_count": 2,
+          "like_count": 71,
+          "listed_count": 17,
+          "media_count": 469,
+          "tweet_count": 11552
+        },
+        "username": "Wayfarer0888",
+        "verified": true
+      }
+    ]
+  }
+}
