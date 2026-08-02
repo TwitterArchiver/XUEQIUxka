@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2083383067826393514",
+    "created_at": "2026-08-01T02:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083384542413689302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559966903069601793",
+          "start": 0,
+          "username": "Starxi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083384542413689302",
+    "in_reply_to_user_id": "1559966903069601793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083383067826393514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starxi114514 当年粤语就差一点成为官方语言"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083383061342011392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmp2yZbQAAmk42.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2083383067826393514",
+        "created_at": "2026-08-01T02:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083384542413689302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559966903069601793",
+              "start": 0,
+              "username": "Starxi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083384542413689302",
+        "in_reply_to_user_id": "1559966903069601793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083383067826393514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starxi114514 当年粤语就差一点成为官方语言"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083383061342011392"
+          ]
+        },
+        "author_id": "1559966903069601793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083383067826393514",
+        "created_at": "2026-08-01T02:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083383067826393514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vh7cmanRni",
+              "end": 110,
+              "expanded_url": "https://x.com/Starxi114514/status/2083383067826393514/photo/1",
+              "media_key": "3_2083383061342011392",
+              "start": 87,
+              "url": "https://t.co/Vh7cmanRni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083383067826393514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请蜜雪冰城解释一下。我想表达的是：纸上大字样写“不要说本地话”本来就是会有放大争议的效果，你在本地开店却叫本地人不要说本地话，这不是霸道是什么？你们能捂着良心说这叫尊重吗？ https://t.co/Vh7cmanRni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9794,
+          "following_count": 2359,
+          "like_count": 33648,
+          "listed_count": 26,
+          "media_count": 1673,
+          "tweet_count": 5999
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T18:14:47.000Z",
+        "description": "",
+        "id": "1559966903069601793",
+        "name": "星析",
+        "pinned_tweet_id": "1908583684627980515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080935349145018368/FtJClhkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Starxi114514",
+        "verified": true
+      }
+    ]
+  }
+}
