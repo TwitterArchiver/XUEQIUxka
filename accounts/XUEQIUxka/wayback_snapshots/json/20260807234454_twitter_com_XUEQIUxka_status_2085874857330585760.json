@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2085105586966827343",
+    "created_at": "2026-08-07T23:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085874857330585760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "636513296",
+          "start": 0,
+          "username": "nikitabier"
+        },
+        {
+          "end": 167,
+          "id": "1368897611672018953",
+          "start": 157,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085874857330585760",
+    "in_reply_to_user_id": "636513296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 155,
+            "id": "1368897611672018953",
+            "start": 145,
+            "username": "XUEQIUxka"
+          },
+          {
+            "end": 918,
+            "id": "1368897611672018953",
+            "start": 908,
+            "username": "XUEQIUxka"
+          }
+        ]
+      },
+      "text": "Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully compliant — no adult or violating material.\n\nMonetization is my only source of income. I am recovering from major surgery and managing chronic health conditions. Without this income, I cannot afford necessary medication and medical care, which are essential for my health and survival.\n\nThis account is my fresh start as a positive figure in the Chinese transgender community. I am fully committed to X's guidelines and creating uplifting content.\n\nI humbly ask for your help with a manual review to restore my monetization. It would mean the world to me.\n\nThank you sincerely for your time and compassion.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085105586966827343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikitabier Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61416,
+        "height": 1080,
+        "media_key": "13_2085104096986447872",
+        "preview_image_url": "https://pbs.twimg.com/media/HO_bmNxWgAA44QS.jpg",
+        "public_metrics": {
+          "view_count": 2253137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085104096986447872/vid/avc1/480x270/rgAnbh-1Sy7NoQVj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085104096986447872/vid/avc1/640x360/ewMNH-ez892M5MSj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085104096986447872/vid/avc1/1920x1080/tPxgonzhrgVEgSFl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085104096986447872/vid/avc1/1280x720/OzQw4oJ4ZKbW1qoT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085104096986447872/pl/y5tidOoAQmerlDiC.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2085105586966827343",
+        "created_at": "2026-08-07T23:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085874857330585760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "636513296",
+              "start": 0,
+              "username": "nikitabier"
+            },
+            {
+              "end": 167,
+              "id": "1368897611672018953",
+              "start": 157,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085874857330585760",
+        "in_reply_to_user_id": "636513296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 155,
+                "id": "1368897611672018953",
+                "start": 145,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 918,
+                "id": "1368897611672018953",
+                "start": 908,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "text": "Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully compliant — no adult or violating material.\n\nMonetization is my only source of income. I am recovering from major surgery and managing chronic health conditions. Without this income, I cannot afford necessary medication and medical care, which are essential for my health and survival.\n\nThis account is my fresh start as a positive figure in the Chinese transgender community. I am fully committed to X's guidelines and creating uplifting content.\n\nI humbly ask for your help with a manual review to restore my monetization. It would mean the world to me.\n\nThank you sincerely for your time and compassion.\n\nBest regards,  \nXUEQIUxka (@XUEQIUxka)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085105586966827343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikitabier Dear Nikita Bier,\n\nI hope you're doing well. I am reaching out as a last resort regarding the permanent suspension of monetization on my account @XUEQIUxka.\n\nThe sensitive label was a system error and has been removed, but my appeals were still denied. My content is fully"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085104096986447872"
+          ]
+        },
+        "author_id": "636513296",
+        "conversation_id": "2085105586966827343",
+        "created_at": "2026-08-05T20:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085105586966827343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHpnY30L6c",
+              "end": 302,
+              "expanded_url": "https://x.com/nikitabier/status/2085105586966827343/video/1",
+              "media_key": "13_2085104096986447872",
+              "start": 279,
+              "url": "https://t.co/hHpnY30L6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085105586966827343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1141,
+                "id": "2606432720",
+                "start": 1129,
+                "username": "benjitaylor"
+              },
+              {
+                "end": 1161,
+                "id": "1839569058817323008",
+                "start": 1153,
+                "username": "singhai"
+              },
+              {
+                "end": 1209,
+                "id": "195447057",
+                "start": 1194,
+                "username": "dinkin_flickaa"
+              }
+            ]
+          },
+          "text": "Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for 𝕏 and will continue on as an advisor.\n\nServing the X community has been the privilege of a lifetime. X is, and will remain, the most important communication technology in history. But running this app is a 24/7 job and it's now time for me to take a breather.\n\nThe app is seeing unprecedented growth in new users & engagement. We continue to break records every month. We've climbed 70 spots in the App Store since this time last year.\n\nAnd in the last 400 days, we rebuilt almost every aspect of X: the Timeline, the Android app, onboarding, notifications, chat and more.\n\nWe also launched nearly 30 new products while protecting the integrity of the town square: becoming the first app to show Country-of-Origin on profiles and mounting defenses against AI bots. There's certainly much more work to be done, but our foundation is stronger than ever.\n\nNone of this would have been possible without the incredible team here. The next leaders will take X to even greater heights with @benjitaylor on design, @singhai on core product engineering and @dinkin_flickaa on mobile engineering -- among many other great people.\n\nThank you to Elon and the X team for welcoming me into the company. See you on the Timeline."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5887,
+          "impression_count": 11569055,
+          "like_count": 55141,
+          "quote_count": 5447,
+          "reply_count": 11573,
+          "retweet_count": 3484
+        },
+        "reply_settings": "everyone",
+        "text": "Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for 𝕏 and will continue on as an advisor.\n\nServing the X community has been the privilege of a lifetime. X is, and will remain, the most https://t.co/hHpnY30L6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9815,
+          "following_count": 2358,
+          "like_count": 33664,
+          "listed_count": 25,
+          "media_count": 1663,
+          "tweet_count": 6001
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "location": "Palo Alto",
+        "name": "Nikita Bier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273725,
+          "following_count": 2055,
+          "like_count": 39925,
+          "listed_count": 6082,
+          "media_count": 1630,
+          "tweet_count": 11794
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true
+      }
+    ]
+  }
+}

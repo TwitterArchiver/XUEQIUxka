@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2088436979079778346",
+    "created_at": "2026-08-15T06:15:58.000Z",
+    "display_text_range": [
+      38,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088509990151856451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671144316734169088",
+          "start": 0,
+          "username": "KazamaHanaka"
+        },
+        {
+          "end": 23,
+          "id": "1545277694325116928",
+          "start": 14,
+          "username": "YongQuan"
+        },
+        {
+          "end": 37,
+          "id": "1345706318703722496",
+          "start": 24,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088509990151856451",
+    "in_reply_to_user_id": "1671144316734169088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088483547996881291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KazamaHanaka @YongQuan @OriyukiAkari 我也羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2088436979079778346",
+        "created_at": "2026-08-15T06:15:58.000Z",
+        "display_text_range": [
+          38,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088509990151856451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671144316734169088",
+              "start": 0,
+              "username": "KazamaHanaka"
+            },
+            {
+              "end": 23,
+              "id": "1545277694325116928",
+              "start": 14,
+              "username": "YongQuan"
+            },
+            {
+              "end": 37,
+              "id": "1345706318703722496",
+              "start": 24,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088509990151856451",
+        "in_reply_to_user_id": "1671144316734169088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088483547996881291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KazamaHanaka @YongQuan @OriyukiAkari 我也羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671144316734169088",
+        "conversation_id": "2088436979079778346",
+        "created_at": "2026-08-15T04:30:54.000Z",
+        "display_text_range": [
+          24,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088483547996881291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 23,
+              "id": "1345706318703722496",
+              "start": 10,
+              "username": "OriyukiAkari"
+            },
+            {
+              "end": 34,
+              "id": "1368897611672018953",
+              "start": 24,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088483547996881291",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088437050349588540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @OriyukiAkari @XUEQIUxka 总有人乱羡慕怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2088509990151856451",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9795,
+          "following_count": 2350,
+          "like_count": 33642,
+          "listed_count": 25,
+          "media_count": 1670,
+          "tweet_count": 6018
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-20T13:14:02.000Z",
+        "description": "风间花咏 | 风间花奈 (かざまはなか)\n\n「风起隙间，花音无奈」 \n游于风间 @OriyukiAkari \n花亦无奈 @SakuraizumiSayo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "OriyukiAkari"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "SakuraizumiSayo"
+              }
+            ]
+          }
+        },
+        "id": "1671144316734169088",
+        "is_identity_verified": false,
+        "location": "1 Queen’s Road Central",
+        "most_recent_tweet_id": "2088483547996881291",
+        "name": "风间花奈",
+        "pinned_tweet_id": "2082797554975334848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671144316734169088/1785724434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200419449942016/RED1tW0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 737,
+          "like_count": 2254,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "KazamaHanaka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\n小助理@baiye996\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "baiye996"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2088498922461225456",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1778217946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11552,
+          "following_count": 4839,
+          "like_count": 53813,
+          "listed_count": 42,
+          "media_count": 5818,
+          "tweet_count": 16909
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "is_identity_verified": false,
+        "location": "P.R.China",
+        "most_recent_tweet_id": "2088436979079778346",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345706318703722496/1756508109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200679102459904/3kUCO6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 107,
+          "like_count": 8290,
+          "listed_count": 5,
+          "media_count": 656,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

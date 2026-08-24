@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089332578897858560",
+        "3_2089332599638659073",
+        "3_2089332620765302784"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "2089332647709626614",
+    "created_at": "2026-08-17T12:44:55.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089332647709626614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058440429100806144",
+          "start": 4,
+          "username": "XUEQIUSuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YRrE4Tbktj",
+          "end": 69,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+          "media_key": "3_2089332578897858560",
+          "start": 46,
+          "url": "https://t.co/YRrE4Tbktj"
+        },
+        {
+          "display_url": "pic.x.com/YRrE4Tbktj",
+          "end": 69,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+          "media_key": "3_2089332599638659073",
+          "start": 46,
+          "url": "https://t.co/YRrE4Tbktj"
+        },
+        {
+          "display_url": "pic.x.com/YRrE4Tbktj",
+          "end": 69,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+          "media_key": "3_2089332620765302784",
+          "start": 46,
+          "url": "https://t.co/YRrE4Tbktj"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "001b1f4d203740ea"
+    },
+    "id": "2089332647709626614",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089332578897858560"
+      },
+      {
+        "media_key": "3_2089332599638659073"
+      },
+      {
+        "media_key": "3_2089332620765302784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带雪球 @XUEQIUSuki 去看了 Chiikawa的剧场版\n好看，就是空调好冷pwp https://t.co/YRrE4Tbktj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089332578897858560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M6SbbkAAKVBR.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089332599638659073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M7fsbEAEngg1.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089332620765302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7M8uZaEAA-oDj.jpg",
+        "width": 3072
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Yuen Long District, Hong Kong",
+        "id": "001b1f4d203740ea",
+        "name": "Yuen Long District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089332578897858560",
+            "3_2089332599638659073",
+            "3_2089332620765302784"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2089332647709626614",
+        "created_at": "2026-08-17T12:44:55.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089332647709626614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058440429100806144",
+              "start": 4,
+              "username": "XUEQIUSuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332578897858560",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            },
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332599638659073",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            },
+            {
+              "display_url": "pic.x.com/YRrE4Tbktj",
+              "end": 69,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2089332647709626614/photo/1",
+              "media_key": "3_2089332620765302784",
+              "start": 46,
+              "url": "https://t.co/YRrE4Tbktj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2089332647709626614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089332578897858560"
+          },
+          {
+            "media_key": "3_2089332599638659073"
+          },
+          {
+            "media_key": "3_2089332620765302784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带雪球 @XUEQIUSuki 去看了 Chiikawa的剧场版\n好看，就是空调好冷pwp https://t.co/YRrE4Tbktj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2089332647709626614",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9776,
+          "following_count": 2348,
+          "like_count": 33636,
+          "listed_count": 25,
+          "media_count": 1672,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T06:52:10.000Z",
+        "description": "没错，我就是那个棉花娃娃喵\n日常 @Xyliaxka\n大号 @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/iSZPyJBABv"
+              }
+            ]
+          }
+        },
+        "id": "2058440429100806144",
+        "is_identity_verified": false,
+        "location": "雪球",
+        "most_recent_tweet_id": "2071170343562313731",
+        "name": "球球",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058440429100806144/1781275828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065448943845261312/MJ29TuQb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/iSZPyJBABv",
+        "username": "XUEQIUSuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

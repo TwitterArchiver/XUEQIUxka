@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2084427220194664894",
+    "created_at": "2026-08-05T03:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084842008758399083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "1H4teTheWorld"
+        },
+        {
+          "end": 28,
+          "id": "1345706318703722496",
+          "start": 15,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084842008758399083",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084838206311129130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1H4teTheWorld @OriyukiAkari 下次一定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2084427220194664894",
+        "created_at": "2026-08-05T03:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084842008758399083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "1H4teTheWorld"
+            },
+            {
+              "end": 28,
+              "id": "1345706318703722496",
+              "start": 15,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084842008758399083",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084838206311129130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1H4teTheWorld @OriyukiAkari 下次一定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "2084427220194664894",
+        "created_at": "2026-08-05T03:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084838206311129130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            },
+            {
+              "end": 24,
+              "id": "1368897611672018953",
+              "start": 14,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084838206311129130",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084838093769892181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@OriyukiAkari @XUEQIUxka 什么时候给我做绝育🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9813,
+          "following_count": 2362,
+          "like_count": 33666,
+          "listed_count": 26,
+          "media_count": 1662,
+          "tweet_count": 5997
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "大号@YongQuan\n❤️@XUEQIUxka\n\n赢了又能多吃点 (≧ω≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "YongQuan"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "username": "XUEQIUxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "你是想气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 880,
+          "like_count": 11324,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "1H4teTheWorld",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "location": "P.R.China",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200679102459904/3kUCO6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 109,
+          "like_count": 8288,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false
+      }
+    ]
+  }
+}

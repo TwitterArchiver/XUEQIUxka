@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088314525057740800",
+        "3_2088314537753882624"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2088314546910097847",
+    "created_at": "2026-08-14T17:19:21.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088314546910097847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzTGVOMrfs",
+          "end": 33,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+          "media_key": "3_2088314525057740800",
+          "start": 10,
+          "url": "https://t.co/gzTGVOMrfs"
+        },
+        {
+          "display_url": "pic.x.com/gzTGVOMrfs",
+          "end": 33,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+          "media_key": "3_2088314537753882624",
+          "start": 10,
+          "url": "https://t.co/gzTGVOMrfs"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2088314546910097847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088314525057740800"
+      },
+      {
+        "media_key": "3_2088314537753882624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088314525057740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsu_wVa8AAFvWI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088314537753882624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsvAfoasAA5ezt.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314525057740800",
+            "3_2088314537753882624"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2088314546910097847",
+        "created_at": "2026-08-14T17:19:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314546910097847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314525057740800",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            },
+            {
+              "display_url": "pic.x.com/gzTGVOMrfs",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2088314546910097847/photo/1",
+              "media_key": "3_2088314537753882624",
+              "start": 10,
+              "url": "https://t.co/gzTGVOMrfs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2088314546910097847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314525057740800"
+          },
+          {
+            "media_key": "3_2088314537753882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定制了些雪球通行证 https://t.co/gzTGVOMrfs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2088314546910097847",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9797,
+          "following_count": 2350,
+          "like_count": 33643,
+          "listed_count": 25,
+          "media_count": 1670,
+          "tweet_count": 6018
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

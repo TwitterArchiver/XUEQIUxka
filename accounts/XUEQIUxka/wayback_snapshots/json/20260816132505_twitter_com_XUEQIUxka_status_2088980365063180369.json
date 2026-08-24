@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2088969090161430976",
+    "created_at": "2026-08-16T13:25:05.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088980365063180369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887317906893250560",
+          "start": 0,
+          "username": "DoghostZero"
+        },
+        {
+          "end": 21,
+          "id": "2072332358263484416",
+          "start": 13,
+          "username": "BggpXax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088980365063180369",
+    "in_reply_to_user_id": "1887317906893250560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088969090161430976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoghostZero @BggpXax 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2088969090161430976",
+        "created_at": "2026-08-16T13:25:05.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088980365063180369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887317906893250560",
+              "start": 0,
+              "username": "DoghostZero"
+            },
+            {
+              "end": 21,
+              "id": "2072332358263484416",
+              "start": 13,
+              "username": "BggpXax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088980365063180369",
+        "in_reply_to_user_id": "1887317906893250560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088969090161430976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoghostZero @BggpXax 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887317906893250560",
+        "conversation_id": "2088969090161430976",
+        "created_at": "2026-08-16T12:40:16.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088969090161430976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072332358263484416",
+              "start": 0,
+              "username": "BggpXax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2088314546910097847",
+              "start": 20,
+              "url": "https://t.co/lDPVIsFuHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088969090161430976",
+        "in_reply_to_user_id": "2072332358263484416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088314546910097847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BggpXax \n你看看你看看。。。 https://t.co/lDPVIsFuHz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2088980365063180369",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9783,
+          "following_count": 2350,
+          "like_count": 33635,
+          "listed_count": 25,
+          "media_count": 1671,
+          "tweet_count": 6024
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T01:50:49.000Z",
+        "description": "丐帮集团第一院·物理版象棋开发与研究院 皇帝\n高一，男生 | 头像：@ningen_mame | 老公：@BggpXax\n电脑科技爱好者 | 希灵使徒 | #VOCALOID | #sensei | #GitHub\n游戏常驻：#ブルーアーカイブ 📘 | #植物大战僵尸2 🌻\n在代码与脑洞之间构建小世界 ⚙️✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 78,
+                "tag": "VOCALOID"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "tag": "sensei"
+              },
+              {
+                "end": 107,
+                "start": 100,
+                "tag": "GitHub"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "ブルーアーカイブ"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "tag": "植物大战僵尸2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "ningen_mame"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "BggpXax"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bggp.dpdns.org/1",
+                "end": 23,
+                "expanded_url": "https://bggp.dpdns.org/1",
+                "start": 0,
+                "url": "https://t.co/xLdpkvwy6O"
+              }
+            ]
+          }
+        },
+        "id": "1887317906893250560",
+        "is_identity_verified": false,
+        "location": "中华人民共和国·河南省",
+        "most_recent_tweet_id": "2088971317093466278",
+        "name": "鬼狗子-Zero",
+        "pinned_tweet_id": "2059297729436917810",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887317906893250560/1780411260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058432983648833536/L4DwjSrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 49,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/xLdpkvwy6O",
+        "username": "DoghostZero",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T14:53:36.000Z",
+        "description": "喵",
+        "id": "2072332358263484416",
+        "is_identity_verified": false,
+        "location": "Rhodes Island, Terra",
+        "most_recent_tweet_id": "2080983003627458697",
+        "name": "核钨锂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072332358263484416/1782918451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072337305784725504/CV67-fcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "BggpXax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
