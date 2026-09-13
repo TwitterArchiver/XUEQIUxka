@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2095746337690227010",
+    "created_at": "2026-09-05T12:37:19.000Z",
+    "display_text_range": [
+      23,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096216102099734607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        },
+        {
+          "end": 22,
+          "id": "1622346900824522752",
+          "start": 10,
+          "username": "Miatta_Leon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096216102099734607",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095746337690227010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile @Miatta_Leon 不是，原来是做爱吗？\n我混圈这么久，我怎么不知道？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2095746337690227010",
+        "created_at": "2026-09-05T12:37:19.000Z",
+        "display_text_range": [
+          23,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096216102099734607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            },
+            {
+              "end": 22,
+              "id": "1622346900824522752",
+              "start": 10,
+              "username": "Miatta_Leon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096216102099734607",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095746337690227010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile @Miatta_Leon 不是，原来是做爱吗？\n我混圈这么久，我怎么不知道？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041687695424950273",
+        "conversation_id": "2095746337690227010",
+        "created_at": "2026-09-04T05:30:38.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095746337690227010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095746337690227010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 113394,
+          "like_count": 634,
+          "quote_count": 11,
+          "reply_count": 294,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "原来xyn线下贴贴是线下做爱的意思吗…\n我一直以为只是线下面基的意思…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096216102099734607",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 2334,
+          "like_count": 33573,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6040
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095956335171162464",
+        "name": "cc🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041687695424950273/1776058992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 34,
+          "like_count": 2487,
+          "listed_count": 7,
+          "media_count": 72,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2096212945126736129",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622346900824522752/1678104828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 5487,
+          "like_count": 332685,
+          "listed_count": 13,
+          "media_count": 926,
+          "tweet_count": 59081
+        },
+        "url": "",
+        "username": "Miatta_Leon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

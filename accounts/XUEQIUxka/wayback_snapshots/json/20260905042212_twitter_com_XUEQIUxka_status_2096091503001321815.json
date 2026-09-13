@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2096088042020950137",
+    "created_at": "2026-09-05T04:22:12.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096091503001321815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690565622227423232",
+          "start": 0,
+          "username": "dmorest0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096091503001321815",
+    "in_reply_to_user_id": "1690565622227423232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096088042020950137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmorest0609 哇塞，好棒诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096088026766319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbM9G1bIAAX3WF.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096088026703425536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbM9GmbcAAHcnQ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2096088026757939200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbM9GzbQAAVLhT.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2096088042020950137",
+        "created_at": "2026-09-05T04:22:12.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096091503001321815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690565622227423232",
+              "start": 0,
+              "username": "dmorest0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096091503001321815",
+        "in_reply_to_user_id": "1690565622227423232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096088042020950137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmorest0609 哇塞，好棒诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096088026766319616",
+            "3_2096088026703425536",
+            "3_2096088026757939200"
+          ]
+        },
+        "author_id": "1690565622227423232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096088042020950137",
+        "created_at": "2026-09-05T04:08:27.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096088042020950137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANwNq5Xn3Y",
+              "end": 68,
+              "expanded_url": "https://x.com/dmorest0609/status/2096088042020950137/photo/1",
+              "media_key": "3_2096088026766319616",
+              "start": 45,
+              "url": "https://t.co/ANwNq5Xn3Y"
+            },
+            {
+              "display_url": "pic.x.com/ANwNq5Xn3Y",
+              "end": 68,
+              "expanded_url": "https://x.com/dmorest0609/status/2096088042020950137/photo/1",
+              "media_key": "3_2096088026703425536",
+              "start": 45,
+              "url": "https://t.co/ANwNq5Xn3Y"
+            },
+            {
+              "display_url": "pic.x.com/ANwNq5Xn3Y",
+              "end": 68,
+              "expanded_url": "https://x.com/dmorest0609/status/2096088042020950137/photo/1",
+              "media_key": "3_2096088026757939200",
+              "start": 45,
+              "url": "https://t.co/ANwNq5Xn3Y"
+            },
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2056318880079855714",
+              "start": 69,
+              "url": "https://t.co/1jc69qBbQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096088042020950137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096088026766319616"
+          },
+          {
+            "media_key": "3_2096088026703425536"
+          },
+          {
+            "media_key": "3_2096088026757939200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056318880079855714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到有一天我也能成为这个大学的一分子，特此前来打卡\n（这顿饭有好好付钱_(:з」∠)_ https://t.co/ANwNq5Xn3Y https://t.co/1jc69qBbQf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096091503001321815",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9749,
+          "following_count": 2334,
+          "like_count": 33602,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6035
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:27:15.000Z",
+        "description": "🇨🇳🇬🇧🇯🇵 ←利用可能な言語\n中国からの音ゲーマーです。みんなと仲良くして欲しい！\n跨友好 ｜Trans friendly｜互fo希望\nNow Playing: Phigros(15.90), Arcaea(12.06), maimaiでらっくす(14976)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/T9eEd1Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/T9eEd1Z",
+                "start": 0,
+                "url": "https://t.co/VctkVxXo7U"
+              }
+            ]
+          }
+        },
+        "id": "1690565622227423232",
+        "is_identity_verified": false,
+        "location": "半人馬座α",
+        "most_recent_tweet_id": "2096088533253632098",
+        "name": "DersuelsMorest",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690565622227423232/1775365430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690566853834481664/ert988GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 513,
+          "like_count": 10519,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/VctkVxXo7U",
+        "username": "dmorest0609",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

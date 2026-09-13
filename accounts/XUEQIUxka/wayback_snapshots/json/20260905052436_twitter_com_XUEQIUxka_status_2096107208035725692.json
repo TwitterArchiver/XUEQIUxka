@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "1979131746575683611",
+    "created_at": "2026-09-05T05:24:36.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096107208035725692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096107208035725692",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982651847216349535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982651837321744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PLV2zWkAA-_Ib.jpg",
+        "width": 1019
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982651837346942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PLV25XEAA-tIU.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1979131746575683611",
+        "created_at": "2026-09-05T05:24:36.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096107208035725692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096107208035725692",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651847216349535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982651837321744384",
+            "3_1982651837346942976"
+          ]
+        },
+        "author_id": "1697725634133561344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979131746575683611",
+        "created_at": "2025-10-27T03:33:30.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651847216349535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJexfxWhlL",
+              "end": 107,
+              "expanded_url": "https://x.com/HeXiaoQi77/status/1982651847216349535/photo/1",
+              "media_key": "3_1982651837321744384",
+              "start": 84,
+              "url": "https://t.co/oJexfxWhlL"
+            },
+            {
+              "display_url": "pic.x.com/oJexfxWhlL",
+              "end": 107,
+              "expanded_url": "https://x.com/HeXiaoQi77/status/1982651847216349535/photo/1",
+              "media_key": "3_1982651837346942976",
+              "start": 84,
+              "url": "https://t.co/oJexfxWhlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651847216349535",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1982651837321744384"
+          },
+          {
+            "media_key": "3_1982651837346942976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 60098,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979131746575683611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：通过了✅\n感觉不但效率高，而且相当友好，社区核实情况上报后很快批下来了。\n虽然既当生母又当生父，书面上的自己娶自己和自己生孩子又和自己离婚…\n（模特电影情节？） https://t.co/oJexfxWhlL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096107208035725692",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9749,
+          "following_count": 2334,
+          "like_count": 33603,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6037
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。日常不线下不推广，随机回fo。自用梯子https://t.co/lyPq1p3Yqp。蓝标来互fo，手术和心理咨询请私信。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "login.doumao.quest/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://login.doumao.quest/#/register?code=bo5Qmt30",
+                "start": 29,
+                "url": "https://t.co/lyPq1p3Yqp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrjBuj"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "is_identity_verified": false,
+        "location": "WIH International Hospital",
+        "most_recent_tweet_id": "2095768456088199298",
+        "name": "柒_Rain☕️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697725634133561344/1693604599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14584,
+          "following_count": 459,
+          "like_count": 16839,
+          "listed_count": 55,
+          "media_count": 186,
+          "tweet_count": 13969
+        },
+        "url": "https://t.co/r3aQCrjBuj",
+        "username": "HeXiaoQi77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

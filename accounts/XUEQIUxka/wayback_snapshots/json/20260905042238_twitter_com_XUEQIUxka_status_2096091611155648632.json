@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2096091611155648632",
+    "created_at": "2026-09-05T04:22:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096091611155648632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2095542569400987648",
+          "start": 3,
+          "username": "XUEQIUxka_uk"
+        },
+        {
+          "end": 67,
+          "id": "1368897611672018953",
+          "start": 57,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096091611155648632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095549253116625335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka_uk: Welcome to the official UK account for @XUEQIUxka. Thank you for following. All content on this channel will be published…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2096091611155648632",
+        "created_at": "2026-09-05T04:22:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096091611155648632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2095542569400987648",
+              "start": 3,
+              "username": "XUEQIUxka_uk"
+            },
+            {
+              "end": 67,
+              "id": "1368897611672018953",
+              "start": 57,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096091611155648632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095549253116625335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka_uk: Welcome to the official UK account for @XUEQIUxka. Thank you for following. All content on this channel will be published…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095542569400987648",
+        "conversation_id": "2095549253116625335",
+        "created_at": "2026-09-03T16:27:30.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095549253116625335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1368897611672018953",
+              "start": 39,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095549253116625335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Welcome to the official UK account for @XUEQIUxka. Thank you for following. All content on this channel will be published exclusively in English."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096091611155648632",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9749,
+          "following_count": 2334,
+          "like_count": 33603,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6036
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-09-03T16:02:23.000Z",
+        "description": "This is an official sub-account of @XUEQIUxka.\nVisit our official website at https://t.co/4JfhWvukWO.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "XUEQIUxka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 100,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 77,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.uk",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.uk",
+                "start": 0,
+                "url": "https://t.co/4JfhWvukWO"
+              }
+            ]
+          }
+        },
+        "id": "2095542569400987648",
+        "is_identity_verified": false,
+        "location": "XUEQIU Industrial Park",
+        "most_recent_tweet_id": "2095549253116625335",
+        "name": "雪秋小可爱 XUEQIUxka .uk",
+        "pinned_tweet_id": "2095549253116625335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095542569400987648/1788451827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095543041792847872/00d03Xts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/4JfhWvukWO",
+        "username": "XUEQIUxka_uk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

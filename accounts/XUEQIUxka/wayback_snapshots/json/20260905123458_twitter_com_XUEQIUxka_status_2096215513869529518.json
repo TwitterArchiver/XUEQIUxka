@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2095754952400597407",
+    "created_at": "2026-09-05T12:34:58.000Z",
+    "display_text_range": [
+      12,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096215513869529518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096215513869529518",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095754952400597407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 我和我结婚\n但是民政局不让我自己跟我自己领证。\n即使我能掏出两个身份证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2095754952400597407",
+        "created_at": "2026-09-05T12:34:58.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096215513869529518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096215513869529518",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095754952400597407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 我和我结婚\n但是民政局不让我自己跟我自己领证。\n即使我能掏出两个身份证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2095754952400597407",
+        "created_at": "2026-09-04T06:04:52.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095754952400597407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hexiaoqi77/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/hexiaoqi77/status/1982651847216349535",
+              "start": 63,
+              "url": "https://t.co/iDSkVR7HBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095754952400597407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 18803,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 58,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982651847216349535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实是，民政和户政的系统不互通，在民政系统里两个“我”都独立存在，且“我”和“我”育有一子。而同时“我”又可以和“我”结婚。 https://t.co/iDSkVR7HBy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096215513869529518",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 2334,
+          "like_count": 33572,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6039
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。日常不线下不推广，随机回fo。自用梯子https://t.co/lyPq1p3Yqp。蓝标来互fo，手术和心理咨询请私信。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "login.doumao.quest/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://login.doumao.quest/#/register?code=bo5Qmt30",
+                "start": 29,
+                "url": "https://t.co/lyPq1p3Yqp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrjBuj"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "is_identity_verified": false,
+        "location": "WIH International Hospital",
+        "most_recent_tweet_id": "2095768456088199298",
+        "name": "柒_Rain☕️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697725634133561344/1693604599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14583,
+          "following_count": 458,
+          "like_count": 16838,
+          "listed_count": 55,
+          "media_count": 186,
+          "tweet_count": 13969
+        },
+        "url": "https://t.co/r3aQCrjBuj",
+        "username": "HeXiaoQi77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

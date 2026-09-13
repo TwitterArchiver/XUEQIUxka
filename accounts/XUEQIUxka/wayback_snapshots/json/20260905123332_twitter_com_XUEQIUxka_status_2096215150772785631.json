@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2095769004501803439",
+    "created_at": "2026-09-05T12:33:32.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096215150772785631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096215150772785631",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095769004501803439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 这对吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095768981030453248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWqyM2aQAANABZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095768981026250752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWqyM1aIAA9GzA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2095769004501803439",
+        "created_at": "2026-09-05T12:33:32.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096215150772785631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096215150772785631",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095769004501803439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 这对吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095768981030453248",
+            "3_2095768981026250752"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2095769004501803439",
+        "created_at": "2026-09-04T07:00:42.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095769004501803439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOLlF9ARR1",
+              "end": 121,
+              "expanded_url": "https://x.com/liulingyo/status/2095769004501803439/photo/1",
+              "media_key": "3_2095768981030453248",
+              "start": 98,
+              "url": "https://t.co/ZOLlF9ARR1"
+            },
+            {
+              "display_url": "pic.x.com/ZOLlF9ARR1",
+              "end": 121,
+              "expanded_url": "https://x.com/liulingyo/status/2095769004501803439/photo/1",
+              "media_key": "3_2095768981026250752",
+              "start": 98,
+              "url": "https://t.co/ZOLlF9ARR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095769004501803439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095768981030453248"
+          },
+          {
+            "media_key": "3_2095768981026250752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 27840,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 80,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "睡眠障碍想去医院开药\n医生：你最近有没有自伤行为\n我指着裤裆说：因为我想当女生，所以我把自己两个睾丸切了\n医生：原来是跨性别啊，因为我怕你滥用，所以药量要大幅减少\n原来跨性别直接和od绑定了吗😧 https://t.co/ZOLlF9ARR1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2096215150772785631",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 2334,
+          "like_count": 33571,
+          "listed_count": 25,
+          "media_count": 1662,
+          "tweet_count": 6038
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年破壳MTF 睾丸已切⭐️\n厌学 🍥hrt：2024.10 🌟\n自宅警備員 私信回fo喵✨\n吾の傻猫：@GanYuluo💫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "ciallo小屋",
+        "most_recent_tweet_id": "2096008097085157870",
+        "name": "悠悠不是雜魚",
+        "pinned_tweet_id": "2087805482828488843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1788365951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184318620676097/LuN4vrWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 1093,
+          "like_count": 4822,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

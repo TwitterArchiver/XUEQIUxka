@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098422040034516992",
+        "3_2098422040080642049"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2098678498436981073",
+    "created_at": "2026-09-12T07:42:00.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098678498436981073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9lDT1Bzcq",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098678498436981073/photo/1",
+          "media_key": "3_2098422040034516992",
+          "start": 16,
+          "url": "https://t.co/C9lDT1Bzcq"
+        },
+        {
+          "display_url": "pic.x.com/C9lDT1Bzcq",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098678498436981073/photo/1",
+          "media_key": "3_2098422040080642049",
+          "start": 16,
+          "url": "https://t.co/C9lDT1Bzcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098678498436981073",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098422040034516992"
+      },
+      {
+        "media_key": "3_2098422040080642049"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑了两个小时才舍得把照片发出来 https://t.co/C9lDT1Bzcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2098422040034516992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Xuj0boAA15qx.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2098422040080642049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8Xuj_bcAEU44s.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098422040034516992",
+            "3_2098422040080642049"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2098678498436981073",
+        "created_at": "2026-09-12T07:42:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098678498436981073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9lDT1Bzcq",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098678498436981073/photo/1",
+              "media_key": "3_2098422040034516992",
+              "start": 16,
+              "url": "https://t.co/C9lDT1Bzcq"
+            },
+            {
+              "display_url": "pic.x.com/C9lDT1Bzcq",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098678498436981073/photo/1",
+              "media_key": "3_2098422040080642049",
+              "start": 16,
+              "url": "https://t.co/C9lDT1Bzcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098678498436981073",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098422040034516992"
+          },
+          {
+            "media_key": "3_2098422040080642049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑了两个小时才舍得把照片发出来 https://t.co/C9lDT1Bzcq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2098678498436981073",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9736,
+          "following_count": 2332,
+          "like_count": 33565,
+          "listed_count": 25,
+          "media_count": 1676,
+          "tweet_count": 6065
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

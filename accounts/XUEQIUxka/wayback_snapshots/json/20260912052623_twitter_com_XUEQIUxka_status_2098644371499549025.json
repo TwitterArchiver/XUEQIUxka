@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2098626153410146799",
+    "created_at": "2026-09-12T05:26:23.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098644371499549025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559966903069601793",
+          "start": 0,
+          "username": "Starxi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098644371499549025",
+    "in_reply_to_user_id": "1559966903069601793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098626153410146799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starxi114514 哇塞，不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2098414935676268544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8RRCBbsAAfMvw.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2098626153410146799",
+        "created_at": "2026-09-12T05:26:23.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098644371499549025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559966903069601793",
+              "start": 0,
+              "username": "Starxi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098644371499549025",
+        "in_reply_to_user_id": "1559966903069601793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098626153410146799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starxi114514 哇塞，不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098414935676268544"
+          ]
+        },
+        "author_id": "1559966903069601793",
+        "conversation_id": "2098626153410146799",
+        "created_at": "2026-09-12T04:14:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098626153410146799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzxZ34iWlH",
+              "end": 31,
+              "expanded_url": "https://x.com/Starxi114514/status/2098626153410146799/photo/1",
+              "media_key": "3_2098414935676268544",
+              "start": 8,
+              "url": "https://t.co/fzxZ34iWlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098626153410146799",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098414935676268544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "字面意义上的… https://t.co/fzxZ34iWlH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2098644371499549025",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9736,
+          "following_count": 2332,
+          "like_count": 33562,
+          "listed_count": 25,
+          "media_count": 1673,
+          "tweet_count": 6061
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-17T18:14:47.000Z",
+        "description": "天残党MtX🏳️‍⚧️｜成分复杂｜友善对待所有人｜EN/JP/ID/MY｜重新开始社交！｜请多多看我的亮点\n妹妹@mhtqwq\n我来的时候江水很平静",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 56,
+                "username": "mhtqwq"
+              }
+            ]
+          }
+        },
+        "id": "1559966903069601793",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2098641504491446596",
+        "name": "星析",
+        "pinned_tweet_id": "2088256727607349536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1559966903069601793/1786850277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080935349145018368/FtJClhkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12306,
+          "following_count": 238,
+          "like_count": 8528,
+          "listed_count": 52,
+          "media_count": 95,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "Starxi114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

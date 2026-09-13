@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098421560508026880",
+        "3_2098421560692617216",
+        "3_2098421560575188992",
+        "3_2098421560558411776"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2098512152256770477",
+    "created_at": "2026-09-11T20:41:00.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098512152256770477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9DTFuNZiU",
+          "end": 41,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+          "media_key": "3_2098421560508026880",
+          "start": 18,
+          "url": "https://t.co/L9DTFuNZiU"
+        },
+        {
+          "display_url": "pic.x.com/L9DTFuNZiU",
+          "end": 41,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+          "media_key": "3_2098421560692617216",
+          "start": 18,
+          "url": "https://t.co/L9DTFuNZiU"
+        },
+        {
+          "display_url": "pic.x.com/L9DTFuNZiU",
+          "end": 41,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+          "media_key": "3_2098421560575188992",
+          "start": 18,
+          "url": "https://t.co/L9DTFuNZiU"
+        },
+        {
+          "display_url": "pic.x.com/L9DTFuNZiU",
+          "end": 41,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+          "media_key": "3_2098421560558411776",
+          "start": 18,
+          "url": "https://t.co/L9DTFuNZiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098512152256770477",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098421560508026880"
+      },
+      {
+        "media_key": "3_2098421560692617216"
+      },
+      {
+        "media_key": "3_2098421560575188992"
+      },
+      {
+        "media_key": "3_2098421560558411776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我超威，我明天去健身房专挑练腿的打 https://t.co/L9DTFuNZiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098421560508026880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8XSpcaEAA5tlK.jpg",
+        "width": 1059
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098421560692617216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8XSqIasAAvtoA.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1390,
+        "media_key": "3_2098421560575188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8XSpsa4AA7-TF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098421560558411776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8XSpoa4AA9wbo.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098421560508026880",
+            "3_2098421560692617216",
+            "3_2098421560575188992",
+            "3_2098421560558411776"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2098512152256770477",
+        "created_at": "2026-09-11T20:41:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098512152256770477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9DTFuNZiU",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+              "media_key": "3_2098421560508026880",
+              "start": 18,
+              "url": "https://t.co/L9DTFuNZiU"
+            },
+            {
+              "display_url": "pic.x.com/L9DTFuNZiU",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+              "media_key": "3_2098421560692617216",
+              "start": 18,
+              "url": "https://t.co/L9DTFuNZiU"
+            },
+            {
+              "display_url": "pic.x.com/L9DTFuNZiU",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+              "media_key": "3_2098421560575188992",
+              "start": 18,
+              "url": "https://t.co/L9DTFuNZiU"
+            },
+            {
+              "display_url": "pic.x.com/L9DTFuNZiU",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2098512152256770477/photo/1",
+              "media_key": "3_2098421560558411776",
+              "start": 18,
+              "url": "https://t.co/L9DTFuNZiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098512152256770477",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098421560508026880"
+          },
+          {
+            "media_key": "3_2098421560692617216"
+          },
+          {
+            "media_key": "3_2098421560575188992"
+          },
+          {
+            "media_key": "3_2098421560558411776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我超威，我明天去健身房专挑练腿的打 https://t.co/L9DTFuNZiU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2098512152256770477",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9735,
+          "following_count": 2332,
+          "like_count": 33563,
+          "listed_count": 25,
+          "media_count": 1669,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

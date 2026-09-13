@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092551697050779648",
+        "3_2092551702398562304"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2092551707356197238",
+    "created_at": "2026-08-26T09:56:19.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092551707356197238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCeWrZKh43",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2092551707356197238/photo/1",
+          "media_key": "3_2092551697050779648",
+          "start": 9,
+          "url": "https://t.co/oCeWrZKh43"
+        },
+        {
+          "display_url": "pic.x.com/oCeWrZKh43",
+          "end": 32,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2092551707356197238/photo/1",
+          "media_key": "3_2092551702398562304",
+          "start": 9,
+          "url": "https://t.co/oCeWrZKh43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092551707356197238",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092551697050779648"
+      },
+      {
+        "media_key": "3_2092551702398562304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这吃白饭的鲸鱼 https://t.co/oCeWrZKh43"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2092551697050779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo8roDaQAAnjKz.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_2092551702398562304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo8r7-a8AA-jw5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092551697050779648",
+            "3_2092551702398562304"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2092551707356197238",
+        "created_at": "2026-08-26T09:56:19.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092551707356197238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCeWrZKh43",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2092551707356197238/photo/1",
+              "media_key": "3_2092551697050779648",
+              "start": 9,
+              "url": "https://t.co/oCeWrZKh43"
+            },
+            {
+              "display_url": "pic.x.com/oCeWrZKh43",
+              "end": 32,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2092551707356197238/photo/1",
+              "media_key": "3_2092551702398562304",
+              "start": 9,
+              "url": "https://t.co/oCeWrZKh43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092551707356197238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092551697050779648"
+          },
+          {
+            "media_key": "3_2092551702398562304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这吃白饭的鲸鱼 https://t.co/oCeWrZKh43"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2092551707356197238",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9753,
+          "following_count": 2342,
+          "like_count": 33637,
+          "listed_count": 25,
+          "media_count": 1680,
+          "tweet_count": 6043
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
