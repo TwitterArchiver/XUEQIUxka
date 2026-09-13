@@ -1,9 +1,9 @@
 {
   "name": "雪秋",
   "username": "@XUEQIUxka",
-  "bio": "原：雪秋小可爱，看简介&日常@Xyliaxka 爱人：@yongquan 全平台账号名称：雪秋小可爱 全平台账号ID：XUEQIUxka 会分享一些奇奇怪怪的东西 欢迎访问我的网页↓",
+  "bio": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
   "location": "雪球工业园",
-  "link": "http://xueqiuxka.cn",
+  "link": "http://xueqiuxka.com",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "1794216825783566349",
@@ -18,6 +18,11 @@
         "end": 36,
         "start": 27,
         "username": "yongquan"
+      },
+      {
+        "end": 102,
+        "start": 89,
+        "username": "XUEQIUxka_uk"
       }
     ]
   },
