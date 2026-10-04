@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2106376703065112874",
+    "created_at": "2026-10-03T15:57:21.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106413305426477225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106413305426477225",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106376703065112874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2106376630721757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtaYrVawAAUGOA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376642574860289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtaZXfawAEhynr.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376675932164097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtabTwa0AE6Olo.jpg",
+        "width": 3076
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106376691824418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtacO9bYAA32O2.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2106376703065112874",
+        "created_at": "2026-10-03T15:57:21.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106413305426477225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106413305426477225",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106376703065112874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106376630721757184",
+            "3_2106376642574860289",
+            "3_2106376675932164097",
+            "3_2106376691824418816"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "conversation_id": "2106376703065112874",
+        "created_at": "2026-10-03T13:31:55.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106376703065112874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376630721757184",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376642574860289",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376675932164097",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            },
+            {
+              "display_url": "pic.x.com/GBVHlbrJLx",
+              "end": 27,
+              "expanded_url": "https://x.com/qusuunmd/status/2106376703065112874/photo/1",
+              "media_key": "3_2106376691824418816",
+              "start": 4,
+              "url": "https://t.co/GBVHlbrJLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106376703065112874",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106376630721757184"
+          },
+          {
+            "media_key": "3_2106376642574860289"
+          },
+          {
+            "media_key": "3_2106376675932164097"
+          },
+          {
+            "media_key": "3_2106376691824418816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大叔~ https://t.co/GBVHlbrJLx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2106413305426477225",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9977,
+          "following_count": 2319,
+          "like_count": 33592,
+          "listed_count": 27,
+          "media_count": 2110,
+          "tweet_count": 6576
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高二牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/摄影📹（Canon r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos/已炸柜/家暴党",
+        "id": "1943561677762646016",
+        "is_identity_verified": false,
+        "location": "Hachinohe-shi, Aomori",
+        "most_recent_tweet_id": "2106398015628206276",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943561677762646016/1772934743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 487,
+          "like_count": 3058,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

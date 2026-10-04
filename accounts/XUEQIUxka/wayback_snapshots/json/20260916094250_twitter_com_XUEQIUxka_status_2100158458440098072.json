@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100158445735550976"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2099906655299535086",
+    "created_at": "2026-09-16T09:42:50.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100158458440098072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8c1DZfUYm",
+          "end": 53,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2100158458440098072/photo/1",
+          "media_key": "3_2100158445735550976",
+          "start": 30,
+          "url": "https://t.co/c8c1DZfUYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100158458440098072",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100158445735550976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100132425879941139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko 之前养了一条小蛇 鼠了pwp https://t.co/c8c1DZfUYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2277,
+        "media_key": "3_2100158445735550976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVC-rIaoAAOQgb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100158445735550976"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2099906655299535086",
+        "created_at": "2026-09-16T09:42:50.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100158458440098072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8c1DZfUYm",
+              "end": 53,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2100158458440098072/photo/1",
+              "media_key": "3_2100158445735550976",
+              "start": 30,
+              "url": "https://t.co/c8c1DZfUYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100158458440098072",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100158445735550976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100132425879941139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 之前养了一条小蛇 鼠了pwp https://t.co/c8c1DZfUYm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442362841193795593",
+        "conversation_id": "2099906655299535086",
+        "created_at": "2026-09-16T07:59:23.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100132425879941139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100132425879941139",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100131785493602484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 欢迎雪球子也加入爬宠玩家~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2100158458440098072",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9738,
+          "following_count": 2326,
+          "like_count": 33570,
+          "listed_count": 25,
+          "media_count": 1701,
+          "tweet_count": 6097
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论‖\n匿名提问箱：\nhttps://t.co/N7GBPQKIYY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bxigpwgwwmbr8e…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/bxigpwgwwmbr8e0?t=le0DzQ&utm_medium=url_text&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/N7GBPQKIYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2100158175546667512",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028633796792320/MIvBOdhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8246,
+          "following_count": 1641,
+          "like_count": 108896,
+          "listed_count": 32,
+          "media_count": 4586,
+          "tweet_count": 60334
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

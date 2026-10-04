@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103146182965153792"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2103161286695784784",
+    "created_at": "2026-09-24T16:35:00.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103161286695784784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKqb80lzOt",
+          "end": 70,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2103161286695784784/photo/1",
+          "media_key": "3_2103146182965153792",
+          "start": 47,
+          "url": "https://t.co/BKqb80lzOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103161286695784784",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103146182965153792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "小学的时候总在电视上看到喷喷笔的广告，想起妈妈总在耳边说的钱要省着花，没好意思向家里要钱买。 到了学校同学已经在美术课上用上了喷喷笔，我们都眼馋地站在旁边。好面子的我撒谎说我的在家里妈妈不让带来，那个同学好心把她的笔借给我玩，我却不知道怎么操作，只会用水彩笔的另一头把模具的空隙填满，手按着的小狗好像在嘲笑我，站在旁边同学的目光让我浑身冒汗。我生怕他们看出来我根本没有这种喷喷笔，最后灰溜溜地还了回去。 放学后我缠着妈妈买了一盒属于自己的笔，当颜料喷在本子上的时候我并没有想象中开心，喷喷笔也放在抽屉里落了灰。 时至今日大二的我躺在宿舍的床上刷到这个时代的产物，想起的也全是第一次用别人笔时候的如芒在背，没有一丝丝得到它的喜悦，人们对于事物的第一印象还是太重要了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小学的时候总在电视上看到喷喷笔的广告，想起妈妈总在耳边说的钱要省着花，没好意思向家里要钱买。 https://t.co/BKqb80lzOt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_2103146182965153792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_gT3pbUAAtb1z.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103146182965153792"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2103161286695784784",
+        "created_at": "2026-09-24T16:35:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103161286695784784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKqb80lzOt",
+              "end": 70,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2103161286695784784/photo/1",
+              "media_key": "3_2103146182965153792",
+              "start": 47,
+              "url": "https://t.co/BKqb80lzOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103161286695784784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103146182965153792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小学的时候总在电视上看到喷喷笔的广告，想起妈妈总在耳边说的钱要省着花，没好意思向家里要钱买。 到了学校同学已经在美术课上用上了喷喷笔，我们都眼馋地站在旁边。好面子的我撒谎说我的在家里妈妈不让带来，那个同学好心把她的笔借给我玩，我却不知道怎么操作，只会用水彩笔的另一头把模具的空隙填满，手按着的小狗好像在嘲笑我，站在旁边同学的目光让我浑身冒汗。我生怕他们看出来我根本没有这种喷喷笔，最后灰溜溜地还了回去。 放学后我缠着妈妈买了一盒属于自己的笔，当颜料喷在本子上的时候我并没有想象中开心，喷喷笔也放在抽屉里落了灰。 时至今日大二的我躺在宿舍的床上刷到这个时代的产物，想起的也全是第一次用别人笔时候的如芒在背，没有一丝丝得到它的喜悦，人们对于事物的第一印象还是太重要了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学的时候总在电视上看到喷喷笔的广告，想起妈妈总在耳边说的钱要省着花，没好意思向家里要钱买。 https://t.co/BKqb80lzOt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2103161286695784784",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9851,
+          "following_count": 2328,
+          "like_count": 33609,
+          "listed_count": 25,
+          "media_count": 1870,
+          "tweet_count": 6310
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2102163713402831018",
+    "created_at": "2026-09-22T07:21:05.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102297113317290425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836017908629331969",
+          "start": 0,
+          "username": "xiaoh2911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102297113317290425",
+    "in_reply_to_user_id": "1836017908629331969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102286091139362882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoh2911 会说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2102163713402831018",
+        "created_at": "2026-09-22T07:21:05.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102297113317290425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836017908629331969",
+              "start": 0,
+              "username": "xiaoh2911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102297113317290425",
+        "in_reply_to_user_id": "1836017908629331969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102286091139362882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoh2911 会说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836017908629331969",
+        "conversation_id": "2102163713402831018",
+        "created_at": "2026-09-22T06:37:17.000Z",
+        "display_text_range": [
+          11,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102286091139362882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102286091139362882",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102163713402831018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 你喜欢的只是那具躯体或者那个性格而已,只要画风好看,换几百遍皮都没啥影响,但是,给你整个纳垢大魔,不管那玩意有没有福瑞,那绝对都是不好看的🤓\n听懂掌声👏👏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2102297113317290425",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9783,
+          "following_count": 2329,
+          "like_count": 33588,
+          "listed_count": 25,
+          "media_count": 1805,
+          "tweet_count": 6227
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T12:23:03.000Z",
+        "description": "我是益达,笑掉大牙\n跪求打压求开户求线下真实,你牛逼你就顺着网线砍死我\n做不到那我犯贱你就受着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1GJ411…",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com/video/BV1GJ411x7h7",
+                "start": 0,
+                "url": "https://t.co/K6NWwMnHIH"
+              }
+            ]
+          }
+        },
+        "id": "1836017908629331969",
+        "is_identity_verified": false,
+        "location": "backrooms",
+        "most_recent_tweet_id": "2102295126811033692",
+        "name": "益达-笑掉大牙",
+        "pinned_tweet_id": "2091204797898920216",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086129335099101184/Sgbo_C8v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 7192,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/K6NWwMnHIH",
+        "username": "xiaoh2911",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2103224201054228499",
+    "created_at": "2026-09-25T16:17:17.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103519218293772497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1715405509732491264",
+          "start": 0,
+          "username": "Elysian_1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103519218293772497",
+    "in_reply_to_user_id": "1715405509732491264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103360971309994235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elysian_1111 帮我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2103224201054228499",
+        "created_at": "2026-09-25T16:17:17.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103519218293772497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1715405509732491264",
+              "start": 0,
+              "username": "Elysian_1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103519218293772497",
+        "in_reply_to_user_id": "1715405509732491264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103360971309994235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elysian_1111 帮我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715405509732491264",
+        "conversation_id": "2103224201054228499",
+        "created_at": "2026-09-25T05:48:28.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103360971309994235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103360971309994235",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27519,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103224201054228499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 本官来为你主持公道"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2103519218293772497",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9880,
+          "following_count": 2323,
+          "like_count": 33579,
+          "listed_count": 25,
+          "media_count": 1899,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-20T16:32:06.000Z",
+        "description": "哥几个，我已经辞职了，以后全职聊QQ，上个逼班把我跟大家关系都搞淡了。\n现实朋友全几把断了 真交友还得是咱们网上这群兄弟姐妹 喜欢造谣 喜欢背刺 喜欢二次元 喜欢巴结人 喜欢接盘 背信弃义 吃里扒外",
+        "id": "1715405509732491264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103360971309994235",
+        "name": "L",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715405509732491264/1706581731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859635117888765952/o9-4S5t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 70,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Elysian_1111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

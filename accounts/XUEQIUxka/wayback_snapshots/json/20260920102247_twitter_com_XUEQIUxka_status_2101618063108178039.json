@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2101339145956417940",
+    "created_at": "2026-09-20T10:22:47.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101618063108178039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101618063108178039",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101339145956417940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 被福瑞圈吓哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101339145956417940",
+        "created_at": "2026-09-20T10:22:47.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101618063108178039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101618063108178039",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101339145956417940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 被福瑞圈吓哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778850117933838337",
+        "conversation_id": "2101339145956417940",
+        "created_at": "2026-09-19T15:54:28.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101339145956417940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TBduyu/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/TBduyu/status/2088723081145790581",
+              "start": 28,
+              "url": "https://t.co/VB98iPjY63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101339145956417940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088723081145790581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天分手了\n我说怎么福瑞南通这么快\n最速恋爱最速分手说 https://t.co/VB98iPjY63"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101618063108178039",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9762,
+          "following_count": 2328,
+          "like_count": 33573,
+          "listed_count": 25,
+          "media_count": 1755,
+          "tweet_count": 6169
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高二文科生。萌性恋，兽娘控\n\n@supernovaArcaea 成员  ptt 12.721 //@aoim33良师益友 // @Unexist_Sakura 好推油❤️😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "aoim33"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "is_identity_verified": true,
+        "location": "野鸡中学  1.14 km ",
+        "most_recent_tweet_id": "2101573177050841268",
+        "name": "SNtabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778850117933838337/1780413221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071337129842802689/RaFupc-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 1145,
+          "like_count": 25044,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

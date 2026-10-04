@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101324048873689089",
+        "3_2101324048844410880"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2101470646341353808",
+    "created_at": "2026-09-20T00:37:00.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T01:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101470646341353808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rolCThtqA",
+          "end": 99,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2101470646341353808/photo/1",
+          "media_key": "3_2101324048873689089",
+          "start": 76,
+          "url": "https://t.co/9rolCThtqA"
+        },
+        {
+          "display_url": "pic.x.com/9rolCThtqA",
+          "end": 99,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2101470646341353808/photo/1",
+          "media_key": "3_2101324048844410880",
+          "start": 76,
+          "url": "https://t.co/9rolCThtqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101470646341353808",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101324048873689089"
+      },
+      {
+        "media_key": "3_2101324048844410880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热知识：Duo外屏去除UI比例为16:9 只能说苹果还是太细了 圆角浪费的优雅拿来做了UI 传统内容还留了比例冗余 外屏的短视频这种内容消费也搞定了 https://t.co/9rolCThtqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2101324048873689089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlnFtMaEAE6WAJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2101324048844410880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlnFtFbUAA3uOx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101324048873689089",
+            "3_2101324048844410880"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101470646341353808",
+        "created_at": "2026-09-20T00:37:00.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T01:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101470646341353808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rolCThtqA",
+              "end": 99,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2101470646341353808/photo/1",
+              "media_key": "3_2101324048873689089",
+              "start": 76,
+              "url": "https://t.co/9rolCThtqA"
+            },
+            {
+              "display_url": "pic.x.com/9rolCThtqA",
+              "end": 99,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2101470646341353808/photo/1",
+              "media_key": "3_2101324048844410880",
+              "start": 76,
+              "url": "https://t.co/9rolCThtqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101470646341353808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101324048873689089"
+          },
+          {
+            "media_key": "3_2101324048844410880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热知识：Duo外屏去除UI比例为16:9 只能说苹果还是太细了 圆角浪费的优雅拿来做了UI 传统内容还留了比例冗余 外屏的短视频这种内容消费也搞定了 https://t.co/9rolCThtqA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101470646341353808",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9748,
+          "following_count": 2326,
+          "like_count": 33557,
+          "listed_count": 25,
+          "media_count": 1744,
+          "tweet_count": 6147
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103509917542096896",
+        "3_2103509917550415872"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2103766524645286089",
+    "created_at": "2026-09-26T08:40:00.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103766524645286089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/irGhL8S7Yl",
+          "end": 44,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2103766524645286089/photo/1",
+          "media_key": "3_2103509917542096896",
+          "start": 21,
+          "url": "https://t.co/irGhL8S7Yl"
+        },
+        {
+          "display_url": "pic.x.com/irGhL8S7Yl",
+          "end": 44,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2103766524645286089/photo/1",
+          "media_key": "3_2103509917550415872",
+          "start": 21,
+          "url": "https://t.co/irGhL8S7Yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103766524645286089",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103509917542096896"
+      },
+      {
+        "media_key": "3_2103509917550415872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以为是小熊耳朵。其实是小猫揣在一起的小手 https://t.co/irGhL8S7Yl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2103509917542096896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTErIAiboAAZpdW.jpg",
+        "width": 784
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103509917550415872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTErIAkakAAlFDj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103509917542096896",
+            "3_2103509917550415872"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2103766524645286089",
+        "created_at": "2026-09-26T08:40:00.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103766524645286089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irGhL8S7Yl",
+              "end": 44,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2103766524645286089/photo/1",
+              "media_key": "3_2103509917542096896",
+              "start": 21,
+              "url": "https://t.co/irGhL8S7Yl"
+            },
+            {
+              "display_url": "pic.x.com/irGhL8S7Yl",
+              "end": 44,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2103766524645286089/photo/1",
+              "media_key": "3_2103509917550415872",
+              "start": 21,
+              "url": "https://t.co/irGhL8S7Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103766524645286089",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103509917542096896"
+          },
+          {
+            "media_key": "3_2103509917550415872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为是小熊耳朵。其实是小猫揣在一起的小手 https://t.co/irGhL8S7Yl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2103766524645286089",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9904,
+          "following_count": 2325,
+          "like_count": 33586,
+          "listed_count": 25,
+          "media_count": 1918,
+          "tweet_count": 6370
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

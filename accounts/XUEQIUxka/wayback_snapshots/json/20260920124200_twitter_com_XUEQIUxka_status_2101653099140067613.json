@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101324848320700416",
+        "3_2101324848333266945"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2101653099140067613",
+    "created_at": "2026-09-20T12:42:00.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101653099140067613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f645PaIglS",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2101653099140067613/photo/1",
+          "media_key": "3_2101324848320700416",
+          "start": 56,
+          "url": "https://t.co/f645PaIglS"
+        },
+        {
+          "display_url": "pic.x.com/f645PaIglS",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2101653099140067613/photo/1",
+          "media_key": "3_2101324848333266945",
+          "start": 56,
+          "url": "https://t.co/f645PaIglS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101653099140067613",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101324848320700416"
+      },
+      {
+        "media_key": "3_2101324848333266945"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人玩具箱里是奥特曼和恐龙，他是一堆电梯按钮和电梯模型🌚我寻思这爱好是不是有点太偏门了？以后是准备去修电梯了？ https://t.co/f645PaIglS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101324848320700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSln0PXbYAAxcp_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2101324848333266945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSln0PabIAESnDp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101324848320700416",
+            "3_2101324848333266945"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101653099140067613",
+        "created_at": "2026-09-20T12:42:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101653099140067613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f645PaIglS",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2101653099140067613/photo/1",
+              "media_key": "3_2101324848320700416",
+              "start": 56,
+              "url": "https://t.co/f645PaIglS"
+            },
+            {
+              "display_url": "pic.x.com/f645PaIglS",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2101653099140067613/photo/1",
+              "media_key": "3_2101324848333266945",
+              "start": 56,
+              "url": "https://t.co/f645PaIglS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101653099140067613",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101324848320700416"
+          },
+          {
+            "media_key": "3_2101324848333266945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人玩具箱里是奥特曼和恐龙，他是一堆电梯按钮和电梯模型🌚我寻思这爱好是不是有点太偏门了？以后是准备去修电梯了？ https://t.co/f645PaIglS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101653099140067613",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9767,
+          "following_count": 2329,
+          "like_count": 33576,
+          "listed_count": 25,
+          "media_count": 1759,
+          "tweet_count": 6175
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

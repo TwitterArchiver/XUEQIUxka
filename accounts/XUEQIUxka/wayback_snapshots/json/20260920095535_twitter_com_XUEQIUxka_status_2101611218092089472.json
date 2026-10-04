@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2101265797385437347",
+    "created_at": "2026-09-20T09:55:35.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101611218092089472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872205117686181888",
+          "start": 0,
+          "username": "GretelHans26277"
+        },
+        {
+          "end": 24,
+          "id": "1826160095258095617",
+          "start": 17,
+          "username": "xxpthu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101611218092089472",
+    "in_reply_to_user_id": "1872205117686181888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101601190207529106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GretelHans26277 @xxpthu 会说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101265797385437347",
+        "created_at": "2026-09-20T09:55:35.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101611218092089472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872205117686181888",
+              "start": 0,
+              "username": "GretelHans26277"
+            },
+            {
+              "end": 24,
+              "id": "1826160095258095617",
+              "start": 17,
+              "username": "xxpthu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101611218092089472",
+        "in_reply_to_user_id": "1872205117686181888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101601190207529106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GretelHans26277 @xxpthu 会说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872205117686181888",
+        "conversation_id": "2101265797385437347",
+        "created_at": "2026-09-20T09:15:44.000Z",
+        "display_text_range": [
+          19,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101601190207529106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826160095258095617",
+              "start": 0,
+              "username": "xxpthu"
+            },
+            {
+              "end": 18,
+              "id": "1368897611672018953",
+              "start": 8,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101601190207529106",
+        "in_reply_to_user_id": "1826160095258095617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101519264100577564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxpthu @XUEQIUxka 哈吉米不是白叫的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101611218092089472",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9763,
+          "following_count": 2328,
+          "like_count": 33571,
+          "listed_count": 25,
+          "media_count": 1754,
+          "tweet_count": 6164
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-26T08:57:54.000Z",
+        "description": "发发推文，什么有流量发什么\n\n欢迎各位帅哥美女关注",
+        "id": "1872205117686181888",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101611133744583038",
+        "name": "Gretel Hansel",
+        "pinned_tweet_id": "2093590417627570204",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872205117686181888/1789881968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101543407978250240/8IzCku1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 2074,
+          "like_count": 11776,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "GretelHans26277",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T07:32:03.000Z",
+        "description": "",
+        "id": "1826160095258095617",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101526555826794659",
+        "name": "Z H",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826160320777465856/FJQjUd70_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 5800,
+          "listed_count": 1,
+          "media_count": 794,
+          "tweet_count": 1590
+        },
+        "url": "",
+        "username": "xxpthu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

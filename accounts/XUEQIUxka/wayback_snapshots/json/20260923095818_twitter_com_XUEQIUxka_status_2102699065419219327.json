@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2102555545114939710",
+    "created_at": "2026-09-23T09:58:18.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102699065419219327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114984083635953664",
+          "start": 0,
+          "username": "caitiskk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102699065419219327",
+    "in_reply_to_user_id": "1114984083635953664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102620068421275649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caitiskk 会说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2102555545114939710",
+        "created_at": "2026-09-23T09:58:18.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102699065419219327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114984083635953664",
+              "start": 0,
+              "username": "caitiskk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102699065419219327",
+        "in_reply_to_user_id": "1114984083635953664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102620068421275649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caitiskk 会说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114984083635953664",
+        "conversation_id": "2102555545114939710",
+        "created_at": "2026-09-23T04:44:23.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102620068421275649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102620068421275649",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102555545114939710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 现在是 四千零二十块了，所以说不能瞧不起小耄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2102699065419219327",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9798,
+          "following_count": 2327,
+          "like_count": 33594,
+          "listed_count": 25,
+          "media_count": 1837,
+          "tweet_count": 6270
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-07T20:11:35.000Z",
+        "description": "とんがり帽子のアトリエ的见习魔法师！魔法とは、世界をカラフルに染める奇跡だ！！",
+        "id": "1114984083635953664",
+        "is_identity_verified": false,
+        "location": "大号鱼板",
+        "most_recent_tweet_id": "2102670868350742914",
+        "name": "宽帽檐的可可",
+        "pinned_tweet_id": "2088993483575230475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114984083635953664/1666929119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074677838817710080/k6ra-oli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1901,
+          "like_count": 25702,
+          "listed_count": 8,
+          "media_count": 1591,
+          "tweet_count": 10754
+        },
+        "url": "",
+        "username": "caitiskk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

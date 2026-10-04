@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2102384921230913620",
+    "created_at": "2026-09-23T09:53:22.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102697825276719322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944388848479510529",
+          "start": 0,
+          "username": "YHxbs54565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102697825276719322",
+    "in_reply_to_user_id": "1944388848479510529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102689245420814459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YHxbs54565 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2102384921230913620",
+        "created_at": "2026-09-23T09:53:22.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102697825276719322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944388848479510529",
+              "start": 0,
+              "username": "YHxbs54565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102697825276719322",
+        "in_reply_to_user_id": "1944388848479510529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102689245420814459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YHxbs54565 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944388848479510529",
+        "conversation_id": "2102384921230913620",
+        "created_at": "2026-09-23T09:19:16.000Z",
+        "display_text_range": [
+          11,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102689245420814459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102689245420814459",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102384921230913620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 并不是每个女生都有好身材都有好脸蛋，中国的那种款式的校服就是可以大幅度减少身材尴尬，现在这种衣服都会被人说谁谁谁胸大，要是换成那种显身材的我真的想不到胸大一点的女生上学那几年会有多难受想穿漂亮衣服周六周日和放学随便你怎么穿啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2102697825276719322",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9796,
+          "following_count": 2327,
+          "like_count": 33592,
+          "listed_count": 25,
+          "media_count": 1837,
+          "tweet_count": 6269
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T13:30:23.000Z",
+        "description": "We live in a perpetually burning\nbuilding,\nand what we must save from it, all the time, is love.",
+        "id": "1944388848479510529",
+        "is_identity_verified": false,
+        "location": "Britain",
+        "most_recent_tweet_id": "2102690992725823640",
+        "name": "𝗬𝘂𝗸𝗶𝗼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944388848479510529/1785215061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081956163646832640/W0o3IdEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "YHxbs54565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102082878817595392",
+        "3_2102082878985396224",
+        "3_2102082878809182208",
+        "3_2102082879006380032"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2102399768752423212",
+    "created_at": "2026-09-22T14:09:00.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102399768752423212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnTqDYT8Qg",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+          "media_key": "3_2102082878817595392",
+          "start": 56,
+          "url": "https://t.co/xnTqDYT8Qg"
+        },
+        {
+          "display_url": "pic.x.com/xnTqDYT8Qg",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+          "media_key": "3_2102082878985396224",
+          "start": 56,
+          "url": "https://t.co/xnTqDYT8Qg"
+        },
+        {
+          "display_url": "pic.x.com/xnTqDYT8Qg",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+          "media_key": "3_2102082878809182208",
+          "start": 56,
+          "url": "https://t.co/xnTqDYT8Qg"
+        },
+        {
+          "display_url": "pic.x.com/xnTqDYT8Qg",
+          "end": 79,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+          "media_key": "3_2102082879006380032",
+          "start": 56,
+          "url": "https://t.co/xnTqDYT8Qg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102399768752423212",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102082878817595392"
+      },
+      {
+        "media_key": "3_2102082878985396224"
+      },
+      {
+        "media_key": "3_2102082878809182208"
+      },
+      {
+        "media_key": "3_2102082879006380032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人已疯...新中国没有奴隶，除非你学医 救大命，每天倒贴熬夜实习还不够，还要被投诉，牛马的日子什么时候才能结束 https://t.co/xnTqDYT8Qg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_2102082878817595392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwZPbBacAA_lU3.jpg",
+        "width": 998
+      },
+      {
+        "height": 1902,
+        "media_key": "3_2102082878985396224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwZPbpa4AAGDGN.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2102082878809182208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwZPa_aEAACWhn.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1902,
+        "media_key": "3_2102082879006380032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwZPbubEAASPlR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102082878817595392",
+            "3_2102082878985396224",
+            "3_2102082878809182208",
+            "3_2102082879006380032"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2102399768752423212",
+        "created_at": "2026-09-22T14:09:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102399768752423212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnTqDYT8Qg",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+              "media_key": "3_2102082878817595392",
+              "start": 56,
+              "url": "https://t.co/xnTqDYT8Qg"
+            },
+            {
+              "display_url": "pic.x.com/xnTqDYT8Qg",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+              "media_key": "3_2102082878985396224",
+              "start": 56,
+              "url": "https://t.co/xnTqDYT8Qg"
+            },
+            {
+              "display_url": "pic.x.com/xnTqDYT8Qg",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+              "media_key": "3_2102082878809182208",
+              "start": 56,
+              "url": "https://t.co/xnTqDYT8Qg"
+            },
+            {
+              "display_url": "pic.x.com/xnTqDYT8Qg",
+              "end": 79,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2102399768752423212/photo/1",
+              "media_key": "3_2102082879006380032",
+              "start": 56,
+              "url": "https://t.co/xnTqDYT8Qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102399768752423212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102082878817595392"
+          },
+          {
+            "media_key": "3_2102082878985396224"
+          },
+          {
+            "media_key": "3_2102082878809182208"
+          },
+          {
+            "media_key": "3_2102082879006380032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人已疯...新中国没有奴隶，除非你学医 救大命，每天倒贴熬夜实习还不够，还要被投诉，牛马的日子什么时候才能结束 https://t.co/xnTqDYT8Qg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2102399768752423212",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9789,
+          "following_count": 2327,
+          "like_count": 33589,
+          "listed_count": 25,
+          "media_count": 1814,
+          "tweet_count": 6238
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

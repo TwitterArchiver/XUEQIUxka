@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104964819065638912",
+        "3_2104964819078332416",
+        "3_2104964819657089024",
+        "3_2104964819095044096"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2105296859912687705",
+    "created_at": "2026-09-30T14:01:00.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105296859912687705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQDfMQoGjg",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+          "media_key": "3_2104964819065638912",
+          "start": 16,
+          "url": "https://t.co/fQDfMQoGjg"
+        },
+        {
+          "display_url": "pic.x.com/fQDfMQoGjg",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+          "media_key": "3_2104964819078332416",
+          "start": 16,
+          "url": "https://t.co/fQDfMQoGjg"
+        },
+        {
+          "display_url": "pic.x.com/fQDfMQoGjg",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+          "media_key": "3_2104964819657089024",
+          "start": 16,
+          "url": "https://t.co/fQDfMQoGjg"
+        },
+        {
+          "display_url": "pic.x.com/fQDfMQoGjg",
+          "end": 39,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+          "media_key": "3_2104964819095044096",
+          "start": 16,
+          "url": "https://t.co/fQDfMQoGjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105296859912687705",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104964819065638912"
+      },
+      {
+        "media_key": "3_2104964819078332416"
+      },
+      {
+        "media_key": "3_2104964819657089024"
+      },
+      {
+        "media_key": "3_2104964819095044096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理委员我不得劲 狠狠羡慕一把 https://t.co/fQDfMQoGjg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2104964819065638912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZWWbEaEAAk2Uk.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2104964819078332416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZWWbHbwAA27V2.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1652,
+        "media_key": "3_2104964819657089024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZWWdRa4AAWzNp.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1902,
+        "media_key": "3_2104964819095044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZWWbLawAAx92W.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104964819065638912",
+            "3_2104964819078332416",
+            "3_2104964819657089024",
+            "3_2104964819095044096"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2105296859912687705",
+        "created_at": "2026-09-30T14:01:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105296859912687705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQDfMQoGjg",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+              "media_key": "3_2104964819065638912",
+              "start": 16,
+              "url": "https://t.co/fQDfMQoGjg"
+            },
+            {
+              "display_url": "pic.x.com/fQDfMQoGjg",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+              "media_key": "3_2104964819078332416",
+              "start": 16,
+              "url": "https://t.co/fQDfMQoGjg"
+            },
+            {
+              "display_url": "pic.x.com/fQDfMQoGjg",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+              "media_key": "3_2104964819657089024",
+              "start": 16,
+              "url": "https://t.co/fQDfMQoGjg"
+            },
+            {
+              "display_url": "pic.x.com/fQDfMQoGjg",
+              "end": 39,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2105296859912687705/photo/1",
+              "media_key": "3_2104964819095044096",
+              "start": 16,
+              "url": "https://t.co/fQDfMQoGjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105296859912687705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104964819065638912"
+          },
+          {
+            "media_key": "3_2104964819078332416"
+          },
+          {
+            "media_key": "3_2104964819657089024"
+          },
+          {
+            "media_key": "3_2104964819095044096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员我不得劲 狠狠羡慕一把 https://t.co/fQDfMQoGjg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2105296859912687705",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9949,
+          "following_count": 2319,
+          "like_count": 33584,
+          "listed_count": 26,
+          "media_count": 2036,
+          "tweet_count": 6497
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

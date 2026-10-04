@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2103224201054228499",
+    "created_at": "2026-09-25T16:17:55.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103519377824125082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2062577561159499776",
+          "start": 0,
+          "username": "gjytfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103519377824125082",
+    "in_reply_to_user_id": "2062577561159499776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103429680112291921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gjytfx 会发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1778,
+        "media_key": "3_2103429669148340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDiI7-asAAkFH9.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2103224201054228499",
+        "created_at": "2026-09-25T16:17:55.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103519377824125082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2062577561159499776",
+              "start": 0,
+              "username": "gjytfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103519377824125082",
+        "in_reply_to_user_id": "2062577561159499776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103429680112291921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gjytfx 会发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103429669148340224"
+          ]
+        },
+        "author_id": "2062577561159499776",
+        "conversation_id": "2103224201054228499",
+        "created_at": "2026-09-25T10:21:30.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103429680112291921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvAfYBHRr6",
+              "end": 34,
+              "expanded_url": "https://x.com/gjytfx/status/2103429680112291921/photo/1",
+              "media_key": "3_2103429669148340224",
+              "start": 11,
+              "url": "https://t.co/tvAfYBHRr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103429680112291921",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103429669148340224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11996,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103224201054228499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka https://t.co/tvAfYBHRr6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2103519377824125082",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9880,
+          "following_count": 2323,
+          "like_count": 33579,
+          "listed_count": 25,
+          "media_count": 1899,
+          "tweet_count": 6349
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T16:52:00.000Z",
+        "description": "",
+        "id": "2062577561159499776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103429680112291921",
+        "name": "林生寒霜",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 29,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "gjytfx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

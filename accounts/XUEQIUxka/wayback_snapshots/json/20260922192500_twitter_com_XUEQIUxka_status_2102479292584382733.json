@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102419037171089408"
+      ]
+    },
+    "author_id": "1368897611672018953",
+    "conversation_id": "2102479292584382733",
+    "created_at": "2026-09-22T19:25:00.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T20:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102479292584382733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfRi5eOQQg",
+          "end": 33,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2102479292584382733/photo/1",
+          "media_key": "3_2102419037171089408",
+          "start": 10,
+          "url": "https://t.co/tfRi5eOQQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102479292584382733",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102419037171089408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺蜜好像眼神不太好 https://t.co/tfRi5eOQQg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2102419037171089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1K-aeaAAAWLYY.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102419037171089408"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2102479292584382733",
+        "created_at": "2026-09-22T19:25:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102479292584382733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfRi5eOQQg",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2102479292584382733/photo/1",
+              "media_key": "3_2102419037171089408",
+              "start": 10,
+              "url": "https://t.co/tfRi5eOQQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102479292584382733",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102419037171089408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜好像眼神不太好 https://t.co/tfRi5eOQQg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2102479292584382733",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9793,
+          "following_count": 2327,
+          "like_count": 33589,
+          "listed_count": 25,
+          "media_count": 1820,
+          "tweet_count": 6245
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

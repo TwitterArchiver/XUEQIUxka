@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2104133710425772386",
+    "created_at": "2026-09-27T10:35:47.000Z",
+    "display_text_range": [
+      42,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104158053092499777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        },
+        {
+          "end": 19,
+          "id": "2033504930707996672",
+          "start": 10,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 26,
+          "id": "1731220298610188288",
+          "start": 20,
+          "username": "yqua_"
+        },
+        {
+          "end": 41,
+          "id": "1908086926391033856",
+          "start": 27,
+          "username": "1H4teTheWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104158053092499777",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104133710425772386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan @Xyliaxka @yqua_ @1H4teTheWorld 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2104133694965657601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNicohbsAEpXbC.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2104133694579785728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNicnFbwAAOYAd.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2104133710425772386",
+        "created_at": "2026-09-27T10:35:47.000Z",
+        "display_text_range": [
+          42,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104158053092499777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 19,
+              "id": "2033504930707996672",
+              "start": 10,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 26,
+              "id": "1731220298610188288",
+              "start": 20,
+              "username": "yqua_"
+            },
+            {
+              "end": 41,
+              "id": "1908086926391033856",
+              "start": 27,
+              "username": "1H4teTheWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104158053092499777",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104133710425772386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @Xyliaxka @yqua_ @1H4teTheWorld 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104133694965657601",
+            "3_2104133694579785728"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2104133710425772386",
+        "created_at": "2026-09-27T08:59:04.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104133710425772386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1368897611672018953",
+              "start": 5,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cblmMlFtgq",
+              "end": 45,
+              "expanded_url": "https://x.com/YongQuan/status/2104133710425772386/photo/1",
+              "media_key": "3_2104133694965657601",
+              "start": 22,
+              "url": "https://t.co/cblmMlFtgq"
+            },
+            {
+              "display_url": "pic.x.com/cblmMlFtgq",
+              "end": 45,
+              "expanded_url": "https://x.com/YongQuan/status/2104133710425772386/photo/1",
+              "media_key": "3_2104133694579785728",
+              "start": 22,
+              "url": "https://t.co/cblmMlFtgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104133710425772386",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104133694965657601"
+          },
+          {
+            "media_key": "3_2104133694579785728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已取餐。\n@XUEQIUxka 老婆送的🥺 https://t.co/cblmMlFtgq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2104158053092499777",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9919,
+          "following_count": 2322,
+          "like_count": 33588,
+          "listed_count": 25,
+          "media_count": 1950,
+          "tweet_count": 6405
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2104134701376045112",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12359,
+          "following_count": 4888,
+          "like_count": 54521,
+          "listed_count": 42,
+          "media_count": 6907,
+          "tweet_count": 18204
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号，会转发大号 @XUEQIUxka 自己的日常\nSRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n雪球的号：@XUEQIUsuki\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyliaxka.com",
+                "end": 23,
+                "expanded_url": "http://xyliaxka.com",
+                "start": 0,
+                "url": "https://t.co/A278iJKVYh"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "is_identity_verified": false,
+        "location": "欢迎访问我的网页↓",
+        "most_recent_tweet_id": "2103302480662876473",
+        "name": "Xylia",
+        "pinned_tweet_id": "2069756446065955016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033504930707996672/1774196484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/A278iJKVYh",
+        "username": "Xyliaxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-03T07:54:25.000Z",
+        "description": "我愿意将我的内心展现给你们｜一些真话｜A piece of peace is needed here.｜大号@YongQuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "YongQuan"
+              }
+            ]
+          }
+        },
+        "id": "1731220298610188288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087190016997109951",
+        "name": "铨·春迟与夏🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731220298610188288/1759715447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831306682170839040/tmDYzzIJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 181,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "yqua_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "大号@YongQuan\n❤️@XUEQIUxka\n\n赢了又能多吃点 (≧ω≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "YongQuan"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "username": "XUEQIUxka"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102325502510063645",
+        "name": "你是想气死铨酱么🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908086926391033856/1779854425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651629354917889/qg4SJRc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 870,
+          "like_count": 11288,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "1H4teTheWorld",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

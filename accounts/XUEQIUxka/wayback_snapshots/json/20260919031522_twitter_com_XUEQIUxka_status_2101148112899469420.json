@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1368897611672018953",
+    "conversation_id": "2101143097837289957",
+    "created_at": "2026-09-19T03:15:22.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101148112899469420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "123617511",
+          "start": 0,
+          "username": "fexisnpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101148112899469420",
+    "in_reply_to_user_id": "123617511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101143097837289957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fexisnpc 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2101143069215297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjCfTbaEAAhvLY.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2101143083677274113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjCgJTaUAEzEox.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101143097837289957",
+        "created_at": "2026-09-19T03:15:22.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101148112899469420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "123617511",
+              "start": 0,
+              "username": "fexisnpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101148112899469420",
+        "in_reply_to_user_id": "123617511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101143097837289957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fexisnpc 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101143069215297536",
+            "3_2101143083677274113"
+          ]
+        },
+        "author_id": "123617511",
+        "conversation_id": "2101143097837289957",
+        "created_at": "2026-09-19T02:55:26.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101143097837289957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mY9SqPLj5h",
+              "end": 32,
+              "expanded_url": "https://x.com/fexisnpc/status/2101143097837289957/photo/1",
+              "media_key": "3_2101143069215297536",
+              "start": 9,
+              "url": "https://t.co/mY9SqPLj5h"
+            },
+            {
+              "display_url": "pic.x.com/mY9SqPLj5h",
+              "end": 32,
+              "expanded_url": "https://x.com/fexisnpc/status/2101143097837289957/photo/1",
+              "media_key": "3_2101143083677274113",
+              "start": 9,
+              "url": "https://t.co/mY9SqPLj5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101143097837289957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101143069215297536"
+          },
+          {
+            "media_key": "3_2101143083677274113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下终于完全体了 https://t.co/mY9SqPLj5h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101148112899469420",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9741,
+          "following_count": 2325,
+          "like_count": 33558,
+          "listed_count": 25,
+          "media_count": 1722,
+          "tweet_count": 6121
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-16T17:30:58.000Z",
+        "description": "OC设定来自夢夢 @Yayoi_no_yume\n本体是老年肥宅胶佬 aka. 入土二次元\n不要被推文的假象欺骗了实际是超级班味儿老登\n学院路某校基础医学PhD，已退圈——目前不从事科研\n老婆@Kirashmily33\n中医黑，华为黑，厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Yayoi_no_yume"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Kirashmily33"
+              }
+            ]
+          }
+        },
+        "id": "123617511",
+        "is_identity_verified": false,
+        "location": "Sanctuary",
+        "most_recent_tweet_id": "2101143097837289957",
+        "name": "MonoFevc",
+        "pinned_tweet_id": "2004123312579059745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123617511/1754891970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061290249788272640/4JxrrbLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1203,
+          "like_count": 37714,
+          "listed_count": 8,
+          "media_count": 3933,
+          "tweet_count": 21480
+        },
+        "url": "",
+        "username": "fexisnpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
